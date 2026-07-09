@@ -35,6 +35,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data_phase2/
-          git commit -m "Phase2 爬取进度 [skip ci]" || echo "无新数据"
-          git push || echo "推送失败(重试)"
+          if [ -d data_phase2 ]; then
+            git add data_phase2/ 2>/dev/null || true
+            if git diff --cached --quiet; then
+              echo "无变更"
+            else
+              git commit -m "Phase2 爬取进度 [skip ci]" && git push || echo "提交或推送跳过"
+            fi
+          else
+            echo "data_phase2/ 目录不存在"
+          fi
