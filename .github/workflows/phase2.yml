@@ -28,7 +28,9 @@ jobs:
       - name: Run crawler
         env:
           GITHUB_TOKENS: ${{ secrets.GITHUB_TOKENS }}
-        run: python crawler_phase2.py
+        run: |
+          echo "TOKEN_COUNT=$(echo $GITHUB_TOKENS | tr ',' '\n' | wc -l)"
+          python crawler_phase2.py
 
       - name: Commit progress
         if: always()
