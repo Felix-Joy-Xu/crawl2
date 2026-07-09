@@ -1,0 +1,7 @@
+data_phase1_full/
+data_phase2/
+*.db
+*.db-*
+.env
+*.pyc
+__pycache__/
