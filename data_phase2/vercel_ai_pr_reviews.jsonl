@@ -1191,3 +1191,287 @@
 {"repo": "vercel/ai", "pr_number": 1311, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-09T18:00:23Z", "author": "MISTYKITTY"}
 {"repo": "vercel/ai", "pr_number": 1312, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-09T17:59:46Z", "author": "MaxLeiter"}
 {"repo": "vercel/ai", "pr_number": 1314, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-09T18:26:06Z", "author": "MaxLeiter"}
+{"repo": "vercel/ai", "pr_number": 1317, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-10T19:43:28Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1318, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-10T19:43:35Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1319, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-10T09:19:38Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1319, "type": "review_comment", "body": "Just `useAssistant` should do", "createdAt": "2024-04-10T09:19:38Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1320, "type": "review", "body": "Thank you!", "state": "APPROVED", "createdAt": "2024-04-10T14:55:03Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1322, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-10T16:38:34Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1323, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-10T19:43:08Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1324, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-10T19:52:52Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1325, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-10T20:16:18Z", "author": "gaspar09"}
+{"repo": "vercel/ai", "pr_number": 1326, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-11T14:03:54Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1327, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-11T14:04:37Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1328, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-11T14:04:18Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1329, "type": "review", "body": "Blocking until we publish the providers", "state": "CHANGES_REQUESTED", "createdAt": "2024-04-11T15:00:02Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1329, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-12T16:04:56Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1330, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-11T14:57:18Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1332, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-12T16:34:12Z", "author": "jaredpalmer"}
+{"repo": "vercel/ai", "pr_number": 1334, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-12T13:57:07Z", "author": "jeremyphilemon"}
+{"repo": "vercel/ai", "pr_number": 1336, "type": "review", "body": "Thank you!", "state": "APPROVED", "createdAt": "2024-04-12T14:07:14Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1337, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-12T15:54:15Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1350, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-16T12:31:17Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1353, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-15T16:08:04Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1355, "type": "review", "body": "Thank you!", "state": "APPROVED", "createdAt": "2024-04-16T07:12:18Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1357, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-16T12:15:37Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1359, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-16T12:11:51Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1361, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-16T12:12:05Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1362, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-16T14:59:54Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1363, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-16T15:47:25Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1368, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-16T18:36:17Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1375, "type": "review", "body": "Do any docs/examples need updating?\r\n\r\nThis might need a changeset.", "state": "APPROVED", "createdAt": "2024-04-17T13:48:33Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1376, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-18T19:31:08Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1379, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-18T09:21:46Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1379, "type": "review_comment", "body": "out of curiosity, why is this needed if we already know it's a Promise?", "createdAt": "2024-04-18T09:21:46Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1379, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-18T09:22:17Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1379, "type": "review_comment", "body": "a nevermind, confused the `||` with `&&` ", "createdAt": "2024-04-18T09:22:16Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1379, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-18T09:24:11Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1379, "type": "review_comment", "body": "nice!", "createdAt": "2024-04-18T09:24:11Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1379, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-18T09:25:16Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1379, "type": "review_comment", "body": "would it make sense to add some sort of error handling (like `handleError`)? i saw people asking about it", "createdAt": "2024-04-18T09:25:15Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1379, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-18T09:27:09Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1379, "type": "review_comment", "body": "Throwing the error and handling it here breaks the stream. Sometimes, the stream can be mostly good, only small parts fail (like a single tool call). An alternative could be a more granular error handling (catching/handling for each iteration inside the loop)", "createdAt": "2024-04-18T09:27:09Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1379, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-18T09:28:00Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1379, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-18T10:31:13Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1379, "type": "review_comment", "body": "Good point! Need to redesign that part a bit. Related: #1349.", "createdAt": "2024-04-18T10:31:13Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1379, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-21T15:08:07Z", "author": "MISTYKITTY"}
+{"repo": "vercel/ai", "pr_number": 1383, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-18T19:12:40Z", "author": "jaredpalmer"}
+{"repo": "vercel/ai", "pr_number": 1389, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-19T20:20:21Z", "author": "gaspar09"}
+{"repo": "vercel/ai", "pr_number": 1389, "type": "review_comment", "body": "```suggestion\r\nPass 'data' attribute on react/use-chat\r\n```", "createdAt": "2024-04-19T20:20:21Z", "author": "gaspar09"}
+{"repo": "vercel/ai", "pr_number": 1389, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-20T06:17:00Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1389, "type": "review_comment", "body": "If we want to pass this on for messages, we'd need this to change in Svelte, Solid and Vue `useChat` as well.", "createdAt": "2024-04-20T06:17:00Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1390, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-19T19:56:59Z", "author": "MaxLeiter"}
+{"repo": "vercel/ai", "pr_number": 1391, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-19T20:42:32Z", "author": "MaxLeiter"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-22T00:18:07Z", "author": "MISTYKITTY"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "Thank you for the proposal!\r\n\r\nCan you \r\n1) add test cases for the openai providers and the ai sdk functions\r\n2) add some examples to `exampels/ai-core`", "state": "COMMENTED", "createdAt": "2024-04-22T07:27:29Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "Add: `undefined` if the mode does not support logprobs or if was not enabled", "createdAt": "2024-04-22T07:15:48Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "Instead of introducing a separate stream part, please add a `logprobs` property to the `finish` part (and also change that behavior in streamText etc).", "createdAt": "2024-04-22T07:18:25Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "We use camelCase for anything that is developer facing. Please change to `topLogprobs` and map the data from OpenAI.", "createdAt": "2024-04-22T07:19:19Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "This does not change the scaling and is therefore not needed", "createdAt": "2024-04-22T07:20:07Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "Push the ternary into the map function", "createdAt": "2024-04-22T07:22:59Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "`topLogprobs`", "createdAt": "2024-04-22T07:23:30Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "Can be inferred by `!(topLogprobs === 0 || topLogprobs == null)`. We could e.g. rename `topLogprobs` to logprobs and keep the semantics of `topLogprobs`", "createdAt": "2024-04-22T07:24:05Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T08:28:00Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "Ah I see, I thought it was only to define limits. Removed.", "createdAt": "2024-04-22T08:28:00Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T08:53:58Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "Great idea. If we want to standardize the API for enabling logprobs, shall I promote this to be a general setting (like `model`, `prompt`, etc), or shall I keep it as an OpenAI specific setting for now?", "createdAt": "2024-04-22T08:53:58Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T08:58:11Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "To be clear, I believe Anthropic, Google and Mistral support logprobs.", "createdAt": "2024-04-22T08:58:11Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T09:00:29Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "I'm in general in favor of adding it to the default settings. However, I'm concerned that it is very OpenAI specific atm, so it might be better to wait (so we don't end up with some idiosyncratic). I haven't seen it in the other APIs - can you point me to examples?", "createdAt": "2024-04-22T09:00:29Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T10:50:58Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "Makes sense. I think I'm actually mistaken, it seems those other providers don't currently support logprobs.\r\n\r\n**Anthropic**: Not supported\r\n**Google**: Supported on PaLM 2 (both text and chat) but not Gemini\r\n**Mistral**: Seems they're available internally, but aren't returned via the API\r\n\r\nLet's leave it as an OpenAI specific setting for now, can be promoted another time (e.g. if AzureOpenAI is added as a discrete provider)", "createdAt": "2024-04-22T10:50:58Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T13:59:33Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "Done! I found that streaming objects only provides a `partialObjectStream`. I've quite heavily modified the `stream-object.ts` file to also provide a `fullStream` property. It works exactly the same as the `fullStream` from `streamText`, except it provides the aggregated object under the `object` type. Example:\r\n\r\n```typescript\r\nconst result = await experimental_streamObject({\r\n    model: openai.chat('gpt-3.5-turbo', { logprobs: 1 }),\r\n    maxTokens: 2000,\r\n    schema: z.object({ ... }); // type T\r\n})\r\nfor await (const part of result.fullStream) {\r\n    switch (part.type) {\r\n      case 'object':\r\n        console.clear();\r\n        console.log(part.object); // of Type T\r\n        break;\r\n      case 'finish':\r\n        console.log('logprobs', part.logprobs);\r\n        break;\r\n    }\r\n  }\r\n  ```", "createdAt": "2024-04-22T13:59:33Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T14:46:04Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "this is a great change, wanted to do something in this direction anyways!", "createdAt": "2024-04-22T14:46:03Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T14:46:31Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "why does this test need to be copied? vs just having openai-fullstream?", "createdAt": "2024-04-22T14:46:31Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T14:47:38Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "the logprobs examples could be separate, 2 are enough imo:\r\n\r\n- `openai-fullstream-logprobs` (streamText)\r\n- `openai-logprobs` (generateText)", "createdAt": "2024-04-22T14:47:38Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T14:48:44Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "since this is a larger change, it would be good to add a test case to `stream-object.test.ts`", "createdAt": "2024-04-22T14:48:44Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T14:49:31Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "an additional test for streaming would be good, since it's a separate implementation (same for the completion mode)", "createdAt": "2024-04-22T14:49:31Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T14:50:25Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "I renamed `openai-fullstream` to `openai-fullstream-with-tools` since this uses tools. I then created a new `openai-fullstream` which doesn't call tools, but does console.log the logprobs. Since logprobs and tools are incompatible, I thought it was worth separating into separate examples.", "createdAt": "2024-04-22T14:50:25Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T14:53:07Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "agree on the separation. imo logprobs is the less common use case (compared to tools), therefore i'd prefer to separate out logsprobs to a couple of logprobs examples.", "createdAt": "2024-04-22T14:53:07Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-22T14:55:08Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "Sure, will do!", "createdAt": "2024-04-22T14:55:08Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-23T10:08:17Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "is `text_offset` needed? if we don't use it, i'd prefer to not leave it out (to simplify the code, reduce zod validation time, and increase compatibility with not-quite-so-compatible 3rd party apis)", "createdAt": "2024-04-23T10:08:17Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-23T10:09:14Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "Do they always send this or does it need to be optional/nullable?", "createdAt": "2024-04-23T10:09:14Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-23T10:12:28Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "`return logprobs?.tokens.map ...` achieves the same w/o the if", "createdAt": "2024-04-23T10:12:28Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-23T10:12:49Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "same comment as below", "createdAt": "2024-04-23T10:12:49Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-23T10:15:54Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "hmm I know it was my idea, just not sure how much i like this - `logprobs: 0` intuitively means \"turned off\". Some alternative ideas: type could be `boolean | number | undefined` where `true` means `enabled, top:0`, `false` means `disabled`, 0 means `enabled, top:0` and any positive int means `enabled, top: k`", "createdAt": "2024-04-23T10:15:53Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-23T10:41:02Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "An array is always provided, but will be an empty array if `top_logprobs` is falsey.", "createdAt": "2024-04-23T10:41:02Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-23T11:37:16Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review_comment", "body": "Yeah, I had the same concern. This is a good solution. Will update the code and comments/docs, but I think the tests are fine as they are.", "createdAt": "2024-04-23T11:37:16Z", "author": "SamStenner"}
+{"repo": "vercel/ai", "pr_number": 1397, "type": "review", "body": "Thank you!", "state": "APPROVED", "createdAt": "2024-04-23T12:37:32Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1399, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-22T08:09:01Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1400, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-22T10:44:23Z", "author": "jeremyphilemon"}
+{"repo": "vercel/ai", "pr_number": 1401, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-22T10:42:20Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1402, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-22T11:55:26Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1404, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-23T07:52:53Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1407, "type": "review", "body": "A", "state": "COMMENTED", "createdAt": "2024-04-23T22:17:40Z", "author": "MISTYKITTY"}
+{"repo": "vercel/ai", "pr_number": 1407, "type": "review", "body": "Reviewed", "state": "COMMENTED", "createdAt": "2024-04-24T00:44:36Z", "author": "MISTYKITTY"}
+{"repo": "vercel/ai", "pr_number": 1413, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-23T06:54:04Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1415, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-23T08:55:33Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1417, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-23T12:20:55Z", "author": "jeremyphilemon"}
+{"repo": "vercel/ai", "pr_number": 1418, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-23T11:05:16Z", "author": "jaredpalmer"}
+{"repo": "vercel/ai", "pr_number": 1418, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-23T11:13:03Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1419, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-23T11:15:01Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1421, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-23T13:05:27Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1424, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-23T17:31:59Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1424, "type": "review", "body": "Progress", "state": "COMMENTED", "createdAt": "2024-04-24T00:48:42Z", "author": "MISTYKITTY"}
+{"repo": "vercel/ai", "pr_number": 1427, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-24T08:11:49Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1429, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-24T10:04:22Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1430, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-24T10:12:57Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1441, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-25T10:40:21Z", "author": "jeremyphilemon"}
+{"repo": "vercel/ai", "pr_number": 1442, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-25T16:26:26Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1444, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-25T13:45:26Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1446, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-25T14:37:35Z", "author": "jeremyphilemon"}
+{"repo": "vercel/ai", "pr_number": 1449, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-25T20:46:38Z", "author": "jaredpalmer"}
+{"repo": "vercel/ai", "pr_number": 1449, "type": "review", "body": "Reviewed", "state": "COMMENTED", "createdAt": "2024-04-26T00:01:45Z", "author": "MISTYKITTY"}
+{"repo": "vercel/ai", "pr_number": 1451, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-26T07:26:43Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1453, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-26T09:29:32Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1457, "type": "review", "body": "Thank you!", "state": "APPROVED", "createdAt": "2024-04-27T17:06:42Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1458, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-28T10:01:11Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1458, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-28T12:33:04Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1458, "type": "review_comment", "body": "There might be better ways to do this.", "createdAt": "2024-04-28T12:33:03Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1460, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-28T10:02:52Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1460, "type": "review_comment", "body": "since you have a lock release, a `try...finally` pattern might be worth considering", "createdAt": "2024-04-28T10:02:52Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1460, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-28T10:03:15Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1460, "type": "review_comment", "body": "move setting `lock = false` into `finally`?", "createdAt": "2024-04-28T10:03:15Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1460, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-04-28T10:03:54Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1460, "type": "review_comment", "body": "would it make sense to have special AI errors that we can link to docs in the future? might be something for later", "createdAt": "2024-04-28T10:03:53Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1460, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-28T10:04:10Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1463, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-28T11:26:37Z", "author": "jaredpalmer"}
+{"repo": "vercel/ai", "pr_number": 1470, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-04-30T16:12:18Z", "author": "MaxLeiter"}
+{"repo": "vercel/ai", "pr_number": 1476, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-03T16:16:30Z", "author": "bernaferrari"}
+{"repo": "vercel/ai", "pr_number": 1476, "type": "review_comment", "body": "Enabled when provider supports JSON mode.", "createdAt": "2024-05-03T16:16:25Z", "author": "bernaferrari"}
+{"repo": "vercel/ai", "pr_number": 1476, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-03T18:30:19Z", "author": "MISTYKITTY"}
+{"repo": "vercel/ai", "pr_number": 1476, "type": "review_comment", "body": "Thanks", "createdAt": "2024-05-03T18:29:47Z", "author": "MISTYKITTY"}
+{"repo": "vercel/ai", "pr_number": 1476, "type": "review", "body": "Reviewed", "state": "COMMENTED", "createdAt": "2024-05-04T14:44:13Z", "author": "MISTYKITTY"}
+{"repo": "vercel/ai", "pr_number": 1476, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-06T07:23:07Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1476, "type": "review_comment", "body": "@bernaferrari that's not quite what i meant to say. it's more of the lines of \"the provider will activate any special json mode setting that it has\".", "createdAt": "2024-05-06T07:23:07Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1479, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-12T00:54:15Z", "author": "MaxLeiter"}
+{"repo": "vercel/ai", "pr_number": 1482, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-02T15:26:18Z", "author": "unstubbable"}
+{"repo": "vercel/ai", "pr_number": 1482, "type": "review_comment", "body": "```suggestion\r\n * and future features. This API will be removed in a future release.\r\n```", "createdAt": "2024-05-02T15:26:18Z", "author": "unstubbable"}
+{"repo": "vercel/ai", "pr_number": 1482, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-02T15:27:01Z", "author": "jeremyphilemon"}
+{"repo": "vercel/ai", "pr_number": 1482, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-02T15:28:44Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1482, "type": "review_comment", "body": "Thanks :)", "createdAt": "2024-05-02T15:28:44Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1484, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-06T13:40:06Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1489, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-06T07:21:10Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1498, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-06T14:59:38Z", "author": "aryamankha"}
+{"repo": "vercel/ai", "pr_number": 1502, "type": "review", "body": "With these changes, we should add a line about how we support some models (Perplexity, Groq, etc.) through OpenAI API compatibility in https://sdk.vercel.ai/providers/ai-sdk-providers. ", "state": "APPROVED", "createdAt": "2024-05-06T15:12:59Z", "author": "aryamankha"}
+{"repo": "vercel/ai", "pr_number": 1507, "type": "review", "body": "Some content seems to be missing (new providers), so we'd probably need to sync once this is all in place.", "state": "APPROVED", "createdAt": "2024-05-07T07:15:50Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1514, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-13T17:02:35Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1518, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-07T17:11:18Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1524, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-08T08:36:06Z", "author": "unstubbable"}
+{"repo": "vercel/ai", "pr_number": 1524, "type": "review_comment", "body": "Could there be a situation where when the fetch is aborted, that `readDataStream` throws for some reason? If yes, might it be better to use `abortController.signal.aborted` as the early return condition to skip the error handling?", "createdAt": "2024-05-08T08:36:06Z", "author": "unstubbable"}
+{"repo": "vercel/ai", "pr_number": 1524, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-08T10:08:19Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1524, "type": "review_comment", "body": "Good catch. Thanks", "createdAt": "2024-05-08T10:08:19Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1524, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-08T10:16:42Z", "author": "unstubbable"}
+{"repo": "vercel/ai", "pr_number": 1524, "type": "review_comment", "body": "Hm, I meant it differently. This is now the same behaviour as before, I think. As in, if this is an abort error, the signal will also be aborted, so the second part of the condition is superfluous. Instead, I thought it might make sense to do the following, in order to _also_ ignore non-abort errors (e.g. from `readDataStream`) after the fetch was aborted.\r\n\r\n```suggestion\r\n      if (abortController.signal.aborted) {\r\n```", "createdAt": "2024-05-08T10:16:41Z", "author": "unstubbable"}
+{"repo": "vercel/ai", "pr_number": 1524, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-08T10:26:50Z", "author": "unstubbable"}
+{"repo": "vercel/ai", "pr_number": 1524, "type": "review_comment", "body": "Speaking of which, should this maybe be also passed in as an option?\r\n\r\n```js\r\nreadDataStream(result.body.getReader(), { isAborted: () => abortController.signal.aborted }))\r\n```", "createdAt": "2024-05-08T10:26:49Z", "author": "unstubbable"}
+{"repo": "vercel/ai", "pr_number": 1524, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-08T13:12:55Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1524, "type": "review_comment", "body": "1) it's slightly different. `isAbortError(error)` also recognizes TimeoutErrors, which can come from `AbortSignal.timeout()`. However, they could also be regular timeouts, which is why the `abortController.signal.aborted` check is important.\r\n2) I'd prefer not to swallow any errors, in particular not proactively. Swallowed errors have burned me far too often. If certain errors happen (they should not), then it's important to investigate and understand first.", "createdAt": "2024-05-08T13:12:55Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1524, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-08T13:14:38Z", "author": "unstubbable"}
+{"repo": "vercel/ai", "pr_number": 1524, "type": "review_comment", "body": "That makes sense to me. 👍 ", "createdAt": "2024-05-08T13:14:38Z", "author": "unstubbable"}
+{"repo": "vercel/ai", "pr_number": 1530, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-08T16:21:45Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1534, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-08T17:00:47Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1535, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-09T07:12:54Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1536, "type": "review", "body": "Makes sense. I think you'll have to edit the index file as well, otherwise the types won't be accessible.", "state": "CHANGES_REQUESTED", "createdAt": "2024-05-10T07:48:30Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1536, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-14T11:04:46Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1536, "type": "review_comment", "body": "@shuding would renaming to `TextRenderer` make sense before exporting this?", "createdAt": "2024-05-14T11:04:40Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1539, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-09T12:23:57Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1540, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-09T12:27:33Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1540, "type": "review_comment", "body": "I would remove just", "createdAt": "2024-05-09T12:27:33Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1540, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-09T12:27:37Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1547, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-10T07:17:05Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1549, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-10T09:05:15Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1550, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-10T09:38:07Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1551, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-10T12:29:24Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1553, "type": "review", "body": "❤️ ", "state": "COMMENTED", "createdAt": "2024-05-10T14:16:28Z", "author": "mcavaliere"}
+{"repo": "vercel/ai", "pr_number": 1553, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-10T14:32:06Z", "author": "aryamankha"}
+{"repo": "vercel/ai", "pr_number": 1556, "type": "review", "body": "****", "state": "COMMENTED", "createdAt": "2024-05-10T18:34:46Z", "author": "MISTYKITTY"}
+{"repo": "vercel/ai", "pr_number": 1556, "type": "review", "body": "Thanks! found one small mistake", "state": "CHANGES_REQUESTED", "createdAt": "2024-05-10T18:47:32Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1556, "type": "review_comment", "body": "It's `/api/assistant` (line 19)", "createdAt": "2024-05-10T18:47:17Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1556, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-10T19:54:52Z", "author": "draganaleksich"}
+{"repo": "vercel/ai", "pr_number": 1556, "type": "review_comment", "body": "Done!", "createdAt": "2024-05-10T19:54:52Z", "author": "draganaleksich"}
+{"repo": "vercel/ai", "pr_number": 1556, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-11T06:53:09Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1567, "type": "review", "body": "Thank you!", "state": "APPROVED", "createdAt": "2024-05-13T15:04:21Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1569, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-13T16:19:44Z", "author": "jeremyphilemon"}
+{"repo": "vercel/ai", "pr_number": 1569, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-25T17:31:18Z", "author": "elitan"}
+{"repo": "vercel/ai", "pr_number": 1569, "type": "review_comment", "body": "the `new URL()` part was hard to find to get images to work.", "createdAt": "2024-05-25T17:31:18Z", "author": "elitan"}
+{"repo": "vercel/ai", "pr_number": 1569, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-25T17:32:12Z", "author": "elitan"}
+{"repo": "vercel/ai", "pr_number": 1569, "type": "review_comment", "body": "was easier to find using github search than [here](https://sdk.vercel.ai/docs/ai-sdk-core/prompts#example-image-urls) 😅 ", "createdAt": "2024-05-25T17:32:12Z", "author": "elitan"}
+{"repo": "vercel/ai", "pr_number": 1569, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-25T17:50:16Z", "author": "bernaferrari"}
+{"repo": "vercel/ai", "pr_number": 1569, "type": "review_comment", "body": "These changes that are different from openai standard that everywhere is used don't make me happy", "createdAt": "2024-05-25T17:50:16Z", "author": "bernaferrari"}
+{"repo": "vercel/ai", "pr_number": 1570, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-13T16:05:16Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1572, "type": "review", "body": "you are fast !!!", "state": "COMMENTED", "createdAt": "2024-05-13T18:19:43Z", "author": "CarlosZiegler"}
+{"repo": "vercel/ai", "pr_number": 1572, "type": "review", "body": "Short and sweet. Confirmed to already be updated on the official site: https://platform.openai.com/docs/models/overview\r\n\r\n![image](https://github.com/vercel/ai/assets/25455658/72d512bb-4e4f-4a67-b346-9ca6ffc57fa9)\r\n", "state": "COMMENTED", "createdAt": "2024-05-13T18:47:07Z", "author": "athrael-soju"}
+{"repo": "vercel/ai", "pr_number": 1572, "type": "review", "body": "Thank you!", "state": "APPROVED", "createdAt": "2024-05-14T11:23:45Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1580, "type": "review", "body": "Thank you!", "state": "APPROVED", "createdAt": "2024-05-14T13:26:20Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1584, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-14T16:58:49Z", "author": "gaspar09"}
+{"repo": "vercel/ai", "pr_number": 1585, "type": "review", "body": "thanks!", "state": "APPROVED", "createdAt": "2024-05-14T17:40:32Z", "author": "MaxLeiter"}
+{"repo": "vercel/ai", "pr_number": 1586, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-15T09:56:01Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1587, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-15T15:25:46Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1588, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-15T15:49:40Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1589, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-15T15:17:52Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1593, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-15T11:15:40Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1595, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-15T14:09:14Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1597, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-15T14:21:01Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1597, "type": "review_comment", "body": "Would it make sense to have it say `render (deprecated)` (also in the h1 below) to make it really obvious?", "createdAt": "2024-05-15T14:20:56Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1597, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-15T14:34:13Z", "author": "jeremyphilemon"}
+{"repo": "vercel/ai", "pr_number": 1597, "type": "review_comment", "body": "I agree, done!", "createdAt": "2024-05-15T14:34:12Z", "author": "jeremyphilemon"}
+{"repo": "vercel/ai", "pr_number": 1598, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-15T14:55:40Z", "author": "jeremyphilemon"}
+{"repo": "vercel/ai", "pr_number": 1600, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-15T15:06:42Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1609, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-16T07:55:26Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1613, "type": "review", "body": "This implementation looks great, thanks!", "state": "APPROVED", "createdAt": "2024-05-16T16:21:45Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1615, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-17T08:32:43Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1618, "type": "review", "body": "Thank you!", "state": "APPROVED", "createdAt": "2024-05-16T13:22:52Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1625, "type": "review", "body": "Reviewed error update", "state": "COMMENTED", "createdAt": "2024-05-17T06:58:48Z", "author": "MISTYKITTY"}
+{"repo": "vercel/ai", "pr_number": 1626, "type": "review", "body": "Review ", "state": "COMMENTED", "createdAt": "2024-05-17T07:04:44Z", "author": "MISTYKITTY"}
+{"repo": "vercel/ai", "pr_number": 1630, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-17T11:17:34Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1630, "type": "review", "body": "Reviewed", "state": "COMMENTED", "createdAt": "2024-05-17T11:36:36Z", "author": "MISTYKITTY"}
+{"repo": "vercel/ai", "pr_number": 1634, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-17T14:04:14Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1635, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-17T14:05:56Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1646, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-22T07:59:01Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1646, "type": "review_comment", "body": "Why was `use server` removed here?", "createdAt": "2024-05-22T07:59:00Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1646, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-22T12:15:55Z", "author": "MrMaina100"}
+{"repo": "vercel/ai", "pr_number": 1646, "type": "review_comment", "body": "since we had  ```use server``` at the top of the file there was no need for it ..or am i wrong ", "createdAt": "2024-05-22T12:15:55Z", "author": "MrMaina100"}
+{"repo": "vercel/ai", "pr_number": 1646, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-06-03T08:03:59Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1646, "type": "review_comment", "body": "ah yes", "createdAt": "2024-06-03T08:03:59Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1648, "type": "review", "body": "Thank you!", "state": "APPROVED", "createdAt": "2024-05-22T06:56:33Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1652, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-22T07:13:52Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-22T13:49:51Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1667, "type": "review_comment", "body": "is this syntax available in pages router? Thought this was only available in app", "createdAt": "2024-05-22T13:49:51Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1667, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-22T13:52:03Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1668, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-22T15:28:36Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1669, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-28T07:34:48Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1669, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-28T08:41:08Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1669, "type": "review_comment", "body": "This is React specific and can be reverted (no omit `api` and resetting it)", "createdAt": "2024-05-28T08:41:08Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1669, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-28T09:37:36Z", "author": "Rajaniraiyn"}
+{"repo": "vercel/ai", "pr_number": 1669, "type": "review_comment", "body": "reverted in https://github.com/vercel/ai/pull/1669/commits/e150d8a3d3c70ad99d070cd7aed76b765885f1c4", "createdAt": "2024-05-28T09:37:36Z", "author": "Rajaniraiyn"}
+{"repo": "vercel/ai", "pr_number": 1669, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-29T07:09:31Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1669, "type": "review_comment", "body": "soon to be deprecated", "createdAt": "2024-05-29T07:09:31Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1669, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-29T07:10:24Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1669, "type": "review_comment", "body": "Soon to be depreated", "createdAt": "2024-05-29T07:10:23Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1669, "type": "review", "body": "Can you split this up into 2 individual PRs?\r\n\r\n- one for the experimental_addToolResult + example\r\n- one for handleInputChange\r\n\r\nI'd prefer not to bring the old function_call/tool_call things in here, they will soon be deprecated.", "state": "COMMENTED", "createdAt": "2024-05-29T07:12:13Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1670, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-29T07:05:23Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1670, "type": "review_comment", "body": "This will be deprecated very soon (as will onFunctionCall). It's an old implementation that's not compatible with AI SDK 3.1 - I'm working on a replacement.\r\n\r\nI'd prefer if we wouldn't add this here.", "createdAt": "2024-05-29T07:05:23Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1670, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-29T07:05:52Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1670, "type": "review_comment", "body": "React specific and deprecated (StreamingReactResponse will be removed)", "createdAt": "2024-05-29T07:05:52Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1670, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-29T07:06:03Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1670, "type": "review_comment", "body": "The original is better", "createdAt": "2024-05-29T07:06:03Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1670, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-29T07:06:30Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1670, "type": "review_comment", "body": "I'd prefer not to add the old tool call things", "createdAt": "2024-05-29T07:06:30Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1670, "type": "review", "body": "This seems to primarily bring the old, soon to be deprecated functions to Solid. I'd prefer not to add other than the example", "state": "CHANGES_REQUESTED", "createdAt": "2024-05-29T07:07:35Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1670, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-29T07:31:40Z", "author": "Rajaniraiyn"}
+{"repo": "vercel/ai", "pr_number": 1670, "type": "review_comment", "body": "This code is designed to make the useChat hook reactive so that any changes in the API state are automatically reflected in the `useChat` hook. In SolidJS, state primitives (signals) are functions that need to be called to retrieve the latest value of the API state. In contrast, React allows you to directly read the API state to get its latest value. This fundamental difference necessitated my changes.\r\n\r\n```js\r\nconst [api, setApi] = createSignal();\r\nconst chat = useChat({ api }); // Here, api is a function, hence it will be reactive.\r\n```", "createdAt": "2024-05-29T07:31:40Z", "author": "Rajaniraiyn"}
+{"repo": "vercel/ai", "pr_number": 1670, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-29T07:39:06Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1670, "type": "review_comment", "body": "thanks, that makes sense!", "createdAt": "2024-05-29T07:39:06Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1672, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-23T15:32:20Z", "author": "nicoalbanese"}
+{"repo": "vercel/ai", "pr_number": 1681, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-24T08:57:41Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1681, "type": "review_comment", "body": "`lastMessage` can't be undefined here, right?", "createdAt": "2024-05-24T08:57:40Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1681, "type": "review", "body": "Looks good!", "state": "APPROVED", "createdAt": "2024-05-24T08:57:48Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1681, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-24T08:58:50Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1681, "type": "review_comment", "body": "it should, bc it comes after a message has been received, but worth adding a check", "createdAt": "2024-05-24T08:58:50Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1690, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-25T21:40:08Z", "author": "danielroe"}
+{"repo": "vercel/ai", "pr_number": 1690, "type": "review_comment", "body": "Should we have NUXT_ prefix in these logs?", "createdAt": "2024-05-25T21:39:30Z", "author": "danielroe"}
+{"repo": "vercel/ai", "pr_number": 1690, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-05-25T21:43:24Z", "author": "dosstx"}
+{"repo": "vercel/ai", "pr_number": 1690, "type": "review_comment", "body": "Yes", "createdAt": "2024-05-25T21:43:24Z", "author": "dosstx"}
+{"repo": "vercel/ai", "pr_number": 1695, "type": "review", "body": "Thank you!", "state": "APPROVED", "createdAt": "2024-05-26T15:30:29Z", "author": "lgrammel"}
+{"repo": "vercel/ai", "pr_number": 1696, "type": "review", "body": "Thank you!", "state": "APPROVED", "createdAt": "2024-05-26T20:28:09Z", "author": "MaxLeiter"}
+{"repo": "vercel/ai", "pr_number": 1697, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-27T12:13:10Z", "author": "shuding"}
+{"repo": "vercel/ai", "pr_number": 1698, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-05-27T10:35:11Z", "author": "jeremyphilemon"}
+{"repo": "vercel/ai", "pr_number": 1700, "type": "review", "body": "Reviewed ", "state": "COMMENTED", "createdAt": "2024-05-27T12:07:59Z", "author": "MISTYKITTY"}
