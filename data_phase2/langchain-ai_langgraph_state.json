@@ -6712,12 +6712,13 @@
     8234,
     8240
   ],
-  "pr_idx": 5050,
-  "issue_idx": 0,
+  "pr_idx": 5296,
+  "issue_idx": 1412,
   "disc_idx": 0,
   "failed_pr": [
     855
   ],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }

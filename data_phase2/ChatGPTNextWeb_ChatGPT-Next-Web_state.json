@@ -6664,9 +6664,10 @@
     6802
   ],
   "pr_idx": 2695,
-  "issue_idx": 3310,
-  "disc_idx": 0,
+  "issue_idx": 3606,
+  "disc_idx": 356,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
