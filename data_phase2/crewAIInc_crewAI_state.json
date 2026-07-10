@@ -6071,9 +6071,10 @@
     6399
   ],
   "pr_idx": 4016,
-  "issue_idx": 1590,
+  "issue_idx": 2050,
   "disc_idx": 0,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
