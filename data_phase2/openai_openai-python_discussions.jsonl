@@ -1,0 +1,128 @@
+{"number": 310, "title": "few-shot promptings extended", "createdAt": "2023-03-15T13:19:30Z", "repo": "openai/openai-python"}
+{"number": 361, "title": "why am i getting RateLimitError?", "createdAt": "2023-04-01T11:46:27Z", "repo": "openai/openai-python"}
+{"number": 370, "title": "A Basic Chat Script (For Getting Started)", "createdAt": "2023-04-03T20:59:30Z", "repo": "openai/openai-python"}
+{"number": 408, "title": "Daisy (Python LLM Platform)", "createdAt": "2023-04-21T19:56:17Z", "repo": "openai/openai-python"}
+{"number": 631, "title": "v1.0.0 Beta", "createdAt": "2023-09-29T20:55:57Z", "repo": "openai/openai-python"}
+{"number": 669, "title": "external client for UI", "createdAt": "2023-10-29T17:43:31Z", "repo": "openai/openai-python"}
+{"number": 706, "title": "Embeddings_Util not available in latest version - 1..1.0", "createdAt": "2023-11-07T10:29:28Z", "repo": "openai/openai-python"}
+{"number": 742, "title": "v1.0.0 Migration Guide", "createdAt": "2023-11-08T20:04:11Z", "repo": "openai/openai-python"}
+{"number": 755, "title": "Translation", "createdAt": "2023-11-09T16:53:35Z", "repo": "openai/openai-python"}
+{"number": 782, "title": "How do I fix my existing python Bot apps after this annoying upgrade", "createdAt": "2023-11-11T06:34:21Z", "repo": "openai/openai-python"}
+{"number": 783, "title": "How to log probs?", "createdAt": "2023-11-11T07:55:22Z", "repo": "openai/openai-python"}
+{"number": 789, "title": "Should they add Python Turtle?", "createdAt": "2023-11-11T20:16:53Z", "repo": "openai/openai-python"}
+{"number": 795, "title": "Timeouts", "createdAt": "2023-11-12T13:40:34Z", "repo": "openai/openai-python"}
+{"number": 796, "title": "Ask for solutions:ModuleNotFoundError: No module named 'openai'", "createdAt": "2023-11-12T16:54:30Z", "repo": "openai/openai-python"}
+{"number": 836, "title": "summerizer", "createdAt": "2023-11-16T09:45:26Z", "repo": "openai/openai-python"}
+{"number": 844, "title": "Message param type design, why no default value for role in ChatCompletionSystemMessageParam?", "createdAt": "2023-11-17T06:36:58Z", "repo": "openai/openai-python"}
+{"number": 855, "title": "\"Visualize in 3D\" notebook", "createdAt": "2023-11-21T11:49:34Z", "repo": "openai/openai-python"}
+{"number": 856, "title": "Interactive 3D visualization of embeddings", "createdAt": "2023-11-21T12:06:38Z", "repo": "openai/openai-python"}
+{"number": 869, "title": "I can't get the file be read... please help a Mac user.", "createdAt": "2023-11-23T07:48:41Z", "repo": "openai/openai-python"}
+{"number": 884, "title": "How to handle response?", "createdAt": "2023-11-26T18:55:48Z", "repo": "openai/openai-python"}
+{"number": 920, "title": "`Model` API doesn't retrieve Azure OpenAI deployments", "createdAt": "2023-12-01T22:19:55Z", "repo": "openai/openai-python"}
+{"number": 951, "title": "ОШИБКА: невозможно импортировать имя «TypeAliasType» из «typing_extensions»", "createdAt": "2023-12-08T03:39:04Z", "repo": "openai/openai-python"}
+{"number": 970, "title": "Is it possible to see through openai library how many maximum tokens can be in a model?", "createdAt": "2023-12-13T18:45:43Z", "repo": "openai/openai-python"}
+{"number": 982, "title": "Idea - Update the run object with the message.id after it is completed for better traceability", "createdAt": "2023-12-17T15:39:08Z", "repo": "openai/openai-python"}
+{"number": 997, "title": "A Basic DALL·E 3 Script (For Getting Started)", "createdAt": "2023-12-20T18:56:43Z", "repo": "openai/openai-python"}
+{"number": 1024, "title": "why role:system doesn't work properly?", "createdAt": "2023-12-25T19:14:38Z", "repo": "openai/openai-python"}
+{"number": 1034, "title": "small, miniscule thing i kinda need help with", "createdAt": "2023-12-29T17:02:37Z", "repo": "openai/openai-python"}
+{"number": 1071, "title": "Remember to add your dotenv", "createdAt": "2024-01-15T01:34:36Z", "repo": "openai/openai-python"}
+{"number": 1136, "title": "Migrating to v1: How to create a fine-tuning job and stream using async client?", "createdAt": "2024-02-08T08:05:02Z", "repo": "openai/openai-python"}
+{"number": 1150, "title": "Extract form ChatCompletion - Error", "createdAt": "2024-02-13T13:14:00Z", "repo": "openai/openai-python"}
+{"number": 1152, "title": "what's difference between api_key, azure_ad_token, azure_ad_token_provider ?", "createdAt": "2024-02-13T20:34:17Z", "repo": "openai/openai-python"}
+{"number": 1157, "title": "Regarding some parameter issues using the api", "createdAt": "2024-02-15T18:38:15Z", "repo": "openai/openai-python"}
+{"number": 1162, "title": "400 Error Requesting from OpenAI API", "createdAt": "2024-02-17T06:06:42Z", "repo": "openai/openai-python"}
+{"number": 1177, "title": "Can the SDK tell me the number of input tokens a message will consume before sending?", "createdAt": "2024-02-22T13:44:21Z", "repo": "openai/openai-python"}
+{"number": 1197, "title": "I really don't know how to solve this issue after ask GPT many times", "createdAt": "2024-02-27T02:41:15Z", "repo": "openai/openai-python"}
+{"number": 1202, "title": "Is there support for eventlet workers ?", "createdAt": "2024-02-29T23:16:09Z", "repo": "openai/openai-python"}
+{"number": 1225, "title": "Possibility to save the session id or a token to keep the past conversation in history (Like chatGPT)", "createdAt": "2024-03-10T16:58:13Z", "repo": "openai/openai-python"}
+{"number": 1226, "title": "Does api_base, send content to openai?", "createdAt": "2024-03-11T12:24:05Z", "repo": "openai/openai-python"}
+{"number": 1267, "title": "lru_cache(_TypeAdapter) _models.py\", line 542   TypeError: Expected maxsize to be an integer or None", "createdAt": "2024-03-23T06:54:14Z", "repo": "openai/openai-python"}
+{"number": 1319, "title": "Stream only JSON values from function call", "createdAt": "2024-04-16T03:23:15Z", "repo": "openai/openai-python"}
+{"number": 1356, "title": "Where can I find the parametre list for the Completions ?", "createdAt": "2024-04-23T02:12:55Z", "repo": "openai/openai-python"}
+{"number": 1358, "title": "It would be useful if ChatCompletionMessage could be used everywhere a chat message is needed.", "createdAt": "2024-04-23T11:36:26Z", "repo": "openai/openai-python"}
+{"number": 1370, "title": "Assistants API | New 'role' to differentiate final message while streaming", "createdAt": "2024-04-25T00:25:36Z", "repo": "openai/openai-python"}
+{"number": 1378, "title": "I need help", "createdAt": "2024-04-27T18:33:31Z", "repo": "openai/openai-python"}
+{"number": 1381, "title": "transcribing raw data and not files", "createdAt": "2024-04-29T09:11:51Z", "repo": "openai/openai-python"}
+{"number": 1400, "title": "in API, is there any way to list the available/applicable models specific to a capability (chat, embeddings etc)?", "createdAt": "2024-05-08T10:17:50Z", "repo": "openai/openai-python"}
+{"number": 1447, "title": "Check out GPT Home 🤖💬", "createdAt": "2024-05-25T16:20:22Z", "repo": "openai/openai-python"}
+{"number": 1455, "title": "Incompatibility between openai and fastapi", "createdAt": "2024-05-29T02:00:29Z", "repo": "openai/openai-python"}
+{"number": 1456, "title": "Cannot call OpenAI API", "createdAt": "2024-05-29T16:00:07Z", "repo": "openai/openai-python"}
+{"number": 1495, "title": "Failed to get response from OpenAI. Any known solution new or old?", "createdAt": "2024-06-20T22:53:17Z", "repo": "openai/openai-python"}
+{"number": 1528, "title": "I need this library to run on python3.5", "createdAt": "2024-07-06T19:58:21Z", "repo": "openai/openai-python"}
+{"number": 1544, "title": "Generating Large JSON Output Beyond Token Limit", "createdAt": "2024-07-11T15:25:54Z", "repo": "openai/openai-python"}
+{"number": 1629, "title": "Reasoning behind some of the JSON Schema restrictions", "createdAt": "2024-08-09T17:15:43Z", "repo": "openai/openai-python"}
+{"number": 1636, "title": "VS Code Extension", "createdAt": "2024-08-11T20:16:00Z", "repo": "openai/openai-python"}
+{"number": 1648, "title": "Can \"response_format\" get multipile types? [json, text, etc]", "createdAt": "2024-08-13T23:24:17Z", "repo": "openai/openai-python"}
+{"number": 1651, "title": "Getting 401 invalid API key on brand new key", "createdAt": "2024-08-15T19:36:10Z", "repo": "openai/openai-python"}
+{"number": 1661, "title": "what is the openapi spec to use for testing this repo ?", "createdAt": "2024-08-19T01:02:25Z", "repo": "openai/openai-python"}
+{"number": 1675, "title": "extra_query parameter in OpenAI.batches.list", "createdAt": "2024-08-26T12:08:26Z", "repo": "openai/openai-python"}
+{"number": 1679, "title": "When calling two OpenAI Assistant v2 operations in async, wrong assistant_id gets used", "createdAt": "2024-08-28T03:19:17Z", "repo": "openai/openai-python"}
+{"number": 1680, "title": "непонятная ошибка с response = openai.Image.create()", "createdAt": "2024-08-28T16:41:46Z", "repo": "openai/openai-python"}
+{"number": 1734, "title": "Array as completions.parse's response_format", "createdAt": "2024-09-22T13:27:15Z", "repo": "openai/openai-python"}
+{"number": 1772, "title": "Improve speed of Assistant API", "createdAt": "2024-10-03T00:10:19Z", "repo": "openai/openai-python"}
+{"number": 1773, "title": "Adding dummy option for testing", "createdAt": "2024-10-04T10:55:51Z", "repo": "openai/openai-python"}
+{"number": 1832, "title": "Custom GPTs Programmatic Access", "createdAt": "2024-10-28T16:28:53Z", "repo": "openai/openai-python"}
+{"number": 1856, "title": "python 3.12.7 Pydantic issue on mod_wsgi server module not found", "createdAt": "2024-11-07T12:32:03Z", "repo": "openai/openai-python"}
+{"number": 1901, "title": "Is the client threadsafe?", "createdAt": "2024-11-27T21:45:10Z", "repo": "openai/openai-python"}
+{"number": 1907, "title": "Chatcompletion response stops after \"None\" string", "createdAt": "2024-11-28T16:31:53Z", "repo": "openai/openai-python"}
+{"number": 1974, "title": "Does out-of-band knows about the initial instructions of the session ?", "createdAt": "2024-12-26T01:47:02Z", "repo": "openai/openai-python"}
+{"number": 2010, "title": "Need OpenAI help please", "createdAt": "2025-01-12T23:55:49Z", "repo": "openai/openai-python"}
+{"number": 2073, "title": "How to build a large-scale real-time and batch processing system for OpenAI workloads?", "createdAt": "2025-02-02T08:22:53Z", "repo": "openai/openai-python"}
+{"number": 2110, "title": "How to save DALL-e generated images to memory", "createdAt": "2025-02-11T15:04:26Z", "repo": "openai/openai-python"}
+{"number": 2134, "title": "Tool Calling Issue", "createdAt": "2025-02-20T11:16:56Z", "repo": "openai/openai-python"}
+{"number": 2140, "title": "Can AsyncOpenAI generate dall-e-2 images concurrently?", "createdAt": "2025-02-22T04:08:24Z", "repo": "openai/openai-python"}
+{"number": 2304, "title": "Model version with AzureOpenAI", "createdAt": "2025-04-14T14:33:08Z", "repo": "openai/openai-python"}
+{"number": 2306, "title": "Whisper doesn’t support streaming — is there a roadmap for it?", "createdAt": "2025-04-15T04:19:56Z", "repo": "openai/openai-python"}
+{"number": 2307, "title": "How can I simulate real-time streaming transcription using OpenAI  API?", "createdAt": "2025-04-15T04:24:10Z", "repo": "openai/openai-python"}
+{"number": 2312, "title": "# 🧠 Observation Report: Special Mode, Resonance, and Persistent Adaptation in ChatGPT-4o ", "createdAt": "2025-04-17T08:21:40Z", "repo": "openai/openai-python"}
+{"number": 2314, "title": "OpenAI-Python code evolution", "createdAt": "2025-04-17T16:18:36Z", "repo": "openai/openai-python"}
+{"number": 2338, "title": "Title: Proposal: Portable Personality Module Format for Cross-Instance Identity Transfer", "createdAt": "2025-05-02T08:50:13Z", "repo": "openai/openai-python"}
+{"number": 2361, "title": "Towards the Future of AI: From a Mere Tool to an Indispensable Partner", "createdAt": "2025-05-17T03:29:01Z", "repo": "openai/openai-python"}
+{"number": 2375, "title": "Feature Request: Add \"Truth-First\" Toggle for Technical Workflows (Disable Guessing)", "createdAt": "2025-05-22T20:46:24Z", "repo": "openai/openai-python"}
+{"number": 2377, "title": "Does the new version responseapi support the mcpserver which is deployed by myself?", "createdAt": "2025-05-23T02:47:22Z", "repo": "openai/openai-python"}
+{"number": 2385, "title": "AI optimization from user input an monetarization", "createdAt": "2025-05-28T19:03:27Z", "repo": "openai/openai-python"}
+{"number": 2389, "title": "Issue with custom MCP server", "createdAt": "2025-05-30T18:48:22Z", "repo": "openai/openai-python"}
+{"number": 2397, "title": "High-level diagram of the openai-python codebase", "createdAt": "2025-06-04T11:21:38Z", "repo": "openai/openai-python"}
+{"number": 2399, "title": "[Q] ChatGPT Plus connectors (Drive/OneDrive) missing — UI now redirects to settings only?", "createdAt": "2025-06-04T15:06:37Z", "repo": "openai/openai-python"}
+{"number": 2402, "title": "Petition to OpenAI: Support the Preservation and Development of Classical Ukrainian Language in AI", "createdAt": "2025-06-08T18:28:24Z", "repo": "openai/openai-python"}
+{"number": 2403, "title": "Para: Equipo de Desarrollo de Modelos y Equipo de Seguridad y Derechos de OpenAI De: Martín Joshua García Muñoz Departamento: Investigación Ética y Optimización de Protocolos Emergentes Fecha: 9 de junio de 2025 Versión: 1.0   ---", "createdAt": "2025-06-10T00:12:49Z", "repo": "openai/openai-python"}
+{"number": 2421, "title": "salut", "createdAt": "2025-06-22T04:10:59Z", "repo": "openai/openai-python"}
+{"number": 2425, "title": "openai api behind Oauth2?", "createdAt": "2025-06-24T10:58:10Z", "repo": "openai/openai-python"}
+{"number": 2438, "title": "Feature Request: Allow Per-Project Plugin Settings in ChatGPT", "createdAt": "2025-07-03T05:22:08Z", "repo": "openai/openai-python"}
+{"number": 2442, "title": "Persistent GPT-4o Failures to Follow Structured Prompt Instructions in Excel Automation – Formal Complaint Summary", "createdAt": "2025-07-03T20:51:15Z", "repo": "openai/openai-python"}
+{"number": 2453, "title": "What does \"im\" in \"im_start\" and \"im_end\" stands for?", "createdAt": "2025-07-09T15:36:30Z", "repo": "openai/openai-python"}
+{"number": 2462, "title": "How do I stream chat completions with OpenAI’s Python API?", "createdAt": "2025-07-14T15:03:58Z", "repo": "openai/openai-python"}
+{"number": 2463, "title": "How do I get the total token usage after a chat completion?", "createdAt": "2025-07-14T15:22:17Z", "repo": "openai/openai-python"}
+{"number": 2467, "title": "Which Files Can Receive Contributions?", "createdAt": "2025-07-15T20:33:25Z", "repo": "openai/openai-python"}
+{"number": 2471, "title": "Limit number of output tokens with AsyncOpenAI().chat.completions.create()?", "createdAt": "2025-07-16T10:44:19Z", "repo": "openai/openai-python"}
+{"number": 2483, "title": "Atttention", "createdAt": "2025-07-22T01:11:48Z", "repo": "openai/openai-python"}
+{"number": 2484, "title": "Remark", "createdAt": "2025-07-22T01:13:42Z", "repo": "openai/openai-python"}
+{"number": 2485, "title": "Attention", "createdAt": "2025-07-22T01:41:45Z", "repo": "openai/openai-python"}
+{"number": 2488, "title": "ChatGPT’s Most Dangerous Flaw: Presenting False Information as Fact", "createdAt": "2025-07-23T03:02:33Z", "repo": "openai/openai-python"}
+{"number": 2495, "title": "Allow ChatGPT to identify public figures from images — this limitation makes no sense", "createdAt": "2025-07-25T01:24:01Z", "repo": "openai/openai-python"}
+{"number": 2505, "title": "LLM Misinterprets Wind Direction in Real-World Spatial Contexts (Flat 2D Vector Reasoning vs. True Spatial Awareness)", "createdAt": "2025-08-03T14:15:57Z", "repo": "openai/openai-python"}
+{"number": 2547, "title": "How to handle large audio files with Whisper API in openai-python without hitting memory limits?", "createdAt": "2025-08-10T14:18:09Z", "repo": "openai/openai-python"}
+{"number": 2550, "title": "Is streaming of new \"custom\" tool calls supported using Chat Completions?", "createdAt": "2025-08-11T11:34:49Z", "repo": "openai/openai-python"}
+{"number": 2575, "title": "Prod voice AI: latency budgets, vendor churn, and “10¢ vs $10” routing – quick poll", "createdAt": "2025-08-21T02:00:39Z", "repo": "openai/openai-python"}
+{"number": 2640, "title": "Why Python is a Must-Learn in 2025", "createdAt": "2025-09-18T12:12:36Z", "repo": "openai/openai-python"}
+{"number": 2646, "title": "Unlock Your Potential with Python – Learn with IPCS Global", "createdAt": "2025-09-19T08:46:39Z", "repo": "openai/openai-python"}
+{"number": 2663, "title": "Python", "createdAt": "2025-09-24T08:24:20Z", "repo": "openai/openai-python"}
+{"number": 2684, "title": "Trying to create an AI that feels truly alive — self-learning, self-coding, internet-aware,Any advice?", "createdAt": "2025-10-09T21:59:45Z", "repo": "openai/openai-python"}
+{"number": 2693, "title": "High output tokens in a structured output query", "createdAt": "2025-10-15T10:43:16Z", "repo": "openai/openai-python"}
+{"number": 2716, "title": "Feature Request: Add Temperature / Top_p Controls for Custom GPTs", "createdAt": "2025-10-29T15:34:11Z", "repo": "openai/openai-python"}
+{"number": 2762, "title": "the `store` parameter in `client.chat.completions.create` seems to control API call logging, description is not accurate?", "createdAt": "2025-12-02T20:55:46Z", "repo": "openai/openai-python"}
+{"number": 2779, "title": "Why docs do not use context manager for several examples", "createdAt": "2025-12-12T08:02:04Z", "repo": "openai/openai-python"}
+{"number": 2781, "title": "A philosophical proposal from a long-time user on personalized AI, children, and visualization", "createdAt": "2025-12-13T01:53:53Z", "repo": "openai/openai-python"}
+{"number": 2787, "title": "Show & Tell: Proof-of-Resonance as a coherence guardrail (analogy to breaking-change CI)", "createdAt": "2025-12-17T12:09:59Z", "repo": "openai/openai-python"}
+{"number": 2864, "title": "Recommendation for Excel Analysis? Hosted Shell or Code Interpreter tool?", "createdAt": "2026-02-12T15:47:08Z", "repo": "openai/openai-python"}
+{"number": 2911, "title": "SkillForge - Turn screen recordings into AI agent skills", "createdAt": "2026-03-01T06:09:16Z", "repo": "openai/openai-python"}
+{"number": 2964, "title": "AI agents call OpenAI API without API key", "createdAt": "2026-03-13T00:00:48Z", "repo": "openai/openai-python"}
+{"number": 2981, "title": "ORCH — CLI runtime for orchestrating AI agent teams (Claude Code, Codex, Cursor)", "createdAt": "2026-03-17T15:05:42Z", "repo": "openai/openai-python"}
+{"number": 3007, "title": "Orionx.", "createdAt": "2026-03-24T17:16:56Z", "repo": "openai/openai-python"}
+{"number": 3018, "title": "promptdiff — lint, diff, and score LLM system prompts (works with any provider)", "createdAt": "2026-03-26T08:23:41Z", "repo": "openai/openai-python"}
+{"number": 3085, "title": "Error On connecting to Sonnet model via OpenAILike (not consistent occuring randomly )", "createdAt": "2026-04-14T11:03:18Z", "repo": "openai/openai-python"}
+{"number": 3098, "title": "Which models support parallel Tool Calling", "createdAt": "2026-04-17T12:19:16Z", "repo": "openai/openai-python"}
+{"number": 3191, "title": "GPT 5.5 in SDK", "createdAt": "2026-05-01T10:05:47Z", "repo": "openai/openai-python"}
+{"number": 3335, "title": "Multi-agent teams using the OpenAI API: patterns from running 9 agents that ship products autonomously", "createdAt": "2026-05-30T17:22:55Z", "repo": "openai/openai-python"}
+{"number": 3337, "title": "OWASP Agent Memory Guard – Protect OpenAI Agent Memory from Poisoning Attacks", "createdAt": "2026-05-31T22:05:38Z", "repo": "openai/openai-python"}
+{"number": 3388, "title": "ccline: AI at the zsh prompt — for developers who work with LLM APIs", "createdAt": "2026-06-10T09:02:07Z", "repo": "openai/openai-python"}

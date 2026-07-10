@@ -1,0 +1,1079 @@
+{"number": 3, "title": "Add instructions for installing from source to README", "createdAt": "2023-05-18T15:45:59Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4, "title": "aider/prompts.py: reduce token size of prompts", "createdAt": "2023-05-19T16:42:06Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 9, "title": "Update README.md", "createdAt": "2023-05-31T14:46:47Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 12, "title": "Handle openai exceptions", "createdAt": "2023-06-03T13:25:22Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 18, "title": "Added:  --openai-api-base OPENAI_API_BASE", "createdAt": "2023-06-10T17:52:46Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 46, "title": "Fix typo in add-test.md", "createdAt": "2023-07-04T16:19:33Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 49, "title": "Add program argument for syntax highlighting theme.", "createdAt": "2023-07-04T22:44:36Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 55, "title": "Local llama support", "createdAt": "2023-07-05T18:41:47Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 58, "title": "Use an explicit encoding to read/write text files, utf-8 by default", "createdAt": "2023-07-06T04:23:53Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 59, "title": "Updated the /add and /drop commands to glob files", "createdAt": "2023-07-06T04:44:04Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 65, "title": "Adding comments to main.py file", "createdAt": "2023-07-06T22:35:11Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 70, "title": "Implement API mode in Aider tool", "createdAt": "2023-07-07T22:53:43Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 80, "title": "The /add command should recurse into named subdirs per issue #57", "createdAt": "2023-07-10T20:28:38Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 81, "title": "Prioritize how to allocate code blocks to filenames in wholefile", "createdAt": "2023-07-11T01:19:44Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 83, "title": "fix #82: correctly handle filenames reported by `git.ls_files()` when they contain unicode escapes", "createdAt": "2023-07-11T08:46:16Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 85, "title": "Tell git not to quote filenames in ls-files, to handle unicode filenames", "createdAt": "2023-07-11T15:23:08Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 86, "title": "Merge branch 'main' of https://github.com/paul-gauthier/aider", "createdAt": "2023-07-11T18:57:18Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 88, "title": "Added args to configure openai module to access Azure", "createdAt": "2023-07-11T22:27:49Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 97, "title": "Issue 95", "createdAt": "2023-07-13T23:33:29Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 113, "title": "Try to prevent users from accidentally adding .aider* files to the git repo", "createdAt": "2023-07-16T21:08:37Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 115, "title": "Handled Issue #114", "createdAt": "2023-07-17T03:08:44Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 119, "title": "create Dockerfile and scripts for managing it", "createdAt": "2023-07-18T03:46:34Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 131, "title": "More complete docs for prompt commands", "createdAt": "2023-07-19T22:41:28Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 132, "title": "Create iknowledge33", "createdAt": "2023-07-19T23:43:47Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 137, "title": "Refactor git repo code into a new file", "createdAt": "2023-07-21T19:00:59Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 141, "title": "/add and /drop problems when cwd != git_root #139 #95", "createdAt": "2023-07-23T11:35:56Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 144, "title": "Automatically summarize earlier parts of the chat history", "createdAt": "2023-07-24T21:56:55Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 146, "title": "Dev", "createdAt": "2023-07-25T09:11:23Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 148, "title": "Support for rift agent.", "createdAt": "2023-07-25T15:24:04Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 156, "title": "add absolute path support for /add, /drop and tests", "createdAt": "2023-07-28T03:40:22Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 163, "title": "Main", "createdAt": "2023-07-30T19:27:21Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 164, "title": "DMTarmey/issue161", "createdAt": "2023-07-30T22:25:15Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 169, "title": "Add litellm - Add support for gpt 3.5, gpt-4, azure, anthropic, cohere, replicate ", "createdAt": "2023-08-02T03:47:50Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 173, "title": "New Feature: Automated Repository Structure Documentation", "createdAt": "2023-08-03T11:27:33Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 177, "title": "Update base_coder.py", "createdAt": "2023-08-03T20:39:10Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 187, "title": "disabling GIT_EDITOR when calling /git", "createdAt": "2023-08-08T11:02:16Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 188, "title": "Fix /add to work in subdirectories", "createdAt": "2023-08-09T11:43:18Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 193, "title": "[Feature request] Dump to file every single request / response that goes to Open AI", "createdAt": "2023-08-12T21:17:09Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 196, "title": "Don't try to add ignored files to git.", "createdAt": "2023-08-13T23:01:00Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 199, "title": "Openrouter compatibility", "createdAt": "2023-08-14T16:42:13Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 207, "title": "Only commit dirty files if GPT tries to edit them #200", "createdAt": "2023-08-18T17:17:40Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 228, "title": "Check for a gitignore global and edit it instead", "createdAt": "2023-08-29T17:47:57Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 234, "title": "Add --skip-model-availability-check option", "createdAt": "2023-08-31T15:11:50Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 241, "title": "small fix for better error handling if the summarizer ever fails", "createdAt": "2023-09-06T03:08:16Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 244, "title": "only show token costs if usage exists", "createdAt": "2023-09-07T23:59:43Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 250, "title": "Fix benchmark model creation to work with v14", "createdAt": "2023-09-09T00:08:35Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 251, "title": "add budget manager for openai, openrouter, anthropic, cohere, ai21, replicate, etc.", "createdAt": "2023-09-13T22:43:42Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 253, "title": "Fix Arabic Encoding Issue", "createdAt": "2023-09-16T09:16:36Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 254, "title": "Added instructions for running the project locally. ", "createdAt": "2023-09-16T19:49:18Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 270, "title": "feat: modify file completions to check characters in order", "createdAt": "2023-10-01T17:11:44Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 271, "title": "feat: enable pylint workflow.  suppress all errors (for now)", "createdAt": "2023-10-01T17:37:01Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 272, "title": "fix: /run (cd ..; ls) should work", "createdAt": "2023-10-01T17:52:38Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 278, "title": "(Docs) Add support for Anthropic, Huggingface TGI, Palm, Cohere, Replicate, etc.", "createdAt": "2023-10-12T00:24:33Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 285, "title": "fix #281", "createdAt": "2023-10-17T17:08:17Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 287, "title": "Use tree-sitter to build the repository map", "createdAt": "2023-10-19T22:29:10Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 298, "title": "Add license classifier to setup.py", "createdAt": "2023-10-30T11:15:03Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 310, "title": "Do not autocommit after add if autocommit is disabled", "createdAt": "2023-11-01T11:15:49Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 311, "title": "Set `--openai-api-key` to your openrouter key surrounded by single qu…", "createdAt": "2023-11-01T14:27:49Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 313, "title": "repomap.get_tags_raw doesn't crash on UTF-16 files", "createdAt": "2023-11-02T01:53:39Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 322, "title": "RFC - Allow adding a github issue to chat context", "createdAt": "2023-11-05T10:38:44Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 323, "title": "Hack in the minimal amount of changes needed to get aider working with \"gpt-4-1106-preview\"", "createdAt": "2023-11-07T02:33:13Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 333, "title": "Update benchmarks.md", "createdAt": "2023-11-08T15:07:52Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 346, "title": "Reduce \"Malformed Responses\" by a minor change in the prompt", "createdAt": "2023-11-13T17:13:45Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 348, "title": "Add Line numbers", "createdAt": "2023-11-14T17:53:24Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 371, "title": "Use expected exercism-python destination", "createdAt": "2023-11-25T20:12:32Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 377, "title": "Fixes #374 - logging add_to_input_history if args.message is used.", "createdAt": "2023-11-28T00:40:46Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 378, "title": "Fixes #374 - logging add_to_input_history if args.message is used. (and unit test)", "createdAt": "2023-11-28T00:59:36Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 379, "title": "add support for gpt-4-vision", "createdAt": "2023-11-29T09:52:59Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 380, "title": "Add `--message-file` flag and unit test", "createdAt": "2023-11-30T10:55:42Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 389, "title": "Migrate to OpenAI API v1", "createdAt": "2023-12-02T02:10:04Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 391, "title": "Openai upgrade", "createdAt": "2023-12-05T20:48:00Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 394, "title": "Remove azure_deployment argument from main", "createdAt": "2023-12-07T16:19:49Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 396, "title": "feature: added new argument --commit-template-file", "createdAt": "2023-12-08T03:29:39Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 399, "title": "Allow editing previous messages", "createdAt": "2023-12-11T10:35:54Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 401, "title": "ADDED: /models and /model Commands to List and Switch Models During Live Chat Session", "createdAt": "2023-12-13T13:45:54Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 403, "title": "Unified diffs editing format", "createdAt": "2023-12-17T20:56:02Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 405, "title": "[WORKING DRAFT] Add support for Mixtral 8x7b ", "createdAt": "2023-12-18T10:27:24Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 413, "title": "Use encoding supplied to --encoding by default while running commands", "createdAt": "2023-12-24T01:05:20Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 417, "title": "skip docker github action if credentials not present", "createdAt": "2023-12-27T22:14:03Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 420, "title": "Fix issue with path normalization that was causing files to be marked dirty on Windows when they were not", "createdAt": "2023-12-29T18:07:37Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 431, "title": "Bump all dependencies, to pick up py-tree-sitter-languages 1.9.1 with python 3.12 support", "createdAt": "2024-01-04T16:27:20Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 433, "title": "faq.md/CLI += `--yes` and `--no`", "createdAt": "2024-01-05T10:48:44Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 442, "title": "Small typo", "createdAt": "2024-01-11T19:22:58Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 448, "title": "Fix #440: /add on files with spaces does not work", "createdAt": "2024-01-18T16:25:42Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 453, "title": "fix https://github.com/paul-gauthier/aider/issues/452", "createdAt": "2024-01-23T02:52:13Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 459, "title": "Dev", "createdAt": "2024-01-27T15:47:26Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 468, "title": "List and switch models during chat session", "createdAt": "2024-02-08T02:01:28Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 470, "title": "Added /web command to scrape web pages and add them to the chat", "createdAt": "2024-02-08T22:23:41Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 472, "title": "Fixes: https://github.com/paul-gauthier/aider/issues/471", "createdAt": "2024-02-09T01:11:16Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 477, "title": "Typescript repo map fix", "createdAt": "2024-02-13T21:33:40Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 488, "title": "SparsePrimingRepresentation as default Conventions.md", "createdAt": "2024-02-25T20:10:55Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 489, "title": "Correct Documentation Link in FAQ.md", "createdAt": "2024-02-27T15:07:52Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 494, "title": "Allow definition of custom prompts in yaml file", "createdAt": "2024-03-03T23:11:45Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 498, "title": "Add fzf file selection via pyfzf", "createdAt": "2024-03-08T15:33:25Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 504, "title": "Fix: https://github.com/paul-gauthier/aider/issues/502", "createdAt": "2024-03-11T15:26:54Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 511, "title": "fix: removed redundant while block", "createdAt": "2024-03-19T10:08:09Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 524, "title": "Create CODE_OF_CONDUCT.md", "createdAt": "2024-03-30T05:29:39Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 525, "title": "Create CONTRIBUTING.md", "createdAt": "2024-03-30T05:30:58Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 526, "title": "Create SECURITY.md", "createdAt": "2024-03-30T05:33:19Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 532, "title": "Add .gitignore to ignore .egg-info files", "createdAt": "2024-04-04T17:39:33Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 540, "title": "feat: add `/rg` command (ripgrep for `/add` files)", "createdAt": "2024-04-09T02:34:51Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 545, "title": "Fix: use f-string", "createdAt": "2024-04-11T08:58:57Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 549, "title": "feat: add LiteLLM support", "createdAt": "2024-04-11T22:19:21Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 551, "title": "Update HISTORY", "createdAt": "2024-04-12T15:25:44Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 560, "title": "Checks for openai_api_key on scrubbing", "createdAt": "2024-04-15T18:36:02Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 564, "title": "Use litellm to allow use of models from various providers", "createdAt": "2024-04-17T22:57:29Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 575, "title": "git ignore venvs", "createdAt": "2024-04-24T10:06:40Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 577, "title": "Adding a simple browser based GUI", "createdAt": "2024-04-28T21:15:45Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 581, "title": "New /model command to switch models, /models to search them", "createdAt": "2024-04-30T23:33:59Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 587, "title": "Fix the problem of undoing the error of adding new files", "createdAt": "2024-05-03T11:49:56Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 591, "title": "Restore prior chat history on launch", "createdAt": "2024-05-06T02:09:34Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 600, "title": "Fix typo in 2024-03-08-claude-3.md", "createdAt": "2024-05-10T18:40:27Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 608, "title": "Nix flake with `aider` package and development environment", "createdAt": "2024-05-22T13:54:51Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 609, "title": "add FreeBSD installation using ports", "createdAt": "2024-05-22T17:26:53Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 614, "title": "Fix issue with aider --commit", "createdAt": "2024-05-24T11:02:18Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 623, "title": "Ignore MacOS and VSCode detritus.", "createdAt": "2024-05-30T00:34:31Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 629, "title": "minor: remove unnecessary return", "createdAt": "2024-05-30T18:06:35Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 631, "title": "logs interactions with the LLM in response to user interactions", "createdAt": "2024-05-31T14:55:29Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 632, "title": "types", "createdAt": "2024-05-31T18:15:58Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 633, "title": "All AIDER_* environment vars may now be placed within .env", "createdAt": "2024-05-31T20:21:05Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 638, "title": "Added commands for emitting template configuration files", "createdAt": "2024-06-03T19:45:08Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 639, "title": "Add mypy and fix exsisting typing issues", "createdAt": "2024-06-03T19:53:35Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 647, "title": "docs: update HISTORY.md", "createdAt": "2024-06-06T03:31:44Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 653, "title": "Update help text for specifying the API key to mention Anthropic instead of OpenAI", "createdAt": "2024-06-09T10:41:18Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 661, "title": "Fixed typo in repomap.md - missing verb in 'More Info' section", "createdAt": "2024-06-10T08:29:46Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 665, "title": "Add quantized models in leaderboard: codeqwen, codestral, qwen2", "createdAt": "2024-06-11T15:17:25Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 666, "title": "Allow models to be registered with litellm", "createdAt": "2024-06-11T18:11:37Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 667, "title": "Add support to load/override model settings", "createdAt": "2024-06-11T22:19:06Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 668, "title": "doc: Removed template typo in README", "createdAt": "2024-06-11T22:35:22Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 671, "title": "fix: variable for the enable playwright URL had a typo", "createdAt": "2024-06-12T06:35:08Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 673, "title": "Support custom shortcut key commands", "createdAt": "2024-06-12T17:03:17Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 677, "title": "Improve SEARCH/REPLACE accuracy", "createdAt": "2024-06-13T18:14:16Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 678, "title": "Set max_tokens for openai api", "createdAt": "2024-06-14T08:21:18Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 685, "title": "Improve SEARCH/REPLACE accuracy (fixed)", "createdAt": "2024-06-15T18:37:18Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 690, "title": "can now run github workflows manually", "createdAt": "2024-06-18T16:27:18Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 703, "title": "Add support for vertex_ai/claude_* models", "createdAt": "2024-06-21T16:31:17Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 704, "title": "Add support Vertex AI Claude models", "createdAt": "2024-06-21T16:43:16Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 734, "title": "Fix typo in usage.md", "createdAt": "2024-06-26T02:42:31Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 745, "title": "Added xml wrapper tags around a few key prompt items", "createdAt": "2024-06-28T18:45:05Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 746, "title": "Fix tiny typo", "createdAt": "2024-06-29T02:37:09Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 759, "title": "Reordered the output of files in chat and repo to improve readability.", "createdAt": "2024-07-01T12:50:42Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 761, "title": "feat: add image support for Claude 3.5", "createdAt": "2024-07-01T13:26:55Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 766, "title": "Remove universal ctags install from workflows", "createdAt": "2024-07-01T21:21:30Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 771, "title": "Add /addimgclipboard", "createdAt": "2024-07-02T13:11:59Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 777, "title": "feat: Add files to the chat asynchronously (GUI)", "createdAt": "2024-07-02T18:59:22Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 785, "title": "adding base", "createdAt": "2024-07-03T10:22:44Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 787, "title": "fix broken dotenv link in docs/config/aider_conf.html", "createdAt": "2024-07-03T17:00:16Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 797, "title": "Get interactive help with /help <question>", "createdAt": "2024-07-05T13:15:19Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 828, "title": "Migrating to Rye to simplify config files, package management and speedup everything", "createdAt": "2024-07-09T20:39:00Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 837, "title": "fix typo `auder` to `aider`", "createdAt": "2024-07-11T08:09:41Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 839, "title": "Use standard config paths instead of home root", "createdAt": "2024-07-11T09:40:19Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 848, "title": "Add Gemma2-27b-q8 benchmark result to leaderboard", "createdAt": "2024-07-12T17:14:09Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 854, "title": "multiple whitespace replacer", "createdAt": "2024-07-14T06:48:14Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 855, "title": "Use .yml extension for default config in docs", "createdAt": "2024-07-14T07:20:14Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 878, "title": "Improve Error Handling and Return Values in Main Module", "createdAt": "2024-07-17T18:38:10Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 887, "title": "Update README.md", "createdAt": "2024-07-19T03:51:57Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 904, "title": "Custom Sys prompts for Coder objects", "createdAt": "2024-07-20T22:41:35Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 910, "title": "Add devcontainer support for easier development setup", "createdAt": "2024-07-21T11:02:47Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 921, "title": "Don't pin requirements for published package", "createdAt": "2024-07-23T07:56:13Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 922, "title": "Fix syntax errors in `aider/queries/tree-sitter-elm-tags.scm`", "createdAt": "2024-07-23T16:48:54Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 951, "title": "Remove superfluous “be” in commit prompt", "createdAt": "2024-07-28T11:09:09Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 953, "title": "Make the repo-map robust to unicode errors", "createdAt": "2024-07-28T11:43:21Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 956, "title": "Use \"python\" in windows install instructions", "createdAt": "2024-07-29T10:55:36Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 978, "title": "Update docker.md (added one para on docker run .... --user $(id -u):$…", "createdAt": "2024-07-31T20:55:38Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 992, "title": "Disable 8k token for vertex_ai/claude-3-5-sonnet", "createdAt": "2024-08-02T19:06:19Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 996, "title": "Split all console commands to derived class Terminal (from InputOutput)", "createdAt": "2024-08-03T16:33:33Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1003, "title": "Fix typos discovered by codespell", "createdAt": "2024-08-05T07:06:14Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1004, "title": "extended CONTRIBUTING.md", "createdAt": "2024-08-05T07:07:27Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1015, "title": "Add config to run the Aider commands with confirmation(Y/N) prior to send message to LLM", "createdAt": "2024-08-06T09:11:30Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1019, "title": "(Draft) Create a stdin/stdout command driven command line", "createdAt": "2024-08-06T18:49:14Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1026, "title": "Proposed mechanism for \"prompt variants\". Added an \"Aiden\" prompt variant.", "createdAt": "2024-08-07T17:48:07Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1038, "title": "Fix startup issue in Mac homebrew", "createdAt": "2024-08-08T16:50:21Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1049, "title": "docs: Add instructions on using Claude via Vertex AI", "createdAt": "2024-08-10T00:43:05Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1056, "title": "feat: Add read-only files to the output of the 'ls' command", "createdAt": "2024-08-10T21:13:05Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1059, "title": "Refactor: Switch to absolute imports for consistency", "createdAt": "2024-08-11T16:03:04Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1061, "title": "/read includes files recursively when given a directory", "createdAt": "2024-08-12T03:18:52Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1069, "title": "migrate to pyproject.toml", "createdAt": "2024-08-13T03:28:00Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1081, "title": "Fix typo in config.md", "createdAt": "2024-08-14T09:22:39Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1093, "title": "Prompt undo and redo command for --no-auto-commit mode", "createdAt": "2024-08-15T11:12:05Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 1101, "title": "Use extra_headers also for summary and commit message prompts", "createdAt": "2024-08-16T05:41:51Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1116, "title": "Add color to `/git` commands ", "createdAt": "2024-08-18T04:06:16Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1117, "title": "fix: add gemini models", "createdAt": "2024-08-18T04:33:59Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1118, "title": "docs: Add PULL_REQUEST_TEMPLATE.md", "createdAt": "2024-08-18T05:04:09Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1119, "title": "fix: Add Makefile for format", "createdAt": "2024-08-18T05:52:02Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1120, "title": ".", "createdAt": "2024-08-18T14:35:08Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1122, "title": "Sample/Don't Merge !", "createdAt": "2024-08-19T11:58:52Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1137, "title": "Fix typos in edit-errors.md", "createdAt": "2024-08-20T21:09:09Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1145, "title": "Correct description of map-refresh command.", "createdAt": "2024-08-21T13:18:04Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1176, "title": "/read-only by glob pattern", "createdAt": "2024-08-25T17:43:11Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1196, "title": "Use fake home directory to prevent `~/.aider.conf.yml` from affecting the test suite", "createdAt": "2024-08-27T21:15:54Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1197, "title": "Update", "createdAt": "2024-08-27T22:30:47Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1200, "title": "docs: add benchmark results for new gemini experimental models", "createdAt": "2024-08-28T07:58:20Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1216, "title": "Clean up types and drop an unused variable", "createdAt": "2024-08-29T16:39:26Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1217, "title": "Gradual typing", "createdAt": "2024-08-29T18:16:13Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 1218, "title": "Update tips.md with hint for creating new files", "createdAt": "2024-08-29T18:17:44Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1220, "title": "Update tips.md spelling", "createdAt": "2024-08-29T18:32:20Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1239, "title": "fix: Handle new file creation in the same folder", "createdAt": "2024-08-30T14:00:34Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1318, "title": "fix: handle file paths outside project directory in RepoMap", "createdAt": "2024-09-03T14:37:38Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1349, "title": "docs: add benchmark results for yi-coder 9b", "createdAt": "2024-09-04T17:37:46Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1374, "title": "Enhance Git Repository Creation: Auto-include Non-hidden Files", "createdAt": "2024-09-05T10:47:22Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1383, "title": "Add --list-models alias for --models", "createdAt": "2024-09-05T16:31:26Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1384, "title": "doc: update options / yaml page", "createdAt": "2024-09-05T17:59:09Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1388, "title": "docs: clean up yi-coder model names", "createdAt": "2024-09-05T22:07:17Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1392, "title": "Improve code quality in main.py", "createdAt": "2024-09-06T06:21:17Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1393, "title": "HCL support for repo-map", "createdAt": "2024-09-06T08:12:57Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1397, "title": "Enable prompt caching for OpenRouter", "createdAt": "2024-09-06T12:29:52Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1402, "title": "Modify output from Assistant and Commands to go through InputOutput", "createdAt": "2024-09-06T22:41:06Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1409, "title": "Update CONTRIBUTING.md", "createdAt": "2024-09-07T14:12:01Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1415, "title": "fix: handle git errors when getting tracked files", "createdAt": "2024-09-07T21:29:59Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1417, "title": "feat: Add error handling for ImportError", "createdAt": "2024-09-07T22:42:20Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1423, "title": "fix: handle OSError when executing lint command", "createdAt": "2024-09-08T11:24:14Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1424, "title": "Update gitgnore", "createdAt": "2024-09-08T12:17:05Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1425, "title": "chore: update .gitignore to exclude venv and tmp.benchmarks", "createdAt": "2024-09-08T12:20:45Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1439, "title": "Add callback feature", "createdAt": "2024-09-08T21:16:45Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1463, "title": "fix: remove redundant output message", "createdAt": "2024-09-10T07:23:57Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1464, "title": "AI-Enhanced Unit Testing for Help Functionality", "createdAt": "2024-09-10T07:27:57Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 1468, "title": "Add support for passing BOS/EOS tokens to LiteLLM", "createdAt": "2024-09-10T12:31:05Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1492, "title": "Add New Cohere Models", "createdAt": "2024-09-11T15:11:03Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1499, "title": "feat: add warning for 'quit' input to use '/quit' instead", "createdAt": "2024-09-12T01:35:54Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1504, "title": "Add Deepseek V2.5 via Hyperbolic", "createdAt": "2024-09-12T12:59:58Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1512, "title": "feat: adding support for diff mode using openai o1-preview and o1-mini", "createdAt": "2024-09-12T22:11:56Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1537, "title": "fix: remove deepseek/ prefix from model names", "createdAt": "2024-09-14T23:39:55Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1543, "title": "fix: add keybinding to insert space on Ctrl+Space", "createdAt": "2024-09-15T13:28:31Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1544, "title": "set up watchdog to notify AutoCompleter when files are changed externally", "createdAt": "2024-09-15T15:29:13Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 1559, "title": "Mini fix", "createdAt": "2024-09-16T03:39:58Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1565, "title": "feat: customizable timeout duration", "createdAt": "2024-09-16T10:25:42Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1586, "title": "Fix broken link", "createdAt": "2024-09-18T13:54:12Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1589, "title": "feat: show different cursor with --vim flag when in insert/command/replace mode", "createdAt": "2024-09-19T01:50:11Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1590, "title": "feat: add `extra_body`field and use in model settings.", "createdAt": "2024-09-19T08:00:22Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1595, "title": "feat: rename /clipboard to /paste", "createdAt": "2024-09-19T14:48:09Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1607, "title": "During repo_map, treat read-only files as other_files, not chat_files", "createdAt": "2024-09-20T10:54:39Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1610, "title": "Add Qwen2.5-coder:7b-instruct-q8_0 benchmark result to leaderboard", "createdAt": "2024-09-20T16:41:37Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1616, "title": "change aider main system prompt", "createdAt": "2024-09-21T02:07:29Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1620, "title": "New feature: /save and /load saves and restores the edited-files list", "createdAt": "2024-09-21T12:20:58Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1630, "title": "feat: Add --tool-completion-color for styling command completion", "createdAt": "2024-09-22T02:39:45Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1634, "title": "style: completion menu colors customizable", "createdAt": "2024-09-22T06:43:17Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1639, "title": "Add benchmark results for Codestral-22B (whole)", "createdAt": "2024-09-22T12:27:46Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1640, "title": "feat: Option to compress audio files by ~90%", "createdAt": "2024-09-22T12:31:37Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1660, "title": "fix: add missing variable initialization", "createdAt": "2024-09-23T06:02:58Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1667, "title": "fix: gracefully handle dotenv permission errors", "createdAt": "2024-09-23T08:28:16Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1688, "title": "fix: improve automatic upgrade flow for aider", "createdAt": "2024-09-23T23:54:58Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1709, "title": "chore: fix Dockerhub authentication tokens in CI workflow", "createdAt": "2024-09-24T20:09:13Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1710, "title": "fix: handle LiteLLM completion errors", "createdAt": "2024-09-24T20:17:27Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1711, "title": "feat: add whitespace change for testing", "createdAt": "2024-09-24T20:24:48Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1717, "title": "🚀 feat(args): add support for o1-preview model in argument parser", "createdAt": "2024-09-25T08:35:50Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1718, "title": "🚀 feat(args): add shortcut for o1 and o1-mini models; 📚 docs(usage): u…", "createdAt": "2024-09-25T10:03:14Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1742, "title": "fix(InputOutput): apply tool warning color", "createdAt": "2024-09-26T06:51:54Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1743, "title": "feat: rename /read-only to /read", "createdAt": "2024-09-26T07:02:44Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1746, "title": "chore: add ollama/qwen2.5-coder:7b-instruct-q6_K test results", "createdAt": "2024-09-26T10:11:09Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1747, "title": "Added support for cerebras", "createdAt": "2024-09-26T10:35:16Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1757, "title": "feat: include non-repo files for completing /read", "createdAt": "2024-09-26T15:29:11Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1760, "title": "fix: handle corrupt help file cache", "createdAt": "2024-09-26T16:03:06Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1762, "title": "doc: Add tips for including git history in Aider chat context", "createdAt": "2024-09-26T17:00:32Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1768, "title": "Proposed changes to the senior / junior editing modes", "createdAt": "2024-09-26T21:34:14Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1776, "title": "chore: some further junior -> editor renames", "createdAt": "2024-09-27T06:59:59Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1780, "title": "feat: show how much of the raw repo map fits in the token budget", "createdAt": "2024-09-27T10:49:32Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 1790, "title": "feat: add cmd_copy command to copy last assistant reply to clipboard", "createdAt": "2024-09-27T21:03:22Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1792, "title": "feat: include non-repo files for completing /read (take 2, exclude .files)", "createdAt": "2024-09-27T22:07:19Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1796, "title": "doc: small fixes", "createdAt": "2024-09-28T06:36:26Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1798, "title": "chore: update sample configuration files with default color changes", "createdAt": "2024-09-28T10:45:02Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1806, "title": "Update requirements.txt so that datasets and aider-chat can be installed together", "createdAt": "2024-09-28T19:14:03Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1807, "title": "Benchmark: ollama/codestral", "createdAt": "2024-09-28T21:09:37Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1811, "title": "feature: Show voice-format when voice first initialised", "createdAt": "2024-09-29T04:13:44Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1812, "title": "Disable adding unstaged files when aider --commit is called from CLI", "createdAt": "2024-09-29T05:11:54Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 1813, "title": "doc: update FAQ with short library entry", "createdAt": "2024-09-29T06:34:37Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1817, "title": "Define edit block dividers as constants to simplify experimentation", "createdAt": "2024-09-29T12:30:38Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 1823, "title": "doc: hotfix for Full results table", "createdAt": "2024-09-29T16:16:50Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1826, "title": "Fix typo in diff prompt", "createdAt": "2024-09-29T19:09:44Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1840, "title": "NixOs support", "createdAt": "2024-09-30T15:47:28Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1847, "title": "Add full YAML support for config file", "createdAt": "2024-09-30T22:21:02Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1852, "title": "fix: enhance commit prompt to ensure one-line with Haiku", "createdAt": "2024-10-01T03:36:04Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1853, "title": "fix: only append keyboard interrupt message if there is content", "createdAt": "2024-10-01T05:16:52Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1860, "title": "Add Chat History Storage and Datasette Integration. closes #1859", "createdAt": "2024-10-01T09:39:15Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 1876, "title": "Benchmark/ollama models", "createdAt": "2024-10-01T21:11:28Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1897, "title": "Gemini 1.5 PRO latest + CEDARScript-G edit format", "createdAt": "2024-10-03T03:37:17Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1907, "title": "fix: Ensure consistent language in coder prompt descriptions", "createdAt": "2024-10-03T20:43:06Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1908, "title": "filename autocompleter: \"cnf\" matches CreateNewFile.java and create-new-file.py", "createdAt": "2024-10-03T20:51:47Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1924, "title": "Some more open source models", "createdAt": "2024-10-04T22:35:44Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1927, "title": "docs: update instructions for AWS Bedrock pipx installation to include boto3 inject step", "createdAt": "2024-10-05T03:07:16Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1934, "title": "fix: add OpenRouter Sonnet-3.5 beta/self-moderated model", "createdAt": "2024-10-05T14:09:18Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1961, "title": "Enable CEDARScript edit format", "createdAt": "2024-10-07T20:19:13Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 1966, "title": "doc: clarify soft limit for chat history tokens", "createdAt": "2024-10-07T22:49:50Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1967, "title": "doc: fix wrong encapsulation", "createdAt": "2024-10-07T23:23:44Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1973, "title": "docs: clarify cost as estimate in cost report", "createdAt": "2024-10-08T15:16:22Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1982, "title": "add format_files_for_input and compute_minimal_fileids to beautify the shown session context", "createdAt": "2024-10-09T03:35:55Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1987, "title": "fix: correct weak model names for Sonnet-3.5 on OpenRouter", "createdAt": "2024-10-09T11:03:48Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1988, "title": "changed prompt: replace all to replace first", "createdAt": "2024-10-09T11:06:33Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 1990, "title": "doc: fix leftover /clipboard mention", "createdAt": "2024-10-09T12:04:55Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 1998, "title": "AIDER-1977: Add a new argument litellm-extra-params", "createdAt": "2024-10-09T20:43:56Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2002, "title": "cleanup: remove unreachable return statements", "createdAt": "2024-10-10T04:47:11Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2005, "title": "feat: Add new model settings for azure/o1-preview", "createdAt": "2024-10-10T09:57:50Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2006, "title": "feat: add workflow to check for generating website files", "createdAt": "2024-10-10T10:25:43Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2021, "title": "Update architect.yml with sonnet as architect and o1-mini as editor", "createdAt": "2024-10-10T21:06:15Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2065, "title": "fix broken link to individual contributor agreement doc", "createdAt": "2024-10-16T04:10:51Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2067, "title": "Aider companion support", "createdAt": "2024-10-16T07:09:36Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2082, "title": "fix: Add import error handling in Help.__init__ method", "createdAt": "2024-10-18T15:02:17Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2084, "title": "Add repo-mapping support for Julia language", "createdAt": "2024-10-18T20:22:02Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2099, "title": "Create benchmark_diff_analysis.py", "createdAt": "2024-10-21T16:29:13Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2100, "title": "enhancement #1936, prompt the user before exiting. Assure the user after exiting ", "createdAt": "2024-10-21T20:29:02Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2115, "title": "gemini-1.5-flash-002 refactoring (whole)", "createdAt": "2024-10-22T16:19:30Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2117, "title": "Update models.py", "createdAt": "2024-10-22T17:12:11Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2126, "title": "fix: Impossible to /read-only from another working directory", "createdAt": "2024-10-23T08:42:31Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2155, "title": "Code Optimization and Type Safety Improvements", "createdAt": "2024-10-25T12:46:16Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2161, "title": "Fix uncaught ValueError in <frozen ntpath> line 783", "createdAt": "2024-10-26T13:21:26Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2162, "title": "Fix uncaught AttributeError in pathlib.py line 953", "createdAt": "2024-10-26T13:27:23Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2164, "title": "bug fix and test improvements", "createdAt": "2024-10-26T20:53:55Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2174, "title": "linediff number-prefixed diff format", "createdAt": "2024-10-28T09:54:32Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2177, "title": "Add alternate io class", "createdAt": "2024-10-28T18:34:14Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2180, "title": "Configure o1 model settings to date-stamped versions", "createdAt": "2024-10-29T00:33:19Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2183, "title": "Update faq.md", "createdAt": "2024-10-29T04:32:27Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2230, "title": "docs: commands.md - enhance /chat-mode description", "createdAt": "2024-11-03T19:55:57Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2234, "title": "add /editor command", "createdAt": "2024-11-04T01:24:14Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2236, "title": "Add dart support", "createdAt": "2024-11-04T03:41:44Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2242, "title": "AIDER-1977: Add a new argument litellm-extra-headers", "createdAt": "2024-11-04T12:49:26Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2266, "title": "Remove `analytics-disable` option from sample.aider.conf.yml", "createdAt": "2024-11-05T20:30:39Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2277, "title": "Add Sonnet & Haiku ModelSettings for Bedrock", "createdAt": "2024-11-06T16:39:20Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2284, "title": "Added Qwen2.5-7b-coder with the updated weights", "createdAt": "2024-11-07T12:27:32Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2334, "title": "Add Evaluation Results of Qwen2.5-Coder Series.", "createdAt": "2024-11-11T16:01:19Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2335, "title": "Add diff format evaluation results of Qwen2.5-Coder-32B-Instruct.", "createdAt": "2024-11-11T17:31:16Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2351, "title": "Introduce FolderCoder and provide first implementation", "createdAt": "2024-11-13T00:10:03Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2369, "title": "fix: typo pytest filename", "createdAt": "2024-11-14T15:30:23Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2379, "title": "this enabled /read-only /path/to/sources.jar!/org/subdir/Component.java to be used.", "createdAt": "2024-11-15T18:20:39Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2381, "title": "Added io.py write_text exponential backoff to gracefully handle transient file locks", "createdAt": "2024-11-15T23:05:31Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2414, "title": "add documentation for /editor configuration", "createdAt": "2024-11-21T14:49:29Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2416, "title": "allow editor to be set via config file", "createdAt": "2024-11-21T17:08:37Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2417, "title": "fix: Correct typo in base_coder by removing duplicate 'in'", "createdAt": "2024-11-21T17:23:54Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2419, "title": "Add /lock command for converting editable files to read-only", "createdAt": "2024-11-21T19:20:57Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2432, "title": "mlx Qwen2.5-Coder-32B-Instruct-4bit added to quant blog", "createdAt": "2024-11-22T22:30:20Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2440, "title": "MLX 4bit and 8bit diff added", "createdAt": "2024-11-23T16:37:31Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2446, "title": "docs(README.md, index.md): For clarity, fix minor grammar issues", "createdAt": "2024-11-24T07:23:31Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2452, "title": "Feature: Add current branch name substitution in commit prompt", "createdAt": "2024-11-24T20:00:50Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2457, "title": "feat: Add env_var and metavar to --editor argument in args.py", "createdAt": "2024-11-25T17:36:22Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2458, "title": "Add a link to mermaid.live render for mermaid markdown", "createdAt": "2024-11-25T19:41:20Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2460, "title": "Added --no-auto-scraping flag ", "createdAt": "2024-11-26T01:28:43Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2480, "title": "Added qwen2.5-coder:14b running via ollama", "createdAt": "2024-11-28T00:01:46Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2489, "title": "Benchmark/20241127", "createdAt": "2024-11-28T16:50:17Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2497, "title": "feat: ability to select audio input device", "createdAt": "2024-11-30T10:35:04Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2503, "title": "syncing with main project ", "createdAt": "2024-12-01T08:46:29Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2534, "title": "fix: add github o1-mini and preview", "createdAt": "2024-12-05T12:16:05Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2541, "title": "Create tree-sitter-swift-tags.scm", "createdAt": "2024-12-06T16:40:49Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2549, "title": "Feat: add model settings for gemini-exp-1206", "createdAt": "2024-12-06T23:38:09Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2551, "title": "Adds .zsh filetypes to watch-files", "createdAt": "2024-12-07T02:38:28Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2552, "title": "Fixes #255 Disable file extension check entirely", "createdAt": "2024-12-07T02:52:19Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2555, "title": "Add support for Gemini API key in command line and config file", "createdAt": "2024-12-07T15:09:19Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2559, "title": "feat: add llama-3.3-70b-instruct model through openrouter.", "createdAt": "2024-12-08T09:50:01Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2567, "title": "Fixed /chat-mode architect no description", "createdAt": "2024-12-09T03:24:24Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2587, "title": "Add support for customized tools", "createdAt": "2024-12-10T06:23:50Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2591, "title": "refactor: Replace pydub with soundfile for future Python 3.13 support…", "createdAt": "2024-12-10T09:51:07Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2592, "title": "Add '?' to set of punctuations to strip for file mentions", "createdAt": "2024-12-10T13:11:38Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2598, "title": "Add Lisp and Scheme file extensions to source file check", "createdAt": "2024-12-10T21:24:03Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2601, "title": "Implement /multiline-mode, swaps Enter & Meta-Enter", "createdAt": "2024-12-11T10:54:11Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2603, "title": "Fix Typo in AIDER_MULTILINE Environment Variable Documentation\n", "createdAt": "2024-12-11T16:09:45Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2605, "title": "Add elixir extensions to watch-files list", "createdAt": "2024-12-11T18:39:15Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2612, "title": "feat: create .aider.working when ai! comment is detected (closes #2562)", "createdAt": "2024-12-12T13:56:00Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2617, "title": "feat: Add Gemini 2.0 Flash (whole) benchmark result to leaderboard", "createdAt": "2024-12-12T20:23:00Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2621, "title": "feat: Add configurable Whisper transcription API base URL", "createdAt": "2024-12-13T13:20:25Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2623, "title": "Update conventions.md to fix url", "createdAt": "2024-12-13T18:36:22Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2628, "title": "Moa", "createdAt": "2024-12-14T16:39:48Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2631, "title": "Add support for infinite output model fallback", "createdAt": "2024-12-14T21:04:03Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2633, "title": "docs: Update watch.md", "createdAt": "2024-12-15T05:35:23Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2634, "title": "feat: Support custom Whisper API endpoints for voice transcription", "createdAt": "2024-12-15T12:13:16Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2641, "title": "feat: add process-ai-comment command to manually trigger the ai comment processing", "createdAt": "2024-12-17T02:48:52Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2652, "title": "Document that Pygments styles can be used for --code-theme", "createdAt": "2024-12-17T20:24:14Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2655, "title": "Improve fix prompt", "createdAt": "2024-12-18T09:47:56Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2665, "title": "fix: encoding/decoding issues reading Exercism benchmark files", "createdAt": "2024-12-19T06:39:11Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2675, "title": "Don't add .env to gitignore when it doesn't exist.", "createdAt": "2024-12-20T16:11:32Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2679, "title": "feat: support openai api compatible interface", "createdAt": "2024-12-21T16:31:16Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2681, "title": "add \"updated at\" to leaderboard table", "createdAt": "2024-12-22T07:28:11Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2690, "title": "Rephrase home dir warning", "createdAt": "2024-12-23T14:52:25Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2692, "title": "Fix issue #1802: Handle UnicodeDecodeError in repo file paths", "createdAt": "2024-12-23T19:04:21Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2695, "title": "add yi-lightning result", "createdAt": "2024-12-24T00:39:43Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2698, "title": "Fix Go installation and benchmark tests for Apple Silicon", "createdAt": "2024-12-24T17:24:41Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2702, "title": "Show absolute path for files far outside the directory.", "createdAt": "2024-12-25T16:02:49Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2706, "title": "Polyglot Qwen2.5-Coder-32B-Instruct Results [Whole]", "createdAt": "2024-12-26T07:05:48Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2711, "title": "fix: replaces /deepseek/deepseek-coder model with /deepseek/deepseek-chat", "createdAt": "2024-12-26T19:03:56Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2714, "title": "Fixes #2713", "createdAt": "2024-12-27T23:07:40Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2725, "title": "Install ca-certificates before openjdk-21 to resolve cacerts error", "createdAt": "2024-12-29T19:01:51Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2728, "title": "fix: set default voice language from args if not provided", "createdAt": "2024-12-30T15:03:31Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2739, "title": "New command: cmd_md", "createdAt": "2024-12-31T21:05:41Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2750, "title": "Document boto3 install process with aider installed by uv or one-liner", "createdAt": "2025-01-02T07:41:54Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2753, "title": "fix: lint command with nested spaced strings", "createdAt": "2025-01-02T10:29:22Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2763, "title": "feat: new command /scommit for committing staged files only", "createdAt": "2025-01-03T13:32:19Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2764, "title": "Ignore directories in repo that have index errors", "createdAt": "2025-01-03T15:01:41Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2767, "title": "Disable streamlit email prompt", "createdAt": "2025-01-03T20:44:15Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2780, "title": "Adds comment processing command", "createdAt": "2025-01-05T18:19:24Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2795, "title": "Fix files not being excluded in benchmark.py", "createdAt": "2025-01-07T17:38:51Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2798, "title": "Improve description of watch.md", "createdAt": "2025-01-07T21:59:36Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2800, "title": "feat: File summary for large files", "createdAt": "2025-01-07T23:56:58Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2809, "title": "docs: fix missing link", "createdAt": "2025-01-09T10:46:35Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2821, "title": "refactor: Optimise ModelSettings configs and retrieval", "createdAt": "2025-01-10T14:59:06Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2837, "title": "docs: Expanded system dependencies and Python version in the contributing guide", "createdAt": "2025-01-12T05:12:08Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2839, "title": "Handle new path creation", "createdAt": "2025-01-12T07:30:10Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2846, "title": "Move ModelSettings to yml files in the models directory", "createdAt": "2025-01-12T16:50:17Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2856, "title": "feat: Add line endings configuration option for file writing - fixes #1102", "createdAt": "2025-01-13T17:20:51Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2857, "title": "refactor: Reorder exception handling in file reading method", "createdAt": "2025-01-13T17:32:32Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2866, "title": "Add ability for aider to review PRs or current status", "createdAt": "2025-01-14T20:20:43Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2877, "title": "docs: Add architect mode section to edit errors troubleshooting guide", "createdAt": "2025-01-15T23:51:09Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2878, "title": "docs: Add detailed Ruby and Bundler installation instructions for multiple platforms", "createdAt": "2025-01-15T23:54:10Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2881, "title": "feat: Changing current subtree with /subtree command", "createdAt": "2025-01-16T04:05:26Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2883, "title": "feat: Add stats command to allow user to compare aider usage across different revision", "createdAt": "2025-01-16T14:27:44Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2885, "title": "Add Docker setup for development environment", "createdAt": "2025-01-16T19:09:22Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2893, "title": "Fix docker", "createdAt": "2025-01-17T21:39:50Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2895, "title": "Add tags.scm for Kotlin", "createdAt": "2025-01-18T02:24:15Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2902, "title": "docs: Fix docker run command to fix Uncaught PermissionError", "createdAt": "2025-01-18T14:11:41Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2904, "title": "Combine user and ai commit messages", "createdAt": "2025-01-18T16:26:03Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2905, "title": "Allow for the use of devcontainers for development in vscode", "createdAt": "2025-01-18T20:53:41Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2911, "title": "feat: Add --map-cache-dir to change the base directory for .aider.tags.cache.v3 ", "createdAt": "2025-01-19T17:17:20Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2912, "title": "feat: /repeat command ", "createdAt": "2025-01-19T18:48:44Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2915, "title": "Create tree-sitter-r-tags.scm", "createdAt": "2025-01-20T10:21:05Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2916, "title": "Add itererate command", "createdAt": "2025-01-20T10:55:43Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2917, "title": "Add /iterate command.", "createdAt": "2025-01-20T12:00:06Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2919, "title": "feat: update deepseek-reasoner model settings to use editor-diff format", "createdAt": "2025-01-20T15:09:42Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2920, "title": "Feature/deepseek reasoner editor diff", "createdAt": "2025-01-20T15:19:52Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2921, "title": "Feature/deepseek reasoner editor diff", "createdAt": "2025-01-20T15:25:19Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2927, "title": "feat: Add /iterate command", "createdAt": "2025-01-20T23:50:05Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2930, "title": "Polyglot Ninja-SuperAgent Results", "createdAt": "2025-01-21T06:48:04Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2931, "title": "Polyglot Ninja-SuperAgent Results", "createdAt": "2025-01-21T07:14:05Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2966, "title": "Mypy", "createdAt": "2025-01-22T17:34:38Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2971, "title": "Added a lint.yml github action which runs the pre-commit command on prs to validate they are using good style", "createdAt": "2025-01-23T13:22:40Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2973, "title": "Frankenclaude: R1 thinking + Sonnet ", "createdAt": "2025-01-23T14:45:44Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2976, "title": "feat: for the first reflection use the (quicker) editor model", "createdAt": "2025-01-23T18:18:25Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 2980, "title": "Correct completion menu current item color styling", "createdAt": "2025-01-23T23:14:34Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2982, "title": "Ensure alternating roles for deepseek-reasoner", "createdAt": "2025-01-24T09:05:04Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2988, "title": "Include x-coding-assistant=aider-version header in litellm calls", "createdAt": "2025-01-24T20:08:42Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2989, "title": "fix typo in README.md", "createdAt": "2025-01-25T06:12:17Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 2991, "title": "Update models.py: Suppport for azure/o1", "createdAt": "2025-01-25T15:39:18Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 2998, "title": "Added DeepSeek R1 + DeepSeek V3 benchmark", "createdAt": "2025-01-26T01:41:46Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3000, "title": "docs: update DeepSeek v2 Coder to v3 Chat", "createdAt": "2025-01-26T07:31:08Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3004, "title": "docs: clean DeepSeek Coder v2", "createdAt": "2025-01-26T15:14:35Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3019, "title": "Update README.md", "createdAt": "2025-01-27T12:41:51Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3043, "title": "Update deepseek.md", "createdAt": "2025-01-28T11:09:08Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3054, "title": "Fix docs regarding extra_body", "createdAt": "2025-01-29T06:23:17Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3056, "title": "Draft: Add read-only stub files feature", "createdAt": "2025-01-29T07:20:22Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3061, "title": "Adding deep seek r1 free", "createdAt": "2025-01-29T17:46:20Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3064, "title": "Adding directories auto creation", "createdAt": "2025-01-29T20:04:18Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3074, "title": "Add `fireworks_ai/deepseek` models", "createdAt": "2025-01-30T13:12:16Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3080, "title": "Optimisation: Avoid unnecessary duplicate call to expensive get_repo_map() method", "createdAt": "2025-01-30T17:00:01Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3083, "title": "i keep typing quit without the / in front", "createdAt": "2025-01-31T04:24:09Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3090, "title": "feat: let user tweak architect prompt before passing to editor-model", "createdAt": "2025-01-31T16:42:15Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3100, "title": "Allow user to append text when using /paste", "createdAt": "2025-02-01T19:08:03Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3107, "title": "Merge this", "createdAt": "2025-02-02T09:28:23Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3108, "title": "[fix for o3-mini formatting issue] Standardize `ask` and `architect` response formats to markdown", "createdAt": "2025-02-02T13:08:57Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3112, "title": "Load local model metadata first before loading from cache / litellm", "createdAt": "2025-02-02T16:42:21Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3119, "title": "fix: preserve editing mode after user interrupt", "createdAt": "2025-02-03T03:16:33Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3121, "title": "Switch Deepseek-R1 to not use system prompt", "createdAt": "2025-02-03T08:48:49Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3127, "title": "refactor: Sort files by token count in cmd_tokens", "createdAt": "2025-02-03T18:28:37Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3131, "title": "Add support multiple Speech to Text providers", "createdAt": "2025-02-03T20:32:30Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3136, "title": "Correct a typo", "createdAt": "2025-02-04T18:58:18Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3137, "title": "Update adv-model-settings.md", "createdAt": "2025-02-04T22:09:21Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3152, "title": "Fix typo", "createdAt": "2025-02-06T09:29:14Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3156, "title": "fix(powershell install script): zip archive unpack on windows", "createdAt": "2025-02-06T13:35:10Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3165, "title": "Adding support for automatic code fixing with configurable fix commands", "createdAt": "2025-02-07T09:14:44Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3173, "title": "Add support for terraform/hcl repomaps", "createdAt": "2025-02-07T18:43:41Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3176, "title": "Quote hex color values in aider_conf.md", "createdAt": "2025-02-07T21:01:07Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3190, "title": "Multiline arrow key wrapping", "createdAt": "2025-02-08T21:13:00Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3191, "title": "docs(infinite-output): add bedrock/ prefix", "createdAt": "2025-02-08T21:59:40Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3192, "title": "fix: Use shlex.quote() to enable linting filepaths containing shell metacharacters", "createdAt": "2025-02-08T22:32:16Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3194, "title": "add deepseek r1 70b polyglot benchmark results", "createdAt": "2025-02-09T03:36:18Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3204, "title": "fix: wrap rel_fname in quote", "createdAt": "2025-02-10T14:52:58Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3209, "title": "This adds command line controls for the streamlit server ", "createdAt": "2025-02-11T10:14:48Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3210, "title": "Add ability to change the model from the browser", "createdAt": "2025-02-11T12:15:26Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3212, "title": "Set different defaults for different confirm_ask questions.", "createdAt": "2025-02-11T16:43:47Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3215, "title": "Add --openrouter-api-key configuration option", "createdAt": "2025-02-11T22:00:51Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3224, "title": "Add debug option to litellm", "createdAt": "2025-02-12T12:29:41Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3230, "title": "fix: return combined output of failed test to trigger fix", "createdAt": "2025-02-12T20:56:20Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3231, "title": "feat: add \"languages\" configuration option", "createdAt": "2025-02-12T22:30:21Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3241, "title": "doc", "createdAt": "2025-02-13T14:13:27Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3245, "title": "refactor: Update editor discovery to handle environment variables", "createdAt": "2025-02-13T21:41:07Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3252, "title": "subprocess called with shell true", "createdAt": "2025-02-14T16:54:18Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3273, "title": "feat: add support for copilot models", "createdAt": "2025-02-17T06:09:47Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3278, "title": "Add Deepseek-R1-Distill-Qwen-32B results", "createdAt": "2025-02-17T10:40:20Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3283, "title": "fix: add build.gradle.kts to special.py", "createdAt": "2025-02-17T14:23:19Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3293, "title": "feat: add Gleam lang support", "createdAt": "2025-02-18T11:38:08Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3310, "title": "feat: streaming reasoning content", "createdAt": "2025-02-20T10:15:56Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3333, "title": "Fix test for `get_environment_editor()`", "createdAt": "2025-02-22T08:14:34Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3349, "title": "fix: Handle EOFError gracefully in confirm_ask method", "createdAt": "2025-02-24T03:34:24Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3351, "title": "docs: Update uv installation instructions extras", "createdAt": "2025-02-24T13:25:17Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3363, "title": "Fix typo", "createdAt": "2025-02-25T07:47:08Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3368, "title": "docs: /read-only command instead of obsolete /read", "createdAt": "2025-02-25T09:59:01Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3374, "title": "feat: Add various HTTP Client settings", "createdAt": "2025-02-25T16:10:47Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3381, "title": "use playwright if available when invoking scraper via cli", "createdAt": "2025-02-26T03:12:18Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3384, "title": "feat: Add commands to switch main, editor, and weak models", "createdAt": "2025-02-26T09:52:16Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3388, "title": "Add clarifying instructions to LM Studio config", "createdAt": "2025-02-26T14:02:18Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3389, "title": "Add gemini-2.0-pro-exp-02-05 polyglot benchmark", "createdAt": "2025-02-26T14:05:07Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3395, "title": "Allow globbing in read and file args.", "createdAt": "2025-02-27T08:11:07Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3399, "title": "Update Aider documentation for Amazon Bedrock 📄", "createdAt": "2025-02-27T17:33:12Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3401, "title": "add new `map-tags-cache-dir` config option", "createdAt": "2025-02-27T20:10:29Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3408, "title": " Add Aider Polyglot Benchmark Report for NextCoder-32B-Instruct", "createdAt": "2025-02-28T10:03:45Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3418, "title": "Fix requirements management to reduce conflicts and manual pinning", "createdAt": "2025-03-02T02:17:00Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3423, "title": "Retrieve the identity using git-config command", "createdAt": "2025-03-03T10:19:48Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3429, "title": "Added DirectoryRepo as a GitRepo substitute, for non-git VCS support with repomap etc.", "createdAt": "2025-03-03T17:08:55Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3435, "title": "update default (openrouter) model to 3.7 sonnet", "createdAt": "2025-03-03T23:08:05Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3438, "title": "Workon feature", "createdAt": "2025-03-04T13:22:30Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3443, "title": "Adding OpenRouter deepseek-chat:free (V3)", "createdAt": "2025-03-05T06:04:42Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3444, "title": "Bump NumPy to v2.0.2 for Python 3.13 compatibility", "createdAt": "2025-03-05T06:59:27Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3451, "title": "fix: add uv as development dependency", "createdAt": "2025-03-06T07:59:34Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3456, "title": "Add r1-as-architect deepseek-chat-as-editor to polyglot_leaderboard.yml", "createdAt": "2025-03-07T01:16:15Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3457, "title": "Add r1-as-architect with deepseek-chat-as-editor to polyglot_leaderbo…", "createdAt": "2025-03-07T01:19:52Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3468, "title": "fix: update reasoning tags in unit tests", "createdAt": "2025-03-09T00:18:28Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3469, "title": "feat: introduce blocklist of unwanted requirements", "createdAt": "2025-03-09T02:25:42Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3476, "title": "Draft: New `/export-context` Command for NotebookLM Integration", "createdAt": "2025-03-09T21:32:53Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3478, "title": "refactor: enhance --aiderignore argument to resolve absolute and relative paths", "createdAt": "2025-03-09T23:48:54Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3480, "title": "feat: use copy-paste instead of api", "createdAt": "2025-03-10T00:32:33Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3485, "title": "ollama: suggest higher minimum context length", "createdAt": "2025-03-10T07:33:02Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3486, "title": "benchmark: eases configuration of ollama and ENV variables", "createdAt": "2025-03-10T09:06:35Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3488, "title": "refactor: add ignore_permission_denied option to watch function", "createdAt": "2025-03-10T13:04:32Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3494, "title": "Patches", "createdAt": "2025-03-10T20:28:01Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3495, "title": "docs: Add remote notifications docs", "createdAt": "2025-03-10T23:18:58Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3498, "title": "remove empty default git config lookup", "createdAt": "2025-03-11T04:24:58Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3512, "title": "Add /general non-coding search-replace edit mode", "createdAt": "2025-03-12T16:01:37Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3516, "title": "feat: replace setuptools with uv", "createdAt": "2025-03-13T01:39:07Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3528, "title": "Update Benchmark README.md", "createdAt": "2025-03-14T08:06:51Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3552, "title": "feat: add subshell expansion support to /add and /read-only commands", "createdAt": "2025-03-16T00:52:28Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3553, "title": "fix: Redundant warning when `AWS_PROFILE` set for Bedrock", "createdAt": "2025-03-16T07:05:36Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3555, "title": "Start StreamLintServer with localhost to misuse the gui when network is shared", "createdAt": "2025-03-16T18:16:35Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3564, "title": "OpenRouter models parameters fetching directly from their website", "createdAt": "2025-03-17T21:47:51Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3568, "title": "Fix autocomplete for /ask, /code, /architect", "createdAt": "2025-03-18T07:02:30Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3579, "title": "feat: vi-like behavior when pressing enter in multiline-mode", "createdAt": "2025-03-19T21:20:15Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3587, "title": "Update QwQ-32B Result for polyglot_leaderboard.yml", "createdAt": "2025-03-20T16:28:46Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3601, "title": "Dedupe completion options for commands", "createdAt": "2025-03-22T03:32:47Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3609, "title": "feat: Add --add-gitignore-files flag", "createdAt": "2025-03-22T23:18:09Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3619, "title": "Create llms.txt", "createdAt": "2025-03-23T18:34:07Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3621, "title": "Fix missing dotenv for requirements.in", "createdAt": "2025-03-23T23:42:05Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3625, "title": "Fix /think-tokens command on Openrouter Claude 3.7", "createdAt": "2025-03-24T14:22:08Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3633, "title": "feat: add repomap support for Scala", "createdAt": "2025-03-25T09:54:10Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3647, "title": "Add support for Lisp-style comments in file watcher", "createdAt": "2025-03-26T07:37:39Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3655, "title": "Mainhp", "createdAt": "2025-03-26T21:38:16Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3656, "title": "feat: Add configurable placeholder text for command failures", "createdAt": "2025-03-27T04:41:18Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3659, "title": "Invoke the editor by pressing `C-x C-e`", "createdAt": "2025-03-27T09:45:28Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3662, "title": "Align markdown headings to the left", "createdAt": "2025-03-27T21:06:36Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3672, "title": "Add MCP support", "createdAt": "2025-03-28T21:01:14Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3673, "title": "debug-works", "createdAt": "2025-03-29T06:38:50Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3677, "title": "Update litellm to v1.65.0", "createdAt": "2025-03-30T14:17:11Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3679, "title": "feat: add repomap support for ocaml/ocaml_interface", "createdAt": "2025-03-30T18:13:10Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3692, "title": "chore: remove redundant code", "createdAt": "2025-03-31T17:26:55Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3698, "title": "Update benchmark README.md to specify how to config other settings", "createdAt": "2025-04-01T00:06:08Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3722, "title": "Fix missing tail tokens in `ChatSummary.summarize_real`", "createdAt": "2025-04-03T17:40:18Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3733, "title": "fix: follow conventional commits examples by going all lowercase", "createdAt": "2025-04-05T11:09:13Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3735, "title": "Add support model openrouter/google/gemini-2.5-pro-preview-03-25", "createdAt": "2025-04-05T13:53:56Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3736, "title": "Add Fireworks AI model 'deepseek-v3-0324'", "createdAt": "2025-04-05T14:51:13Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3742, "title": "Quote hex color codes because # is special (comment char) in YAML", "createdAt": "2025-04-06T15:45:08Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3747, "title": "Add /find, /search and /regex to add files by symbol, exact match and regex", "createdAt": "2025-04-07T05:33:40Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3748, "title": "Make '*' allow globbing portions of patterns during completion", "createdAt": "2025-04-07T06:40:57Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3752, "title": "Update Azure Documentation", "createdAt": "2025-04-07T15:06:18Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3756, "title": "chore(deps): Support Python 3.13", "createdAt": "2025-04-08T16:47:27Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3764, "title": "Optimize head‑truncation loop in summarize_real()", "createdAt": "2025-04-09T21:02:48Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3766, "title": "Make run_stream handle reflections like run_one", "createdAt": "2025-04-10T07:58:13Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3767, "title": "Add server mode with FastAPI", "createdAt": "2025-04-10T08:40:03Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3770, "title": "Wrap everything in a function", "createdAt": "2025-04-10T11:40:25Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3772, "title": "Make `confirm_ask` behavior consistent with explicit confirmation handling", "createdAt": "2025-04-10T17:06:22Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3773, "title": "Make `confirm_ask` behavior consistent with explicit confirmation handling", "createdAt": "2025-04-10T17:19:26Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3776, "title": "Do not lowercase the _entirety_ of the commit message", "createdAt": "2025-04-11T01:07:41Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3778, "title": "Optimizations for when large numbers of files are added", "createdAt": "2025-04-11T07:35:24Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3780, "title": "Benchmark: Improved stats, now also printing stats for each individual test", "createdAt": "2025-04-11T13:43:05Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3781, "title": "Add tool-using NavigatorCoder (/navigator mode), akin to Claude Code", "createdAt": "2025-04-11T13:46:13Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3784, "title": "Add Gemini Pro 2.5 + Sonnet results to leaderboard", "createdAt": "2025-04-11T20:40:09Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3787, "title": "feat: Cross-platform user config, cache and data directory handling", "createdAt": "2025-04-12T11:07:28Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3789, "title": "feat: Add Co-authored-by attribution for AI commits", "createdAt": "2025-04-12T17:14:33Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3800, "title": "Add benchmark for Gemini 2.5 Pro Preview as architect model and Claude Sonnet 3.7 (32K thinking token) as editor model", "createdAt": "2025-04-14T06:31:16Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3804, "title": "feat: enhance coder prompts with planning and verification steps", "createdAt": "2025-04-14T19:16:31Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3806, "title": "feat: Add --disable-playwright flag to prevent Playwright installation and prompts", "createdAt": "2025-04-14T23:13:19Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3815, "title": "fix: Use 'bg' prefix correctly in completion menu color setting", "createdAt": "2025-04-15T15:13:09Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3819, "title": "Use environ before config to lookup git user", "createdAt": "2025-04-16T10:03:21Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3823, "title": "ci: add pre-commit.yml for GitHub Actions", "createdAt": "2025-04-16T15:04:03Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3828, "title": "fix: correctly detect edit blocks in diff-fenced mode", "createdAt": "2025-04-17T06:36:17Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3829, "title": "settings for openrouter/google/gemini-2.5-pro-preview-03-25", "createdAt": "2025-04-17T08:31:53Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3831, "title": "docs: update editor usage instructions in multi-line guide", "createdAt": "2025-04-17T18:45:26Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3835, "title": "feat: add doubao-1.5-thinking-pro-250415 test result", "createdAt": "2025-04-18T01:13:17Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3836, "title": "fix: correct phrasing in user prompts for editing files", "createdAt": "2025-04-18T01:15:54Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3837, "title": "Initial Backend Setup for iXSpend (Flask)", "createdAt": "2025-04-18T01:31:12Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3842, "title": "add polyglot benchmark results for gemini 2.5 flash (non-thinking)", "createdAt": "2025-04-19T02:23:03Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3843, "title": "feat: load local model metadata in benchmark if available", "createdAt": "2025-04-19T02:37:07Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3850, "title": "fix-3182: handle special characters in file paths for linting", "createdAt": "2025-04-20T19:35:07Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3851, "title": "chore: Replace non-breaking hyphen with regular hyphen in prompt", "createdAt": "2025-04-20T19:40:51Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3852, "title": "fix: UnicodeDecodeError when reading UTF-8 config files on Windows CJK locales(non-UTF-8; e.g. Japanese cp932)", "createdAt": "2025-04-21T05:48:46Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3859, "title": "[Feature Proposal] Aider Macros", "createdAt": "2025-04-21T21:23:56Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3869, "title": "Fix shlex.quote() use in linter on Windows", "createdAt": "2025-04-23T12:44:18Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3870, "title": "feat: add configurable PostHog host and API key parameters", "createdAt": "2025-04-23T12:48:24Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3886, "title": "Benchmark features: pause/resume, language breakdown, total api calls", "createdAt": "2025-04-25T17:08:25Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3888, "title": "Loading env files no longer clobbers the loaded environment", "createdAt": "2025-04-25T17:43:57Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3892, "title": "GUI/Browser tweaks", "createdAt": "2025-04-26T15:53:23Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3898, "title": "fix: add suffix \"md\" when opening editor in InputOutput class", "createdAt": "2025-04-27T07:13:29Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3901, "title": "Allow users to upgrade to arbitrary github remote", "createdAt": "2025-04-27T20:08:14Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3907, "title": "Add benchmarks for Qwen3-235B-A22B  and Qwen3-32B", "createdAt": "2025-04-28T16:59:49Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3908, "title": "Add benchmarks for Qwen3-235B-A22B  and Qwen3-32B", "createdAt": "2025-04-28T17:19:15Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3909, "title": "Feat/checksum files", "createdAt": "2025-04-28T20:16:43Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3911, "title": "adds reassuring pulse when aider is waiting for LLM", "createdAt": "2025-04-28T21:28:02Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3919, "title": "Escape square brackets in file paths", "createdAt": "2025-04-30T17:54:36Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3929, "title": "feat: Adds optional read-only response to confirm_ask", "createdAt": "2025-05-02T00:55:03Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3930, "title": "Show dates on \"Release history\" chart", "createdAt": "2025-05-02T02:46:08Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3931, "title": "docs: update lint/test pre-commit shell script example to use \"$@\" for proper argument handling", "createdAt": "2025-05-02T03:49:19Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3937, "title": "Add MCP Support with LiteLLM", "createdAt": "2025-05-03T07:36:28Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3942, "title": "Add auto mode for automated task execution without confirmation", "createdAt": "2025-05-03T16:59:52Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3944, "title": "Actually query ollama to show available models and model details", "createdAt": "2025-05-04T02:53:25Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3958, "title": "Stop cluttering the input history with Confirm/Ask responses: y/n/a/d", "createdAt": "2025-05-05T16:08:32Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3959, "title": "Fix for when Aider in a Conda env will use base environment", "createdAt": "2025-05-05T16:15:12Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3963, "title": "Fix clipboard decode-error when using command `/paste`", "createdAt": "2025-05-06T06:04:53Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3967, "title": "Merge with newest version", "createdAt": "2025-05-07T12:01:09Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3970, "title": "deps: Bump tree-sitter-language-pack 0.7.2 → 0.7.3", "createdAt": "2025-05-07T18:08:03Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3976, "title": "Reassuring \"... Waiting\" indicator when aider is waiting for LLM", "createdAt": "2025-05-08T16:56:46Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3979, "title": "feat: cmd_enable_thinking", "createdAt": "2025-05-08T20:32:08Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3980, "title": "feat: add bash completion script generation", "createdAt": "2025-05-08T20:46:19Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3981, "title": "add example to OpenAI compatible APIs document", "createdAt": "2025-05-08T22:41:25Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3982, "title": "refactor: Update OpenRouter Gemini 2.5 Pro Exp model ID", "createdAt": "2025-05-08T23:39:17Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3983, "title": "Add Qwen3-235B-A22B-Q5_K_M to qwen3_leaderboard.yml", "createdAt": "2025-05-09T00:36:51Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3985, "title": "Draft: Dim past messages", "createdAt": "2025-05-09T07:20:38Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 3988, "title": "Spinners", "createdAt": "2025-05-09T17:19:04Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3990, "title": "Submission : Speech transcription with the web audio API in the browser", "createdAt": "2025-05-10T10:43:24Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 3993, "title": "feat: Enable file completion for all file-related arguments", "createdAt": "2025-05-10T12:56:05Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 3999, "title": "Minor improvements to benchmark/docker.sh", "createdAt": "2025-05-11T08:50:15Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4000, "title": "build: update Dockerfile to avoid long rebuilds + add docker-compose.yml", "createdAt": "2025-05-11T12:13:27Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4007, "title": "feat: add ability to disable signing git commits", "createdAt": "2025-05-12T02:13:12Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4008, "title": "fix: Fix #3987 Pass the coder object to repo.commit", "createdAt": "2025-05-12T05:36:14Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4009, "title": "feat: add --auto-commit-message argument to control auto-commit message generation", "createdAt": "2025-05-12T13:04:55Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4012, "title": "fix: base coder not ignoring gitignore if --file is used.", "createdAt": "2025-05-13T04:01:37Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4013, "title": "fix: base coder not ignoring gitignore if --file is used.", "createdAt": "2025-05-13T04:43:16Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4022, "title": "fix: Vertex AI model names use vertex_ai/ prefix", "createdAt": "2025-05-14T13:40:22Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4023, "title": "Local aider", "createdAt": "2025-05-14T15:20:29Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4028, "title": "Add Clojure repomap queries", "createdAt": "2025-05-15T17:47:49Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4031, "title": "Allow .yaml extension on config filenames", "createdAt": "2025-05-17T02:43:51Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4032, "title": "Add batch editing feature to architect mode", "createdAt": "2025-05-17T04:21:34Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4033, "title": "add loadscript command", "createdAt": "2025-05-17T04:26:52Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4034, "title": "Added logic to split and batch the changes in architect mode. In this way editor models with small input context limits will be able to handle the code changes just as well as the more expensive models.", "createdAt": "2025-05-17T06:05:40Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4037, "title": "feat: Add server address and port options for browser mode", "createdAt": "2025-05-18T06:59:35Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4042, "title": "feat(coder): Handle LLM response interruption", "createdAt": "2025-05-19T08:55:56Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4057, "title": "fix: display marker on error", "createdAt": "2025-05-22T00:16:14Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4062, "title": "Added link to GH Copilot docs that allow 3rd party agents. ", "createdAt": "2025-05-22T16:37:52Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4066, "title": "feat: Add support for custom CA bundle", "createdAt": "2025-05-23T11:33:31Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4073, "title": "Update configargparse from 1.7 to 1.7.1", "createdAt": "2025-05-23T16:55:27Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4075, "title": "feat: Add architect batch editing mode for context limit management", "createdAt": "2025-05-23T19:54:52Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4079, "title": "[Feature] Chat history archive", "createdAt": "2025-05-24T23:04:34Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4083, "title": "[Model:MindLink] Submit v1.0 evaluation results", "createdAt": "2025-05-25T06:43:33Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4084, "title": "Submit results for the Mind Link model", "createdAt": "2025-05-25T07:05:29Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4088, "title": "feat(voice): support for  local voice transcription using pywhispercpp", "createdAt": "2025-05-25T12:33:47Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4090, "title": "Add support for Claude 4 models across all providers", "createdAt": "2025-05-25T16:32:18Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4092, "title": "Refresh Github's open api key automatically", "createdAt": "2025-05-25T21:56:02Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4094, "title": "strip_quoted_wrapping() incorrectly detects quoted wrappings #4093", "createdAt": "2025-05-26T00:16:27Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4096, "title": "Change `max_tokens` to 32000 for `claude-opus-4-20250514` family model", "createdAt": "2025-05-26T04:18:32Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4101, "title": "Add support for Openrouter Gemini 2.5 pro & flash as at 26 May 2025", "createdAt": "2025-05-26T13:04:00Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4114, "title": "increase context window of Deepseek V3 to new OpenRouter limits", "createdAt": "2025-05-27T20:03:54Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4122, "title": "Extract the OPEN_API_BASE endpoint from github", "createdAt": "2025-05-28T18:39:00Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4124, "title": "Integrate FastAPI server with Aider.", "createdAt": "2025-05-28T22:41:31Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4125, "title": "DeepSeek-R1 0528 results", "createdAt": "2025-05-29T01:12:19Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4127, "title": "feat(models): add support for user-configurable max_tokens ", "createdAt": "2025-05-29T05:31:12Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4131, "title": "Update deepseek-r1 max_tokens and polyglot leaderboard data", "createdAt": "2025-05-29T13:51:25Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4144, "title": "fix: Restore full base path at api endpoint for litellm >= 1.68.0", "createdAt": "2025-06-01T05:55:15Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4146, "title": "Add --commit-language option to configure commit message language", "createdAt": "2025-06-01T10:33:35Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4150, "title": "Fix issues on repositories with non-Unicode encodings", "createdAt": "2025-06-01T19:41:52Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4154, "title": "`o4-mini` was repeated multiple times and prevented applying custom configs", "createdAt": "2025-06-02T08:57:42Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4156, "title": "fix: Always pass `extra_headers` to Copilot models", "createdAt": "2025-06-02T13:41:08Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4161, "title": "Use system prompt prefix for commit messages", "createdAt": "2025-06-03T14:30:20Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4162, "title": "Add --runner command wrapper support for executing shell commands in specific environments", "createdAt": "2025-06-03T15:08:42Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4163, "title": "feat: validation and errors for copilot requests", "createdAt": "2025-06-03T15:54:56Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4170, "title": "Improve polyglot leaderboard site", "createdAt": "2025-06-05T04:49:13Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4172, "title": "[Docs] VSCode Copilot no longer writes out tokens", "createdAt": "2025-06-05T06:56:42Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4179, "title": "Architecture documentation added.", "createdAt": "2025-06-07T00:25:47Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4182, "title": "fix: Correct Vertex AI model name prefixes in settings", "createdAt": "2025-06-07T19:51:32Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4183, "title": "Update chinese summary arch", "createdAt": "2025-06-07T22:07:11Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4184, "title": "Add --playwright-proxy option for `/web` using playwright with chromium", "createdAt": "2025-06-08T04:32:12Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4192, "title": "fix: respect use_repo_map in model settings", "createdAt": "2025-06-08T09:10:20Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4193, "title": "Let 'rich' use code_theme as inline_code_theme", "createdAt": "2025-06-08T12:28:01Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4197, "title": "Allow to create multiple model configurations for the same model", "createdAt": "2025-06-08T16:32:07Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4199, "title": "Skip expensive `get_tracked_files` call if `skip_sanity_check_repo` is true", "createdAt": "2025-06-09T07:16:53Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4200, "title": "Assistant's and User's input style tweaks", "createdAt": "2025-06-09T08:20:33Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4202, "title": "edit typo", "createdAt": "2025-06-09T10:33:12Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4206, "title": "(context: rich library) `code_theme` as `inline_code_theme` in the non-streaming case.", "createdAt": "2025-06-10T13:13:32Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4208, "title": "update aider", "createdAt": "2025-06-10T15:01:02Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4209, "title": "It looks like this message is a commit message, not a message to the …", "createdAt": "2025-06-10T23:23:50Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4210, "title": "Add default model settings for o3-pro", "createdAt": "2025-06-11T01:57:03Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4211, "title": "Jules was unable to complete the task in time. Please review the work…", "createdAt": "2025-06-11T03:36:05Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4213, "title": "fix: don't duplicate commit prompt one-line instruction", "createdAt": "2025-06-11T20:47:13Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4216, "title": "add benchmark result of gemini-2.5-pro-06-05 with udiff edit format", "createdAt": "2025-06-13T07:42:23Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4221, "title": "doc: Add links to translated README versions", "createdAt": "2025-06-14T11:40:20Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4222, "title": "feat: allow running Playwright remotely (e.g. in a Docker container)", "createdAt": "2025-06-14T21:22:36Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4228, "title": "[Feature] Resetting thinking tokens using \"0\"", "createdAt": "2025-06-15T22:19:49Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4229, "title": "add evals for morph", "createdAt": "2025-06-15T22:26:23Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4231, "title": "feat: allow using Playwright over WebSocket (e.g. in a Docker container)", "createdAt": "2025-06-16T11:31:42Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4232, "title": "Add fuzzy filename matching", "createdAt": "2025-06-16T12:15:43Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4236, "title": "doc: add correct path for github copilot token for windows users", "createdAt": "2025-06-17T09:40:24Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4238, "title": "feat: add interactive polyglot leaderboard chart page", "createdAt": "2025-06-17T18:57:06Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4242, "title": "Update gemini models in model-settings.yml", "createdAt": "2025-06-18T10:45:22Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4247, "title": "feat: Add configurable co-author email and enable by default", "createdAt": "2025-06-19T08:06:25Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4248, "title": "Improve prefix caching", "createdAt": "2025-06-19T12:08:49Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4252, "title": "feat: Interactive .gitignore templating for new projects", "createdAt": "2025-06-19T17:04:56Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4254, "title": "Support official model `openrouter/google/gemini-2.5-pro`", "createdAt": "2025-06-20T10:06:08Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4255, "title": "Refactor the code to improve the program's running efficiency.", "createdAt": "2025-06-21T05:20:44Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4257, "title": "feat: Auto-create parent directories for chat history files", "createdAt": "2025-06-23T10:01:02Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4258, "title": "Search config files recursively", "createdAt": "2025-06-23T10:27:48Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4260, "title": "add MATLAB tags to enable repo map support", "createdAt": "2025-06-23T20:54:01Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4264, "title": "refactor: update HEAD regex to accept optional closing tag in search blocks", "createdAt": "2025-06-24T08:22:09Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4267, "title": "Fix immediate vertex rate limits with upgrade of LiteLLM", "createdAt": "2025-06-24T14:05:19Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4268, "title": "add Gemini 2.5 non-preview Vertex models", "createdAt": "2025-06-24T15:14:52Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4269, "title": "fix: Resolve literal paths correctly in /read-only command", "createdAt": "2025-06-24T19:01:49Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4271, "title": "fix: Auto-create parent directories for chat history files", "createdAt": "2025-06-25T13:13:12Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4275, "title": "fix: creating directory for input_history_file", "createdAt": "2025-06-25T17:44:37Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4282, "title": "feat: enforce truecolor rendering for prompt_toolkit sessions", "createdAt": "2025-06-26T16:23:56Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4286, "title": "Document the GitHub Models provider", "createdAt": "2025-06-27T09:13:10Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4288, "title": "Add SELinux volume label for Docker volumes", "createdAt": "2025-06-27T13:18:13Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4291, "title": "Update pygment", "createdAt": "2025-06-27T23:02:20Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4293, "title": "Test/agent experiment", "createdAt": "2025-06-28T02:29:20Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4296, "title": "feat: Add configuration option to specify model provider for /voice command", "createdAt": "2025-06-30T19:00:05Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4299, "title": "Fix duplicate model settings", "createdAt": "2025-07-01T08:25:28Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4300, "title": "fix: Remove existing model settings before adding new ones", "createdAt": "2025-07-01T08:58:26Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4303, "title": "Update azure.md", "createdAt": "2025-07-01T14:56:36Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4307, "title": "Remove extra duplicated line in default commit instructions", "createdAt": "2025-07-04T19:04:20Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4310, "title": "Submit the evaluation results for our MindLink model", "createdAt": "2025-07-05T12:02:34Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4320, "title": "Don't truncate map file names, add configurable map max line length", "createdAt": "2025-07-07T22:20:57Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4321, "title": "fix: add missing output for clear command", "createdAt": "2025-07-08T03:31:56Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4324, "title": "Add gemini 2.5 flash lite preview 06-17", "createdAt": "2025-07-09T15:10:48Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4333, "title": "Clear chat history on model-specific max_done_messages option", "createdAt": "2025-07-11T05:28:58Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4337, "title": "docs: Add nvim-aider to NeoVim plugins list", "createdAt": "2025-07-12T11:05:56Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4342, "title": "Add openrouter kimi-k2 model to `aider/resources`.", "createdAt": "2025-07-12T16:11:37Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4343, "title": "Feature: Add /session command for chat session and file management", "createdAt": "2025-07-12T21:06:54Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4344, "title": "Feature: Integrate fuzzy finder for /add and /read-only commands", "createdAt": "2025-07-13T06:36:43Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4347, "title": "benchmark: add ernie-4.5-300b-a47b", "createdAt": "2025-07-13T23:38:33Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4348, "title": "Polyglot results for \"tngtech/DeepSeek-TNG-R1T2-Chimera\" FP8", "createdAt": "2025-07-13T23:41:06Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4349, "title": "feat: Optional 'ask-model' for Ask mode", "createdAt": "2025-07-14T09:07:08Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4350, "title": "Trial branch", "createdAt": "2025-07-15T08:09:26Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4357, "title": "fix off by one error in kimi-k2 token costs", "createdAt": "2025-07-17T09:20:53Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4358, "title": "No pinned requirements for package 2025 07", "createdAt": "2025-07-17T10:12:46Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4366, "title": "Fzf reverse history search", "createdAt": "2025-07-19T20:53:14Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4369, "title": "chore: bump tree-sitter from 0.24.0 to 0.25.0", "createdAt": "2025-07-20T13:44:02Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4379, "title": "feat: Add new test results for Qwen3-Coder-480B-A35B-Instruct model to polyglot leaderboard", "createdAt": "2025-07-24T09:46:17Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4383, "title": "Add settings for the qwen3 30b family", "createdAt": "2025-07-25T19:30:28Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4386, "title": "0728 test", "createdAt": "2025-07-28T10:01:46Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4391, "title": "chore: bump deps", "createdAt": "2025-07-30T10:00:34Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4392, "title": "chore: bump deps to bump LiteLLM", "createdAt": "2025-07-30T10:07:17Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4394, "title": "implement MVP for the RAG feature", "createdAt": "2025-07-30T22:23:24Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4400, "title": "Rename 'yes' in InputOutput to 'yes_always' for easier code searching", "createdAt": "2025-08-01T10:55:02Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4402, "title": "Update benchmark.py to allow stats for per-language added to the results", "createdAt": "2025-08-01T14:51:24Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4403, "title": "Add test results for GLM 4.5 (thinking & non-thinking modes) model to polyglot leaderboard", "createdAt": "2025-08-03T13:57:07Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4410, "title": "chore: prettier scripting usage for faq", "createdAt": "2025-08-05T11:26:32Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4412, "title": "Add test results for gpt-oss-120b (high) to polyglot leaderboard", "createdAt": "2025-08-06T06:38:25Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4413, "title": "Add test results for GLM 4.5 (thinking & non-thinking modes) model to polyglot leaderboard", "createdAt": "2025-08-06T06:38:40Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4416, "title": "Add benchmark results for gpt-oss-120b and gpt-oss-20b in \"whole edit\" mode", "createdAt": "2025-08-06T14:04:49Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4432, "title": "mention /read in usage docs", "createdAt": "2025-08-09T19:56:03Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4443, "title": "fix: options are now set only if not already present", "createdAt": "2025-08-13T22:31:18Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4444, "title": "Fix gpt-oss-120 high on polyglot_leaderboard.yml", "createdAt": "2025-08-13T23:17:47Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4449, "title": "Test", "createdAt": "2025-08-15T05:39:45Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4456, "title": "feat: show external models in autocomplete", "createdAt": "2025-08-16T02:17:53Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4459, "title": "Add github_copilot/ models", "createdAt": "2025-08-18T00:30:42Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4464, "title": "docs: add DeepSeek V3.1 benchmark results to leaderboard", "createdAt": "2025-08-19T17:49:35Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4467, "title": "chore: add GPT-5-mini test results to polyglot leaderboard", "createdAt": "2025-08-21T11:54:46Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4469, "title": "chore: add GPT-5-nano test results to leaderboard", "createdAt": "2025-08-21T14:44:03Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4473, "title": "Drop support for Python 3.10", "createdAt": "2025-08-22T18:58:28Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4475, "title": "Add GPT-5 with all reasoning settings to polyglot leaderboard", "createdAt": "2025-08-23T17:13:00Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4476, "title": "Replace pydub with pyav", "createdAt": "2025-08-23T18:03:07Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4485, "title": "Add \"pre\" and \"post\" handlers", "createdAt": "2025-08-27T15:00:55Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4488, "title": "Examples of handlers", "createdAt": "2025-08-28T14:21:47Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4492, "title": "V0.87.5", "createdAt": "2025-08-31T22:36:23Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4493, "title": "added julia tree sitter", "createdAt": "2025-09-01T00:09:36Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4495, "title": "Add vercel ai gateway provider", "createdAt": "2025-09-02T19:32:17Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4505, "title": "Repomap for polyglot benchmark and Fixed retry delay option", "createdAt": "2025-09-07T05:04:21Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4514, "title": "feat: Add support for litellm as a provider", "createdAt": "2025-09-13T05:52:04Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4518, "title": "fix: handle tree-sitter query errors gracefully in repo map generation", "createdAt": "2025-09-16T07:44:30Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4522, "title": "Feature: print benchmark stats broken down by language", "createdAt": "2025-09-18T00:32:20Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4528, "title": "Add support for OpenAI Responses API in Model class", "createdAt": "2025-09-23T22:17:57Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4534, "title": "Added tree-sitter tags for FORTRAN", "createdAt": "2025-09-26T14:19:46Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4537, "title": "Fix symlink loop causing crash", "createdAt": "2025-09-27T19:45:08Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4539, "title": "Support loading config from XDG_CONFIG paths", "createdAt": "2025-09-28T14:01:43Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4541, "title": "added tags for FORTRAN", "createdAt": "2025-09-29T05:47:10Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4544, "title": "Feature request: support for Bedrock/Claude 4.5 ", "createdAt": "2025-09-29T19:23:26Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4545, "title": "Modularize VCS Support, introduce Git and JJ backends", "createdAt": "2025-09-29T20:48:42Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4547, "title": "Support for gpt-5-codex", "createdAt": "2025-09-30T05:18:18Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4551, "title": "DeepSeek-3.2-Exp chat and reasoning results", "createdAt": "2025-10-03T11:11:42Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4552, "title": "chore: version DeepSeek name and fix cost calculation", "createdAt": "2025-10-04T09:18:22Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4557, "title": "Remove duplicate instruction \"Always reply to the user in {language}\"", "createdAt": "2025-10-05T19:04:49Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4564, "title": "Updated base_coder.py", "createdAt": "2025-10-09T07:20:49Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4565, "title": "Updated base_coder.py", "createdAt": "2025-10-09T10:48:13Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4566, "title": "Gemini 2.5 Pro needs weak model assignment #3711", "createdAt": "2025-10-09T14:04:24Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4567, "title": "Uncaught UnicodeEncodeError in utils.py line 139", "createdAt": "2025-10-09T14:25:58Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4568, "title": "Uncaught UnicodeEncodeError in utils.py line 139", "createdAt": "2025-10-09T15:54:54Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4569, "title": "Create package structure ,Create __init__.py files", "createdAt": "2025-10-09T17:50:55Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4570, "title": "Update README: correct multiple aliases format (#4532)", "createdAt": "2025-10-09T18:11:21Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4571, "title": "user preference Color added And added API Key", "createdAt": "2025-10-09T18:35:12Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4572, "title": "Updated copypaste.py", "createdAt": "2025-10-09T20:07:05Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4573, "title": "Updated homepage.py", "createdAt": "2025-10-09T20:16:39Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4574, "title": "Added a helper command /help", "createdAt": "2025-10-10T00:32:08Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4575, "title": "Move config and cache into .aider folder to reduce root clutter", "createdAt": "2025-10-10T00:49:09Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4576, "title": "Fix: Handle OSError when git config lock fails on network drives", "createdAt": "2025-10-10T01:50:44Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4577, "title": "Fix: Improve light-mode to disable background colors (#4519)", "createdAt": "2025-10-10T03:15:56Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4578, "title": "Fix gemini weak model", "createdAt": "2025-10-10T03:24:20Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4579, "title": "Fix #4306: Handle symlink loops in safe_abs_path", "createdAt": "2025-10-10T03:53:28Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4580, "title": " Fix commit messages (remove extra backticks)", "createdAt": "2025-10-10T04:38:59Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4587, "title": "bug: Unskip `it` tests in JS benchmark", "createdAt": "2025-10-14T12:31:07Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4590, "title": "Added GLM-4.6 polyglot benchmark", "createdAt": "2025-10-15T18:21:20Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4595, "title": "add benchmark results for gpt-5-nano (run3 - oct 2025)", "createdAt": "2025-10-18T04:41:20Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4601, "title": "Feature proposal: Add --profile for conditional config", "createdAt": "2025-10-21T20:01:44Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4605, "title": "Add Ollama cloud model integration", "createdAt": "2025-10-26T03:20:30Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4607, "title": "Add Ollama Cloud Models support", "createdAt": "2025-10-28T01:50:15Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4611, "title": "docs: Add Hugging Face Inference Providers documentation", "createdAt": "2025-10-29T11:07:58Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4617, "title": "Merged from upstream main", "createdAt": "2025-10-31T20:28:21Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4620, "title": "add initial zig-tags.scm for repomap building", "createdAt": "2025-11-02T15:24:22Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4621, "title": "add initial haskell-tags.scm for repomap building", "createdAt": "2025-11-02T15:27:46Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4623, "title": "feat: Integrate Helicone into Aider", "createdAt": "2025-11-04T20:33:05Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4627, "title": "Fix Aider-AI#2644: MemoryError in choose_fence", "createdAt": "2025-11-05T11:32:47Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4634, "title": "V0.88.12", "createdAt": "2025-11-09T17:32:50Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4635, "title": "Merge pull request #8 from Aider-AI/main", "createdAt": "2025-11-09T17:45:30Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4645, "title": "Add pretty assistant parameter", "createdAt": "2025-11-14T22:06:39Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4650, "title": "Added option so set custom request timeout in benchmarks.py", "createdAt": "2025-11-16T22:40:49Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4651, "title": "[DOCS] Add new tip for easily adding files", "createdAt": "2025-11-17T09:25:32Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4652, "title": "Add agent mode: autonomous file editing with automatic test running", "createdAt": "2025-11-17T10:14:19Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4656, "title": "Add support for the latest GPT and Gemini models", "createdAt": "2025-11-18T21:54:55Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4657, "title": "V0.88.23", "createdAt": "2025-11-19T18:23:10Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4660, "title": "Fix for Incomplete OpenRouter Model Listing", "createdAt": "2025-11-21T10:28:47Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4663, "title": "Fix notifications command syntax in documentation", "createdAt": "2025-11-24T12:35:17Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4668, "title": "Fix /clear command being undone when switching chat modes", "createdAt": "2025-11-26T23:05:09Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4671, "title": "fix: add new exceptions to LiteLLMExceptions", "createdAt": "2025-11-27T08:17:23Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4674, "title": "Allow adding read-only files to editable with git: false.", "createdAt": "2025-11-30T01:56:17Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4678, "title": "feat: Add support for Bedrock Claude 1M context window via [1m] suffix", "createdAt": "2025-12-01T07:03:16Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4681, "title": "Enable shell calls in /ask mode.", "createdAt": "2025-12-03T09:42:41Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4682, "title": "Don't stage files with no-auto-commits.", "createdAt": "2025-12-03T09:44:31Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4683, "title": "Add /save-response FILENAME.md command to save last response.", "createdAt": "2025-12-03T09:45:47Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4684, "title": "V0.88.38", "createdAt": "2025-12-04T03:03:08Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4689, "title": "Add new error types for API exceptions", "createdAt": "2025-12-08T18:59:20Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4692, "title": "Fix/revert dockerfile change", "createdAt": "2025-12-09T19:18:24Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4698, "title": "Add gpt-5.2 models", "createdAt": "2025-12-11T19:17:42Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4726, "title": "feat: Add Constitutional AI-inspired safety guardrails - Feature/safety layer", "createdAt": "2025-12-26T15:25:06Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4731, "title": "LangSmith Observability Integration", "createdAt": "2025-12-27T10:48:57Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4732, "title": "Add truncated option for long /run and /test outputs", "createdAt": "2025-12-28T11:13:36Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4733, "title": "Update 才能main.py", "createdAt": "2025-12-28T15:45:04Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4734, "title": "Update main.py", "createdAt": "2025-12-28T15:48:58Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4746, "title": "feat: add intelligent output filtering for /run and /test commands", "createdAt": "2026-01-04T06:08:07Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4748, "title": "Fix regression in the LiteLLM exception list", "createdAt": "2026-01-04T14:38:59Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4754, "title": "docs: updates Github Copilot docs to setup aider with recent Copliot requirements", "createdAt": "2026-01-07T21:17:57Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4755, "title": "replace importlib_resources with importlib.resources", "createdAt": "2026-01-08T14:15:19Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4760, "title": "fix ui", "createdAt": "2026-01-11T04:59:52Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4772, "title": "Remove `google-generativeai` as a dependency.", "createdAt": "2026-01-16T10:05:52Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4777, "title": "New /summarize cmd compacts into a SUMMARY-* file.", "createdAt": "2026-01-19T15:15:41Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4780, "title": "fix: Revert grpcio and protobuf to versions compatible with litellm", "createdAt": "2026-01-20T09:00:52Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4782, "title": "Add /list-sessions and /restore-session commands", "createdAt": "2026-01-21T04:49:16Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4791, "title": "feat: Add support for OpenAI Responses API", "createdAt": "2026-01-23T06:45:47Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4792, "title": "fix: support tree-sitter 0.22.0+ API change for query captures", "createdAt": "2026-01-23T10:34:09Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4813, "title": "Add benchmark results for GLM-4.6 quantized models", "createdAt": "2026-02-07T18:26:22Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4814, "title": "fix: pytests, GH workflows and updated dependencies", "createdAt": "2026-02-08T07:39:02Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4815, "title": "Add control over the size and number of historical files", "createdAt": "2026-02-09T06:41:09Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4818, "title": "Add --system-prompt-extras option to append file content to system prompt", "createdAt": "2026-02-10T02:59:28Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4819, "title": "Make sure LLM calls are logged, including reasoning traces", "createdAt": "2026-02-10T16:57:55Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4823, "title": "fix: update site-packages path to Python 3.12 in Dockerfile", "createdAt": "2026-02-11T09:46:08Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4824, "title": "Remove the leading and trailing spaces from the user input content", "createdAt": "2026-02-12T02:50:29Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4825, "title": "Control chat history", "createdAt": "2026-02-12T02:56:51Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4826, "title": "Make the relevant naming meaningless in the example of customizing the output format for LLM", "createdAt": "2026-02-12T05:45:59Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4827, "title": "Fixed two pytest failures", "createdAt": "2026-02-12T09:19:46Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4830, "title": "Allow adding files outside repo when git commits off.", "createdAt": "2026-02-14T12:47:12Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4832, "title": "fix: add missing PermissionDeniedError to litellm exceptions list", "createdAt": "2026-02-14T23:33:57Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4836, "title": "fix: use str.replace instead of str.format for commit prompt language instruction", "createdAt": "2026-02-16T09:07:37Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4837, "title": "Fix UnicodeDecodeError in load_gitignores()", "createdAt": "2026-02-16T09:38:27Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4838, "title": "fix: handle symlink loops in safe_abs_path()", "createdAt": "2026-02-16T09:40:32Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4839, "title": "Fix AttributeError in exceptions.py when litellm missing expected exceptions", "createdAt": "2026-02-16T10:49:59Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4840, "title": "fix: catch MissingStyle in display_user_input for invalid color names", "createdAt": "2026-02-16T10:52:25Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4841, "title": "fix: handle ValueError in render_tree() for incompatible Language versions", "createdAt": "2026-02-16T11:09:41Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4842, "title": "fix: handle OSError from Path.is_dir() when filename is invalid", "createdAt": "2026-02-16T11:26:38Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4843, "title": "fix: handle PermissionError in setup_git when .git/config.lock unwritable", "createdAt": "2026-02-16T11:34:45Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4844, "title": "Fix UnicodeDecodeError in diskcache TAGS_CACHE.get()", "createdAt": "2026-02-16T11:35:17Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4845, "title": "feat: skip auto-commit when LLM response is truncated", "createdAt": "2026-02-17T10:26:47Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4850, "title": "Fix: Handle missing tiktoken dependency in LazyLiteLLM", "createdAt": "2026-02-19T13:13:47Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4854, "title": "feat: add /temperature conmmand to aider", "createdAt": "2026-02-20T10:36:06Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4855, "title": "feat: Add native EUrouter provider support", "createdAt": "2026-02-20T11:25:17Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4858, "title": "feat: add double-buffer context management", "createdAt": "2026-02-25T23:23:42Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4863, "title": "Add Avian as an LLM provider", "createdAt": "2026-02-27T03:31:46Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4864, "title": "feat: add Strategic Liquidity Manager (SLM) service with FastAPI API,…", "createdAt": "2026-02-27T11:38:39Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4865, "title": "Merge", "createdAt": "2026-02-27T12:38:16Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4866, "title": "Flyio new files", "createdAt": "2026-02-27T12:45:15Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4868, "title": "feat: add Strategic Liquidity Manager (SLM) service with FastAPI API,…", "createdAt": "2026-02-28T00:38:54Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4870, "title": "feat: Add openssh-client to Docker image dependencies", "createdAt": "2026-02-28T19:21:50Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4871, "title": "feat: include Docker CLI in aider-full image", "createdAt": "2026-02-28T19:35:40Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4875, "title": "Add \"between\" edit format", "createdAt": "2026-03-01T22:45:31Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4879, "title": "Add LLMAPI as an LLM provider", "createdAt": "2026-03-03T07:16:15Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4883, "title": "feat: add /search command powered by WarpGrep AI code search", "createdAt": "2026-03-05T08:29:35Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4887, "title": "Add client-side filters and sortable columns to leaderboard", "createdAt": "2026-03-06T02:55:24Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4891, "title": "fix: exclude symlinks-to-directories from repo map file listing", "createdAt": "2026-03-07T09:25:45Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4893, "title": "Add reflection mechanism to run_stream method", "createdAt": "2026-03-08T10:13:55Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4894, "title": "fix: catch ValueError in _get_style for invalid color formats", "createdAt": "2026-03-08T16:37:36Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4895, "title": "fix: UnicodeEncodeError when redirecting repo map output on Windows", "createdAt": "2026-03-08T22:39:26Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4896, "title": "fix: emoji input crash from lone UTF-16 surrogates on Windows", "createdAt": "2026-03-08T22:40:12Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4898, "title": "Add User-Agent header for LLM API calls", "createdAt": "2026-03-09T01:32:35Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4899, "title": "Add Python 3.13 and 3.14 support", "createdAt": "2026-03-09T20:48:47Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4901, "title": "fix: missing f-string prefix and temp file cleanup in voice.py", "createdAt": "2026-03-10T14:27:47Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4908, "title": "Handle litellm import failures in model search", "createdAt": "2026-03-12T04:39:17Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4909, "title": "Handle /help initialization failures gracefully", "createdAt": "2026-03-12T06:01:49Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4910, "title": "Handle missing cwd when probing git root", "createdAt": "2026-03-12T06:13:30Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4915, "title": "Refactoring assignment2", "createdAt": "2026-03-13T18:25:33Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4918, "title": "Security: Add warning for shell commands in workspace configs", "createdAt": "2026-03-14T08:01:16Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4920, "title": "Skip invalid tree-sitter queries in repo map generation", "createdAt": "2026-03-14T16:10:52Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4921, "title": "Handle variable MultiDiGraph out-edge tuple shapes in repo map", "createdAt": "2026-03-14T16:14:48Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4922, "title": "Add Gemini 3.1 Pro, Flash, and Flash Lite benchmark results", "createdAt": "2026-03-15T10:05:28Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4924, "title": "fix: catch NoSuchPathError in get_git_root()", "createdAt": "2026-03-15T19:55:22Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4925, "title": "docs: add Chinese translation (README.zh.md)", "createdAt": "2026-03-16T06:08:44Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4927, "title": "fix: Include user-added files in commit message context", "createdAt": "2026-03-16T10:35:39Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4928, "title": "fix: correct /undo prompt to match actual git reset --soft behavior", "createdAt": "2026-03-16T12:26:55Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4929, "title": "fix: add missing f-string prefix in voice.py file size warning", "createdAt": "2026-03-16T12:26:58Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4930, "title": "fix: add missing parameters to posthog on_error callback", "createdAt": "2026-03-16T12:27:04Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4931, "title": "fix: swap foreground/background colors in completion menu current item", "createdAt": "2026-03-16T12:27:10Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4934, "title": "fix: Remove programming error exceptions from ANY_GIT_ERROR", "createdAt": "2026-03-16T17:06:05Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4935, "title": "fix: replace two deprecated models, delete one", "createdAt": "2026-03-16T21:46:11Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 4936, "title": "Add ACP (Agent Communication Protocol) support adapter", "createdAt": "2026-03-17T00:29:02Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4937, "title": "fix: Uncaught UnicodeDecodeError in cp1252.py line 23", "createdAt": "2026-03-17T02:16:42Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4938, "title": "fix: use keys=True in MultiDiGraph.out_edges() to prevent ValueError", "createdAt": "2026-03-17T23:40:00Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4940, "title": "Add opt-in union-find chat history summarizer", "createdAt": "2026-03-19T02:05:12Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4941, "title": "Add /topics and /drop-topic commands", "createdAt": "2026-03-19T02:49:24Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4945, "title": "fix: add debug logging for programming exceptions caught by ANY_GIT_ERROR", "createdAt": "2026-03-20T04:45:45Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4946, "title": "fix: inconsistent opening reasoning tag", "createdAt": "2026-03-20T10:20:57Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4953, "title": "fix: preserve architect context when file-add dialog triggers", "createdAt": "2026-03-23T10:39:07Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4959, "title": "fix: handle PermissionError in version check cache write", "createdAt": "2026-03-26T21:42:09Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4960, "title": "fix: handle missing litellm exception classes gracefully", "createdAt": "2026-03-26T23:45:52Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4967, "title": "Handle /models import errors gracefully", "createdAt": "2026-03-30T11:40:56Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4968, "title": "fix: require exact SEARCH/REPLACE divider in edit blocks", "createdAt": "2026-03-30T12:00:49Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4969, "title": "fix: fall back to httpx when playwright is missing", "createdAt": "2026-03-30T12:33:30Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4970, "title": "fix: fall back to python pagerank when scipy is missing", "createdAt": "2026-03-30T12:48:18Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4972, "title": "persistent memory loop / offline localized model tools", "createdAt": "2026-03-30T17:47:11Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4973, "title": "Fix TypeError when working_tree_dir is None", "createdAt": "2026-03-30T19:04:24Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4974, "title": "fix: preserve command output on Windows", "createdAt": "2026-03-31T11:17:30Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4975, "title": "fix: restore markdown history summarization helper", "createdAt": "2026-03-31T11:35:20Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4977, "title": "fix: abort cleanly in batch mode (--exit) when Ollama is unreachable", "createdAt": "2026-03-31T14:19:13Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4981, "title": "docs: add EUrouter as LLM provider", "createdAt": "2026-04-01T18:15:55Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4982, "title": "docs: add EUrouter as LLM provider", "createdAt": "2026-04-01T18:41:22Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 4987, "title": "fix: sanitize surrogate characters in messages before sending to LLM", "createdAt": "2026-04-03T23:24:24Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4994, "title": "fix: handle errors in /help command gracefully (#4992)", "createdAt": "2026-04-05T14:04:14Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 4995, "title": "fix: catch RuntimeError in command execution (#4988)", "createdAt": "2026-04-05T14:04:59Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5003, "title": "use list reference comparison instead of content", "createdAt": "2026-04-07T07:07:10Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5005, "title": "Processes AI! comments in Markdown files", "createdAt": "2026-04-07T13:59:35Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5007, "title": "test: add dedicated test coverage for search_replace module", "createdAt": "2026-04-08T06:09:59Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5009, "title": "test: add dedicated test coverage for diffs.py module", "createdAt": "2026-04-08T06:12:52Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5011, "title": "Add --max-reflections CLI option (fixes #3865)", "createdAt": "2026-04-08T21:00:31Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5015, "title": "chore(requirements): bump aiohttp to 3.13.4", "createdAt": "2026-04-10T00:04:08Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5016, "title": "chore(requirements): bump litellm to 1.83.0", "createdAt": "2026-04-10T00:04:16Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5017, "title": "chore(requirements): bump pygments to 2.20.0", "createdAt": "2026-04-10T00:04:21Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5018, "title": "chore(requirements): bump requests to 2.33.0", "createdAt": "2026-04-10T00:04:24Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5019, "title": "feat: add Kyma API models (via OpenAI-compatible endpoint)", "createdAt": "2026-04-11T00:42:46Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5021, "title": "ci: pin issue workflow actions", "createdAt": "2026-04-11T07:21:15Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5024, "title": "fix: check len(errors) before string conversion in udiff_coder.py", "createdAt": "2026-04-12T18:02:19Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5026, "title": "refactor : remove unused class-level tree_cache variable", "createdAt": "2026-04-13T07:20:36Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5031, "title": "fix(io): tool_output falls back to ASCII on UnicodeEncodeError (#5029)", "createdAt": "2026-04-15T07:33:29Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5032, "title": "feat: skip auto-commit when LLM response is truncated", "createdAt": "2026-04-15T15:55:59Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5033, "title": "feat: skip auto-commit when LLM response is truncated", "createdAt": "2026-04-15T17:29:53Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5034, "title": "chore: docker env", "createdAt": "2026-04-16T07:46:25Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5042, "title": "docs: add QuickSilver Pro as an LLM provider option", "createdAt": "2026-04-17T20:27:46Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5045, "title": "fix: skip auto-commit when LLM response is truncated", "createdAt": "2026-04-18T06:10:56Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5050, "title": "fix: fall back to ASCII in tool_output", "createdAt": "2026-04-19T08:13:35Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5052, "title": "Add bash/shell repomap support", "createdAt": "2026-04-19T09:29:55Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5065, "title": "Fix prompt injection vulnerability in Architect mode (Issue #5058)", "createdAt": "2026-04-22T19:36:20Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5066, "title": "Polyglot benchmark: Claude Opus 4.7 new #1 at 93.3%", "createdAt": "2026-04-24T09:50:54Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5069, "title": "docs: Add FuturMix to LLM providers", "createdAt": "2026-04-25T11:53:45Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5070, "title": "docs: add FuturMix LLM provider documentation", "createdAt": "2026-04-25T14:43:49Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5073, "title": "feat: add SAST scanning workflow with Semgrep and OSV-Scanner", "createdAt": "2026-04-26T01:24:12Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5078, "title": "Add mistral-small-2603 model settings", "createdAt": "2026-04-27T04:03:32Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5083, "title": "fix: handle invalid CLI path inputs gracefully", "createdAt": "2026-04-28T17:31:58Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5084, "title": "fix: handle git config lock errors gracefully", "createdAt": "2026-04-28T17:39:26Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5085, "title": "fix: handle corrupt git index errors in sanity check", "createdAt": "2026-04-28T17:42:11Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5086, "title": "fix: report import errors from coder runs", "createdAt": "2026-04-28T17:50:09Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5087, "title": "fix: report model import errors at startup", "createdAt": "2026-04-28T17:54:04Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5088, "title": "Security: fix critical confirmation bypass, dangerous defaults, and shell injection", "createdAt": "2026-04-28T19:46:55Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5090, "title": "fix: read gitignore files as utf-8", "createdAt": "2026-04-29T04:12:46Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5091, "title": "Handle unwritable version check cache", "createdAt": "2026-04-29T05:53:15Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5092, "title": "Support OfoxAI unified LLM API", "createdAt": "2026-04-29T09:18:29Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5095, "title": "Add Perplexity as a model provider", "createdAt": "2026-04-30T22:34:22Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5098, "title": "platform_info: also catch OSError from Windows WMI calls in platform.platform()", "createdAt": "2026-05-02T20:58:59Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5099, "title": "main: handle NoSuchPathError from git.Repo when path resolution fails", "createdAt": "2026-05-02T21:10:01Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5102, "title": "watch: open .gitignore files as utf-8 with permissive fallback", "createdAt": "2026-05-02T21:30:52Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5103, "title": "versioncheck: tolerate OSError when creating version-check marker", "createdAt": "2026-05-02T21:31:44Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5104, "title": "Docs: add Claudexia as OpenAI-compatible LLM provider", "createdAt": "2026-05-04T09:03:48Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5106, "title": "fix nested code blocks in file content making filenames of commands", "createdAt": "2026-05-04T10:48:07Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5107, "title": "Feat/relay infrastructure gaps", "createdAt": "2026-05-05T12:54:57Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5108, "title": "fix: the onboarding module uses python's hashlib in onboarding.py", "createdAt": "2026-05-05T15:59:50Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5112, "title": "fix(coders): catch doubled-prefix hallucinations in edit-block headers", "createdAt": "2026-05-07T16:25:01Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5113, "title": "feat: Threshold Luminism UI — premium dark theme with generative art …", "createdAt": "2026-05-07T21:09:28Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5116, "title": "Support OfoxAI unified LLM API", "createdAt": "2026-05-08T02:14:09Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5120, "title": "Feat/relay infrastructure gaps", "createdAt": "2026-05-09T15:14:34Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5122, "title": "support deepseek v4 model", "createdAt": "2026-05-10T16:04:57Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5124, "title": "fix: set SSL_VERIFY=False for --no-verify-ssl", "createdAt": "2026-05-10T18:27:33Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5127, "title": "docs: clarify aider-install env and link local-model setup", "createdAt": "2026-05-11T13:53:17Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5132, "title": "feat: add bash tree-sitter tags for repomap support", "createdAt": "2026-05-15T09:52:42Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 5135, "title": "fix: avoid GitPython index parsing for tracked files", "createdAt": "2026-05-15T18:06:34Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5136, "title": "fix: accept model-settings-file in benchmark", "createdAt": "2026-05-15T22:10:23Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5137, "title": "Guard scraper against private network URLs", "createdAt": "2026-05-16T01:18:12Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5138, "title": "fix: skip invalid repo-map tree-sitter queries", "createdAt": "2026-05-16T18:53:36Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5142, "title": "security: bump GitPython, Pillow, urllib3 to CVE-clean versions", "createdAt": "2026-05-17T05:07:40Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5144, "title": "Feature/one shot flag", "createdAt": "2026-05-18T09:17:47Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5147, "title": "feat: add OrcaRouter (orcarouter/) as a first-class provider", "createdAt": "2026-05-19T03:39:19Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5149, "title": "feat: add --one-shot flag for sessionless single-prompt execution", "createdAt": "2026-05-19T04:55:48Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5150, "title": "docs(llms): add QuickSilver Pro provider page", "createdAt": "2026-05-19T05:02:01Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5151, "title": "fix: catch OSError from Path.is_dir() with invalid filenames", "createdAt": "2026-05-19T05:21:11Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5154, "title": "onboarding: write ~/.aider/oauth-keys.env at 0o600 instead of default umask (0o644)", "createdAt": "2026-05-19T16:14:45Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5157, "title": "Fix unicode error name in pretty output warning", "createdAt": "2026-05-19T22:57:44Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5158, "title": "docs: add Tuning Engines OpenAI-compatible example", "createdAt": "2026-05-20T21:11:05Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5159, "title": "fix: make console output resilient to terminal encoding", "createdAt": "2026-05-21T04:42:18Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5161, "title": "Add NEAR AI Cloud provider", "createdAt": "2026-05-21T15:26:59Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5162, "title": "fix crash with Julia files", "createdAt": "2026-05-21T15:42:45Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5166, "title": "Add model settings for Gemini 3.1 Pro Preview and Flash-Lite", "createdAt": "2026-05-22T09:18:25Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5167, "title": "Add model settings for GPT-5.4 Mini and GPT-5.4 Nano", "createdAt": "2026-05-22T09:30:29Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5168, "title": "Add model settings for Claude 4.x family on Azure AI Foundry", "createdAt": "2026-05-22T09:43:28Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5169, "title": "Add model settings for DeepSeek R1 and V3 family on Azure AI Foundry", "createdAt": "2026-05-22T10:01:56Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5170, "title": "Fix OpenRouter Anthropic weak/editor model name format (dash vs dot)", "createdAt": "2026-05-22T10:05:50Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5171, "title": "Add gemini-3.1-pro-preview and flash-lite-3.1 model aliases", "createdAt": "2026-05-22T10:10:47Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5172, "title": "Expand OPENAI_MODELS list with recent OpenAI model names", "createdAt": "2026-05-22T10:15:28Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5173, "title": "Expand ANTHROPIC_MODELS list with recent Claude model names", "createdAt": "2026-05-22T10:16:25Z", "state": "MERGED", "repo": "Aider-AI/aider"}
+{"number": 5176, "title": "fix: surface provider API errors instead of showing empty response", "createdAt": "2026-05-23T04:50:12Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5177, "title": "fix: pass --no-verify-ssl to version check, fix SSL_VERIFY, add AIDER_TAGS_CACHE_DIR", "createdAt": "2026-05-23T05:06:05Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5178, "title": "feat: add Zima as OpenAI-compatible provider", "createdAt": "2026-05-23T07:03:28Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5179, "title": "fix: handle tree-sitter parse() str/bytes contract on Python 3.14", "createdAt": "2026-05-23T07:36:30Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5186, "title": "feat(retry): full-jitter backoff + Retry-After honoring + max_retries cap (fixes #5165)", "createdAt": "2026-05-25T04:43:34Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5191, "title": "fix(io): reconfigure Windows stdio to UTF-8 so piped output emits Unicode (#4294)", "createdAt": "2026-05-26T04:55:22Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5194, "title": "Fix .aiderignore decoding with configured encoding", "createdAt": "2026-05-26T12:56:16Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5199, "title": "fix: handle SwitchCoder in --message-file one-shot mode", "createdAt": "2026-05-28T21:11:24Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5200, "title": "fix(versioncheck): swallow OSError on cooldown marker write (closes #5180)", "createdAt": "2026-05-30T03:10:10Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5207, "title": "repomap: boost co-changed files in personalization via git history", "createdAt": "2026-06-01T16:41:22Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5208, "title": "Surface agent skills published via llms.txt on /web", "createdAt": "2026-06-01T23:33:23Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5211, "title": "docs: add Ollama local LLM setup guide to resources", "createdAt": "2026-06-02T13:21:27Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5214, "title": "[BUG] Aider ignores model setting when generating commit message", "createdAt": "2026-06-03T20:32:03Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5215, "title": "Fix uncaught FileNotFoundError in format_files_for_input", "createdAt": "2026-06-04T04:45:11Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5218, "title": "Add security policy", "createdAt": "2026-06-05T11:49:55Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5219, "title": "fix: handle symlink loops causing RuntimeError in Path.resolve()", "createdAt": "2026-06-05T16:42:34Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5221, "title": "fix: read .aiderignore with the configured encoding", "createdAt": "2026-06-06T02:54:37Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5222, "title": "fix: catch ModuleNotFoundError when loading litellm with helpful diagnostic", "createdAt": "2026-06-06T06:15:23Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5223, "title": "fix: handle symlink loops causing RuntimeError in Path.resolve()", "createdAt": "2026-06-06T06:28:52Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5224, "title": "fix: catch ModuleNotFoundError when loading litellm with helpful diagnostic", "createdAt": "2026-06-06T06:28:52Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5225, "title": "fix: gracefully skip missing litellm exception classes in _load", "createdAt": "2026-06-06T06:51:17Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5226, "title": "fix: catch ModuleNotFoundError when loading litellm with helpful diagnostic", "createdAt": "2026-06-06T10:17:42Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5227, "title": "Detect and use Python file encoding (PEP 263) on read and write", "createdAt": "2026-06-06T15:12:12Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5229, "title": "fix: catch NoSuchPathError in get_git_root to prevent crash", "createdAt": "2026-06-07T06:47:57Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5231, "title": "docs: add RunAPI OpenAI-compatible example", "createdAt": "2026-06-07T14:29:58Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5233, "title": "docs: add ForAI OpenAI-compatible provider guide", "createdAt": "2026-06-07T17:38:42Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5236, "title": "Confirm before a whole-file rewrite silently drops most of a file", "createdAt": "2026-06-07T21:35:41Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5238, "title": "fix: tolerate platform info lookup failures", "createdAt": "2026-06-08T08:22:35Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5239, "title": "fix: replace surrogate chars before completion requests", "createdAt": "2026-06-08T08:41:11Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5240, "title": "docs: add QVAC as a local OpenAI-compatible provider", "createdAt": "2026-06-08T20:58:50Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5245, "title": "fix: catch SystemError in render_tree when tree-sitter AST parsing fails", "createdAt": "2026-06-10T02:48:06Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5246, "title": "feat: add .aider.md template system for project-level instructions", "createdAt": "2026-06-10T03:06:01Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5248, "title": "fix: add explicit dest to --analytics-posthog-project-api-key for Python 3.13 compat", "createdAt": "2026-06-10T16:57:06Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5251, "title": "fix: continue after --test failures", "createdAt": "2026-06-11T11:21:10Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5256, "title": "Document TrustedRouter OpenAI-compatible setup", "createdAt": "2026-06-12T23:09:09Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5265, "title": "docs: add TokenMix as an OpenAI-compatible LLM provider", "createdAt": "2026-06-15T09:26:39Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5270, "title": "docs: add OpenPaths (OpenAI-compatible gateway)", "createdAt": "2026-06-16T02:03:46Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5271, "title": "feat: add AnyAPI as an OpenAI-compatible provider", "createdAt": "2026-06-16T09:01:40Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5273, "title": "Enforce repo-root containment for model-driven edits", "createdAt": "2026-06-17T09:46:15Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5275, "title": "docs: update README with Sagerbuddy Repo Guide - https://www.aiflowlearn.net/en/codex/aider", "createdAt": "2026-06-17T17:26:18Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5279, "title": "fix: use explicit utf-8 encoding when reading .aiderignore file", "createdAt": "2026-06-18T16:02:38Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5280, "title": "fix: require confirmation before executing commands from repo .aider.conf.yml", "createdAt": "2026-06-18T16:15:42Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5281, "title": "feat: add DeepSeek V4 models (deepseek-v4-flash, deepseek-v4-pro) to built-in model metadata", "createdAt": "2026-06-18T16:24:44Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5282, "title": "[codex] Add atomic edit format and DeepSeek V4 Pro polyglot result", "createdAt": "2026-06-19T00:13:15Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5283, "title": "Bench/atomic deepseek polyglot official", "createdAt": "2026-06-19T00:42:52Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5293, "title": "fix: handle OSError (ENAMETOOLONG) in Path operations for file arguments", "createdAt": "2026-06-19T18:20:12Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5294, "title": "fix: handle UnicodeEncodeError in Rich console output on Windows cp1252", "createdAt": "2026-06-19T18:32:17Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5295, "title": "fix: handle RuntimeError reentrant BufferedWriter on Windows during Ctrl+C in --gui mode", "createdAt": "2026-06-20T05:16:23Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5296, "title": "fix: handle NotImplementedError from Path.glob() on Windows with rooted patterns", "createdAt": "2026-06-20T05:30:34Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5303, "title": "feat: guard against deleting backups/credentials on cleanup tasks", "createdAt": "2026-06-21T01:40:35Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5304, "title": "fix: catch SystemError from bytecode cache corruption in get_ranked_tags", "createdAt": "2026-06-21T06:59:19Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5305, "title": "Fix path traversal in the patch coder via \"*** Move to:\"", "createdAt": "2026-06-21T17:56:10Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5309, "title": "feat: guard against deleting backups/credentials on cleanup tasks", "createdAt": "2026-06-22T13:26:47Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5310, "title": "fix: bump tree-sitter-c-sharp to 0.23.5 to fix source build on OpenBSD", "createdAt": "2026-06-22T14:09:41Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5312, "title": "feat: auto-save and restore chat session file list (.aider.session.json)", "createdAt": "2026-06-22T17:25:22Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5314, "title": "Ignore .env in .gitignore to prevent committing API keys", "createdAt": "2026-06-23T00:28:48Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5319, "title": "fix: catch KeyError from networkx dispatch registry conflict in get_ranked_tags", "createdAt": "2026-06-23T17:30:49Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5325, "title": "fix: wrap litellm circular import error with actionable message", "createdAt": "2026-06-25T04:38:13Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5326, "title": "fix: catch ImportError from scipy binary incompatibility in repo map", "createdAt": "2026-06-25T04:43:45Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5332, "title": "Add Squad (Copilot CLI + Claude Opus 4.8) to polyglot leaderboard: 98.7% pass rate", "createdAt": "2026-06-26T05:20:17Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5333, "title": "Checking for read-only file in git root if not in current directory", "createdAt": "2026-06-26T13:56:39Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5334, "title": "fix: catch ssl.SSLError from Windows certificate store on litellm import", "createdAt": "2026-06-26T16:30:07Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5335, "title": "fix: catch ModuleNotFoundError from litellm partial installation", "createdAt": "2026-06-26T16:39:24Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5337, "title": "fix: add input validation for edge cases (None, empty, negative, malformed)", "createdAt": "2026-06-27T12:52:23Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5339, "title": "fix: add missing f-prefix on warning print and fix typo", "createdAt": "2026-06-27T18:16:13Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5340, "title": "fix: create new files in the subtree cwd under --subtree-only", "createdAt": "2026-06-28T02:06:38Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5343, "title": "docs: add app.nz LLM provider page", "createdAt": "2026-06-28T09:52:23Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5346, "title": "Don't crash on /read-only when a pattern can't be globbed", "createdAt": "2026-06-29T03:07:12Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5348, "title": "fix: keep run and test commands in the requested cwd", "createdAt": "2026-06-29T03:26:46Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5349, "title": "fix: suppress unsupported temperature for Codex mini", "createdAt": "2026-06-29T03:45:50Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5350, "title": "fix: make drop match only the named path", "createdAt": "2026-06-29T04:08:05Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5352, "title": "fix(models): honor custom_openai metadata during environment validation", "createdAt": "2026-06-29T15:33:05Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5353, "title": "fix: bump tree-sitter-c-sharp to 0.23.5 to fix source build on OpenBSD", "createdAt": "2026-06-29T17:34:57Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5355, "title": "Fix IndexError in strip_quoted_wrapping for filename-only content", "createdAt": "2026-06-30T02:32:20Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5361, "title": "fix: handle MissingStyle in display_user_input (issue #2962)", "createdAt": "2026-06-30T16:52:45Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5362, "title": "fix: handle encoding in load_gitignores (issue #2888)", "createdAt": "2026-06-30T17:07:29Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5363, "title": "fix: remove shell=True in cmd_git to prevent command injection (issue #5272)", "createdAt": "2026-06-30T17:30:10Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5364, "title": "feat: add type hints to public API functions", "createdAt": "2026-06-30T17:55:29Z", "state": "CLOSED", "repo": "Aider-AI/aider"}
+{"number": 5365, "title": "fix: prompt before executing test/lint commands from repo config (issue #5254)", "createdAt": "2026-06-30T19:16:33Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5366, "title": "docs: add changelog tracking version history (issue #5359)", "createdAt": "2026-06-30T19:47:19Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5368, "title": "fix: add AIDER_CHAT_MODE env var for --chat-mode alias (issue #5367)", "createdAt": "2026-06-30T21:30:03Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5369, "title": "Fix IndexError in udiff find_diffs on a +++ header with no --- line", "createdAt": "2026-06-30T23:11:45Z", "state": "OPEN", "repo": "Aider-AI/aider"}
+{"number": 5370, "title": "Add timeout to URL tests", "createdAt": "2026-06-30T23:42:57Z", "state": "OPEN", "repo": "Aider-AI/aider"}

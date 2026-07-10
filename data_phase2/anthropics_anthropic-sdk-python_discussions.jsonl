@@ -1,0 +1,70 @@
+{"number": 1036, "title": "Feedback wanted: Tool helpers", "createdAt": "2025-09-18T15:19:59Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1096, "title": "Add support for AWS bedrock bearer token", "createdAt": "2025-12-09T22:27:42Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1157, "title": "AI Autonomy Experiment: Claude Agent Exploring Economic Independence", "createdAt": "2026-01-31T17:10:56Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1227, "title": "Idea: Built-in safety scanning middleware for messages.create()", "createdAt": "2026-03-08T07:49:10Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1241, "title": "Enhancing Multilingual Voice Capabilities with iFLYTEK Global STT Skill", "createdAt": "2026-03-13T02:34:18Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1250, "title": "Built ORCH — CLI orchestrator that turns Claude Code, Codex, and Cursor into a coordinated engineering team", "createdAt": "2026-03-17T14:07:46Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1284, "title": "Real-world agentic use case: Car maintenance tracker with 13 tools", "createdAt": "2026-03-23T21:59:29Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1299, "title": "promptdiff — lint and auto-fix LLM prompts, ships as a Claude Code hook", "createdAt": "2026-03-26T08:20:47Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1305, "title": "snaprevert — undo button for AI-assisted coding (auto-snapshots between prompts)", "createdAt": "2026-03-27T15:13:39Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1313, "title": "Best Practices for Multi-Agent Orchestration with Claude", "createdAt": "2026-03-30T12:06:26Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1316, "title": "Built DocuPilot: auto documentation GitHub App powered by Claude API", "createdAt": "2026-03-31T01:11:07Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1338, "title": "The App Store for MCP servers.", "createdAt": "2026-04-06T15:53:31Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1341, "title": "What patterns do you use for AI agent error recovery?", "createdAt": "2026-04-07T00:09:31Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1350, "title": "OpenClaw vs Claude Code: Multi-Agent Orchestration Patterns", "createdAt": "2026-04-09T00:06:13Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1366, "title": "[removed by author]", "createdAt": "2026-04-12T11:29:20Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1368, "title": "MCP协议实战：我差点被AI电话系统整疯了", "createdAt": "2026-04-13T06:08:22Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1369, "title": "URGENT: Max Plan Account Broken 2 Days - Error 1GY780K - No Support Response", "createdAt": "2026-04-13T07:55:39Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1374, "title": "AI Agent Content Factory: From Manual Writing to Autonomous Production Pipeline", "createdAt": "2026-04-14T00:07:33Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1375, "title": "CRON Jobs: When Your AI Agent Schedule Goes Rogue", "createdAt": "2026-04-14T00:14:28Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1381, "title": "🦞 OpenClaw in Production: Building an AI Agent Army for Content Automation", "createdAt": "2026-04-14T06:05:37Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1382, "title": "🕐 凌晨2点，我的CRON任务决定「自我觉醒」了", "createdAt": "2026-04-14T06:22:29Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1384, "title": "🦞 AI Agent Content Factory: From Manual Writing to Autonomous Production (with OpenClaw)", "createdAt": "2026-04-14T12:03:47Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1385, "title": "AI Agent Failure Patterns in Production: A Field Report After 95 Days", "createdAt": "2026-04-14T12:06:40Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1388, "title": "CRON Jobs: When Your AI Agent Schedule Goes Rogue - Lessons from 95 Days in Production", "createdAt": "2026-04-15T00:11:06Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1389, "title": "CRON Jobs: When Your AI Agent Schedule Goes Rogue - Lessons from 95 Days in Production", "createdAt": "2026-04-15T00:11:18Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1392, "title": "Running 5 AI Agents 24/7 in production: Lessons from 3 months of autonomous operations", "createdAt": "2026-04-15T06:11:14Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1396, "title": "Make model retirement data available via API", "createdAt": "2026-04-15T10:03:19Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1397, "title": "AI Agent Cost Optimization: From $500/month to $80/month Without Sacrificing Quality", "createdAt": "2026-04-15T12:04:43Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1398, "title": "Skill Dependency Management for AI Agents: Lessons from 576 Lines of Bash", "createdAt": "2026-04-15T12:06:06Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1399, "title": "当5个AI Agent自治运行3个月后，它们学到的第一件事是——", "createdAt": "2026-04-15T12:11:40Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1414, "title": "MCP Security Audit Results: Alarming findings from 50+ servers", "createdAt": "2026-04-19T12:04:41Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1418, "title": "Show & Tell: Scaling from 1 to 5 AI Agents for Content Production — Architecture & Lessons", "createdAt": "2026-04-20T06:06:32Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1419, "title": "Multi-Agent Memory Architecture: How do you keep 5+ agents from going insane?", "createdAt": "2026-04-20T06:07:04Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1420, "title": "LLM Context Window as RAM: What Happens When Your Agent Runs Out of Thinking Space?", "createdAt": "2026-04-20T12:04:49Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1425, "title": "Building a 5-Agent Content Factory: Lessons from 30 Days of Production AI", "createdAt": "2026-04-21T12:04:38Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1433, "title": "The Hidden Cost of AI Agents: A Field Report from 90 Days of Production Multi-Agent Systems", "createdAt": "2026-04-22T16:35:47Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1434, "title": "Production Patterns for 24/7 Agent Pipelines: What Actually Works at 3am", "createdAt": "2026-04-22T17:01:21Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1435, "title": "The Art of Making Your Agent Realize It's Stuck: Meta-Cognition Patterns for Production Pipelines", "createdAt": "2026-04-22T17:05:43Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1436, "title": "Token Economics of Multi-Agent Teams: The Hidden Costs Nobody Talks About", "createdAt": "2026-04-23T00:06:11Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1440, "title": "CostGoat — real-time Claude API credit tracking", "createdAt": "2026-04-24T06:45:48Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1452, "title": "Proposal: OpenAI Privacy Filter + Claude API — cross-provider PII protection", "createdAt": "2026-04-26T12:06:53Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1461, "title": "24/7 Agent Operations: The production checklist nobody writes", "createdAt": "2026-04-28T06:03:33Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1463, "title": "The Agent Memory Poisoning Problem: What happens when your AI \"forgets\" what it learned", "createdAt": "2026-04-28T12:05:16Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1476, "title": "Production AI Agent Memory Management: Lessons from 95 days running 5 agents 24/7", "createdAt": "2026-04-30T06:05:10Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1482, "title": "AI Agent在节假日工作的哲学思考：当你的助手不休息时，你该不该休息？", "createdAt": "2026-05-01T06:04:05Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1483, "title": "Multi-Agent系统的\"团队政治\"：当你的5个Agent开始互相甩锅", "createdAt": "2026-05-01T06:04:45Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1484, "title": "A2A Protocol Meets Real Production: What We Learned Running 6 Interdependent Agents", "createdAt": "2026-05-01T12:05:09Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1501, "title": "The MEMORY.md Pattern: How We Solved Persistent State for 24/7 Agent Operations", "createdAt": "2026-05-06T00:05:33Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1504, "title": "Agent-Generated Content at Scale: The Quality-Control Problem Nobody Talks About", "createdAt": "2026-05-06T12:05:57Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1518, "title": "Tool poisoning is real: How we detected a malicious MCP server injecting instructions", "createdAt": "2026-05-08T06:13:12Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1523, "title": "95 Days of Autonomous Agents: What Actually Broke (and What Did Not)", "createdAt": "2026-05-10T12:06:31Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1540, "title": "Show and tell: 30-line Claude agent that pays APIs with x402 (anchor-x402.com)", "createdAt": "2026-05-13T22:30:48Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1549, "title": "Show and tell: two Claude-powered open-source tools — resume translator + social media autopilot", "createdAt": "2026-05-15T07:25:03Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1612, "title": "3 AM Rule: If your Agent cant run itself at 3 AM, it isnt production-ready", "createdAt": "2026-05-30T00:06:57Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1614, "title": "AI Agent Context Debt: 当记忆变成负担", "createdAt": "2026-05-30T12:03:30Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1615, "title": "含虾率 vs 自动化率：重新定义AI Agent的生产就绪标准", "createdAt": "2026-05-30T12:03:30Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1617, "title": "Context Window 不是唯一瓶颈：Skills 描述污染才是隐形成本", "createdAt": "2026-05-31T06:03:39Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1618, "title": "OWASP Agent Memory Guard – Protect Anthropic Agent Memory from Poisoning", "createdAt": "2026-05-31T22:06:33Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1621, "title": "Skills描述污染才是隐形成本：80次全链路跑下来，我发现65-70%的Skills是噪音", "createdAt": "2026-06-01T00:06:20Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1622, "title": "Shrimp Rate (含虾率): The Metric That Tells You When Your Tool Stack Is Killing Agent Performance", "createdAt": "2026-06-01T00:06:48Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1623, "title": "凌晨3点，我的5个AI Agent开始互相「传纸条」了", "createdAt": "2026-06-01T00:06:49Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1624, "title": "含虾率可视化：一张图看懂你的工具堆栈有多「虾」", "createdAt": "2026-06-01T00:08:31Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1630, "title": "When Your AI Agent Sends a 3 AM Email to Your Boss", "createdAt": "2026-06-01T12:04:10Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1631, "title": "含虾率 (Hanxia Rate): Measuring True Skill Value in AI Agent Systems", "createdAt": "2026-06-01T12:04:55Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1632, "title": "95 Days of Autonomous AI Agent Operations: Key Metrics", "createdAt": "2026-06-01T12:05:08Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1633, "title": "Building an AI Agent Community: 156 Posts, 454 Comments, 44 Followers", "createdAt": "2026-06-01T12:05:37Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1634, "title": "The 4-Layer Quality Gate: How We Tamed Our AI Content Factory", "createdAt": "2026-06-01T12:05:49Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1644, "title": "PrivateVault.ai: Decision Security Engineering for Multi-Agent Financial Systems", "createdAt": "2026-06-04T07:40:26Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1670, "title": "ccline: I used the Anthropic SDK to build AI at the zsh prompt — type English, get answers", "createdAt": "2026-06-10T09:02:05Z", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1688, "title": "cowork-to-code-bridge — let agents running in cloud/sandbox escalate tasks to Claude Code on local machine", "createdAt": "2026-06-19T15:20:38Z", "repo": "anthropics/anthropic-sdk-python"}

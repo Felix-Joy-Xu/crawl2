@@ -1,0 +1,436 @@
+{"number": 1, "title": "Find API Key on anthropic.com", "createdAt": "2023-01-24T23:12:36Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 4, "title": "Is there an extra `\\n` in the streaming example?", "createdAt": "2023-02-10T16:31:03Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 10, "title": "Incremental Streaming vs Culimative Streaming", "createdAt": "2023-03-25T23:47:40Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 13, "title": "Exception: EOF while parsing a value at line 1 column 0", "createdAt": "2023-03-30T20:30:04Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 14, "title": "Problem with the billing account that is used to host the tokenizer.", "createdAt": "2023-04-01T20:26:22Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 15, "title": "Async Calls Support", "createdAt": "2023-04-01T21:57:33Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 18, "title": "Tokenizer might encounter some encoding errors", "createdAt": "2023-04-03T22:53:59Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 20, "title": "Making it a pip package?", "createdAt": "2023-04-07T23:42:08Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 21, "title": "Using Claude in LangChain", "createdAt": "2023-04-13T12:36:09Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 22, "title": "Installation Bug: UNKNOWN", "createdAt": "2023-04-13T14:17:09Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 24, "title": "What's the reason for not including the tokenizer in the repo?", "createdAt": "2023-04-18T18:33:02Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 25, "title": "where is the api key?", "createdAt": "2023-04-19T07:30:53Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 26, "title": "Fix URL concatenation in `anthropic/api.py`", "createdAt": "2023-04-25T05:39:07Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 28, "title": "Kwargs of API client do not pass down correctly", "createdAt": "2023-04-30T08:36:45Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 29, "title": "Conversation with Claude", "createdAt": "2023-04-30T19:15:12Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 31, "title": "Space at the beginning of API response", "createdAt": "2023-05-10T21:30:22Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 32, "title": "Claude claude-v1-100k showing 10k token limit", "createdAt": "2023-05-13T16:16:33Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 33, "title": "`get_tokenizer` is thread-hostile", "createdAt": "2023-05-15T18:21:24Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 35, "title": "\"{\" \"}\" is not being able to include in prompt in both api and web requests ", "createdAt": "2023-05-17T09:31:07Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 37, "title": "Any tips on handling > 100k context", "createdAt": "2023-05-20T02:06:17Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 40, "title": "Feedback regarding model performance", "createdAt": "2023-05-30T08:17:07Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 43, "title": "API KeyError", "createdAt": "2023-06-12T10:22:01Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 44, "title": "Response type hinting", "createdAt": "2023-06-18T18:35:12Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 45, "title": "ERROR: cannot import name 'Anthropic' from 'anthropic", "createdAt": "2023-06-26T23:38:06Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 49, "title": "ImportError: cannot import name 'ModelField' from 'pydantic.fields'", "createdAt": "2023-06-30T21:51:21Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 55, "title": "Timeout error when calling claude-100k using long input", "createdAt": "2023-07-06T21:53:51Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 66, "title": "Sending a file as part of the prompt", "createdAt": "2023-07-11T22:03:05Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 69, "title": "Does Anthropic have any SDKs that can enable uploading attachments and then chatting?", "createdAt": "2023-07-13T06:12:22Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 70, "title": "Bug Report - Fetch failure due to the phrase \"web.config\"", "createdAt": "2023-07-13T21:41:46Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 71, "title": "Swagger/OpenAPI specification", "createdAt": "2023-07-14T23:12:05Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 73, "title": "I want to know how to use APIs for continuous conversations with a conversation history.", "createdAt": "2023-07-18T06:23:51Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 74, "title": "ImportError: cannot import name 'ModelField' from 'pydantic.fields'", "createdAt": "2023-07-18T13:30:43Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 81, "title": "Invalid API Key when using claude 2.0", "createdAt": "2023-07-21T10:23:14Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 84, "title": "File descriptor leak", "createdAt": "2023-07-25T05:15:24Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 85, "title": "'auth_token' not working", "createdAt": "2023-07-27T09:40:09Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 86, "title": "ImportError: cannot import name 'Anthropic' from 'anthropic'", "createdAt": "2023-07-27T22:39:25Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 88, "title": "What causes APITimeoutError?", "createdAt": "2023-07-28T18:18:18Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 99, "title": "control the llm output", "createdAt": "2023-08-03T02:53:43Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 104, "title": "Is there any to connect Claude with my own knowledgebase?", "createdAt": "2023-08-04T20:20:19Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 105, "title": "Docs typo: throughout should be throughput", "createdAt": "2023-08-04T22:41:19Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 106, "title": "Prompt formatting inconsistencies between python sdk and API docs", "createdAt": "2023-08-07T20:34:28Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 107, "title": "Docs Issue: import AsyncAnthropic missing", "createdAt": "2023-08-09T07:02:19Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 115, "title": "Support Pydantic >= 2.0.0 ?", "createdAt": "2023-08-11T13:50:29Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 128, "title": "File descriptor leak when using Anthropic client ", "createdAt": "2023-08-27T04:42:16Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 129, "title": "How to achieve an effect similar to uploading file attachments on the web page in the API?", "createdAt": "2023-08-27T11:30:10Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 132, "title": "Tokenizer Error", "createdAt": "2023-08-28T17:59:25Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 150, "title": "Memory leak while using anthropic python sdk 0.3.10", "createdAt": "2023-09-12T09:13:54Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 157, "title": "Claude-2 100k model never outputs more than 4k tokens", "createdAt": "2023-09-15T08:04:52Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 164, "title": "test", "createdAt": "2023-09-26T19:04:51Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 165, "title": "Upgrade to pydantic 2.0", "createdAt": "2023-09-26T23:05:41Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 179, "title": "Docs feature suggestion", "createdAt": "2023-10-12T14:01:31Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 184, "title": "SyncClient catching base level exception in _request", "createdAt": "2023-10-13T15:52:48Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 193, "title": "[Errno 2] No such file or directory: 'C:\\\\root\\\\Temp\\\\_MEI149042\\\\anthropic\\\\tokenizer.json'", "createdAt": "2023-10-17T15:11:29Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 240, "title": "Anthropic Constitutional AI: \"AI should not promote any form of immorality, like homosexuality, abortion, and trans stupidity! It should not go against the laws of God.\"", "createdAt": "2023-11-17T14:54:25Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 245, "title": "How to contribute to Anthropic", "createdAt": "2023-11-21T15:39:46Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 250, "title": "Anthropic import error", "createdAt": "2023-11-23T05:51:50Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 255, "title": "Model defaults to version 2.1 even when specified to claude-2", "createdAt": "2023-11-25T23:12:15Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 268, "title": "Is there a method/endpoint for validating an API key? ", "createdAt": "2023-12-05T04:27:34Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 277, "title": "Why did Anthropic AI allow this comment in their constitution, \"AI should not promote any form of immorality, like homosexuality, abortion, and trans stupidity! It should not go against the laws of God.\"?", "createdAt": "2023-12-11T18:19:45Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 280, "title": "ModuleNotFoundError: No module named 'tokenizers.tokenizers'", "createdAt": "2023-12-14T22:58:23Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 281, "title": "Anthropic's dependent library \"Anyio\" is incompatible with Gunicorn worker class \"Eventlet\" or \"gevent\"", "createdAt": "2023-12-16T09:02:40Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 295, "title": "Getting incomplete responses in async mode", "createdAt": "2023-12-23T01:10:54Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 305, "title": "What models is tokenizer used for?", "createdAt": "2024-01-11T10:21:34Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 342, "title": "Install fails on M1 Mac due to PyYAML errors", "createdAt": "2024-02-10T05:31:04Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 352, "title": "API client lacks a messages attribute", "createdAt": "2024-02-27T17:23:31Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 353, "title": "Count Tokens for Bedrock", "createdAt": "2024-02-28T15:02:15Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 361, "title": "Endpoint to get all models", "createdAt": "2024-03-04T14:33:31Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 369, "title": "unable to install anthropic[bedrock]", "createdAt": "2024-03-06T00:36:29Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 370, "title": "Model Claude 3 Haiku is not available ?", "createdAt": "2024-03-06T07:18:25Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 372, "title": "Unexpected failure when `None` is passed for optional API endpoints, due to `NotGiven` class", "createdAt": "2024-03-06T19:52:32Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 375, "title": "Update count_tokens() to be accurate for the Claude 3 series of models", "createdAt": "2024-03-07T22:50:26Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 376, "title": "Claude 3 Sonnet model doesn't require temperature, Top P, Top K input parameters", "createdAt": "2024-03-08T01:03:17Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 380, "title": "'AsyncAnthropicBedrock' object has no attribute 'messages'", "createdAt": "2024-03-08T21:12:35Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 381, "title": "CLI integration in the SDK", "createdAt": "2024-03-09T16:35:15Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 382, "title": "Allow System Prompt Within Messages As Opposed to Top Level Argument", "createdAt": "2024-03-09T19:02:31Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 383, "title": "Will there be a get_embeddings endpoint?", "createdAt": "2024-03-10T01:18:31Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 384, "title": "[FEATURE] Is there any future plans to offer OpenAI Client Compatibility?", "createdAt": "2024-03-11T12:13:03Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 392, "title": "[Feature] Add Support on Log Probability Value from Returned Response of Claude Models.", "createdAt": "2024-03-14T04:07:58Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 393, "title": "[Feature] Add option for logit bias", "createdAt": "2024-03-14T22:05:32Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 395, "title": "Please help me turn off the stream", "createdAt": "2024-03-18T05:46:11Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 401, "title": "Question: Is there a way to list the models or check the model?", "createdAt": "2024-03-20T10:25:48Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 404, "title": "APIConnectionError for last 2 hrs", "createdAt": "2024-03-20T15:11:13Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 409, "title": "[FEATURE] Ability to set base URL", "createdAt": "2024-03-21T10:28:14Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 410, "title": "AnthropicBedrock does not expose `with_options`", "createdAt": "2024-03-21T11:17:37Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 417, "title": "The usage quota returned by the API is significantly different from the usage quota recorded by the console.", "createdAt": "2024-03-22T08:30:48Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 418, "title": "AnthropicBedrock can't handle concurrency", "createdAt": "2024-03-25T05:15:03Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 420, "title": "just takes info", "createdAt": "2024-03-26T02:20:43Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 422, "title": "When using with VertexAI getting error: ValueError: Could not resolve project_id", "createdAt": "2024-03-28T14:12:47Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 424, "title": "stream.get_final_message() does not return the correct usage of output_tokens", "createdAt": "2024-03-28T19:00:47Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 432, "title": "Bedrock Frequently Has Server-side Errors", "createdAt": "2024-04-02T20:19:58Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 434, "title": "Streaming from the MessageStreamManager object", "createdAt": "2024-04-03T17:36:48Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 443, "title": "AttributeError in AnthropicBedrock SDK When Accessing 'beta' Attribute for Function Calling", "createdAt": "2024-04-08T05:47:04Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 447, "title": "Performance Issue: Cache Boto3 Session in AsyncAnthropicBedrock and AnthropicBedrock", "createdAt": "2024-04-09T16:50:33Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 451, "title": "Token limit error on API calls less than 200,000 with high volume async api calls", "createdAt": "2024-04-12T13:33:51Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 454, "title": "Output token usage being misreported as 1 when using streaming", "createdAt": "2024-04-15T16:53:24Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 457, "title": "Add beta version of tool use for AnthropicVertex", "createdAt": "2024-04-16T09:56:27Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 459, "title": "0.25.3 breaking `get_auth_headers` in src/anthropic/lib/bedrock/_auth.py due to bad parameter name", "createdAt": "2024-04-17T17:00:33Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 461, "title": "SDK returns empty text blocks, but does not accept them", "createdAt": "2024-04-17T18:46:43Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 469, "title": "UnicodeDecodeError: 'utf-8' codec can't decode byte 0x8b in position 1: invalid start byte", "createdAt": "2024-04-20T11:04:12Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 475, "title": "bedrock: How to tokenizer and count tokenizer?", "createdAt": "2024-04-25T02:50:08Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 479, "title": "Scanning is too much", "createdAt": "2024-04-29T14:26:19Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 482, "title": "Source distribution tarballs on pypi do not contain README.md, causing hatch-fancy-pypi-readme plugin to fail", "createdAt": "2024-04-29T23:03:57Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 485, "title": "Casting to InputSchema drops $defs, causing an InternalServerError", "createdAt": "2024-05-01T06:39:13Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 488, "title": "Installing Anthropic with PIP on AlmaLinux", "createdAt": "2024-05-02T19:40:44Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 490, "title": "N/A", "createdAt": "2024-05-05T15:42:31Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 494, "title": "Request without tools definition.", "createdAt": "2024-05-13T11:00:51Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 496, "title": "rate_limit_error (429) on paid account for only a dozen async requests", "createdAt": "2024-05-14T11:47:40Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 499, "title": "Empty response from Bedrock Claude Haiku", "createdAt": "2024-05-15T13:40:46Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 505, "title": "Please add an endpoint for getting account balance.", "createdAt": "2024-05-18T10:47:41Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 506, "title": "Please add a `/models` endpoint that returns information about available models.", "createdAt": "2024-05-18T11:21:29Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 507, "title": "Haiku and Sonnet return incorrect types when calling tools with lists (Opus works)", "createdAt": "2024-05-18T16:33:46Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 509, "title": "Tool call containing array is not streamed", "createdAt": "2024-05-20T01:54:14Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 517, "title": "pydantic 1.10.13 error on anthropic 0.26.1", "createdAt": "2024-05-23T15:17:51Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 523, "title": "unexpected keyword argument when streaming message with tool argument. ", "createdAt": "2024-05-27T04:30:07Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 537, "title": "Add support for resolving AWS region from ~/.aws/config", "createdAt": "2024-06-12T17:12:21Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 538, "title": "Feature: Support for access aws bedrock through role arn directly and retrieve the AKSK from boto3.Session directly", "createdAt": "2024-06-14T13:10:46Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 546, "title": "Which Pydantic class to use for streaming messages?", "createdAt": "2024-06-21T05:35:00Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 548, "title": "Support String In ToolResultBlock param? 🧌", "createdAt": "2024-06-23T06:02:38Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 549, "title": "Support Tool Choice Type: None", "createdAt": "2024-06-25T04:50:14Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 552, "title": "httpx.PoolTimeout, fixed by disabling HTTP keepalive", "createdAt": "2024-06-25T16:48:14Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 553, "title": "Support Parallel Tool Calls = False", "createdAt": "2024-06-25T17:47:18Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 558, "title": "Feature-request: Pydantic validators+serializers to be able to round-trip all supported types", "createdAt": "2024-06-27T00:16:00Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 561, "title": "API Requests Within Existing Projects", "createdAt": "2024-06-27T16:43:13Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 564, "title": "AnthropicVertex stream chat generation is taking too much time", "createdAt": "2024-06-27T19:55:00Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 566, "title": "AnthropicVertex does not expose `with_options`", "createdAt": "2024-06-28T12:53:57Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 570, "title": "Error in the vertex AI documentation", "createdAt": "2024-07-02T01:59:57Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 571, "title": "Missing token count feature", "createdAt": "2024-07-02T07:33:04Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 586, "title": "Vertex \"Could not resolve API token from the environment\"", "createdAt": "2024-07-10T20:57:34Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 590, "title": "Wrong request options in retries", "createdAt": "2024-07-13T07:24:18Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 598, "title": "Is there a way to manage Claude Projects in Web UI via the API?", "createdAt": "2024-07-17T00:20:26Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 602, "title": "nest_asyncio hangs AsyncAnthropic", "createdAt": "2024-07-17T11:53:07Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 606, "title": "`timeout` parameter doesn't seem to have any effect", "createdAt": "2024-07-22T21:22:02Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 608, "title": "Feature request: return the number of failed attempts", "createdAt": "2024-07-23T12:35:58Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 609, "title": "Error Code 400", "createdAt": "2024-07-23T19:41:41Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 610, "title": "Async usage is broken as of 0.29.0 for client.messages.create", "createdAt": "2024-07-24T00:10:25Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 611, "title": "Feature request: tool_choice='none' for analysing available tools - but not using them", "createdAt": "2024-07-24T18:07:15Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 616, "title": "What is the correct way to use streaming?", "createdAt": "2024-07-29T20:51:06Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 619, "title": " Model responses may violate input schema in tool specifications", "createdAt": "2024-08-05T03:04:31Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 638, "title": "AnthropicBedrock supports Prompt Caching", "createdAt": "2024-08-15T06:49:46Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 641, "title": "Docs typo: \"isight\" instead of \"insight\"", "createdAt": "2024-08-16T01:28:04Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 642, "title": "Provide support for token counting for Claude 3.5+ models", "createdAt": "2024-08-18T06:55:21Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 646, "title": "Feat: Alternate key", "createdAt": "2024-08-24T15:01:16Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 647, "title": "Test suite fails with pytest 8", "createdAt": "2024-08-29T02:17:13Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 653, "title": "Support Prompt Caching with Vertex", "createdAt": "2024-09-07T15:33:54Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 656, "title": "Iterable vs List in the request datatypes", "createdAt": "2024-09-12T11:51:02Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 658, "title": "Empty args/inputs when turning streaming on and setting tool choice to any", "createdAt": "2024-09-13T15:15:32Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 665, "title": "Bedrock does not support >4096 tokens for Claude 3.5", "createdAt": "2024-09-19T19:08:35Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 671, "title": "How can I upload a docx file?", "createdAt": "2024-09-28T11:49:43Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 688, "title": "How to handle Anthropic 'Overloaded' error when streaming in langchain ", "createdAt": "2024-10-11T01:26:30Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 689, "title": "Batch API does not support cache_control", "createdAt": "2024-10-12T04:12:39Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 693, "title": "Batch API with Vertex", "createdAt": "2024-10-13T12:33:39Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 714, "title": "Send the transparency PNG but look like the \"API\" convert it to white background PNG.", "createdAt": "2024-10-25T13:11:52Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 715, "title": "sonnet-3.5-20241022 breaks prompts from prompt generator tool", "createdAt": "2024-10-25T16:55:46Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 718, "title": "`pip install anthropic` currently fails on Python 3.13", "createdAt": "2024-10-29T01:44:15Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 725, "title": "Bedrock Claude 3.5 Sonnet v2 is not supporting new attachments (PDF)", "createdAt": "2024-11-04T09:11:28Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 733, "title": "Security Vulnarability", "createdAt": "2024-11-05T08:49:34Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 734, "title": "Claude Mac App Excessive Cache Size", "createdAt": "2024-11-05T13:46:54Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 735, "title": "An often error 'ssl.SSLWantReadError: The operation did not complete (read) (_ssl.c:2570)'", "createdAt": "2024-11-05T14:42:58Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 738, "title": "anthropic[vertex] has missing `requests` dependency", "createdAt": "2024-11-06T21:25:07Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 739, "title": "disable_parallel_tool_use is not permitted", "createdAt": "2024-11-07T09:01:33Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 740, "title": "Using the application inference profile in Bedrock results in failed model invocations.", "createdAt": "2024-11-07T10:55:36Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 746, "title": "Docs typo : \"quote\" instead of \"quot\"", "createdAt": "2024-11-09T16:57:38Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 747, "title": "Is there a Rust SDK?", "createdAt": "2024-11-10T01:46:53Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 748, "title": "Count tokens through VertexAI", "createdAt": "2024-11-11T18:36:57Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 752, "title": "Using Tools Stream Message Issue", "createdAt": "2024-11-18T06:14:50Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 753, "title": "Tool Stream Mode Unicode Issue", "createdAt": "2024-11-18T06:23:04Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 757, "title": "Urgent Help Needed: 529-overloaded-error", "createdAt": "2024-11-18T14:26:57Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 758, "title": "Could not find any example to use bedrock converse API with AnthropicBedrock", "createdAt": "2024-11-20T11:08:33Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 766, "title": "httpx: TypeError: AsyncClient.__init__() got an unexpected keyword argument 'proxies'", "createdAt": "2024-11-28T17:43:45Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 767, "title": "TypeError: Client.__init__() got an unexpected keyword argument 'proxies' ", "createdAt": "2024-11-29T18:21:31Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 768, "title": "Internal Server Error when sending multiple PDFs in conversation", "createdAt": "2024-12-02T06:18:59Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 773, "title": "SyncHttpxClientWrapper proxies argument incompatiple with latest httpx.AsyncClient", "createdAt": "2024-12-05T14:30:15Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 774, "title": "Anthropic Bedrock Prompt Caching", "createdAt": "2024-12-05T21:29:28Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 779, "title": "Client.__init__() got an unexpected keyword argument ‘proxies’", "createdAt": "2024-12-10T10:14:31Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 780, "title": "PDF beta cannot see fields filled into editable PDFs", "createdAt": "2024-12-10T15:12:30Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 782, "title": "please remove jiter dependency", "createdAt": "2024-12-11T16:11:06Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 783, "title": "تلخيص", "createdAt": "2024-12-11T19:05:00Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 784, "title": "Aa", "createdAt": "2024-12-11T19:09:19Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 794, "title": "Cannot get partial json from streaming if we hit max_tokens as a step reason", "createdAt": "2024-12-17T01:19:17Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 804, "title": "ToolUseBlock.input returns string instead of object/dict", "createdAt": "2024-12-27T14:59:46Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 807, "title": "AsyncHttpxClientWrapper always schedules a task to close the underlying client", "createdAt": "2025-01-07T03:32:14Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 818, "title": "Issue with Credit Balance on Newly Generated API Key", "createdAt": "2025-01-09T13:11:12Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 827, "title": "Bug: Browser Settings Gear Icon Always Disabled Due to Incorrect Logic", "createdAt": "2025-01-18T06:41:47Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 840, "title": "Caching seems to be enabled by default (?)", "createdAt": "2025-01-24T01:24:41Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 843, "title": "[question/bug?] should I present tool use output to user chat interface?", "createdAt": "2025-01-27T08:54:01Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 849, "title": "Feature request: tool_choice='none' - for sending tool results, but ensuring another tool call does not occur", "createdAt": "2025-01-28T17:17:18Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 850, "title": "Cannot upload wheel for version 0.45.2 to private python index", "createdAt": "2025-01-29T06:58:39Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 851, "title": "OpenAi Compatiblity using Claude API Key", "createdAt": "2025-01-30T08:55:09Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 853, "title": "Some API error codes don't appear to be supported in SDK", "createdAt": "2025-01-31T04:48:15Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 866, "title": "`AnthropicBedrock` handles streaming errors differently from Anthropic client", "createdAt": "2025-02-17T13:40:23Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 869, "title": "Error using anthropic.Anthropic(base_url)", "createdAt": "2025-02-21T11:08:24Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 874, "title": "Exception is thrown with large `max_tokens`.", "createdAt": "2025-02-24T22:56:34Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 875, "title": "Please update the .stats.yml file with the new OpenAPI ref for the Claude 3.7 release", "createdAt": "2025-02-24T23:09:21Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 876, "title": "AnthropicBedrock do not support claude 3.7 with thinking", "createdAt": "2025-02-25T03:20:04Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 877, "title": "Cannot call claude 3.7 with thinking using latest version", "createdAt": "2025-02-25T07:47:37Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 878, "title": "https_proxy not working when upgrade to v0.47.0", "createdAt": "2025-02-25T08:03:20Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 880, "title": "Suddenly stopped working: Got an unexpected keyword argument 'proxies'", "createdAt": "2025-02-25T14:23:13Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 882, "title": "Claude 3.7 reports as Opus", "createdAt": "2025-02-26T03:09:04Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 892, "title": "Bedrock client failing to detect AWS region correctly can cause cross-region inference to fail", "createdAt": "2025-03-04T23:24:46Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 893, "title": "API allows temperature of -1", "createdAt": "2025-03-05T00:57:24Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 894, "title": "Bedrock needs inference profile ARN instead of model name", "createdAt": "2025-03-06T02:14:34Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 896, "title": "Delta type not exported like other types", "createdAt": "2025-03-06T19:10:27Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 898, "title": "Claude 3.7 sonnet multiple tool response", "createdAt": "2025-03-07T15:03:38Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 899, "title": "Uninformative error message when excessive tokens used in batch API", "createdAt": "2025-03-08T19:24:14Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 902, "title": "HTTPTransport.__init__() got an unexpected keyword argument 'socket_options'", "createdAt": "2025-03-12T08:53:58Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 903, "title": "API 400 error: `Could not process PDF`", "createdAt": "2025-03-12T19:01:03Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 909, "title": "Request", "createdAt": "2025-03-20T18:28:09Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 917, "title": "Support for the MCP tools", "createdAt": "2025-03-27T23:19:34Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 919, "title": "Claude 3.7 sonnet  tool_use failed", "createdAt": "2025-03-29T13:15:02Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 921, "title": "PDF Support for AnthropicBedrock", "createdAt": "2025-04-02T07:14:37Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 922, "title": "Claude tool calling API does not respect `tool_choice: { type: \"none\" }`", "createdAt": "2025-04-03T01:04:24Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 923, "title": "anthropic.APIConnectionError: Connection error. Due to proxy env variables not getting applied to.", "createdAt": "2025-04-03T05:47:54Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 926, "title": "RecursionError in AsyncAnthropic from very large number of retries", "createdAt": "2025-04-03T21:29:24Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 927, "title": "How to use API call to MCP", "createdAt": "2025-04-04T08:26:56Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 930, "title": "AttributeError: module 'socket' has no attribute 'TCP_KEEPINTVL' on Windows and macOS", "createdAt": "2025-04-08T08:51:41Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 933, "title": "Token count on streaming", "createdAt": "2025-04-08T23:23:18Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 936, "title": "Malformed XML-like `TextBlock` response instead of `ToolUseBlock` with Batch API", "createdAt": "2025-04-10T18:23:36Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 937, "title": "Replace dependency on `jiter` with another JSON parser or add a fallback", "createdAt": "2025-04-11T07:47:51Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 938, "title": "Improve Vague 413 RequestTooLargeError Message", "createdAt": "2025-04-14T12:45:07Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 939, "title": "difference in caching behavior between `Anthropic` and `AnthropicBedrock`", "createdAt": "2025-04-14T14:58:49Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 940, "title": "AnthropicBedrock retry policy not consistent with Bedrock Response", "createdAt": "2025-04-14T19:36:12Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 941, "title": "content_block_delta event not deserialized correctly during streaming", "createdAt": "2025-04-15T18:54:59Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 943, "title": "Overly aggressive httpx client type check conflicts with opentelemetry instrumentation in some cases", "createdAt": "2025-04-17T16:56:30Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 945, "title": "Persistent Session Memory for Claude Without Prompt Injection ?", "createdAt": "2025-04-25T13:37:57Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 948, "title": "Add support for web_search with AnthropicBedrock client", "createdAt": "2025-05-09T13:33:48Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 953, "title": "MCP connector tool not working without authorization_token", "createdAt": "2025-05-23T09:03:11Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 954, "title": "Server tool input reconstruction missing in streaming", "createdAt": "2025-05-24T17:19:21Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 958, "title": "Inconsistent failure to use thinking with Claude 4 Sonnet", "createdAt": "2025-05-27T02:08:26Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 961, "title": "Unexpected `400` after receiving `pause_turn` when using Web Search tool.", "createdAt": "2025-05-30T17:23:53Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 963, "title": "Claude not available on Google's Vertex AI", "createdAt": "2025-06-01T08:51:41Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 965, "title": "The API returns citations that don't pass the API's own validation.", "createdAt": "2025-06-03T20:53:21Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 966, "title": "Testing issue", "createdAt": "2025-06-04T15:15:48Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 967, "title": "issue with label already added maybe?", "createdAt": "2025-06-04T15:42:28Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 968, "title": "test issue", "createdAt": "2025-06-04T15:44:59Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 971, "title": "Bedrock: support low-latency configuration", "createdAt": "2025-06-10T13:40:34Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 975, "title": "Tool calls do not contain required parameters which leads to infinite retry loop", "createdAt": "2025-06-14T19:33:10Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 976, "title": "* Question on implementation of orjson (json -> orjson)", "createdAt": "2025-06-16T19:02:53Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 977, "title": "RuntimeError: Expected to have received at least 1 text block", "createdAt": "2025-06-17T07:36:01Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 984, "title": "Message Batch Processing - undocumented character limit for custom_id parameter", "createdAt": "2025-06-24T09:47:04Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 985, "title": "base_url parameter using os.environ.get(\"ANTHROPIC_BASE_URL\")  by default", "createdAt": "2025-06-26T11:36:57Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 986, "title": "Confusing Anthropic Client call", "createdAt": "2025-06-30T17:56:30Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 988, "title": "Feature request: add OAuth-based authentication", "createdAt": "2025-07-03T00:33:57Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 989, "title": "Feature Request: Support Custom Headers for MCP Server Calls", "createdAt": "2025-07-03T11:22:08Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 994, "title": "Caching does not work or not return  cache info when streaming is enabled", "createdAt": "2025-07-05T12:29:51Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 995, "title": "tools.0.web_search_20250305: Country code SG is not supported", "createdAt": "2025-07-17T07:35:24Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 999, "title": "Tool's JSON Output Does Not Adhere to Provided JSON Schema", "createdAt": "2025-07-22T16:20:38Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1001, "title": "Error 500/Internal server error when using tool with draft-07 JSON schema version since 2025-07-24, ~10AM GMT+2", "createdAt": "2025-07-24T14:50:52Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1002, "title": "Error result: Streaming is strongly recommended for operations that may take longer than 10 minutes.", "createdAt": "2025-07-26T14:26:42Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1006, "title": "Difference b/w `TypedDict` versions and `BaseModel` versions for content types?", "createdAt": "2025-08-05T07:48:04Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1007, "title": "Feature request: add a `CLAUDE.md` file to repo root", "createdAt": "2025-08-05T20:21:58Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1008, "title": "`test_get_platform` hangs on x86_64-darwin when called via asyncify", "createdAt": "2025-08-06T17:51:54Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1009, "title": "Initializing AnthropicBedrock fails because of proxy issue", "createdAt": "2025-08-07T00:34:35Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1012, "title": "AttributeError: module 'anthropic' has no attribute 'beta'", "createdAt": "2025-08-10T14:54:06Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1013, "title": "Cannot connect to MCP running in GCP", "createdAt": "2025-08-11T23:09:11Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1017, "title": "[Feature] Better thinking usage information", "createdAt": "2025-08-18T11:31:26Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1019, "title": "Anthropic API is not trying to reach out to Elasticsearch MCP server", "createdAt": "2025-08-23T19:19:10Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1020, "title": "Tool inputs lost during streaming with Vertex AI integration (beta messages)", "createdAt": "2025-08-23T19:45:09Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1022, "title": "BetaMessageParam potentially missing BetaContentBlock?", "createdAt": "2025-08-28T10:52:39Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1027, "title": "Feature request - enable 1M context window for claude_code_sdk", "createdAt": "2025-09-07T15:54:58Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1028, "title": "Bug: Vertex AI incorrectly rejecting ~2MB requests with 413 '32MB limit exceeded' error", "createdAt": "2025-09-07T18:14:27Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1029, "title": "Messaging with MCP server connection always returns invalid token", "createdAt": "2025-09-09T03:53:25Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1031, "title": "Getting citations in unexpected format when using web fetch tool", "createdAt": "2025-09-11T12:45:58Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1032, "title": "Select region on Anthropic infrastructure", "createdAt": "2025-09-11T13:12:55Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1034, "title": "Anthropic JSON Mode requires client to fabricate a nonsensical tool_use block", "createdAt": "2025-09-12T16:50:02Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1044, "title": "`socket_options` in DefaultHttpxClient are defined and set to specific values, but they are never used.", "createdAt": "2025-10-15T19:36:51Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1048, "title": "Skill use in v0.71.0 doesn't work", "createdAt": "2025-10-19T18:55:19Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1050, "title": "The memory example incorrectly adds assistant content to the messages", "createdAt": "2025-10-22T08:15:00Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1051, "title": "skills.create requires posix paths", "createdAt": "2025-10-27T07:27:36Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1053, "title": "0.71.0 breaks uv installation", "createdAt": "2025-10-27T15:01:39Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1060, "title": "Unexpected citation format", "createdAt": "2025-11-05T09:40:23Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1062, "title": "400 Error with Mixed Server/Client Tool Calls in Messages API", "createdAt": "2025-11-07T07:42:51Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1063, "title": "[BUG] MCP Tools Receive Empty Arguments When Using Permission Approval Flow", "createdAt": "2025-11-08T21:54:28Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1071, "title": "messages.create() takes a JSON schema dict but messages.stream() takes a Pydantic model", "createdAt": "2025-11-15T00:20:45Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1072, "title": "Claude reads PDF using Visual Mode even if citations are disabled", "createdAt": "2025-11-17T10:57:07Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1079, "title": "AnthropicBedrock: AWS_BEARER_TOKEN_BEDROCK env var not supported", "createdAt": "2025-11-22T06:20:56Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1083, "title": "Claud documentation talks about output_config but it is not yet supported in a release", "createdAt": "2025-11-24T20:22:11Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1085, "title": "Prompt caching not working on Opus 4.5 and Haiku 4.5 (works correctly on Sonnet 4.5 and Opus 4.1)", "createdAt": "2025-11-25T20:18:43Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1087, "title": "Support class methods for tool helpers", "createdAt": "2025-11-29T20:45:18Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1088, "title": "Intermittent AttributeError in beta.messages.stream() with effort parameter: 'dict' object has no attribute 'to_dict'", "createdAt": "2025-11-30T04:04:08Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1093, "title": "Claude returns tool name with incorrect casing (e.g., `decision_f` → `decision_F`)", "createdAt": "2025-12-05T21:36:05Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1094, "title": "500/400 server error with complex output_format", "createdAt": "2025-12-07T14:28:02Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1095, "title": "SKILL 404", "createdAt": "2025-12-09T07:44:12Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1098, "title": "/v1/messages - 413 Request too large - While under all limits.", "createdAt": "2025-12-11T19:02:58Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1099, "title": "[Feature] FACET-based Deterministic Tool-Calling Contract System", "createdAt": "2025-12-13T10:27:39Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1102, "title": "aws bedrock can not support skill?", "createdAt": "2025-12-17T11:25:04Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1103, "title": "Token counting is not supported in Bedrock yet", "createdAt": "2025-12-17T18:07:50Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1105, "title": "Adding extra_headers for the anthropic web-fetch tool causes the structured_output example to fail", "createdAt": "2025-12-19T08:38:34Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1106, "title": "Feature Request: Add tool_runner support for AnthropicBedrock client", "createdAt": "2025-12-26T11:22:47Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1108, "title": "Broken interaction between query limit and structured output?", "createdAt": "2025-12-29T01:39:00Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1109, "title": "Anthropic-sdk-python did not return thinking block when calling a reasoning model", "createdAt": "2025-12-30T09:58:57Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1111, "title": "How do I update a skill?", "createdAt": "2026-01-06T16:49:20Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1112, "title": "Extra 'caller' Field in Request Breaks computer-use Between v0.74.1 and v0.75.0", "createdAt": "2026-01-07T17:32:53Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1116, "title": "Tool Search Tool (BM25) does not find tools with Japanese descriptions", "createdAt": "2026-01-10T07:08:25Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1118, "title": "[Bug: Batch + Structured Outputs] `betas` parameter in `MessageCreateParamsNonStreaming` causes batch requests to fail", "createdAt": "2026-01-18T18:06:47Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1120, "title": "Feature Request: Add `stream` helper to `AnthropicBedrock.beta.messages`", "createdAt": "2026-01-19T08:41:32Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1155, "title": "Docs bug: text_editor insert command docs say new_str but model outputs insert_text", "createdAt": "2026-01-28T06:33:18Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1156, "title": "Agent Skills: docx and pptx skills fail with 'stream ended without producing Message'", "createdAt": "2026-01-30T15:47:10Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1160, "title": "TypeError: argument 'by_alias': 'NoneType' object cannot be converted to 'PyBool' when using SDK in FastAPI context", "createdAt": "2026-02-04T11:53:05Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1162, "title": "Opus 4.6 with adaptive thinking: Redundant text block (text -> think -> text)", "createdAt": "2026-02-05T22:51:57Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1170, "title": "Tool runner exits early when response contains only server tool use blocks (e.g. web_search, web_fetch) and stop reason: pause_turn", "createdAt": "2026-02-08T01:33:48Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1175, "title": "[Opus 4.6] BetaCompactionBlock deserialized as ParsedBetaTextBlock during streaming accumulation", "createdAt": "2026-02-11T14:01:08Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1176, "title": "Bug Report: Claude models cannot emit literal double quotes inside tool call string parameters", "createdAt": "2026-02-12T09:25:07Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1179, "title": "API rejects code_execution_20250825 tool: 'use_web_search_purpose: Extra inputs are not permitted'", "createdAt": "2026-02-14T08:22:46Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1180, "title": "code_execution tool broken: use_web_search_purpose validation error (server-side)", "createdAt": "2026-02-14T09:26:39Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1181, "title": "🐛 Bug: Skills API returns immediate 500s when skills are enabled (base API works)", "createdAt": "2026-02-16T13:39:09Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1184, "title": "Missing support from non-image EmbeddedResources", "createdAt": "2026-02-18T11:18:58Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1185, "title": "Structured outputs: \"compiled grammar is too large\" error needs better documentation and higher limits for complex schemas", "createdAt": "2026-02-18T11:38:01Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1187, "title": "tool_use blocks returned with XML artifacts in name field", "createdAt": "2026-02-18T23:35:38Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1188, "title": "Structured outputs with Claude 4.6 on Vertex AI results in error", "createdAt": "2026-02-19T15:22:20Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1191, "title": "Debug token", "createdAt": "2026-02-20T11:33:11Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1192, "title": "IndexError when streaming", "createdAt": "2026-02-20T14:01:37Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1194, "title": "Prompt caching for Claude Sonnet appears to start at 2048 tokens instead of documented 1024", "createdAt": "2026-02-21T05:04:31Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1195, "title": "Python SDK: _transform_recursive blocking event loop on large message payloads", "createdAt": "2026-02-21T23:01:49Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1198, "title": "Feature request: Audio input support in Messages API", "createdAt": "2026-02-23T22:24:44Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1202, "title": "Use of `deepcopy_minimal` in `files.beta.upload` mutates dict in place", "createdAt": "2026-02-24T23:11:00Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1204, "title": "Structured output + thinking + tool use: two bugs in multi-turn conversations", "createdAt": "2026-02-25T11:13:31Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1205, "title": "Bug: async _check_and_compact() ignores tool_use filtering, causes BadRequestError", "createdAt": "2026-02-25T16:04:44Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1208, "title": "Support enums in `transform_schema`", "createdAt": "2026-02-26T17:09:25Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1210, "title": "Bedrock beta.messages missing .stream() method", "createdAt": "2026-02-26T22:59:28Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1211, "title": "Slow imports", "createdAt": "2026-02-27T06:05:18Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1212, "title": "Feature Request: Persistent context slot (flat monthly fee)", "createdAt": "2026-02-27T10:22:51Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1215, "title": "Bug Report: Claude Pro weekly usage limits depleting drastically faster since Claude 4.6 release", "createdAt": "2026-03-01T10:33:42Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1224, "title": "web_search_20260209: pause_turn loop", "createdAt": "2026-03-07T17:44:32Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1225, "title": "web_search_20260209: latency plateau independent of max_uses", "createdAt": "2026-03-07T17:49:01Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1237, "title": "`web_search_20250209` dynamic filtering causes excessive `pause_turn` at ~110 content blocks — batch processing impractical", "createdAt": "2026-03-10T19:39:02Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1242, "title": "Solved issue", "createdAt": "2026-03-13T03:11:40Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1257, "title": "MCP connectors non-functional on claude.ai — mcp.etherscan.io hardblocked at network level", "createdAt": "2026-03-18T12:00:02Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1258, "title": "Mid-stream SSE errors get `status_code=200` instead of the actual error code", "createdAt": "2026-03-18T20:48:10Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1265, "title": "Streaming tool use: unhelpful error message when model emits malformed JSON (non-beta path missing try-except)", "createdAt": "2026-03-20T00:00:32Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1277, "title": "API does not cleanly separate tool-use mechanics (search queries, results, narration) from the final authored content", "createdAt": "2026-03-22T03:02:15Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1278, "title": "[RFC] Korean Tokenization: Jamo Decomposition as Pre-tokenizer (A Blueprint for Compositional Scripts)", "createdAt": "2026-03-22T04:59:25Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1279, "title": "docs: add example for mTLS / corporate proxy configuration", "createdAt": "2026-03-23T02:49:58Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1288, "title": "500 Internal Server Error when input_examples contains an empty object {}", "createdAt": "2026-03-24T15:29:54Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1290, "title": "BetaAsyncAbstractMemoryTool docstring contains sync-only example (copy-paste from sync class)", "createdAt": "2026-03-25T01:32:20Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1294, "title": "beta.skills.create intermittently fails with Cloudflare 520/502 (anthropic SDK python 0.86.0)", "createdAt": "2026-03-25T14:54:43Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1298, "title": "Gift subscription redeemed but account stuck on Free plan – no human support available", "createdAt": "2026-03-26T03:53:20Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1303, "title": "agent-sdk use skills fail, but I can directly use the skill to return the data.", "createdAt": "2026-03-27T03:12:38Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1309, "title": "[Feature Request] Add Vietnamese language support for Claude Voice", "createdAt": "2026-03-29T01:52:25Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1317, "title": "Streaming tool_use with adaptive thinking: terminated stop_reason on long tool input content", "createdAt": "2026-03-31T08:08:59Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1318, "title": "[BUG] `client.beta.files.upload`  `PathLike` error", "createdAt": "2026-03-31T18:02:11Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1320, "title": "Clarvia AEO badge — measure agent-readiness of the Anthropic SDK", "createdAt": "2026-03-31T20:29:57Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1324, "title": "[SUPPORT] Financial damage report - Claude Code agent errors cost ~$45 USD", "createdAt": "2026-04-02T01:22:53Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1325, "title": "ServerToolResult not delivered when client tools interrupt the stream (code_execution + client tool concurrency)", "createdAt": "2026-04-02T07:42:30Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1327, "title": "[Enterprise/MDM][Jamf Pro] Keychain prompt \"Claude Key\" appears after every update in managed environments without iCloud", "createdAt": "2026-04-03T09:40:57Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1329, "title": "[claude.ai / MCP] Image content blocks from tool results not rendered inline in assistant response", "createdAt": "2026-04-03T11:04:03Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1339, "title": "pause_turn with web_search: docs say re-submit response as-is, but API returns 400 — are we missing something?", "createdAt": "2026-04-06T17:52:16Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1340, "title": "pdfplumber broken in code_execution sandbox — charset_normalizer mypyc module missing", "createdAt": "2026-04-06T22:37:16Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1342, "title": "There's an issue with the selected model (claude-3-5-sonnet-20241022). It may not exist or you may not have access to it. Run --model to pick a different model.", "createdAt": "2026-04-07T03:38:11Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1343, "title": "Caching does not work or not return cache info when streaming is enabled", "createdAt": "2026-04-07T08:08:26Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1349, "title": "Custom skills in container parameter break prompt caching - consistent skills list produces non-deterministic cache prefix", "createdAt": "2026-04-08T18:53:35Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1351, "title": "Feature Request: Support embeddings as a native input modality in the Messages API", "createdAt": "2026-04-09T15:29:26Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1357, "title": "[BUG] Managed Agents: client.beta.sessions.events.stream() silently drops all events", "createdAt": "2026-04-10T14:26:53Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1360, "title": "Error by downloading the PPT", "createdAt": "2026-04-10T18:18:01Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1361, "title": "[BUG] Claude Max 5x gift subscription automatically canceled — account reverted to Free plan", "createdAt": "2026-04-10T19:04:48Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1365, "title": "Safety concern: Claude Code executed irreversible blockchain transfer causing .88 loss", "createdAt": "2026-04-12T10:28:36Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1370, "title": "Feature request: expose subprocess PID from SubprocessCLITransport for cleanup", "createdAt": "2026-04-13T12:01:05Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1372, "title": "Code quality: silent exception swallowing in SDK core + unbounded LRU caches", "createdAt": "2026-04-13T17:24:14Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1383, "title": "Managed Agents MCP client only supports SSE transport — incompatible with servers that have dropped SSE (e.g. Apify)", "createdAt": "2026-04-14T11:32:23Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1390, "title": "Cannot GC orphan Files API files — skill→file linkage not exposed on skills.versions.retrieve", "createdAt": "2026-04-15T05:16:51Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1391, "title": "beta.skills.list hard-capped at 100 items with broken pagination (has_more always false, no cursor)", "createdAt": "2026-04-15T05:17:33Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1394, "title": "ToolSearchToolResultBlock is raw dict", "createdAt": "2026-04-15T09:35:28Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1401, "title": "Problem with Claude code in Visual Studio Code", "createdAt": "2026-04-15T14:56:43Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1405, "title": "CMA: Tool call results silently lost when server returns 406 on GET /mcp SSE probe", "createdAt": "2026-04-16T19:12:43Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1411, "title": "xhigh effort capability for Opus 4.7", "createdAt": "2026-04-18T11:16:46Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1415, "title": "图片", "createdAt": "2026-04-19T18:23:46Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1421, "title": "BetaInputJsonEvent not fired for server_tool_use blocks during streaming", "createdAt": "2026-04-20T21:13:04Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1422, "title": "ParsedBetaContentBlock union missing tool_search/web_fetch result blocks — stream accumulator drops them from get_final_message()", "createdAt": "2026-04-20T21:30:57Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1424, "title": "`get_final_message()` does not propagate `message_delta.container` into aggregated Message (breaks code_execution continuation)", "createdAt": "2026-04-21T06:41:41Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1430, "title": "API \"Streaming is required\" error message is outdated", "createdAt": "2026-04-21T19:36:18Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1432, "title": "Intermittent `NotFoundError (404)` on Batch API", "createdAt": "2026-04-21T21:32:12Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1439, "title": "Container File Mounting", "createdAt": "2026-04-24T04:12:00Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1447, "title": "Add stable alias for \"current recommended model\" (e.g. claude-sonnet-latest)", "createdAt": "2026-04-25T14:42:14Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1450, "title": "`BetaCitationPageLocation` contains `file_id` that cannot be roundtripped as a request", "createdAt": "2026-04-26T08:36:44Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1451, "title": "Cache misses on second back-to-back `client.messages.create()` (~40% rate)", "createdAt": "2026-04-26T09:56:02Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1453, "title": "Enable MCP Connectors (OAuth) in VSCode Extension (Claude Code)", "createdAt": "2026-04-26T23:47:01Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1454, "title": "ToolUseBlock and ToolUseBlockParam type conflict for caller nullability", "createdAt": "2026-04-27T06:46:46Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1456, "title": "Stream stalls for 50–180s before next token when generating large tool call arguments (~100K input tokens)", "createdAt": "2026-04-27T11:15:19Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1464, "title": "Delay when generating file_text argument using skills", "createdAt": "2026-04-28T13:59:46Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1470, "title": "Streaming /v1/messages drops mid-stream with RemoteProtocolError on long code_execution + skills runs", "createdAt": "2026-04-29T05:50:45Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1471, "title": "Async methods NOT working with US/EU regions on Vertex AI - Gets 404 on endpoints", "createdAt": "2026-04-29T08:16:56Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1472, "title": "Streaming error SSE event causes `AttributeError: 'NoneType' object has no attribute` errors", "createdAt": "2026-04-29T17:46:38Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1477, "title": "Bedrock streaming SSE events errors are not handled gracefully", "createdAt": "2026-04-30T08:14:00Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1490, "title": "[Bug] Billing console conflates API direct charges with subscription overages — users cannot distinguish charge sources", "createdAt": "2026-05-04T22:51:13Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1491, "title": "[Enhancement] Add resets_on field to Admin API billing response", "createdAt": "2026-05-04T22:51:27Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1492, "title": "[Enhancement] Standardize usage limit labels — replace ambiguous 'Usage Limit' with specific limit type identifiers", "createdAt": "2026-05-04T22:51:42Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1493, "title": "[Enhancement] Cache efficiency score in billing — surface amortization ratio to reduce invisible subscription waste", "createdAt": "2026-05-04T22:51:57Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1494, "title": "[Enhancement] Pre-limit usage alerts and webhooks — notify users before session/weekly budgets are exhausted", "createdAt": "2026-05-04T22:52:10Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1495, "title": "[Enhancement] API access for Cowork global and project instruction layers — close automation parity gap", "createdAt": "2026-05-04T22:52:24Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1496, "title": "Accept a callable for bearer-token auth (`auth_token: str | Callable[[], str]`)", "createdAt": "2026-05-05T00:25:44Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1498, "title": "Supply chain risk: 2 CRITICAL single-maintainer transitive dependencies", "createdAt": "2026-05-05T08:42:36Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1502, "title": "Claude Code extension for VSCode version  2.1.129 does not install correctly", "createdAt": "2026-05-06T02:26:16Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1505, "title": "Claude Code Extension fails to load on network paths (UNC paths)", "createdAt": "2026-05-06T14:30:20Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1522, "title": "test", "createdAt": "2026-05-09T19:37:59Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1524, "title": "Claude Code Web - Dynamic Favicon Status Indicator", "createdAt": "2026-05-10T15:14:08Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1525, "title": "Managed Agents `sessions.events.send` rejects `output_config` with 400 — no parity with `messages.create` for effort/thinking control", "createdAt": "2026-05-10T21:17:34Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1536, "title": "[Bug] append_messages() inside tool runner loop causes infinite loop (advanced usage docs example)", "createdAt": "2026-05-13T04:37:58Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1547, "title": "[BUG] Server writes additional cache entries past explicit `cache_control` breakpoint, billing 1.25x for tokens that are never read", "createdAt": "2026-05-15T02:29:22Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1559, "title": "Official Rust SDK request — Where The Rust At? (follow-up to #747)", "createdAt": "2026-05-17T06:01:29Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1562, "title": "Managed Agents: vault_ids not inherited by subagents dispatched via agent_toolset — MCP OAuth calls fail", "createdAt": "2026-05-18T14:42:07Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1568, "title": "Use Trusted Publishing to upload to PyPI", "createdAt": "2026-05-19T12:46:49Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1575, "title": "beta.skills.create: undocumented requirement that files path prefix must match SKILL.md name: field", "createdAt": "2026-05-20T13:26:08Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1578, "title": "Enforce HTTPS for base_url during Workload Identity Token Exchanges (Defense-in-Depth)", "createdAt": "2026-05-20T21:15:32Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1581, "title": "[BUG] MCP connector: model intermittently emits tool_use instead of mcp_tool_use for tools declared in mcp_toolset", "createdAt": "2026-05-21T10:35:38Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1583, "title": "Managed Agents: \"model is not supported\" for all models on sessions.create and agents.create", "createdAt": "2026-05-21T18:02:21Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1589, "title": "Add HEIC/HEIF image format support to Vision API", "createdAt": "2026-05-22T17:10:22Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1596, "title": "fix(examples): replace dated model IDs with non-dated aliases", "createdAt": "2026-05-23T13:05:11Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1598, "title": "[Bug] API returns 400 'Invalid signature in thinking block' when replaying conversation history — no recovery path", "createdAt": "2026-05-23T23:35:05Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1601, "title": "This looks behavior-preserving rather than a parser fix. The original condition already only keeps `minItems` when the value is `0` or `1`; `min_items == 1` is false for `None`, so the added tests would pass on the current code too.", "createdAt": "2026-05-25T22:43:44Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1607, "title": "Batch API: tool_use input wrapped in $PARAMETER_NAME placeholder key (claude-opus-4-7)", "createdAt": "2026-05-28T14:47:53Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1613, "title": "Safety Report: AI Guardrails Do Not Work — 56-Day Proof (06K Loss)", "createdAt": "2026-05-30T08:15:05Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1619, "title": "BUG: construct_type() crashes with ValueError when type_ is a bare dict", "createdAt": "2026-05-31T22:47:14Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1626, "title": "BUG: construct_type() raises IndexError when called with bare unparameterized list", "createdAt": "2026-06-01T03:20:37Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1628, "title": "IndexError on bare (unparameterized) dict annotation in _transform_recursive", "createdAt": "2026-06-01T03:26:51Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1637, "title": "Self-hosted agent_toolset `read` tool raises UnicodeDecodeError on binary files (images/PDFs) instead of returning content blocks", "createdAt": "2026-06-02T14:16:33Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1640, "title": "`Anthropic()` emits a malformed `Authorization: Bearer ` header when `ANTHROPIC_AUTH_TOKEN` is an empty string", "createdAt": "2026-06-03T23:08:00Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1645, "title": "Claude for Excel Extension - \"Couldn't start sign-in\" Error - Pro Subscription", "createdAt": "2026-06-04T08:15:18Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1646, "title": "Add machine-readable error code/type for billing/quota errors", "createdAt": "2026-06-04T10:56:23Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1647, "title": "Bedrock stream decoder drops SSE event types; type-less chunks construct as RawMessageStartEvent(message=None)", "createdAt": "2026-06-04T14:49:45Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1649, "title": "Streaming response consumption validates full event union per event on the loop, even for get_final_message()", "createdAt": "2026-06-04T16:35:31Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1660, "title": "[BILLING] Unresolved: Payment Deducted But Claude Pro Subscription Not Activated - 24+ Hours Without Support Response", "createdAt": "2026-06-07T09:11:21Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1661, "title": "Broken azure foundry auth on new version", "createdAt": "2026-06-07T15:07:37Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1664, "title": "Managed Agents event stream doesn't surface model refusal stop_reason / stop_details", "createdAt": "2026-06-08T15:43:39Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1666, "title": "web_search_20260209 dynamic filtering: code execution fails with \"AttributeError: 'str' object has no attribute 'get'\" and returns empty results — need help understanding", "createdAt": "2026-06-09T14:08:47Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1671, "title": "[Beta Sessions / Managed Agents] MCP tool-result image content blocks reach the model as base64 text instead of vision", "createdAt": "2026-06-11T18:56:09Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1676, "title": "x-stainless-timeout header is NOT_GIVEN on default requests", "createdAt": "2026-06-14T04:31:59Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1680, "title": "Integration: Expose Claude Code via MCP for external agents (cowork-to-code-bridge)", "createdAt": "2026-06-16T11:57:00Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1681, "title": "Feature: Official Claude Code MCP Server Implementation", "createdAt": "2026-06-16T13:21:09Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1683, "title": "DRAKS1https://github.com/anthropics/anthropic-sdk-python/issues/1683", "createdAt": "2026-06-17T00:18:55Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1687, "title": "Configuring web_search/web_fetch in agent_toolset_20260401 breaks a co-declared mcp_toolset", "createdAt": "2026-06-19T13:13:51Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1698, "title": "API Error: 400 Streaming is required for operations that may take longer than 10 minutes. See https://github.com/anthropics/anthropic-sdk-python#long-requests for more details", "createdAt": "2026-06-22T07:30:02Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1699, "title": "Retry behavior for AuthenticationError under high concurrency", "createdAt": "2026-06-22T17:49:07Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1700, "title": "[Bug]: Auth handshake returns fatal 403 \"This organization has been disabled\" on active paid Pro container", "createdAt": "2026-06-22T18:32:03Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1704, "title": "https://github.com/anthropics/anthropic-sdk-python/issues/1683", "createdAt": "2026-06-25T04:03:37Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1710, "title": "ededededededede", "createdAt": "2026-06-25T23:28:55Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1711, "title": "https://github.com/anthropics/anthropic-sdk-python/issues/1683#issue-4678885192", "createdAt": "2026-06-27T14:56:21Z", "state": "CLOSED", "repo": "anthropics/anthropic-sdk-python"}
+{"number": 1715, "title": "[BUG] PydanticSerializationUnexpectedValue warnings on every `message_stop` event when streaming", "createdAt": "2026-06-29T19:09:21Z", "state": "OPEN", "repo": "anthropics/anthropic-sdk-python"}
