@@ -41,7 +41,8 @@ END_DATE = datetime.datetime(2026, 7, 1, 0, 0, 0)
 
 # 目标仓库列表 — Phase2: AI原生仓库 + 回溯
 REPOSITORIES = [
-    "Aider-AI/aider",
+    "d3/d3",  # 测试：109 PR, 145 issue, 很快就跑完
+    # "Aider-AI/aider",
     "continuedev/continue",
     "cline/cline",
     "All-Hands-AI/OpenHands",
