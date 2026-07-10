@@ -283,13 +283,20 @@ def crawl_repo(repo, outdir, since="2020-01-01T00:00:00Z"):
     return state
 
 def main():
+    repos_new = REPO_LIST
+    repos_backfill = BACKFILL_REPOS
+    if os.environ.get("TEST_MODE"):
+        repos_new = []  # 测试模式: 只爬一个小仓库
+        repos_backfill = ["d3/d3"]
+        print("*** 测试模式 ***")
+
     print("=" * 50)
     print(f" GitHub Phase2 Crawler ({len(TOKENS)} tokens)")
     print(f" 开始: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     print("=" * 50)
 
     # 第二批: 回溯现有仓库 (先做, 这些是核心研究基础)
-    for repo in BACKFILL_REPOS:
+    for repo in repos_backfill:
         outdir = OUTPUT_DIR / "backfill" / repo_prefix(repo)
         outdir.mkdir(parents=True, exist_ok=True)
         crawl_repo(repo, outdir, since="2020-01-01T00:00:00Z")
@@ -297,7 +304,7 @@ def main():
             break
 
     # 第一批: AI 原生新仓库
-    for repo in REPO_LIST:
+    for repo in repos_new:
         outdir = OUTPUT_DIR / repo_prefix(repo)
         outdir.mkdir(parents=True, exist_ok=True)
         crawl_repo(repo, outdir, since="2020-01-01T00:00:00Z")

@@ -2,6 +2,11 @@ name: Phase2 Crawler (AI原生仓库 + 回溯2020)
 
 on:
   workflow_dispatch:
+    inputs:
+      test_mode:
+        description: '测试模式 (只爬 d3/d3)'
+        type: boolean
+        default: true
   schedule:
     - cron: "0 */6 * * *"
 
@@ -28,6 +33,7 @@ jobs:
       - name: Run crawler
         env:
           GITHUB_TOKENS: ${{ secrets.for_2 }}
+          TEST_MODE: ${{ inputs.test_mode == true && '1' || '' }}
         run: |
           # 后台每30分钟自动提交进度
           (
