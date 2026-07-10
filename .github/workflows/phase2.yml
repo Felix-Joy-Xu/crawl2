@@ -29,20 +29,33 @@ jobs:
         env:
           GITHUB_TOKENS: ${{ secrets.for_2 }}
         run: |
-          echo "TOKEN_COUNT=$(echo $GITHUB_TOKENS | tr ',' '\n' | wc -l)"
+          # 后台每30分钟自动提交进度
+          (
+            while true; do
+              sleep 1800
+              if [ -d data_phase2 ] && [ -n "$(find data_phase2 -name '*.jsonl' -newer data_phase2 2>/dev/null || echo data_phase2)" ]; then
+                git add data_phase2/ 2>/dev/null || true
+                git commit -m "Phase2 自动备份 [skip ci]" 2>/dev/null && git push 2>/dev/null || true
+              fi
+            done
+          ) &
+          COMMIT_PID=$!
+          
           python crawler_phase2.py
+          
+          kill $COMMIT_PID 2>/dev/null || true
 
-      - name: Commit progress
+      - name: Commit final progress
         if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if [ -d data_phase2 ]; then
             git add data_phase2/ 2>/dev/null || true
-            if git diff --cached --quiet; then
-              echo "无变更"
+            if ! git diff --cached --quiet; then
+              git commit -m "Phase2 爬取进度 [skip ci]" && git push || echo "推送跳过"
             else
-              git commit -m "Phase2 爬取进度 [skip ci]" && git push || echo "提交或推送跳过"
+              echo "无变更"
             fi
           else
             echo "data_phase2/ 目录不存在"
