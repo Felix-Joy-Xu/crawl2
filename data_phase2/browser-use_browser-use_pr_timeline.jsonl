@@ -2107,3 +2107,777 @@
 {"__typename": "MergedEvent", "createdAt": "2025-01-24T19:39:29Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 369}
 {"__typename": "ClosedEvent", "createdAt": "2025-01-24T19:39:29Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 369}
 {"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 369}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 372}
+{"__typename": "MergedEvent", "createdAt": "2025-01-24T17:38:54Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 372}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-24T17:38:54Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 372}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 372}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 372}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 373}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 373}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 373}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 373}
+{"__typename": "MergedEvent", "createdAt": "2025-01-24T19:38:03Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 373}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-24T19:38:03Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 373}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 373}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 373}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 373}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 374}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 374}
+{"__typename": "MergedEvent", "createdAt": "2025-01-24T18:05:53Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 374}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-24T18:05:53Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 374}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 374}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 374}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 375}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 375}
+{"__typename": "MergedEvent", "createdAt": "2025-01-24T19:36:52Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 375}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-24T19:36:52Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 375}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 375}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 375}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 375}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 375}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 375}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "MergedEvent", "createdAt": "2025-01-25T06:23:00Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-25T06:23:00Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 376}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 377}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 377}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-25T06:23:53Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 377}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 377}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 381}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 381}
+{"__typename": "MergedEvent", "createdAt": "2025-01-25T02:46:39Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 381}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-25T02:46:39Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 381}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 381}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 381}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 383}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 383}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 383}
+{"__typename": "MergedEvent", "createdAt": "2025-01-25T06:20:44Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 383}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-25T06:20:45Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 383}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 383}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 383}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 384}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 384}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 384}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 384}
+{"__typename": "AutomaticBaseChangeSucceededEvent", "repo": "browser-use/browser-use", "pr_number": 384}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-25T18:56:22Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 384}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 384}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 387}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 387}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 387}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 387}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 387}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 387}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 387}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 387}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 387}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 387}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 387}
+{"__typename": "ClosedEvent", "createdAt": "2025-08-28T18:15:10Z", "actor": "sauravpanda", "repo": "browser-use/browser-use", "pr_number": 387}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 387}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 387}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 388}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 388}
+{"__typename": "DeployedEvent", "repo": "browser-use/browser-use", "pr_number": 388}
+{"__typename": "MergedEvent", "createdAt": "2025-01-25T18:46:03Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 388}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-25T18:46:03Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 388}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 388}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 388}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 389}
+{"__typename": "MergedEvent", "createdAt": "2025-01-25T19:29:37Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 389}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-25T19:29:37Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 389}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 389}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 389}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 390}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 390}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 390}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 390}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 390}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 390}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 390}
+{"__typename": "DeployedEvent", "repo": "browser-use/browser-use", "pr_number": 390}
+{"__typename": "MergedEvent", "createdAt": "2025-01-25T21:05:58Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 390}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-25T21:05:58Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 390}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 390}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 390}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 391}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 391}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 391}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-26T03:15:43Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 391}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 392}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 392}
+{"__typename": "MergedEvent", "createdAt": "2025-01-25T22:57:47Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 392}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-25T22:57:47Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 392}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 392}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 392}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 392}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 392}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 392}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 393}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 393}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 393}
+{"__typename": "DeployedEvent", "repo": "browser-use/browser-use", "pr_number": 393}
+{"__typename": "MergedEvent", "createdAt": "2025-01-25T22:02:50Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 393}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-25T22:02:50Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 393}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 393}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 393}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 394}
+{"__typename": "MergedEvent", "createdAt": "2025-01-26T03:16:30Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 394}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-26T03:16:30Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 394}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 394}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 397}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 397}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 397}
+{"__typename": "MergedEvent", "createdAt": "2025-01-26T02:39:52Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 397}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-26T02:39:52Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 397}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 397}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 397}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 398}
+{"__typename": "MergedEvent", "createdAt": "2025-01-26T02:43:09Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 398}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-26T02:43:09Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 398}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 398}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 398}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 399}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 399}
+{"__typename": "MergedEvent", "createdAt": "2025-01-26T03:10:17Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 399}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-26T03:10:17Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 399}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 399}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 399}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 400}
+{"__typename": "MergedEvent", "createdAt": "2025-01-26T03:14:47Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 400}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-26T03:14:48Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 400}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 400}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 400}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 403}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 403}
+{"__typename": "MergedEvent", "createdAt": "2025-01-26T07:32:05Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 403}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-26T07:32:05Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 403}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 403}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 403}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 406}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 406}
+{"__typename": "MergedEvent", "createdAt": "2025-01-26T15:25:43Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 406}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-26T15:25:43Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 406}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 406}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 409}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 409}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 409}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 409}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 409}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 409}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 409}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 409}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 409}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 409}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 409}
+{"__typename": "MergedEvent", "createdAt": "2025-01-30T05:50:58Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 409}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-30T05:50:58Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 409}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 410}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 410}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 410}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 410}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 410}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-26T14:56:15Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 410}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 410}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 413}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 413}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 413}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-26T15:27:17Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 413}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 414}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 414}
+{"__typename": "MergedEvent", "createdAt": "2025-01-26T15:22:06Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 414}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-26T15:22:06Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 414}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 414}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "MergedEvent", "createdAt": "2025-01-30T06:17:42Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-30T06:17:43Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 416}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 417}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 417}
+{"__typename": "MergedEvent", "createdAt": "2025-01-26T15:24:07Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 417}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-26T15:24:07Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 417}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 417}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 417}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 417}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 418}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 418}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-26T17:45:14Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 418}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 418}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 420}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 420}
+{"__typename": "MergedEvent", "createdAt": "2025-01-26T17:00:21Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 420}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-26T17:00:22Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 420}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 420}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 421}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 421}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 421}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 421}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 421}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 421}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-27T14:13:41Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 421}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 421}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "PullRequestReview", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "MergedEvent", "createdAt": "2025-01-30T06:15:41Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-30T06:15:41Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "UnsubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 422}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 425}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 425}
+{"__typename": "ReadyForReviewEvent", "repo": "browser-use/browser-use", "pr_number": 425}
+{"__typename": "MergedEvent", "createdAt": "2025-01-29T01:56:44Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 425}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-29T01:56:44Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 425}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 425}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-28T03:49:13Z", "actor": "somethingwentwell", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "ReopenedEvent", "createdAt": "2025-01-28T03:52:28Z", "actor": "somethingwentwell", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "MergedEvent", "createdAt": "2025-02-01T06:27:05Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-01T06:27:05Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 427}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 429}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 429}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 429}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 429}
+{"__typename": "MergedEvent", "createdAt": "2025-01-29T02:02:13Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 429}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-29T02:02:13Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 429}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 429}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 430}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 430}
+{"__typename": "MergedEvent", "createdAt": "2025-01-29T02:07:01Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 430}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-29T02:07:01Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 430}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 430}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 432}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 432}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 432}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-27T14:22:51Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 432}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 432}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 433}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 433}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 433}
+{"__typename": "MergedEvent", "createdAt": "2025-01-29T02:02:00Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 433}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-29T02:02:00Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 433}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 433}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 434}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 434}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 434}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-28T08:37:48Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 434}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 434}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 435}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 435}
+{"__typename": "MergedEvent", "createdAt": "2025-01-27T15:59:53Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 435}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-27T15:59:53Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 435}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 435}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 435}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 438}
+{"__typename": "MergedEvent", "createdAt": "2025-01-27T20:28:20Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 438}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-27T20:28:21Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 438}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 438}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 438}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "ClosedEvent", "createdAt": "2025-04-02T16:29:47Z", "actor": "PaperBoardOfficial", "repo": "browser-use/browser-use", "pr_number": 444}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 445}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 445}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 445}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-29T03:31:23Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 445}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 445}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 446}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 446}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 446}
+{"__typename": "ClosedEvent", "createdAt": "2025-03-25T23:06:30Z", "actor": "pirate", "repo": "browser-use/browser-use", "pr_number": 446}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 451}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 451}
+{"__typename": "MergedEvent", "createdAt": "2025-01-28T17:57:01Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 451}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-28T17:57:01Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 451}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 451}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 451}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 452}
+{"__typename": "MergedEvent", "createdAt": "2025-01-28T18:29:06Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 452}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-28T18:29:06Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 452}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 452}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 452}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 453}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 453}
+{"__typename": "MergedEvent", "createdAt": "2025-01-29T01:53:29Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 453}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-29T01:53:30Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 453}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 453}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 455}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 455}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 455}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-29T10:34:07Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 455}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 455}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 456}
+{"__typename": "MergedEvent", "createdAt": "2025-01-29T04:21:35Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 456}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-29T04:21:36Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 456}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 456}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 456}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 456}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 459}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 459}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-29T10:57:45Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 459}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 459}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 460}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 460}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 460}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-29T11:39:51Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 460}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 460}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 462}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 462}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 462}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-29T11:58:28Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 462}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 462}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 463}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 463}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 463}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-30T09:58:12Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 463}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 463}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-29T20:07:56Z", "actor": "Riddhimaan-Senapati", "repo": "browser-use/browser-use", "pr_number": 464}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 467}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 467}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-29T15:26:51Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 467}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 469}
+{"__typename": "MergedEvent", "createdAt": "2025-01-30T05:53:23Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 469}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-30T05:53:23Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 469}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 469}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 469}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 471}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 471}
+{"__typename": "PullRequestReview", "repo": "browser-use/browser-use", "pr_number": 471}
+{"__typename": "MergedEvent", "createdAt": "2025-01-30T05:51:48Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 471}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-30T05:51:49Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 471}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 471}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 472}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 472}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 472}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 472}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 472}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 472}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 472}
+{"__typename": "PullRequestReview", "repo": "browser-use/browser-use", "pr_number": 472}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 472}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 472}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 472}
+{"__typename": "LabeledEvent", "repo": "browser-use/browser-use", "pr_number": 472}
+{"__typename": "ClosedEvent", "createdAt": "2025-09-03T18:17:57Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 472}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 473}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 473}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 473}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 473}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 473}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 473}
+{"__typename": "DeployedEvent", "repo": "browser-use/browser-use", "pr_number": 473}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 473}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 473}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 473}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 473}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 473}
+{"__typename": "LabeledEvent", "repo": "browser-use/browser-use", "pr_number": 473}
+{"__typename": "ClosedEvent", "createdAt": "2025-09-03T18:17:58Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 473}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 476}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 476}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 476}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 476}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 476}
+{"__typename": "MergedEvent", "createdAt": "2025-01-30T05:50:56Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 476}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-30T05:50:56Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 476}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 476}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 476}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 477}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 477}
+{"__typename": "MergedEvent", "createdAt": "2025-01-30T06:26:08Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 477}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-30T06:26:08Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 477}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 477}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 477}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 477}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 479}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 479}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 479}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 479}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 479}
+{"__typename": "MergedEvent", "createdAt": "2025-02-01T06:37:57Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 479}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-01T06:37:57Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 479}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 479}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 480}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 480}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 480}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 480}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-31T07:26:23Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 480}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 480}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 484}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 484}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 484}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 484}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 484}
+{"__typename": "ClosedEvent", "createdAt": "2025-03-26T01:46:49Z", "actor": "pirate", "repo": "browser-use/browser-use", "pr_number": 484}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 487}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 487}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 487}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 487}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 487}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 487}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-02T01:30:30Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 487}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 487}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 489}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 489}
+{"__typename": "MergedEvent", "createdAt": "2025-01-31T07:59:48Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 489}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-31T07:59:48Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 489}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 489}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 489}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 491}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 491}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 491}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 491}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 491}
+{"__typename": "ClosedEvent", "createdAt": "2025-05-06T06:49:11Z", "actor": "pirate", "repo": "browser-use/browser-use", "pr_number": 491}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 492}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 492}
+{"__typename": "PullRequestReview", "repo": "browser-use/browser-use", "pr_number": 492}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 492}
+{"__typename": "MergedEvent", "createdAt": "2025-02-12T16:59:35Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 492}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-12T16:59:35Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 492}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 492}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 497}
+{"__typename": "MergedEvent", "createdAt": "2025-01-31T23:02:00Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 497}
+{"__typename": "ClosedEvent", "createdAt": "2025-01-31T23:02:00Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 497}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 497}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 497}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 500}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 500}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 500}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-01T01:16:23Z", "actor": "iuliaturc", "repo": "browser-use/browser-use", "pr_number": 500}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 502}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 502}
+{"__typename": "MergedEvent", "createdAt": "2025-02-01T08:22:08Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 502}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-01T08:22:08Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 502}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 502}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 502}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 503}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 503}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 503}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 503}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 503}
+{"__typename": "DeployedEvent", "repo": "browser-use/browser-use", "pr_number": 503}
+{"__typename": "MergedEvent", "createdAt": "2025-02-01T09:13:36Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 503}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-01T09:13:36Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 503}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 503}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 503}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 503}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 503}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 503}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 506}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 506}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 506}
+{"__typename": "MergedEvent", "createdAt": "2025-02-01T19:08:16Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 506}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-01T19:08:16Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 506}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 506}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 506}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 507}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 507}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-01T19:07:53Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 507}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 510}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 510}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 510}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 510}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 510}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 510}
+{"__typename": "MergedEvent", "createdAt": "2025-02-01T20:58:12Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 510}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-01T20:58:12Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 510}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 510}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 510}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 510}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 511}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-12T16:55:45Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 511}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 513}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 513}
+{"__typename": "MergedEvent", "createdAt": "2025-02-02T00:38:21Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 513}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-02T00:38:21Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 513}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 513}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 513}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "PullRequestReview", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "MergedEvent", "createdAt": "2025-03-28T00:47:49Z", "actor": "pirate", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "ClosedEvent", "createdAt": "2025-03-28T00:47:49Z", "actor": "pirate", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 515}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 516}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 516}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 516}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 516}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-02T01:45:54Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 516}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 516}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 517}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 517}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 517}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 517}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-02T02:53:03Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 517}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 517}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "MergedEvent", "createdAt": "2025-02-02T02:05:46Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-02T02:05:46Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 518}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 519}
+{"__typename": "MergedEvent", "createdAt": "2025-02-02T03:13:34Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 519}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-02T03:13:34Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 519}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 519}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 519}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 519}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "ClosedEvent", "createdAt": "2025-03-17T20:42:42Z", "actor": "jersobh", "repo": "browser-use/browser-use", "pr_number": 520}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 521}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 521}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 521}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 521}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-02T18:20:18Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 521}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 521}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 522}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 522}
+{"__typename": "DeployedEvent", "repo": "browser-use/browser-use", "pr_number": 522}
+{"__typename": "MergedEvent", "createdAt": "2025-02-02T07:20:44Z", "actor": "gregpr07", "repo": "browser-use/browser-use", "pr_number": 522}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-02T07:20:44Z", "actor": "gregpr07", "repo": "browser-use/browser-use", "pr_number": 522}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 522}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 522}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 523}
+{"__typename": "MergedEvent", "createdAt": "2025-02-02T15:55:21Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 523}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-02T15:55:21Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 523}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 523}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "LabeledEvent", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "PullRequestReview", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "PullRequestReview", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "ClosedEvent", "createdAt": "2025-03-26T01:30:18Z", "actor": "pirate", "repo": "browser-use/browser-use", "pr_number": 524}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 525}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 525}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 525}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 525}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-02T20:39:47Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 525}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 525}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 527}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 527}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 527}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-02T20:39:57Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 527}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 528}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 528}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 528}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 528}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-02T20:40:46Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 528}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 529}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 529}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 529}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-03T20:45:08Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 529}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 530}
+{"__typename": "MergedEvent", "createdAt": "2025-02-03T06:19:08Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 530}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-03T06:19:08Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 530}
+{"__typename": "HeadRefDeletedEvent", "repo": "browser-use/browser-use", "pr_number": 530}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 530}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 535}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 535}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 535}
+{"__typename": "PullRequestReview", "repo": "browser-use/browser-use", "pr_number": 535}
+{"__typename": "PullRequestReview", "repo": "browser-use/browser-use", "pr_number": 535}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 535}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 535}
+{"__typename": "ClosedEvent", "createdAt": "2025-03-26T00:50:39Z", "actor": "pirate", "repo": "browser-use/browser-use", "pr_number": 535}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 538}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 538}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 538}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 538}
+{"__typename": "MergedEvent", "createdAt": "2025-02-12T16:49:43Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 538}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-12T16:49:43Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 538}
+{"__typename": "ReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 538}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 539}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 539}
+{"__typename": "CrossReferencedEvent", "repo": "browser-use/browser-use", "pr_number": 539}
+{"__typename": "ClosedEvent", "createdAt": "2025-02-04T07:02:15Z", "actor": "codebeaver-ai", "repo": "browser-use/browser-use", "pr_number": 539}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 540}
+{"__typename": "PullRequestCommit", "repo": "browser-use/browser-use", "pr_number": 540}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 540}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 540}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 540}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 540}
+{"__typename": "ClosedEvent", "createdAt": "2025-03-23T01:58:59Z", "actor": "MagMueller", "repo": "browser-use/browser-use", "pr_number": 540}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 540}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 540}
+{"__typename": "IssueComment", "repo": "browser-use/browser-use", "pr_number": 540}
+{"__typename": "MentionedEvent", "repo": "browser-use/browser-use", "pr_number": 540}
+{"__typename": "SubscribedEvent", "repo": "browser-use/browser-use", "pr_number": 540}

@@ -1407,3 +1407,234 @@
 {"repo": "langchain-ai/langgraph", "pr_number": 1583, "type": "review_comment", "body": "that's what I did no?", "createdAt": "2024-09-03T16:15:29Z", "author": "nfcampos"}
 {"repo": "langchain-ai/langgraph", "pr_number": 1583, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-03T16:45:33Z", "author": "vbarda"}
 {"repo": "langchain-ai/langgraph", "pr_number": 1583, "type": "review_comment", "body": "yup, my bad on the first part of the question, but saw a few places where we still explicitly do `async with self.lock, self.conn.execute(` -- think we can just use cursor there", "createdAt": "2024-09-03T16:45:33Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1589, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-03T13:51:24Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1590, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-03T14:39:34Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1592, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-03T17:04:42Z", "author": "dqbd"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-03T19:18:29Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "TODO: bring this back and test it without snapshot assertions", "createdAt": "2024-09-03T19:18:29Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-03T19:36:40Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "we don't want to remove support for pydantic model v1", "createdAt": "2024-09-03T19:36:40Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-03T19:36:52Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "why are we removing tests?", "createdAt": "2024-09-03T19:36:51Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-03T21:12:33Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "this was before i realized that we wanted to support both, i have a todo above to bring this back", "createdAt": "2024-09-03T21:12:33Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-03T21:13:32Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "for tool validation? i thought we wanted v1 and v2 support only for state schema?", "createdAt": "2024-09-03T21:13:32Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-04T17:14:27Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "why is this changing?", "createdAt": "2024-09-04T17:14:27Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-04T17:14:50Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "why is this changing?", "createdAt": "2024-09-04T17:14:50Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-04T17:45:10Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "that's related to the core changes for properly rendering doubly-nested graphs. the only change is the order here which doesn't affect anything in the actual rendered images", "createdAt": "2024-09-04T17:45:10Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-04T18:00:30Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "otherwise there is an error about `self.name` not being defined, cause it's defined only in some branches without a default value", "createdAt": "2024-09-04T18:00:30Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-04T19:46:01Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "then just add an `else`?", "createdAt": "2024-09-04T19:46:01Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-04T19:46:11Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "okay cool", "createdAt": "2024-09-04T19:46:11Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T17:22:58Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "why is this changing? removing compat with pydantic v1 models", "createdAt": "2024-09-05T17:22:58Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T17:23:03Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "same as above", "createdAt": "2024-09-05T17:23:03Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T17:23:50Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "this won't test with core 0.3 until it's out of pre release I think", "createdAt": "2024-09-05T17:23:50Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T17:24:44Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "In line 217 you should use non deprecated methods for v2 models", "createdAt": "2024-09-05T17:24:44Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T17:25:22Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "can we remove this dependency?", "createdAt": "2024-09-05T17:25:21Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T17:28:33Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "why is this being removed?", "createdAt": "2024-09-05T17:28:32Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T17:53:12Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "yea, it needs to be flipped, will update", "createdAt": "2024-09-05T17:53:12Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T17:57:32Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "don't think so, we're using it in jsonplus serializer\r\n\r\n```python\r\nfrom langchain_core.load.load import Reviver\r\nfrom langchain_core.load.serializable import Serializable\r\n```", "createdAt": "2024-09-05T17:57:32Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T17:59:41Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "can add it back, originally removed because it was a pydantic v1 test, but we can keep it", "createdAt": "2024-09-05T17:59:41Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T18:55:43Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "does this crash if the user has pydantic v1 installed instead?", "createdAt": "2024-09-05T18:55:43Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T18:59:02Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1594, "type": "review_comment", "body": "no, tested on 1.10.18", "createdAt": "2024-09-05T18:59:02Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1606, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-06T00:41:05Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1608, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T16:31:26Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1608, "type": "review_comment", "body": "I think we can actually just use `getattr` and let this handle dataclasses and arbitrary state", "createdAt": "2024-09-05T15:23:03Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1608, "type": "review", "body": "Will commandeer to make more general", "state": "APPROVED", "createdAt": "2024-09-05T16:32:27Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1608, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T17:03:23Z", "author": "abprime"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1608, "type": "review_comment", "body": "That’s a great idea. 👍", "createdAt": "2024-09-05T17:03:23Z", "author": "abprime"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1610, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-05T00:29:02Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1620, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-05T16:01:34Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1621, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-05T16:13:25Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1624, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-05T19:21:42Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1624, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-05T20:19:41Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1625, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T17:43:32Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1625, "type": "review_comment", "body": "Was failing to infer for generics (`Annotated[T, InjectedState()]`) since that is resolved as `Optional[ANnotated....]`)", "createdAt": "2024-09-05T17:43:32Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1625, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T17:53:11Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1625, "type": "review_comment", "body": "do we need both hasattr and getattr?", "createdAt": "2024-09-05T17:53:11Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1625, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-05T17:54:05Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1625, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T17:56:44Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1625, "type": "review_comment", "body": "No - will rm", "createdAt": "2024-09-05T17:56:43Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1626, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T15:40:49Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1626, "type": "review_comment", "body": "let's make this the last item in this list", "createdAt": "2024-09-06T15:40:49Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1626, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T15:41:22Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1626, "type": "review_comment", "body": "let's add a note that this is similar to customizing the `create_react_agent` with `state_modifier`, but a lot more flexible", "createdAt": "2024-09-06T15:41:21Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1626, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-06T18:38:20Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1629, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-06T00:34:33Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1630, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T01:03:57Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1630, "type": "review_comment", "body": "@akira is this needed?", "createdAt": "2024-09-06T01:03:57Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1630, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T01:05:57Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1630, "type": "review_comment", "body": "@hinthornw is this a good api? the iterator just serves to inspect the messages, it does all the actual work internally", "createdAt": "2024-09-06T01:05:57Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1630, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T01:35:40Z", "author": "akira"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1630, "type": "review_comment", "body": "This would wait until the messages are all delivered rather than do async and be handled by periodic flush - so depends on what the semantics that you need?  Would more performance to use async but there's discussion here:\r\nhttps://github.com/confluentinc/confluent-kafka-python/issues/137", "createdAt": "2024-09-06T01:35:39Z", "author": "akira"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1630, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T02:27:37Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1630, "type": "review_comment", "body": "I was using flush to ensure that I don't mark as \"scheduled\" messages that actually weren't ", "createdAt": "2024-09-06T02:27:37Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1630, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-10T01:07:14Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1630, "type": "review_comment", "body": "Apply this change to the remaining checkpointers", "createdAt": "2024-09-10T01:07:14Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1631, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-06T18:37:49Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1631, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-08T14:36:45Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1631, "type": "review_comment", "body": "```suggestion\r\n    \"     <p class=\\\"admonition-title\\\">Set up <a href=\\\"https://smith.langchain.com\\\">LangSmith</a> for LangGraph development</p>\\n\"\r\n```", "createdAt": "2024-09-08T14:36:45Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1633, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T13:41:08Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1633, "type": "review_comment", "body": "perhaps let's rename to \"How to customize Dockerfile\"?", "createdAt": "2024-09-06T13:41:08Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1639, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T18:40:08Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1639, "type": "review_comment", "body": "@isahers1 you can just add `docs` to regex i think", "createdAt": "2024-09-06T18:40:08Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1639, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T18:40:29Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1639, "type": "review_comment", "body": "i.e. `(api|web|docs)`", "createdAt": "2024-09-06T18:40:29Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1639, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T19:22:32Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1639, "type": "review_comment", "body": "ah yeah I'm silly", "createdAt": "2024-09-06T19:22:32Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1639, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T20:53:54Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1639, "type": "review_comment", "body": "```suggestion\r\n```", "createdAt": "2024-09-06T20:53:54Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1639, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T20:54:02Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1639, "type": "review_comment", "body": "```suggestion\r\n```", "createdAt": "2024-09-06T20:54:02Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1639, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T20:54:36Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1639, "type": "review_comment", "body": "```suggestion\r\n```", "createdAt": "2024-09-06T20:54:36Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1639, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T22:22:29Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1639, "type": "review_comment", "body": "```suggestion\r\n```", "createdAt": "2024-09-06T22:22:29Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1640, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-06T20:15:31Z", "author": "dqbd"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1641, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-06T20:55:44Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1642, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-06T19:54:30Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1643, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-06T20:38:32Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1647, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T22:24:23Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1647, "type": "review_comment", "body": "Unrelated to this but thoughts on getting the tool_classes from the tool node here too so we can let you pass in raw functions ?\r\n```\r\n        tool_classes = tools.tools_by_name.values()\r\n```", "createdAt": "2024-09-06T22:24:23Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1647, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-08T15:13:00Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1647, "type": "review_comment", "body": "i think in `tools_by_name` it will also be a tool as we're calling `create_tool` under the hood https://github.com/langchain-ai/langgraph/blob/main/libs/langgraph/langgraph/prebuilt/tool_node.py#L95", "createdAt": "2024-09-08T15:13:00Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1647, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-09T15:18:08Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1647, "type": "review_comment", "body": "ahh nevermind, i misread first, yes, we can definitely do that!", "createdAt": "2024-09-09T15:18:08Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1647, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-30T13:49:49Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1648, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-07T00:27:40Z", "author": "zhouyuf6741"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1648, "type": "review_comment", "body": "only do this when task.cache_policy is existing", "createdAt": "2024-09-07T00:27:39Z", "author": "zhouyuf6741"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1658, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-09T16:29:14Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1663, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-13T22:55:10Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1663, "type": "review_comment", "body": "need -> needed", "createdAt": "2024-09-13T22:55:09Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1663, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-13T22:56:13Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1663, "type": "review_comment", "body": "missing space before \"Common methods ...\"", "createdAt": "2024-09-13T22:56:13Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1663, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-13T22:58:17Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1663, "type": "review_comment", "body": "very minor nit, but would prefer if both state/checkpointers were in back quotes or neither of them were", "createdAt": "2024-09-13T22:58:17Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1663, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-13T22:59:02Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1663, "type": "review_comment", "body": "Forth -> Fourth", "createdAt": "2024-09-13T22:59:02Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1665, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-12T15:25:48Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1665, "type": "review_comment", "body": "maybe should be called set_latest or something?", "createdAt": "2024-09-12T15:25:48Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1665, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-12T18:43:56Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1665, "type": "review_comment", "body": "added to my todo, will make sure to change before merging", "createdAt": "2024-09-12T18:43:56Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1665, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-13T13:50:49Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1665, "type": "review_comment", "body": "might make sense to keep these consistent in the API as well. maybe `update_version` / `set_version`?", "createdAt": "2024-09-13T13:50:49Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1665, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-20T20:24:55Z", "author": "dqbd"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1665, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-20T20:25:47Z", "author": "dqbd"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1665, "type": "review_comment", "body": "Should be `setLatest` to mirror Python", "createdAt": "2024-09-20T20:25:46Z", "author": "dqbd"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-10T12:55:46Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "this should be `if not self.handle_tool_errors`", "createdAt": "2024-09-10T12:55:46Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-10T12:59:55Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "hm, we still want the previous behavior to work the same. i think there are 2 options:\r\n- add `handle_tool_errors = True` and keep the same behavior\r\n- add default `handle_tool_errors` function that works the same as before\r\n\r\nsince some people might have passed the kwarg explicitly in their code (`handle_tool_errors=True`), we probably need option 1", "createdAt": "2024-09-10T12:59:55Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-22T13:57:41Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "why have \"all\" and True?", "createdAt": "2024-10-22T13:57:41Z", "author": "baskaryan"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-22T14:28:02Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "for backwards compatibility. but if we pass a tuple of exceptions to handle, might be able to avoid it and just have `(Exception,)` as the default", "createdAt": "2024-10-22T14:28:02Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-23T17:32:43Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "defaults to \"all\" but all is not documented?", "createdAt": "2024-10-23T17:27:34Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "This logic assumes that a validation error b/c the tool call arguments do not match the function signature of the tool, but a validation error can also be raised from inside the tool (e.g., a tool that uses pydantic models inside).\r\n\r\nIs there a way to consolidate into a parameter maybe that's more generic?", "createdAt": "2024-10-23T17:32:20Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-23T17:35:52Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "typo, thanks for catching (leftover from previous version)", "createdAt": "2024-10-23T17:35:52Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-23T18:24:24Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "yea, let's consolidate into `handle_tool_errors`", "createdAt": "2024-10-23T18:24:24Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-10-23T18:56:04Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "This is a unit test with 300 lines of stuff in it? Any way to break apart? It's hard to follow right now to understand if the API works as expected", "createdAt": "2024-10-23T18:49:44Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "Does the tool decorator not support `handle_tool_error` as a parameter ?", "createdAt": "2024-10-23T18:50:05Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "What happens if the function is misstyped?\r\n\r\n```Union[Union[ValueError, TypeError], ToolException]]```\r\n\r\nor\r\n```Tuple[ValueError, TypeError]```\r\n\r\n", "createdAt": "2024-10-23T18:55:34Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "one sec", "state": "CHANGES_REQUESTED", "createdAt": "2024-10-23T18:56:36Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-23T18:59:44Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "Is `True` the safe default? I know it's convenient, but what's the contents of `error` in the error message?\r\n\r\nIs it the full stack trace? Just the error message? Could something sensitive be leaked by mistake as part of the error message? (e.g., API Key)", "createdAt": "2024-10-23T18:59:44Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-23T19:00:06Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "Does string support a template variable? {error} ? ", "createdAt": "2024-10-23T19:00:06Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-23T19:14:42Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "Nope, i think at that point users should just use callable. do you think we should remove?", "createdAt": "2024-10-23T19:14:42Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-23T19:16:57Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "it's the current default, so i think it would be problematic to change it as it would be breaking. the content is just the error message, no stack trace\r\n\r\nhm, that's an interesting point about a sensitive info in error message -- possible? but IMO this is the same class of issue as \"what if someone invokes a tool/graph with their API key as input\"", "createdAt": "2024-10-23T19:16:57Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-23T19:17:32Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "it will once @baskaryan merges his change", "createdAt": "2024-10-23T19:17:32Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-23T19:30:39Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "yea i was thinking the same -- will split it up, think it's time", "createdAt": "2024-10-23T19:30:39Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-23T20:09:58Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "will break -- good catch", "createdAt": "2024-10-23T20:09:58Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-23T20:19:02Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "added a better error message for those situations", "createdAt": "2024-10-23T20:19:02Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-23T20:20:05Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "if it's default can leave as is", "createdAt": "2024-10-23T20:20:05Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-10-23T20:26:21Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "I think it's fine either way", "createdAt": "2024-10-23T20:21:24Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "What if it's \r\n\r\n`Union[Tuple[str, str]]` ?", "createdAt": "2024-10-23T20:22:34Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "Generic is a thing already\r\n\r\n```suggestion\r\n                    \"Arbitrary types are not supported in the error handler signature.\"\r\n```", "createdAt": "2024-10-23T20:24:05Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "```suggestion\r\n                    \"Please annotate the error with either a specific Exception type or a union of Exception types. \"\r\n```", "createdAt": "2024-10-23T20:24:45Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "If you like could do something like this to be even more helpful:\r\n\r\n```suggestion\r\n   \"For example, `def custom_handler(e: ValueError)` or `def custom-handler(e: Union[ValueError, TypeError])`\r\n                )\r\n```\r\n\r\nand could also try to output the parameter signature", "createdAt": "2024-10-23T20:26:15Z", "author": "eyurtsev"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-10-24T00:01:51Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1667, "type": "review_comment", "body": "added more restrictive checks & better error messages", "createdAt": "2024-10-24T00:01:51Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1674, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T15:45:08Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1674, "type": "review_comment", "body": "lol", "createdAt": "2024-09-11T15:45:08Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1674, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-11T16:18:28Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1674, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T16:25:12Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1674, "type": "review_comment", "body": "gotta do what you gotta do", "createdAt": "2024-09-11T16:25:12Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1677, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-11T14:42:45Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1683, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T20:03:01Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1683, "type": "review_comment", "body": "Do you have an idea of how helpful this was? I guess this is sort of an inner loop", "createdAt": "2024-09-11T20:03:01Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1683, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T20:03:45Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1683, "type": "review_comment", "body": "is this just stylistic or does it actually improve perf?", "createdAt": "2024-09-11T20:03:45Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1683, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T20:04:14Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1683, "type": "review_comment", "body": "Should we just make a single empty_seq in an internal _constants file or something", "createdAt": "2024-09-11T20:04:14Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1683, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T20:38:12Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1683, "type": "review_comment", "body": "No this was just style", "createdAt": "2024-09-11T20:38:12Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1683, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T20:38:22Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1683, "type": "review_comment", "body": "I guess so?", "createdAt": "2024-09-11T20:38:22Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1683, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-11T23:48:57Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1683, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T23:51:06Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1683, "type": "review_comment", "body": "This was more because the previous code was actually incorrect, as it could end up trying to do `<str> in None`", "createdAt": "2024-09-11T23:51:06Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1685, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T20:48:07Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1685, "type": "review_comment", "body": "I'm naively assuming since there's more entropy in sha1 it's at least as unlikely to have a collision as md5 ?", "createdAt": "2024-09-11T20:48:07Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1685, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T20:49:00Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1685, "type": "review_comment", "body": "yea less likely, but this isn't that important here tbh, even sha1 is way more entropy than we'd ever need here", "createdAt": "2024-09-11T20:49:00Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1685, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T20:49:06Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1685, "type": "review_comment", "body": "Why not just `str()`?", "createdAt": "2024-09-11T20:49:06Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1685, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-11T23:48:37Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1685, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-12T00:05:39Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1685, "type": "review_comment", "body": "Because then when we get it back it's not a UUID anymore, but will actually change, as that's the only option with orjson", "createdAt": "2024-09-12T00:05:39Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1695, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-12T04:13:05Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1695, "type": "review_comment", "body": "btw the \"canonical\" way of adding retry policy is in add_node", "createdAt": "2024-09-12T04:13:05Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1695, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-12T15:50:43Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1695, "type": "review_comment", "body": "oh got it", "createdAt": "2024-09-12T15:50:43Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1695, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-12T15:50:57Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1695, "type": "review_comment", "body": "hadn't realized that", "createdAt": "2024-09-12T15:50:57Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1695, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-16T19:03:38Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1695, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-16T19:53:40Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1698, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-12T16:31:00Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1698, "type": "review_comment", "body": "could we format it similarly to this for consistency? https://github.com/langchain-ai/langgraph/blob/main/libs/langgraph/langgraph/_api/deprecation.py#L14", "createdAt": "2024-09-12T14:56:47Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1698, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-13T23:04:55Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1698, "type": "review_comment", "body": "asked baga and he said this was the best way", "createdAt": "2024-09-13T23:04:54Z", "author": "isahers1"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1698, "type": "review", "body": "Can add some text -- \r\n\r\nBy default, `StateGraph` takes in a single schema and all nodes are expected to communicate with that schema. However, it is also possible to [define explicit input and output schemas for a graph](https://langchain-ai.github.io/langgraph/how-tos/input_output_schema/?h=input+outp).\r\n\r\nOften, in these cases, we define an \"internal\" schema that contains *all* keys relevant to graph operations. But, we use specific `input` and `output` schemas to filter what's permitted when invoking and what's returned. We use type hints below to, for example, show that the output of `answer_node` will be filtered to `OutputState`. In addition, we define each node's input schema (e.g., as `state: OverallState` for `answer_node`). ", "state": "APPROVED", "createdAt": "2024-09-13T23:15:32Z", "author": "rlancemartin"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1699, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-12T16:40:05Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1699, "type": "review_comment", "body": "I think this change also needs to be undone?", "createdAt": "2024-09-12T16:40:04Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1699, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-12T16:43:44Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1699, "type": "review_comment", "body": "yup, needs to be undone", "createdAt": "2024-09-12T16:43:44Z", "author": "vbarda"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1699, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-13T04:09:19Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1708, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-13T02:28:16Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1708, "type": "review_comment", "body": "Let's skip this copy here ", "createdAt": "2024-09-13T02:28:15Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1708, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-16T17:34:10Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1709, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-16T17:53:16Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1711, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-16T17:52:42Z", "author": "nfcampos"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1723, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-16T03:11:32Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1723, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-16T03:11:55Z", "author": "hinthornw"}
+{"repo": "langchain-ai/langgraph", "pr_number": 1730, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-16T19:55:52Z", "author": "nfcampos"}
