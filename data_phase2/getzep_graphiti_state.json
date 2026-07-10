@@ -1603,10 +1603,11 @@
     1616,
     1618
   ],
-  "pr_idx": 890,
-  "issue_idx": 0,
+  "pr_idx": 1146,
+  "issue_idx": 453,
   "disc_idx": 0,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
