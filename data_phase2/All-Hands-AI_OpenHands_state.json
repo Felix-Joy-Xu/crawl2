@@ -14740,9 +14740,10 @@
     15071
   ],
   "pr_idx": 10552,
-  "issue_idx": 1330,
+  "issue_idx": 4183,
   "disc_idx": 0,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }

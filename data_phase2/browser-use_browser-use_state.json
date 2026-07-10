@@ -5003,10 +5003,11 @@
     5018,
     5024
   ],
-  "pr_idx": 3060,
-  "issue_idx": 0,
-  "disc_idx": 0,
+  "pr_idx": 3161,
+  "issue_idx": 1552,
+  "disc_idx": 284,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }

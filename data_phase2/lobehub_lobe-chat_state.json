@@ -16303,9 +16303,11 @@
     16479
   ],
   "pr_idx": 8762,
-  "issue_idx": 1170,
+  "issue_idx": 3760,
   "disc_idx": 0,
   "failed_pr": [],
-  "failed_issue": [],
+  "failed_issue": [
+    5355
+  ],
   "failed_disc": []
 }
