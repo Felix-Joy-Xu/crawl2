@@ -41,32 +41,6 @@ END_DATE = datetime.datetime(2026, 7, 1, 0, 0, 0)
 
 # 目标仓库列表 — Phase2: AI原生仓库 + 回溯
 REPOSITORIES = [
-    "d3/d3",  # 测试：109 PR, 145 issue, 很快就跑完
-    # "Aider-AI/aider",
-    "continuedev/continue",
-    "cline/cline",
-    "All-Hands-AI/OpenHands",
-    "openai/openai-python",
-    "anthropics/anthropic-sdk-python",
-    "ollama/ollama",
-    "vercel/ai",
-    "lobehub/lobe-chat",
-    "microsoft/autogen",
-    "crewAIInc/crewAI",
-    "langchain-ai/langgraph",
-    "browser-use/browser-use",
-    "ChatGPTNextWeb/ChatGPT-Next-Web",
-    "getzep/graphiti",
-    # 回溯仓库 (补2020-2021数据)
-    "langchain-ai/langchain",
-    "huggingface/transformers",
-    "vercel/next.js",
-    "godotengine/godot",
-    "rust-lang/rust",
-    "yt-dlp/yt-dlp",
-    "2dust/v2rayN",
-    "axios/axios",
-    "vuejs/vue",
     "d3/d3",
 ]
 
