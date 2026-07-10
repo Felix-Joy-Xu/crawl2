@@ -33,7 +33,7 @@ jobs:
           (
             while true; do
               sleep 1800
-              if [ -d data_phase2 ] && [ -n "$(find data_phase2 -name '*.jsonl' -newer data_phase2 2>/dev/null || echo data_phase2)" ]; then
+              if [ -d data_phase2 ] && [ -n "$(find data_phase2 -name '*.jsonl' 2>/dev/null)" ]; then
                 git add data_phase2/ 2>/dev/null || true
                 git commit -m "Phase2 自动备份 [skip ci]" 2>/dev/null && git push 2>/dev/null || true
               fi
