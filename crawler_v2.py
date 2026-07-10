@@ -57,6 +57,7 @@ MAX_RUN_TIME = 5.5 * 3600  # 5.5小时，单位：秒
 
 # 并发与限流配置
 MAX_WORKERS = 6          # 并发线程数
+MAX_TEST_ISSUES = 10     # 测试模式：只抓N个issue后退出 (0=全量)
 GLOBAL_RPS = 10          # 全局每秒最大请求数 (防次级限流核心)
 
 # ==========================================
@@ -828,6 +829,8 @@ def process_repository(repo_name, graphql_client):
 
     # PR 深度抓取
     pr_list = state.get('pr_numbers', [])
+    if MAX_TEST_ISSUES:
+        pr_list = []
     while state['pr_idx'] < len(pr_list):
         if time.time() - START_RUN_TIME > MAX_RUN_TIME:
             print(f"[{repo_name}] 达到云端单次运行时间上限（5.5小时），安全退出以保存进度。")
@@ -845,6 +848,9 @@ def process_repository(repo_name, graphql_client):
 
     # Issue 深度抓取
     issue_list = state.get('issue_numbers', [])
+    if MAX_TEST_ISSUES and len(issue_list) > MAX_TEST_ISSUES:
+        issue_list = issue_list[:MAX_TEST_ISSUES]
+        print(f"[{repo_name}] 测试模式：只处理前 {MAX_TEST_ISSUES} 个 issue")
     while state['issue_idx'] < len(issue_list):
         if time.time() - START_RUN_TIME > MAX_RUN_TIME:
             print(f"[{repo_name}] 达到云端单次运行时间上限（5.5小时），安全退出以保存进度。")
@@ -861,6 +867,8 @@ def process_repository(repo_name, graphql_client):
 
     # Discussion 深度抓取
     disc_list = state.get('disc_numbers', [])
+    if MAX_TEST_ISSUES:
+        disc_list = []
     if state['has_discussions']:
         while state['disc_idx'] < len(disc_list):
             if time.time() - START_RUN_TIME > MAX_RUN_TIME:
