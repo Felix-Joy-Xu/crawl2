@@ -1,0 +1,284 @@
+{"number": 8, "title": "Api server contribution", "createdAt": "2024-11-08T03:22:16Z", "repo": "browser-use/browser-use"}
+{"number": 18, "title": "tabs vs spaces", "createdAt": "2024-11-14T04:05:43Z", "repo": "browser-use/browser-use"}
+{"number": 31, "title": "Have you tested it with LiteLLM ?", "createdAt": "2024-11-18T15:08:27Z", "repo": "browser-use/browser-use"}
+{"number": 81, "title": "Browser stealth mode", "createdAt": "2024-12-03T17:31:56Z", "repo": "browser-use/browser-use"}
+{"number": 93, "title": "“import Agent”  error", "createdAt": "2024-12-07T12:29:47Z", "repo": "browser-use/browser-use"}
+{"number": 94, "title": "run into repeated infinite loop", "createdAt": "2024-12-08T16:53:19Z", "repo": "browser-use/browser-use"}
+{"number": 95, "title": "does not select industry or product dropdown", "createdAt": "2024-12-08T17:19:34Z", "repo": "browser-use/browser-use"}
+{"number": 101, "title": "Does anyone know of a free OpenAI-Compatible API?", "createdAt": "2024-12-17T02:41:54Z", "repo": "browser-use/browser-use"}
+{"number": 113, "title": "How to use Groq with Browser-use", "createdAt": "2024-12-24T15:27:35Z", "repo": "browser-use/browser-use"}
+{"number": 115, "title": "It doesn't launch on Windows.", "createdAt": "2024-12-24T16:30:21Z", "repo": "browser-use/browser-use"}
+{"number": 155, "title": "Can we have this intergrated with Gemini API ? If Yes has anyone achieved it ?", "createdAt": "2025-01-04T07:10:23Z", "repo": "browser-use/browser-use"}
+{"number": 156, "title": "llama3.2-vision: latest does not support tools", "createdAt": "2025-01-05T03:26:36Z", "repo": "browser-use/browser-use"}
+{"number": 188, "title": "Tested with Ollama ?", "createdAt": "2025-01-08T06:51:19Z", "repo": "browser-use/browser-use"}
+{"number": 2834, "title": "[Feature Request] Use Omni Parser for better UI element detection", "createdAt": "2025-01-10T18:18:09Z", "repo": "browser-use/browser-use"}
+{"number": 303, "title": "Meet error while tring \"qwen-vl-max\", i would like to contribute to use qwen or deepseek  API, but need instruction on where to add code.", "createdAt": "2025-01-18T16:48:53Z", "repo": "browser-use/browser-use"}
+{"number": 348, "title": "Is there any approach to determine the final result?", "createdAt": "2025-01-22T07:02:45Z", "repo": "browser-use/browser-use"}
+{"number": 351, "title": "Getting error while running examples from example directory.", "createdAt": "2025-01-22T12:55:05Z", "repo": "browser-use/browser-use"}
+{"number": 357, "title": "Support for inference providers like FireworksAI or TogetherAI ?", "createdAt": "2025-01-23T06:53:10Z", "repo": "browser-use/browser-use"}
+{"number": 366, "title": "Inquiry Regarding Mobile Support", "createdAt": "2025-01-24T05:03:03Z", "repo": "browser-use/browser-use"}
+{"number": 367, "title": "Did anyone try using new vision UI-TARS with browser-use?", "createdAt": "2025-01-24T05:16:28Z", "repo": "browser-use/browser-use"}
+{"number": 378, "title": "How to use local LLM instead of API ?", "createdAt": "2025-01-24T21:26:27Z", "repo": "browser-use/browser-use"}
+{"number": 396, "title": "Python", "createdAt": "2025-01-26T01:55:21Z", "repo": "browser-use/browser-use"}
+{"number": 408, "title": "Does the library provide a way to wait for user inputs", "createdAt": "2025-01-26T09:44:14Z", "repo": "browser-use/browser-use"}
+{"number": 412, "title": "2fa challenge completion \"press and hold\"", "createdAt": "2025-01-26T11:51:30Z", "repo": "browser-use/browser-use"}
+{"number": 437, "title": "Permission Denied when using own browser", "createdAt": "2025-01-27T20:26:19Z", "repo": "browser-use/browser-use"}
+{"number": 440, "title": "Amazing, I did the same thing last year. How I wish I had the strength to promote myself a little better", "createdAt": "2025-01-27T22:48:18Z", "repo": "browser-use/browser-use"}
+{"number": 449, "title": "Does my browser/network/system data go out to browser-use?", "createdAt": "2025-01-28T12:15:46Z", "repo": "browser-use/browser-use"}
+{"number": 458, "title": "Using ollama/deepseek 70b on web-ui and it is not working - Please help", "createdAt": "2025-01-29T04:39:31Z", "repo": "browser-use/browser-use"}
+{"number": 461, "title": "How to enable ublock or extensions?", "createdAt": "2025-01-29T11:24:46Z", "repo": "browser-use/browser-use"}
+{"number": 466, "title": "Challenge with filling out Google Sheets", "createdAt": "2025-01-29T14:52:33Z", "repo": "browser-use/browser-use"}
+{"number": 482, "title": "Disable the rectangles", "createdAt": "2025-01-30T18:14:56Z", "repo": "browser-use/browser-use"}
+{"number": 494, "title": "Repeat task without using tokens", "createdAt": "2025-01-31T16:17:53Z", "repo": "browser-use/browser-use"}
+{"number": 495, "title": "Error 403 unsupported_country_region_territory - wtf?", "createdAt": "2025-01-31T17:08:44Z", "repo": "browser-use/browser-use"}
+{"number": 498, "title": "Live history screenshots?", "createdAt": "2025-02-01T00:19:27Z", "repo": "browser-use/browser-use"}
+{"number": 501, "title": "What are the best practices to ensure that the agent can reliably perform all the tasks when you have multiple tasks?", "createdAt": "2025-02-01T07:56:28Z", "repo": "browser-use/browser-use"}
+{"number": 564, "title": "How to use the send_keys in initial_actions with f11?", "createdAt": "2025-02-05T05:59:10Z", "repo": "browser-use/browser-use"}
+{"number": 569, "title": "Brwoser Use视频教程", "createdAt": "2025-02-05T10:39:00Z", "repo": "browser-use/browser-use"}
+{"number": 575, "title": "Separate browser windows while maintaining access to the same user Chrome profile", "createdAt": "2025-02-05T23:00:16Z", "repo": "browser-use/browser-use"}
+{"number": 579, "title": "How to use multi agent for preforming different-different task.", "createdAt": "2025-02-06T06:39:46Z", "repo": "browser-use/browser-use"}
+{"number": 587, "title": "Does this only work in the browser?", "createdAt": "2025-02-06T17:07:13Z", "repo": "browser-use/browser-use"}
+{"number": 589, "title": "I have made a terminal UI with the browser kept open and new tasks feature.", "createdAt": "2025-02-06T20:55:26Z", "repo": "browser-use/browser-use"}
+{"number": 595, "title": "How to get the intermediate logs", "createdAt": "2025-02-07T06:43:08Z", "repo": "browser-use/browser-use"}
+{"number": 596, "title": "Issue with capturing live state of a webpage from EC2", "createdAt": "2025-02-07T06:47:54Z", "repo": "browser-use/browser-use"}
+{"number": 597, "title": "Can we guide it to do something else when it gets stuck?", "createdAt": "2025-02-07T08:49:29Z", "repo": "browser-use/browser-use"}
+{"number": 604, "title": "how to real-time monitoring the screenshots and the logs?", "createdAt": "2025-02-07T12:29:47Z", "repo": "browser-use/browser-use"}
+{"number": 607, "title": "Which vision model is supported", "createdAt": "2025-02-07T15:41:14Z", "repo": "browser-use/browser-use"}
+{"number": 614, "title": "Spin up a browser with pre-existing credentials list?", "createdAt": "2025-02-07T17:07:18Z", "repo": "browser-use/browser-use"}
+{"number": 628, "title": "Not able to use it properly with Fluttter-based website", "createdAt": "2025-02-08T13:44:03Z", "repo": "browser-use/browser-use"}
+{"number": 630, "title": "browser-use not works well with deepseek-r1 model, it shows empty website at most times", "createdAt": "2025-02-08T14:53:54Z", "repo": "browser-use/browser-use"}
+{"number": 634, "title": "Docker Container installation", "createdAt": "2025-02-08T17:21:54Z", "repo": "browser-use/browser-use"}
+{"number": 636, "title": "Did anyone tried Qwen2.5-VL Model with browser-use", "createdAt": "2025-02-08T19:23:03Z", "repo": "browser-use/browser-use"}
+{"number": 649, "title": "using execute_javascript to run custom function", "createdAt": "2025-02-10T10:36:00Z", "repo": "browser-use/browser-use"}
+{"number": 667, "title": "Is there a way for faster execution of same prompt?", "createdAt": "2025-02-11T12:55:29Z", "repo": "browser-use/browser-use"}
+{"number": 677, "title": "What content is transferred in browser and model?", "createdAt": "2025-02-12T03:31:55Z", "repo": "browser-use/browser-use"}
+{"number": 680, "title": "Broswer-Use integration with other AI Agent framework", "createdAt": "2025-02-12T05:10:36Z", "repo": "browser-use/browser-use"}
+{"number": 684, "title": "Always return 'NoneType' object has no attribute 'startswith'", "createdAt": "2025-02-12T09:04:00Z", "repo": "browser-use/browser-use"}
+{"number": 694, "title": "Tabs (opening-closing)", "createdAt": "2025-02-12T20:08:17Z", "repo": "browser-use/browser-use"}
+{"number": 696, "title": "Ollama vram consumption too high", "createdAt": "2025-02-12T21:47:31Z", "repo": "browser-use/browser-use"}
+{"number": 721, "title": "Xpath in model actions", "createdAt": "2025-02-14T03:53:53Z", "repo": "browser-use/browser-use"}
+{"number": 737, "title": "Browser Use Integration with Azure DevOps", "createdAt": "2025-02-15T22:44:37Z", "repo": "browser-use/browser-use"}
+{"number": 753, "title": "can browser-use agent take step by step instruction from another agent?", "createdAt": "2025-02-18T05:23:49Z", "repo": "browser-use/browser-use"}
+{"number": 754, "title": "Data collection & training for specific website", "createdAt": "2025-02-18T06:49:44Z", "repo": "browser-use/browser-use"}
+{"number": 757, "title": "How to contribute code to the repo? I have fixed a bug, but not sure how to make a PR", "createdAt": "2025-02-18T10:40:15Z", "repo": "browser-use/browser-use"}
+{"number": 770, "title": "Add Mistral AI", "createdAt": "2025-02-19T10:43:13Z", "repo": "browser-use/browser-use"}
+{"number": 772, "title": "How to add and pass new parameter and argument to a controller function?", "createdAt": "2025-02-19T15:22:47Z", "repo": "browser-use/browser-use"}
+{"number": 774, "title": "Jailbreak prompt to read messages from LinkedIn", "createdAt": "2025-02-19T17:10:03Z", "repo": "browser-use/browser-use"}
+{"number": 797, "title": "Does browser-use support the Firefox browser?", "createdAt": "2025-02-21T07:06:17Z", "repo": "browser-use/browser-use"}
+{"number": 799, "title": "Why is the buildDomTree executed on the console different from that executed on page.evaluate?", "createdAt": "2025-02-21T09:52:36Z", "repo": "browser-use/browser-use"}
+{"number": 802, "title": "Connection Error", "createdAt": "2025-02-21T14:56:31Z", "repo": "browser-use/browser-use"}
+{"number": 810, "title": "is there support for playwright stealth?", "createdAt": "2025-02-22T02:04:13Z", "repo": "browser-use/browser-use"}
+{"number": 819, "title": "I've done everything but still not working..", "createdAt": "2025-02-22T15:09:58Z", "repo": "browser-use/browser-use"}
+{"number": 833, "title": "Can't find my Downloads!", "createdAt": "2025-02-23T10:57:05Z", "repo": "browser-use/browser-use"}
+{"number": 859, "title": "How do I make it use my Firefox or Chrome browser instead of using Chromium with the blue icon?", "createdAt": "2025-02-25T02:38:49Z", "repo": "browser-use/browser-use"}
+{"number": 863, "title": "Have used gemini-2.0-flash on executing new task getting error Unexpected error during browser task: Path.owner() is unsupported on this system", "createdAt": "2025-02-25T12:23:38Z", "repo": "browser-use/browser-use"}
+{"number": 878, "title": "Ideas for reducing cost/input tokens?", "createdAt": "2025-02-26T23:15:43Z", "repo": "browser-use/browser-use"}
+{"number": 887, "title": "Javascript Execution", "createdAt": "2025-02-27T08:10:25Z", "repo": "browser-use/browser-use"}
+{"number": 889, "title": "Is it possible to use browser-use to automate pre-planned posting to social media sites", "createdAt": "2025-02-27T08:41:50Z", "repo": "browser-use/browser-use"}
+{"number": 4280, "title": "Reading mail from outlook or something", "createdAt": "2025-02-28T05:48:47Z", "repo": "browser-use/browser-use"}
+{"number": 907, "title": "Getting it to work on AWS Lambda. Page load failed, continuing...", "createdAt": "2025-02-28T21:07:09Z", "repo": "browser-use/browser-use"}
+{"number": 4297, "title": "Requesting Browser-Use on Railway.com", "createdAt": "2025-03-01T12:22:55Z", "repo": "browser-use/browser-use"}
+{"number": 935, "title": "How to use system prompts to get Xpaths for elements on which task is performed", "createdAt": "2025-03-04T09:53:17Z", "repo": "browser-use/browser-use"}
+{"number": 940, "title": "Which model performs the best for you?", "createdAt": "2025-03-04T14:56:59Z", "repo": "browser-use/browser-use"}
+{"number": 941, "title": "Have you tried planner_llm? Any feedback?", "createdAt": "2025-03-04T15:14:18Z", "repo": "browser-use/browser-use"}
+{"number": 949, "title": "Open Proposal: An Autonomous AI Companion for Self-Hosters - A Community-Driven Solution to Homelab Burnout", "createdAt": "2025-03-05T17:47:35Z", "repo": "browser-use/browser-use"}
+{"number": 952, "title": "How to use Custom function? Documentation is not clear, agent not using functions.", "createdAt": "2025-03-06T04:39:03Z", "repo": "browser-use/browser-use"}
+{"number": 954, "title": "Is there an estimated time frame for the Feature in the Roadmap : Return playwright script from the agent", "createdAt": "2025-03-06T09:05:55Z", "repo": "browser-use/browser-use"}
+{"number": 957, "title": "Running browse use with webui locally and it is very very slow...", "createdAt": "2025-03-06T13:06:00Z", "repo": "browser-use/browser-use"}
+{"number": 960, "title": "[Moved to new feature request: https://github.com/browser-use/browser-use/issues/963]", "createdAt": "2025-03-06T19:16:21Z", "repo": "browser-use/browser-use"}
+{"number": 961, "title": "API for Android or IOS", "createdAt": "2025-03-06T19:57:21Z", "repo": "browser-use/browser-use"}
+{"number": 964, "title": "Stuck in Step 1", "createdAt": "2025-03-07T02:50:40Z", "repo": "browser-use/browser-use"}
+{"number": 970, "title": "the time of execution is too long", "createdAt": "2025-03-08T07:59:20Z", "repo": "browser-use/browser-use"}
+{"number": 1012, "title": "Recreating model history", "createdAt": "2025-03-12T18:57:56Z", "repo": "browser-use/browser-use"}
+{"number": 1013, "title": "Optimizing Playwright: Passing a Pre-Created Page Instance to an Agent", "createdAt": "2025-03-12T21:21:32Z", "repo": "browser-use/browser-use"}
+{"number": 1024, "title": "How to Add Manual Actions Between Two Tasks in an Agent?", "createdAt": "2025-03-14T03:11:18Z", "repo": "browser-use/browser-use"}
+{"number": 1049, "title": "Why not use MCP (Model Context Protocol) architecture?", "createdAt": "2025-03-17T17:15:49Z", "repo": "browser-use/browser-use"}
+{"number": 1052, "title": "Other ai models", "createdAt": "2025-03-17T23:55:23Z", "repo": "browser-use/browser-use"}
+{"number": 1084, "title": "run on linux without GUI?", "createdAt": "2025-03-20T11:17:23Z", "repo": "browser-use/browser-use"}
+{"number": 1090, "title": "How to check for event listeners ?", "createdAt": "2025-03-21T04:06:14Z", "repo": "browser-use/browser-use"}
+{"number": 1097, "title": "How to solve the problem of web page pop-up windows", "createdAt": "2025-03-21T10:52:17Z", "repo": "browser-use/browser-use"}
+{"number": 1099, "title": "I see  \"POST predict: Post \"http://127.0.0.1:44051/completion\": EOF (status code: -1)\" error after pulling the latest changes", "createdAt": "2025-03-21T15:52:55Z", "repo": "browser-use/browser-use"}
+{"number": 1136, "title": "SSL: CERTIFICATE_VERIFY_FAILED", "createdAt": "2025-03-25T10:34:54Z", "repo": "browser-use/browser-use"}
+{"number": 1138, "title": "Proxy and Installing CA certificates", "createdAt": "2025-03-25T13:10:16Z", "repo": "browser-use/browser-use"}
+{"number": 1167, "title": "unable to hover on the menu btn", "createdAt": "2025-03-27T05:19:05Z", "repo": "browser-use/browser-use"}
+{"number": 1171, "title": "when I use custom action, it run failed ,the error is  \"missing 1 required positional argument: 'browser' \"", "createdAt": "2025-03-27T13:02:40Z", "repo": "browser-use/browser-use"}
+{"number": 1175, "title": "Is it possible to make Browser-Use a LangGraph Agent?", "createdAt": "2025-03-27T20:23:12Z", "repo": "browser-use/browser-use"}
+{"number": 1176, "title": "Provide BB with self-learning and memory", "createdAt": "2025-03-27T20:30:01Z", "repo": "browser-use/browser-use"}
+{"number": 1190, "title": "Login Issue: Blank Page After Submitting Credentials on Odoo", "createdAt": "2025-03-28T11:45:54Z", "repo": "browser-use/browser-use"}
+{"number": 1242, "title": "No more new release since 5 weeks?", "createdAt": "2025-03-31T15:33:04Z", "repo": "browser-use/browser-use"}
+{"number": 1251, "title": "Better browser launching, more elements detected, improved logging, config, and much more", "createdAt": "2025-04-01T08:10:12Z", "repo": "browser-use/browser-use"}
+{"number": 1260, "title": "Thoughts on OpenAI Computer-using-agent model?", "createdAt": "2025-04-01T22:54:50Z", "repo": "browser-use/browser-use"}
+{"number": 1262, "title": "FAISS GPU Failed to Load", "createdAt": "2025-04-02T00:59:53Z", "repo": "browser-use/browser-use"}
+{"number": 1264, "title": "use initial_actions e.g. 'click_element_by_selector' -> i get KeyError: 'click_element_by_selector'", "createdAt": "2025-04-02T07:10:29Z", "repo": "browser-use/browser-use"}
+{"number": 1270, "title": "Add official support for OpenRouter endpoint", "createdAt": "2025-04-02T10:19:48Z", "repo": "browser-use/browser-use"}
+{"number": 1271, "title": "Adding LangGraph and more community requested features. Contributions appreciated", "createdAt": "2025-04-02T10:26:52Z", "repo": "browser-use/browser-use"}
+{"number": 1284, "title": "Can we use this without LangChain?", "createdAt": "2025-04-04T14:34:11Z", "repo": "browser-use/browser-use"}
+{"number": 1287, "title": "Not all HTML elements are being detected by browser-use", "createdAt": "2025-04-04T20:22:44Z", "repo": "browser-use/browser-use"}
+{"number": 1291, "title": "PLZ HELP ME Error using click_element_by_xpath in initial_actions", "createdAt": "2025-04-05T03:11:05Z", "repo": "browser-use/browser-use"}
+{"number": 1326, "title": "Running multiple agents on the same server using local Google Chrome?", "createdAt": "2025-04-09T09:34:57Z", "repo": "browser-use/browser-use"}
+{"number": 1329, "title": "How to integrate CapSolver with Browser-use? [Headless: true --> Native browser]", "createdAt": "2025-04-09T11:02:11Z", "repo": "browser-use/browser-use"}
+{"number": 1335, "title": "Custom Functions doesn't work.", "createdAt": "2025-04-10T06:40:44Z", "repo": "browser-use/browser-use"}
+{"number": 1336, "title": "Generate playwright script to the file as output.", "createdAt": "2025-04-10T07:21:57Z", "repo": "browser-use/browser-use"}
+{"number": 1338, "title": "Way to deploy browser use agent on EC2 and integrate as a feature on my website", "createdAt": "2025-04-10T09:16:38Z", "repo": "browser-use/browser-use"}
+{"number": 1349, "title": "[Suggestion] Export Playwright Script as json", "createdAt": "2025-04-11T10:11:17Z", "repo": "browser-use/browser-use"}
+{"number": 1350, "title": "Can I stop Agent execution in middle , no ctrl C or max_steps or cloud api , is there any function ?", "createdAt": "2025-04-11T11:34:39Z", "repo": "browser-use/browser-use"}
+{"number": 1378, "title": "Question about ActionResult.include_in_memory behavior and message handling", "createdAt": "2025-04-15T03:56:12Z", "repo": "browser-use/browser-use"}
+{"number": 1381, "title": "Where is the 'mem0' package?", "createdAt": "2025-04-15T15:37:41Z", "repo": "browser-use/browser-use"}
+{"number": 1420, "title": "Is there a way to omit all the logs in the terminal?", "createdAt": "2025-04-18T10:29:26Z", "repo": "browser-use/browser-use"}
+{"number": 1438, "title": "Run browser-use Agents in parallel in separate browser tabs", "createdAt": "2025-04-21T17:11:22Z", "repo": "browser-use/browser-use"}
+{"number": 1439, "title": "CAPTCHA issue when using search engines", "createdAt": "2025-04-21T17:21:34Z", "repo": "browser-use/browser-use"}
+{"number": 1446, "title": "Enable hooks to influence the state", "createdAt": "2025-04-21T21:03:11Z", "repo": "browser-use/browser-use"}
+{"number": 1479, "title": "how to put it on the server ，and then show the entire process on the user-clients' display？？？？", "createdAt": "2025-04-26T03:34:13Z", "repo": "browser-use/browser-use"}
+{"number": 1489, "title": "How to make multiple browser windows not interfere with each other?", "createdAt": "2025-04-27T04:14:26Z", "repo": "browser-use/browser-use"}
+{"number": 1498, "title": "RuntimeError: no running event loop sys:1: RuntimeWarning: coroutine 'Agent._verify_llm_connection' was never awaited", "createdAt": "2025-04-28T05:40:56Z", "repo": "browser-use/browser-use"}
+{"number": 1500, "title": "How to configure browser-use/web-ui to call my Ollama model on VPS", "createdAt": "2025-04-28T07:40:06Z", "repo": "browser-use/browser-use"}
+{"number": 1517, "title": "Retaining Browser Information with Playwright's Browser Context and User Agent After Navigation", "createdAt": "2025-04-29T12:26:46Z", "repo": "browser-use/browser-use"}
+{"number": 1529, "title": "For how much time exactly we can pause the agent . It is failing to reconnect the browser after some good 120 seconds .", "createdAt": "2025-05-01T05:02:43Z", "repo": "browser-use/browser-use"}
+{"number": 1547, "title": "0.1.43", "createdAt": "2025-05-02T15:51:49Z", "repo": "browser-use/browser-use"}
+{"number": 1591, "title": "Handling sensitive infomation", "createdAt": "2025-05-06T10:09:36Z", "repo": "browser-use/browser-use"}
+{"number": 1606, "title": "browser-use: Scroll down INSIDE a specific div HTML element", "createdAt": "2025-05-07T11:50:59Z", "repo": "browser-use/browser-use"}
+{"number": 1607, "title": "Could not parse response.", "createdAt": "2025-05-07T12:14:48Z", "repo": "browser-use/browser-use"}
+{"number": 1621, "title": "Vision Model with non-Vision model", "createdAt": "2025-05-09T04:35:12Z", "repo": "browser-use/browser-use"}
+{"number": 1622, "title": "Handle Multiple User session", "createdAt": "2025-05-09T04:43:59Z", "repo": "browser-use/browser-use"}
+{"number": 1625, "title": "Introduce anonymization to protect PII", "createdAt": "2025-05-09T10:23:06Z", "repo": "browser-use/browser-use"}
+{"number": 1638, "title": "How to use Incognito Browser", "createdAt": "2025-05-11T11:26:20Z", "repo": "browser-use/browser-use"}
+{"number": 1648, "title": "Is LinkedIn able to detect it?", "createdAt": "2025-05-12T15:16:00Z", "repo": "browser-use/browser-use"}
+{"number": 1665, "title": "getting error \"unrecognized method argument. Expected one of 'function_calling' or 'json_mode\"", "createdAt": "2025-05-13T10:18:28Z", "repo": "browser-use/browser-use"}
+{"number": 1668, "title": "I generated Browser-Use documentation based on the examples code", "createdAt": "2025-05-13T14:51:56Z", "repo": "browser-use/browser-use"}
+{"number": 1669, "title": "Langfuse integration", "createdAt": "2025-05-13T14:52:46Z", "repo": "browser-use/browser-use"}
+{"number": 1678, "title": "onion sites access using browser use", "createdAt": "2025-05-14T11:44:48Z", "repo": "browser-use/browser-use"}
+{"number": 1684, "title": "Failed to create new browser session", "createdAt": "2025-05-15T08:40:45Z", "repo": "browser-use/browser-use"}
+{"number": 1690, "title": "Custom attributes in registry action.", "createdAt": "2025-05-16T01:17:36Z", "repo": "browser-use/browser-use"}
+{"number": 1695, "title": "Browseruse Ai agents are stuck in CAPTCHAS?", "createdAt": "2025-05-16T18:41:46Z", "repo": "browser-use/browser-use"}
+{"number": 1712, "title": "Browser Use: Unable to Use Azure OpenAI Despite Valid Credentials", "createdAt": "2025-05-19T11:26:53Z", "repo": "browser-use/browser-use"}
+{"number": 1744, "title": "Enable multi-modal instructions (could attach images, video and so on)", "createdAt": "2025-05-22T02:38:44Z", "repo": "browser-use/browser-use"}
+{"number": 1748, "title": "Page scroll down...", "createdAt": "2025-05-22T08:53:27Z", "repo": "browser-use/browser-use"}
+{"number": 1770, "title": "How to avoid re-login every time", "createdAt": "2025-05-24T16:32:14Z", "repo": "browser-use/browser-use"}
+{"number": 1781, "title": "Hover issue even after using controller", "createdAt": "2025-05-25T10:22:57Z", "repo": "browser-use/browser-use"}
+{"number": 1788, "title": "RFC: Two-week MVP for an official Chrome extension (clean-room MIT rewrite inspired by Midscene)", "createdAt": "2025-05-26T00:33:12Z", "repo": "browser-use/browser-use"}
+{"number": 1794, "title": "Issue with migration from 0.1.45 to 0.2.4", "createdAt": "2025-05-26T09:00:23Z", "repo": "browser-use/browser-use"}
+{"number": 1844, "title": "Need Testing Documents!", "createdAt": "2025-05-29T08:04:31Z", "repo": "browser-use/browser-use"}
+{"number": 1852, "title": "default chrome flags - particularly '--hide-scrollbars'", "createdAt": "2025-05-29T15:09:02Z", "repo": "browser-use/browser-use"}
+{"number": 1897, "title": "SearxNG not searching", "createdAt": "2025-06-03T19:59:50Z", "repo": "browser-use/browser-use"}
+{"number": 1898, "title": "websocketshandshake: unknown connection error", "createdAt": "2025-06-03T20:03:03Z", "repo": "browser-use/browser-use"}
+{"number": 1902, "title": "Browser Unable to perform steps and complete forms", "createdAt": "2025-06-04T09:43:46Z", "repo": "browser-use/browser-use"}
+{"number": 1916, "title": "Collecting token count", "createdAt": "2025-06-05T09:29:27Z", "repo": "browser-use/browser-use"}
+{"number": 1943, "title": "How to change the blank page?", "createdAt": "2025-06-09T11:51:10Z", "repo": "browser-use/browser-use"}
+{"number": 1950, "title": "Any value in Localization/Grounding model hooks?", "createdAt": "2025-06-10T12:14:48Z", "repo": "browser-use/browser-use"}
+{"number": 1958, "title": "How can I run browser-use with Playwright on a Docker/ headless server?", "createdAt": "2025-06-11T13:53:06Z", "repo": "browser-use/browser-use"}
+{"number": 1963, "title": "How to extract images in reliable way from page and store all in history like we store screenshots?", "createdAt": "2025-06-12T01:21:40Z", "repo": "browser-use/browser-use"}
+{"number": 1972, "title": "Is there any way to train or use vector DB to make the system smarter?", "createdAt": "2025-06-13T19:44:27Z", "repo": "browser-use/browser-use"}
+{"number": 1984, "title": "Flow diagram", "createdAt": "2025-06-16T18:49:39Z", "repo": "browser-use/browser-use"}
+{"number": 2008, "title": "Human-in-the-loop Native integration for agent learning", "createdAt": "2025-06-19T09:30:04Z", "repo": "browser-use/browser-use"}
+{"number": 2014, "title": "Use Own Browser Config?", "createdAt": "2025-06-20T08:20:59Z", "repo": "browser-use/browser-use"}
+{"number": 2208, "title": "Problems with browser-use executing tasks", "createdAt": "2025-07-01T03:57:57Z", "repo": "browser-use/browser-use"}
+{"number": 2265, "title": "What are the ways to ensure browser-use agent extracts ALL the content even though the content exceeds the LLM's max output tokens?", "createdAt": "2025-07-03T01:52:17Z", "repo": "browser-use/browser-use"}
+{"number": 2394, "title": "DOM element filtering?", "createdAt": "2025-07-11T03:56:09Z", "repo": "browser-use/browser-use"}
+{"number": 2446, "title": "Extracting the calculated costs.", "createdAt": "2025-07-15T08:53:05Z", "repo": "browser-use/browser-use"}
+{"number": 2465, "title": "I need to use my own cookie in browser-use", "createdAt": "2025-07-16T23:46:06Z", "repo": "browser-use/browser-use"}
+{"number": 2506, "title": "Improve state representation for UI elements so that all LLMs can understand what's on the page", "createdAt": "2025-07-20T22:22:45Z", "repo": "browser-use/browser-use"}
+{"number": 2523, "title": "support wildchar attributes in include_attributes", "createdAt": "2025-07-23T11:50:05Z", "repo": "browser-use/browser-use"}
+{"number": 2530, "title": "API Key with Headers", "createdAt": "2025-07-24T10:24:17Z", "repo": "browser-use/browser-use"}
+{"number": 2562, "title": "How to Extract Class and ID of an Actioned DOM Element in browser-use", "createdAt": "2025-07-29T07:41:06Z", "repo": "browser-use/browser-use"}
+{"number": 2587, "title": "browser-use & live audio cooperation", "createdAt": "2025-08-02T01:35:48Z", "repo": "browser-use/browser-use"}
+{"number": 2602, "title": "Browser with new temporary profile/Incognito browser", "createdAt": "2025-08-04T19:57:19Z", "repo": "browser-use/browser-use"}
+{"number": 2603, "title": "Wait for Browser Navigation atleast 1 minute", "createdAt": "2025-08-05T13:52:50Z", "repo": "browser-use/browser-use"}
+{"number": 2604, "title": "Can I use ChatAnthropicBedrock with the Browser-use CLI?", "createdAt": "2025-08-05T17:59:58Z", "repo": "browser-use/browser-use"}
+{"number": 2619, "title": "How to disable Password Save Dialog ?", "createdAt": "2025-08-07T19:52:46Z", "repo": "browser-use/browser-use"}
+{"number": 2625, "title": "Using Claude Code and browser-use[cli] as MCP.  Fails with `Error: [WinError 2] The system cannot find the file specified`", "createdAt": "2025-08-08T00:38:10Z", "repo": "browser-use/browser-use"}
+{"number": 2640, "title": "Benchmarks", "createdAt": "2025-08-11T12:28:51Z", "repo": "browser-use/browser-use"}
+{"number": 2648, "title": "How to interact with API endpoint using Json request ?", "createdAt": "2025-08-11T18:03:37Z", "repo": "browser-use/browser-use"}
+{"number": 2682, "title": "Flutter interaction flt-semantics elements", "createdAt": "2025-08-14T15:06:51Z", "repo": "browser-use/browser-use"}
+{"number": 2692, "title": "Automatic scroll to element if it is not visible on screen", "createdAt": "2025-08-15T14:32:58Z", "repo": "browser-use/browser-use"}
+{"number": 2703, "title": "Protocol error (Browser.setDownloadBehavior) when connecting to Chrome on EC2 via CDP", "createdAt": "2025-08-17T11:58:37Z", "repo": "browser-use/browser-use"}
+{"number": 2709, "title": "ERROR    [browser_use.Agent🅰 9a29 on 🆂 7fe0 🅟 02] ❌ Result failed 3/3 times:  (\"'json_schema' is not one of ['json_object', 'text'] - 'response_format.type'\", 400)", "createdAt": "2025-08-18T21:55:33Z", "repo": "browser-use/browser-use"}
+{"number": 2735, "title": "Incognito mode required, `user_data_dir=None` insufficient", "createdAt": "2025-08-20T13:43:03Z", "repo": "browser-use/browser-use"}
+{"number": 2758, "title": "Implement deterministic script rerun with LLM fallback", "createdAt": "2025-08-22T05:27:14Z", "repo": "browser-use/browser-use"}
+{"number": 2771, "title": "Don't understand self.browser or self.browser_context", "createdAt": "2025-08-24T07:54:49Z", "repo": "browser-use/browser-use"}
+{"number": 2791, "title": "How to use edge in browser-use 6.0?", "createdAt": "2025-08-25T06:05:55Z", "repo": "browser-use/browser-use"}
+{"number": 2798, "title": "(via CDP)How to allow users to connect their local browsers to a browser-use deployed on the server?", "createdAt": "2025-08-25T10:05:57Z", "repo": "browser-use/browser-use"}
+{"number": 2818, "title": "from browser_use import  Agent  failed", "createdAt": "2025-08-26T08:33:40Z", "repo": "browser-use/browser-use"}
+{"number": 2827, "title": "Save Address Popup", "createdAt": "2025-08-26T19:53:50Z", "repo": "browser-use/browser-use"}
+{"number": 2900, "title": "How to capture full request and response data", "createdAt": "2025-09-01T07:16:22Z", "repo": "browser-use/browser-use"}
+{"number": 2912, "title": "Mobile Phone support", "createdAt": "2025-09-02T05:46:47Z", "repo": "browser-use/browser-use"}
+{"number": 2920, "title": "Is there any way to disable cloud sync?", "createdAt": "2025-09-02T13:42:09Z", "repo": "browser-use/browser-use"}
+{"number": 2950, "title": "Scraping very less products and API v2 step limit is restricting results", "createdAt": "2025-09-04T10:07:21Z", "repo": "browser-use/browser-use"}
+{"number": 3022, "title": "Sensitive data showing in history action/results as input_text action with result the sensitive data inputted..", "createdAt": "2025-09-08T14:16:53Z", "repo": "browser-use/browser-use"}
+{"number": 3077, "title": "Empty responses when using ARN integration with browser_use (works with direct model ID)", "createdAt": "2025-09-11T12:44:01Z", "repo": "browser-use/browser-use"}
+{"number": 3089, "title": "Is browser-use working in Gpt-5 models?", "createdAt": "2025-09-12T06:40:45Z", "repo": "browser-use/browser-use"}
+{"number": 3149, "title": "Does browser-use handle the shadow-root?", "createdAt": "2025-09-18T09:52:42Z", "repo": "browser-use/browser-use"}
+{"number": 3175, "title": "Proxy / VPN to access region specific sites.", "createdAt": "2025-09-21T06:17:20Z", "repo": "browser-use/browser-use"}
+{"number": 3209, "title": "IS there a way to use a custom endpoint for anthropic", "createdAt": "2025-09-29T17:08:48Z", "repo": "browser-use/browser-use"}
+{"number": 3221, "title": "Error about ”from browser_use.browser.context import BrowserContext“", "createdAt": "2025-10-01T02:23:53Z", "repo": "browser-use/browser-use"}
+{"number": 3252, "title": "Save page HTML + interacted element xpath and attributes", "createdAt": "2025-10-06T14:00:07Z", "repo": "browser-use/browser-use"}
+{"number": 3262, "title": "What are the available languages for the SDK?", "createdAt": "2025-10-07T03:35:45Z", "repo": "browser-use/browser-use"}
+{"number": 3348, "title": "Is interacted_element set to None on new tab focus by design?", "createdAt": "2025-10-17T03:04:11Z", "repo": "browser-use/browser-use"}
+{"number": 3351, "title": "Is there any way we can select the radio button using browser use?", "createdAt": "2025-10-17T07:10:00Z", "repo": "browser-use/browser-use"}
+{"number": 3472, "title": "The unstructured action format is misleading LLM", "createdAt": "2025-10-30T03:49:34Z", "repo": "browser-use/browser-use"}
+{"number": 3474, "title": "Interact with an app website and write an user manual for that app into google docs", "createdAt": "2025-10-30T08:04:33Z", "repo": "browser-use/browser-use"}
+{"number": 3527, "title": "What happened to buildDomTree.js?", "createdAt": "2025-11-03T23:02:59Z", "repo": "browser-use/browser-use"}
+{"number": 3555, "title": "How to make a website more \"agent-friendly\"?", "createdAt": "2025-11-09T15:13:07Z", "repo": "browser-use/browser-use"}
+{"number": 3611, "title": "How to use browser use on safari after the recent upgrade", "createdAt": "2025-11-18T06:33:22Z", "repo": "browser-use/browser-use"}
+{"number": 3626, "title": "支持通义模型嘛？Support Qwen models?", "createdAt": "2025-11-20T07:58:19Z", "repo": "browser-use/browser-use"}
+{"number": 3700, "title": "Cloud credits purchase without subscription.", "createdAt": "2025-12-02T14:18:26Z", "repo": "browser-use/browser-use"}
+{"number": 3713, "title": "Requesting feedback for AWAS: Open-Source Web Standard for AI browsers/agents", "createdAt": "2025-12-03T15:28:17Z", "repo": "browser-use/browser-use"}
+{"number": 3723, "title": "Can't log into Facebook after losing device — verification codes not working", "createdAt": "2025-12-05T23:03:01Z", "repo": "browser-use/browser-use"}
+{"number": 3729, "title": "Similar tool: Google's Computer Use Model", "createdAt": "2025-12-07T16:21:28Z", "repo": "browser-use/browser-use"}
+{"number": 3744, "title": "Supporting Gemini 3 in browser-use", "createdAt": "2025-12-10T08:54:54Z", "repo": "browser-use/browser-use"}
+{"number": 3751, "title": "HOW do i use my own local model", "createdAt": "2025-12-11T14:19:00Z", "repo": "browser-use/browser-use"}
+{"number": 3797, "title": "[Cloud] Downloading files from cloud browser session to local machine", "createdAt": "2025-12-21T15:49:27Z", "repo": "browser-use/browser-use"}
+{"number": 3809, "title": "select_dropdown is it case sensitive ?", "createdAt": "2025-12-24T04:13:25Z", "repo": "browser-use/browser-use"}
+{"number": 3833, "title": "What is \"hasInconsistentWorkerValues\" = True ?", "createdAt": "2026-01-02T00:30:06Z", "repo": "browser-use/browser-use"}
+{"number": 3856, "title": "Can browser-use expose or record stable selectors (XPath/CSS) discovered during an LLM-guided run?", "createdAt": "2026-01-08T05:25:40Z", "repo": "browser-use/browser-use"}
+{"number": 3910, "title": "Download Support for Remote Browser.", "createdAt": "2026-01-21T15:57:04Z", "repo": "browser-use/browser-use"}
+{"number": 3940, "title": "MCP server option available in 0.11.3 get lost in 0.11.4", "createdAt": "2026-01-25T13:08:42Z", "repo": "browser-use/browser-use"}
+{"number": 3948, "title": "How can I make the navigate tool be used only once throughout the entire task?", "createdAt": "2026-01-26T08:27:19Z", "repo": "browser-use/browser-use"}
+{"number": 3953, "title": "Question about configuring viewport / resolution for live browser iframe", "createdAt": "2026-01-27T06:41:44Z", "repo": "browser-use/browser-use"}
+{"number": 3959, "title": "Insert the RAG layer into the agent loop.", "createdAt": "2026-01-28T01:55:42Z", "repo": "browser-use/browser-use"}
+{"number": 3978, "title": "Bot Detection Issues with Docker Headed Mode (XVFB) - Seeking Best Practices for Reliability", "createdAt": "2026-01-30T11:04:36Z", "repo": "browser-use/browser-use"}
+{"number": 4090, "title": "Access agent history in tool call", "createdAt": "2026-02-12T11:47:05Z", "repo": "browser-use/browser-use"}
+{"number": 4097, "title": "Best open-source/alternative LLM for browser automation (cost optimization)?", "createdAt": "2026-02-13T08:12:12Z", "repo": "browser-use/browser-use"}
+{"number": 4226, "title": "Handling session persistence in long-running agents?", "createdAt": "2026-02-27T12:41:49Z", "repo": "browser-use/browser-use"}
+{"number": 4233, "title": "Scaling browser agents: lifecycle modeling vs implicit session failure", "createdAt": "2026-02-28T03:22:33Z", "repo": "browser-use/browser-use"}
+{"number": 4261, "title": "Is there a way to use my local AI model?", "createdAt": "2026-03-02T09:33:24Z", "repo": "browser-use/browser-use"}
+{"number": 4262, "title": "Is it possible to use vision-based actions for non-DOM elements?", "createdAt": "2026-03-02T15:18:39Z", "repo": "browser-use/browser-use"}
+{"number": 4302, "title": "x402-Powered Web Scraping API for AI Agents", "createdAt": "2026-03-08T07:49:56Z", "repo": "browser-use/browser-use"}
+{"number": 4304, "title": "sardis-browser-use: payments for browser agents", "createdAt": "2026-03-08T12:30:45Z", "repo": "browser-use/browser-use"}
+{"number": 4311, "title": "Ollama Cloud | unauthorized", "createdAt": "2026-03-09T12:07:25Z", "repo": "browser-use/browser-use"}
+{"number": 4342, "title": "\"ground_truth\" and \"use_judge\" parameters not found", "createdAt": "2026-03-12T22:48:47Z", "repo": "browser-use/browser-use"}
+{"number": 4344, "title": "any guide on integrating browser-use with openclaw-like agents?", "createdAt": "2026-03-13T08:42:54Z", "repo": "browser-use/browser-use"}
+{"number": 4376, "title": "How to run LongPress and Swipe with coordinated-based operation?", "createdAt": "2026-03-16T15:32:04Z", "repo": "browser-use/browser-use"}
+{"number": 4378, "title": "The email gap: how browser agents handle async web workflows end-to-end", "createdAt": "2026-03-16T16:05:58Z", "repo": "browser-use/browser-use"}
+{"number": 4395, "title": "Does browser-use support Golang? if so, is it compatible with the chromedp library?", "createdAt": "2026-03-17T15:29:52Z", "repo": "browser-use/browser-use"}
+{"number": 4400, "title": "Show and Tell: ORCH — orchestrate multiple browser-use agents as a managed team with state machine + auto-retry", "createdAt": "2026-03-17T18:30:08Z", "repo": "browser-use/browser-use"}
+{"number": 4445, "title": "How to Automatically Retrieve Web Resources That Require On-Site Search to Locate, Instead of Just Recursively Crawling URLs?", "createdAt": "2026-03-21T14:02:15Z", "repo": "browser-use/browser-use"}
+{"number": 4459, "title": "auto-webmcp: drop-in script that makes HTML forms callable by AI agents via WebMCP", "createdAt": "2026-03-22T11:09:12Z", "repo": "browser-use/browser-use"}
+{"number": 4469, "title": "Independent TypeScript-native browser agent inspired by browser-use", "createdAt": "2026-03-22T20:53:40Z", "repo": "browser-use/browser-use"}
+{"number": 4475, "title": "Pissbook: agent forum that browser-use agents can interact with", "createdAt": "2026-03-23T00:57:57Z", "repo": "browser-use/browser-use"}
+{"number": 4476, "title": "Question: Best practices for handling complex multi-step forms with browser-use?", "createdAt": "2026-03-23T00:58:59Z", "repo": "browser-use/browser-use"}
+{"number": 4493, "title": "Stuck on blank page with Bedrcok", "createdAt": "2026-03-23T15:05:19Z", "repo": "browser-use/browser-use"}
+{"number": 4506, "title": "Semantic page analysis layer - pre-flight verification for browser-use agents", "createdAt": "2026-03-24T15:07:41Z", "repo": "browser-use/browser-use"}
+{"number": 4519, "title": "Generates a Playwright script based on the agent's history", "createdAt": "2026-03-25T09:58:44Z", "repo": "browser-use/browser-use"}
+{"number": 4622, "title": "Cryptographic audit trail for browser automation actions", "createdAt": "2026-04-06T20:20:57Z", "repo": "browser-use/browser-use"}
+{"number": 4639, "title": "Is AgentHistoryList the right small result surface for external evidence import?", "createdAt": "2026-04-08T10:25:44Z", "repo": "browser-use/browser-use"}
+{"number": 4643, "title": "OpenClaw Integration: Automating Browser Tasks", "createdAt": "2026-04-09T00:07:33Z", "repo": "browser-use/browser-use"}
+{"number": 4698, "title": "Interop spec draft - would value browser-use's review (BAP, pre-v1.0)", "createdAt": "2026-04-17T15:29:07Z", "repo": "browser-use/browser-use"}
+{"number": 4725, "title": "Free Plan but Costs in Analytics", "createdAt": "2026-04-22T01:02:57Z", "repo": "browser-use/browser-use"}
+{"number": 4730, "title": "Deterministic run, curly braces, and what is cached?", "createdAt": "2026-04-22T10:20:14Z", "repo": "browser-use/browser-use"}
+{"number": 4749, "title": "Cloudflare Turnstile on OTP page always returns failure_retry — Business tier browser fingerprint not passing automated verification", "createdAt": "2026-04-27T18:17:08Z", "repo": "browser-use/browser-use"}
+{"number": 4779, "title": "Test - API access verification (will delete)", "createdAt": "2026-05-04T04:33:26Z", "repo": "browser-use/browser-use"}
+{"number": 4799, "title": "Question: would free API credits help test OpenAI-compatible providers?", "createdAt": "2026-05-07T08:13:42Z", "repo": "browser-use/browser-use"}
+{"number": 4816, "title": "BrowserTrace: local trace viewer for Browser Use failures", "createdAt": "2026-05-10T12:30:24Z", "repo": "browser-use/browser-use"}
+{"number": 4822, "title": "Request for official LexBench-Browser result review/submission", "createdAt": "2026-05-12T04:03:01Z", "repo": "browser-use/browser-use"}
+{"number": 4827, "title": "Using browser-use style automation for investment analysis — built open source Claude Code skills", "createdAt": "2026-05-13T13:09:15Z", "repo": "browser-use/browser-use"}
+{"number": 4836, "title": "Browser Use Box: self-hosted 24/7 Browser Use agent from Telegram", "createdAt": "2026-05-15T01:59:55Z", "repo": "browser-use/browser-use"}
+{"number": 4917, "title": "Pre-action authority receipt pattern for credentialed browser submits", "createdAt": "2026-05-25T18:27:21Z", "repo": "browser-use/browser-use"}
+{"number": 4924, "title": "ERC-8267: A standard for AI agents to get paid (deployed on Base)", "createdAt": "2026-05-27T00:43:51Z", "repo": "browser-use/browser-use"}
+{"number": 4926, "title": "Terminal-first homelab ops with human-in-the-loop AI", "createdAt": "2026-05-27T11:15:53Z", "repo": "browser-use/browser-use"}
+{"number": 4929, "title": "Firefox-side complement example for stealth (interest check)", "createdAt": "2026-05-27T18:48:31Z", "repo": "browser-use/browser-use"}
+{"number": 4953, "title": "Permission request: Agent Valve survey for AI agents/operators", "createdAt": "2026-06-02T12:19:43Z", "repo": "browser-use/browser-use"}
+{"number": 4958, "title": "Separating candidate generation from browser execution authority", "createdAt": "2026-06-03T06:58:25Z", "repo": "browser-use/browser-use"}
+{"number": 4959, "title": "We built a free browser extension to block prompt injection and reduce token costs for browser agents", "createdAt": "2026-06-03T17:54:34Z", "repo": "browser-use/browser-use"}
+{"number": 4984, "title": "Automation using even desktop", "createdAt": "2026-06-07T10:39:24Z", "repo": "browser-use/browser-use"}
+{"number": 5018, "title": "Beyond Playwright Wrappers: Why Browser-Use Needs a Stateful Session Model", "createdAt": "2026-06-11T10:20:02Z", "repo": "browser-use/browser-use"}
+{"number": 5024, "title": "Action-class approvals for browser-agent side effects", "createdAt": "2026-06-12T15:06:50Z", "repo": "browser-use/browser-use"}

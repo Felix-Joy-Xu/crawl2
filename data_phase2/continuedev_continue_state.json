@@ -12299,9 +12299,10 @@
     12923
   ],
   "pr_idx": 5704,
-  "issue_idx": 5840,
+  "issue_idx": 6590,
   "disc_idx": 0,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
