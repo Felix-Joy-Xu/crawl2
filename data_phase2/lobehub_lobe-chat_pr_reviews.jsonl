@@ -2054,3 +2054,253 @@
 {"repo": "lobehub/lobe-chat", "pr_number": 3327, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-07-26T11:51:59Z", "author": "github-advanced-security"}
 {"repo": "lobehub/lobe-chat", "pr_number": 3327, "type": "review_comment", "body": "## Overly permissive regular expression range\n\nSuspicious character range that overlaps with \\w in the same character class, and is equivalent to \\[,\\-.\\/0-9:;<=>?@A-Z\\\\[\\\\\\\\]^_\\].\n\n[Show more details](https://github.com/lobehub/lobe-chat/security/code-scanning/15)", "createdAt": "2024-07-26T11:51:59Z", "author": "github-advanced-security"}
 {"repo": "lobehub/lobe-chat", "pr_number": 3339, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-07-29T04:08:50Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3355, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-07T04:44:21Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3355, "type": "review_comment", "body": "此处测试存在问题，望修改。", "createdAt": "2024-09-07T04:44:21Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3370, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-07-31T08:52:07Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3370, "type": "review_comment", "body": "此待办是否需要待议，似乎也没有啥影响。", "createdAt": "2024-07-31T08:52:07Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3370, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-01T05:08:44Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3370, "type": "review_comment", "body": "不应该引入axios", "createdAt": "2024-08-01T05:06:02Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3370, "type": "review_comment", "body": "这里有个问题，考虑到后续这个模块是需要提取出来的，你认为应该内置在这个库的实现中，还是在lobe-chat 层面去解决，确保针对google传入base64？\n\n如果是前者，其实 claude 应该也是需要这个实现的。claude目前并不支持传url", "createdAt": "2024-08-01T05:07:19Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3370, "type": "review_comment", "body": "不应该做s3环境变量检测。这个模块后续需要独立出去的", "createdAt": "2024-08-01T05:08:38Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3370, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-03T05:05:46Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3370, "type": "review_comment", "body": "前者实现应该会简单些，如果我理解没错，lobe-chat 层面意思是直接对某几个 provider 采用不同的图片上传策略是吗？也就是避免了上传再下载再转成 base64 。", "createdAt": "2024-08-03T05:05:46Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3370, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-03T05:25:54Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3370, "type": "review_comment", "body": "Ok，那就做一个 url 转 base64 的通用方法，然后gemini和 claude都要实装下", "createdAt": "2024-08-03T05:25:54Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3370, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-03T05:31:05Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3370, "type": "review_comment", "body": "这一段的判断逻辑应该放在 buildMessage里，不应该单独写在外面", "createdAt": "2024-08-03T05:31:05Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3382, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-08-03T08:28:54Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3384, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-08-02T08:39:42Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-06T05:15:03Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "@arvinxx Do I have to export these functions in order to test here?", "createdAt": "2024-08-06T05:15:03Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-10T16:32:32Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "why not use `open-ai-compatibility` ? like https://developers.cloudflare.com/workers-ai/configuration/open-ai-compatibility \r\n\r\nor can we use Cloudflare SDK? https://github.com/cloudflare/cloudflare-typescript\r\n\r\ntbh I don't like to write raw fetch, it will make the code a little bit mess.", "createdAt": "2024-09-10T16:32:32Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T01:35:26Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "I don't think openai-compat supports AI Gateway. Also, SDK doesn't seem to support AI Gateway (https://github.com/cloudflare/cloudflare-typescript/blob/main/src%2Fresources%2Fworkers%2Fai%2Fai.ts#L25-L25)", "createdAt": "2024-09-11T01:35:26Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T01:36:32Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "And openai-compat does not support tool-use now", "createdAt": "2024-09-11T01:36:32Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-25T05:39:15Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "@arvinxx Shall I just delete this?", "createdAt": "2024-09-25T05:39:14Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-25T07:41:59Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "Yes. Delete the title please. We have a providerIcon for it", "createdAt": "2024-09-25T07:41:59Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-25T07:53:06Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "As cloudflare has lots of models, it may be a good idea to add cloudflare_model_list env here.", "createdAt": "2024-09-25T07:43:40Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "Try to fix the lint", "createdAt": "2024-09-25T07:44:04Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "I think we need to implement the no-stream mode too.", "createdAt": "2024-09-25T07:47:05Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-25T07:57:59Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "no need to add cloudflareHelpers to the utils. the openai helper and anthropic helper are placed there because there are reused in different provider implement. I think these utils are only used by cloudflare.", "createdAt": "2024-09-25T07:56:11Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "remove this ai comment", "createdAt": "2024-09-25T07:56:44Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-26T03:03:34Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "I seperate it for better unit testing. I think this makes it clearer and makes units more atomic", "createdAt": "2024-09-26T03:03:34Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-26T03:11:03Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "Maybe some day next month :(\r\nI'm quite busy these days", "createdAt": "2024-09-26T03:11:03Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-26T03:12:48Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "You mean to control which models users can see & use on server side?", "createdAt": "2024-09-26T03:12:48Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-26T04:44:52Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "@arvinxx It does not have an Icon nor title now, how to add them?", "createdAt": "2024-09-26T04:44:52Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-26T04:54:31Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "@arvinxx It's wierd that this item does not show\r\n![image](https://github.com/user-attachments/assets/01e55532-1e8b-4b23-8bb0-9be4e8dccfbe)\r\n", "createdAt": "2024-09-26T04:54:31Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-26T15:14:11Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "yeah… maybe rollback 😅", "createdAt": "2024-09-26T15:14:11Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-26T15:15:41Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "fine, take your time~", "createdAt": "2024-09-26T15:15:20Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-27T01:47:43Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "What do you mean? What can I do?", "createdAt": "2024-09-27T01:47:43Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-27T01:59:09Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "Use your previous code 🤡 it's my fault", "createdAt": "2024-09-27T01:59:09Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-27T02:18:36Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "yes, like `OPENAI_MODEL_LIST`, refs to this PR: https://github.com/lobehub/lobe-chat/pull/3938", "createdAt": "2024-09-27T02:18:36Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-27T07:39:08Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "Emmm... Well, the last code that I have tested to be able to work was fa25217, which cannot be merged to current main branch because of conflicts. Changes after that were merging.\r\nI thought there may be some error during merge and attempted to fix them. But do you mean that there are some error outside this PR? Do I have to wait until them fixed?", "createdAt": "2024-09-27T07:39:08Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-27T07:50:33Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3402, "type": "review_comment", "body": "I don't think it's necessary. Env vars of model lists aim on cost control, but there is no difference in price between models; There is only one difference that beta models are free while others are charged. But beta models may change to non-beta at any time.\r\nPerhaps we should add an env var to decide which **_kinds_** of models are enabled? beta/non-beta, text-generation/text-embedding/text-to-image/...?", "createdAt": "2024-09-27T07:50:33Z", "author": "BrandonStudio"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3405, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-08-05T16:40:49Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3458, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-16T03:48:16Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3458, "type": "review_comment", "body": "这个 4 和 2 的区别是什么？为了什么场景加的？", "createdAt": "2024-08-16T03:48:16Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3462, "type": "review", "body": "LGTM. Thanks for your contribution~", "state": "APPROVED", "createdAt": "2024-08-13T13:04:26Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3465, "type": "review", "body": "9.13 合并", "state": "APPROVED", "createdAt": "2024-09-09T17:31:33Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3471, "type": "review", "body": "Good Job!", "state": "APPROVED", "createdAt": "2024-08-17T15:01:43Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3475, "type": "review", "body": "LGTM", "state": "APPROVED", "createdAt": "2024-09-18T16:11:40Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3484, "type": "review", "body": "Thanks! I'm sorry that I was missing this.😅", "state": "APPROVED", "createdAt": "2024-09-06T13:23:47Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3487, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-18T09:53:09Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3487, "type": "review_comment", "body": "有待验证移动端上效果", "createdAt": "2024-08-17T17:12:57Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3487, "type": "review_comment", "body": "要实现点击进入文件效果", "createdAt": "2024-08-18T09:52:25Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3487, "type": "review", "body": "nice", "state": "COMMENTED", "createdAt": "2024-08-20T15:52:36Z", "author": "djfaizp"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3492, "type": "review", "body": "Great!", "state": "APPROVED", "createdAt": "2024-08-18T03:15:29Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3505, "type": "review", "body": "![image](https://github.com/user-attachments/assets/3aabe58c-7399-4e91-8caf-dc8972d2b40d)", "state": "COMMENTED", "createdAt": "2024-08-19T12:28:20Z", "author": "nand16041987"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3505, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-19T12:28:59Z", "author": "nand16041987"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3505, "type": "review_comment", "body": "```suggestion\n        // components={{ ScrollSeekPlaceholder: Placeholder }}\n```\n", "createdAt": "2024-08-19T12:28:54Z", "author": "nand16041987"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3514, "type": "review", "body": "manually merge", "state": "COMMENTED", "createdAt": "2024-08-19T12:51:47Z", "author": "zhouwenxu"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3518, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2024-08-19T18:06:53Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3586, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-08-24T05:24:01Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3588, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2024-08-24T14:31:27Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3588, "type": "review_comment", "body": "这个不需要在文档中透出，是内部变量", "createdAt": "2024-08-24T14:31:21Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3588, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-24T15:07:58Z", "author": "zhuozhiyongde"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3588, "type": "review_comment", "body": "删了~", "createdAt": "2024-08-24T15:07:58Z", "author": "zhuozhiyongde"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-26T02:04:14Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review_comment", "body": "这个先改成 NEXTAUTH_URL, 后续我们会统一重构。", "createdAt": "2024-08-26T02:03:24Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review_comment", "body": "ACCESS_CODE 可以不需要了，删掉吧", "createdAt": "2024-08-26T02:03:37Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review_comment", "body": "这个 Name 为啥是 Authentik", "createdAt": "2024-08-26T02:04:07Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-26T02:13:11Z", "author": "IvanLi-CN"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review_comment", "body": "抱歉，替换漏掉了。", "createdAt": "2024-08-26T02:13:11Z", "author": "IvanLi-CN"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-26T04:21:33Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review_comment", "body": "为何此处的 `name: 'Authentik'`, 而不是 `Authelia`？", "createdAt": "2024-08-24T14:59:49Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review_comment", "body": "可以像 github 那样为`providerAccountId`填写在Authelia中的用户id吗？ https://github.com/lobehub/lobe-chat/blob/09af3b3a98ee2055bf29786762a5dd62e215a16e/src/libs/next-auth/sso-providers/github.ts#L15-L20", "createdAt": "2024-08-24T15:04:15Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review_comment", "body": "补充`profile()`方法的时候顺便把 L19 的 `} satisfies OIDCConfig<unknown>,` 中的profile 类型定义一下就更好了", "createdAt": "2024-08-26T04:21:25Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-26T10:28:33Z", "author": "IvanLi-CN"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review_comment", "body": "补充上了，如果我有遗漏什么请继续告诉我。", "createdAt": "2024-08-26T10:28:33Z", "author": "IvanLi-CN"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-26T10:51:48Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review_comment", "body": "Authelia返回的profile没有头像吗？", "createdAt": "2024-08-26T10:51:48Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-26T13:02:27Z", "author": "IvanLi-CN"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3589, "type": "review_comment", "body": "应该是没有，我查阅了文档，没找到相关的字段。在我的实例上也没有头像。\r\n\r\n我看有相关讨论但是没有下文。[add support for OIDC picture claim · Issue #4811 · authelia/authelia](https://github.com/authelia/authelia/issues/4811)\r\n\r\n @cy948 ", "createdAt": "2024-08-26T13:02:26Z", "author": "IvanLi-CN"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3607, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-26T02:02:14Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3607, "type": "review_comment", "body": "我建议  docker-compose 直接把 s3 和 auth 服务都包进去。这样可以真正做到一键启动", "createdAt": "2024-08-26T02:01:11Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3607, "type": "review_comment", "body": "这里的env 最好换成 env-file ，从外部读取。这样方便配置", "createdAt": "2024-08-26T02:01:44Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3607, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-26T02:03:18Z", "author": "zhuozhiyongde"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3607, "type": "review_comment", "body": "问题是我没自己本地配 s3，只是知道可以这么搞（", "createdAt": "2024-08-26T02:03:18Z", "author": "zhuozhiyongde"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3607, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-26T02:04:58Z", "author": "zhuozhiyongde"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3607, "type": "review_comment", "body": "emmm，但是 docker-compose.yml 改起来感觉和 env-file 也没差别？", "createdAt": "2024-08-26T02:04:58Z", "author": "zhuozhiyongde"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3607, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-26T02:05:09Z", "author": "zhuozhiyongde"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3607, "type": "review_comment", "body": "这个我得再试试", "createdAt": "2024-08-26T02:05:08Z", "author": "zhuozhiyongde"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3607, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-26T02:06:28Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3607, "type": "review_comment", "body": "有区别，缩进会导致配置有问题 \r\n<img width=\"749\" alt=\"image\" src=\"https://github.com/user-attachments/assets/c1890802-c880-4569-8608-f753da4f32fd\">\r\n", "createdAt": "2024-08-26T02:06:28Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3607, "type": "review", "body": "Excellent !", "state": "APPROVED", "createdAt": "2024-08-27T15:49:43Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3609, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2024-08-26T03:34:31Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3609, "type": "review_comment", "body": "不要在这里做。应该直接在 Knowledge 组件那一层加判断。不然你这样得 Desktop 和 Mobile 两个入口都写一遍，不好长期维护。", "createdAt": "2024-08-26T03:33:17Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3609, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-26T04:01:26Z", "author": "zhuozhiyongde"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3609, "type": "review_comment", "body": "改啦", "createdAt": "2024-08-26T04:01:26Z", "author": "zhuozhiyongde"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3631, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-27T13:41:50Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3631, "type": "review_comment", "body": "这个感觉没有必要单独提出来吧？为啥要提出来呢", "createdAt": "2024-08-27T13:41:22Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3631, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-27T14:01:20Z", "author": "FrankCheungDev"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3631, "type": "review_comment", "body": "这个确实没啥必要，我整合一下commit", "createdAt": "2024-08-27T14:01:20Z", "author": "FrankCheungDev"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3634, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-27T14:09:43Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3634, "type": "review_comment", "body": "这里icon都去掉以后的话，感觉实现可以简化一些，我后面再优化优化", "createdAt": "2024-08-27T14:08:05Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3634, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-27T14:13:35Z", "author": "canisminor1990"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3634, "type": "review_comment", "body": "这个docsUrl如果统一用enum的id的话也可以直接拼", "createdAt": "2024-08-27T14:13:35Z", "author": "canisminor1990"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3634, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-27T14:42:39Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3634, "type": "review_comment", "body": "可以，要不也直接拼吧", "createdAt": "2024-08-27T14:42:38Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3641, "type": "review", "body": "🐂", "state": "APPROVED", "createdAt": "2024-08-28T02:30:07Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3651, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-08-28T10:59:08Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3653, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-08-28T15:18:40Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3687, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-30T14:34:20Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3687, "type": "review_comment", "body": "这里都不需要 `/en` 前缀了", "createdAt": "2024-08-30T14:32:17Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3687, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-30T14:35:24Z", "author": "zhuozhiyongde"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3687, "type": "review_comment", "body": "诶那是不是相反要有/zh", "createdAt": "2024-08-30T14:35:24Z", "author": "zhuozhiyongde"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3687, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-30T15:01:52Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3687, "type": "review_comment", "body": "对，`/docs` 默认是英文的。加 `/zh/docs` 会走到中文", "createdAt": "2024-08-30T15:01:52Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3687, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-30T15:14:59Z", "author": "zhuozhiyongde"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3687, "type": "review_comment", "body": "docs/self-hosting/server-database/vercel.mdx\r\n\r\n我把所有的 /docs 的语言都调整了一遍，但是这个似乎是改了就过不了 eslint，好奇怪...", "createdAt": "2024-08-30T15:14:58Z", "author": "zhuozhiyongde"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3687, "type": "review", "body": "🐂 啊", "state": "APPROVED", "createdAt": "2024-08-30T15:22:34Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3689, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-30T13:52:23Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3689, "type": "review_comment", "body": "为什么这个用long", "createdAt": "2024-08-30T13:52:17Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3689, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-30T13:55:33Z", "author": "LovelyGuYiMeng"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3689, "type": "review_comment", "body": "这个long更便宜(", "createdAt": "2024-08-30T13:55:33Z", "author": "LovelyGuYiMeng"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3689, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-30T13:56:23Z", "author": "LovelyGuYiMeng"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3689, "type": "review_comment", "body": "![image](https://github.com/user-attachments/assets/a8c2e596-5ecd-4e0f-a444-8dc6596b826a)\r\n你觉得不合适的话就改回turbo吧", "createdAt": "2024-08-30T13:56:23Z", "author": "LovelyGuYiMeng"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3689, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-30T13:58:42Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3689, "type": "review_comment", "body": "long 和 turbo 的可用性差异大吗？", "createdAt": "2024-08-30T13:58:42Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3689, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-30T14:04:23Z", "author": "LovelyGuYiMeng"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3689, "type": "review_comment", "body": "不大，回复速度很快", "createdAt": "2024-08-30T14:04:22Z", "author": "LovelyGuYiMeng"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3689, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-30T14:05:54Z", "author": "LovelyGuYiMeng"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3689, "type": "review_comment", "body": "用哪个都行吧，随你选捏:>", "createdAt": "2024-08-30T14:05:54Z", "author": "LovelyGuYiMeng"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3697, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-03T14:20:08Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3697, "type": "review_comment", "body": "那 2000 会是 2k 还是 1k？", "createdAt": "2024-09-03T14:20:05Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3697, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-03T14:25:38Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3697, "type": "review_comment", "body": "应该是 2K", "createdAt": "2024-09-03T14:25:38Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review", "body": "这个是以 Auth0 为试点还是怎么说？", "state": "COMMENTED", "createdAt": "2024-08-31T09:35:35Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review_comment", "body": "升级的话感觉可以不用锁版本， `^0.34.2`", "createdAt": "2024-08-31T09:33:41Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review_comment", "body": "直接 `beta` 就好", "createdAt": "2024-08-31T09:33:50Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-31T09:39:12Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review_comment", "body": "可", "createdAt": "2024-08-31T09:39:12Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-31T09:44:52Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review_comment", "body": "已在[f19e091](https://github.com/lobehub/lobe-chat/pull/3701/commits/f19e09133b7287c2bdf42bb72e4818e23f29dab3)去除", "createdAt": "2024-08-31T09:44:51Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-08-31T09:44:55Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review_comment", "body": "已在[f19e091](https://github.com/lobehub/lobe-chat/pull/3701/commits/f19e09133b7287c2bdf42bb72e4818e23f29dab3)去除", "createdAt": "2024-08-31T09:44:55Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-01T04:29:10Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review_comment", "body": "`AUTH_TRUST_HOST` === 1 比较好？", "createdAt": "2024-09-01T04:28:56Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-01T08:15:17Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review_comment", "body": "这里是为了对齐[官方文档](https://authjs.dev/getting-started/deployment#auth_trust_host) 的 `true` 。", "createdAt": "2024-09-01T08:15:17Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review", "body": "我记得还有一个 NEXTAUTH_URL，这个改了么", "state": "COMMENTED", "createdAt": "2024-09-03T12:57:09Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review_comment", "body": "我感觉 SECRET 还是得用 NEXT_AUTH_SECRET ，因为我们还有 CLERK 的 SECRET，这个还是要区分下的。\r\n\r\n其他的可推理的变量就按现有的来", "createdAt": "2024-09-03T12:56:02Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review_comment", "body": "这个变量是不是用不到了？", "createdAt": "2024-09-03T12:56:37Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-03T15:00:35Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review_comment", "body": "改回去了", "createdAt": "2024-09-03T15:00:35Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-10T02:12:46Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review_comment", "body": "这里好像有点问题，理论上应该是如果有 `NEXTAUTH_URL` 那么优先使用  NEXTAUTH_URL，如果没有的话再使用 `urlJoin(process.env.APP_URL, '/api/auth')`", "createdAt": "2024-09-10T02:12:46Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-10T02:33:35Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review_comment", "body": "这个变量和NEXTAUTH_URL是不一样的，这个变量只影响 oauth callback url。NEXTAUTH_URL 会自动从环境读取。", "createdAt": "2024-09-10T02:33:35Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-10T05:11:53Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review_comment", "body": "现在 oauth callback url 不就是通过 NEXTAUTH_URL 指定吗？\r\n\r\n如果这边指定了 `urlJoin(process.env.APP_URL, '/api/auth')` ，这就意味着所有之前配置的 NEXTAUTH_URL 就失效了吧。\r\n\r\n然后这种情况下会存在的问题就是 `APP_URL` 和 `NEXT_AUTH_URL` 的 host 不一样的情况。\r\n\r\n比如本地部署的 APP_URL 填写的是 `localhost:3210` ，但是用户实际访问的是 IP，比如 192.168.1.4:3210 ，那么用户的配置就得是  `NEXT_AUTH_URL=http://192.168.1.4:3210/api/auth` 。\r\n\r\n这个时候 oauth callback url 如果用了  `urlJoin(process.env.APP_URL, '/api/auth')` ，就会回调到 `http://localhost:3210/api/auth` 进而出错。\r\n\r\n所以 oauth callback url 应该得是 先 NEXT_AUTH_URL ，再 APP_URL 拼接", "createdAt": "2024-09-10T05:11:53Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T11:57:16Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review_comment", "body": "在使用[上述版本](https://github.com/lobehub/lobe-chat/pull/3701/commits/bdf43bd2a5ec62c8b21ab9da9edc2a0614b7cb47)代码试验了一下，发现了以下 authjs 的未说明的现象：\r\n- `NEXTAUTH_URL` / `AUTH_URL` 的优先级比参数 `redirectProxyUrl` 更高。即使当 APP_URL 指定为 `localhost:3210`，若 `AUTH_URL` 指定为 `http://192.168.1.4:3210/api/auth`，会优先重定向到 `http://192.168.1.4:3210/api/auth`；\r\n- `NEXTAUTH_URL` / `AUTH_URL` 影响所有 Authjs 向后端发送的请求，包含`baseUrl`设置，不只影响 `callback_url`。即使当 APP_URL 指定为 `localhost:3210`，若 `AUTH_URL` 指定为 `http://192.168.1.4:3210/api/auth`，在调用 `signin('logto')` 时，会重定向到 `AUTH_URL`的地址，即``http://192.168.1.4:3210/api/auth/signin/logto`\r\n\r\n综上，其实authjs已隐式地执行了你所说的重定向逻辑。因为若用户优先配置了 `NEXTAUTH_URL`，则无论 `redirectProxyUrl` 为何值，都会优先选择 `NEXTAUTH_URL`。此处使用 `APP_URL` 拼接的地址的意义是：用户在部署时仅使用一个入口地址时可以省略 `NEXTAUTH_URL` 的填写。", "createdAt": "2024-09-11T11:57:16Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3701, "type": "review", "body": "我合了，环境变量的文档还得再改一下", "state": "APPROVED", "createdAt": "2024-09-11T13:49:21Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3712, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-01T09:39:29Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3712, "type": "review_comment", "body": "为啥不带括号呢？", "createdAt": "2024-09-01T09:39:26Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3712, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-01T09:44:06Z", "author": "LovelyGuYiMeng"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3712, "type": "review_comment", "body": "好看一点，而且其他provider的日期模型也不带括号呀，规整一下", "createdAt": "2024-09-01T09:44:06Z", "author": "LovelyGuYiMeng"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3723, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T03:39:56Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3723, "type": "review_comment", "body": "Description 最好都保留", "createdAt": "2024-09-05T03:39:35Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3723, "type": "review_comment", "body": "这个确定不用加 0 4k 吗", "createdAt": "2024-09-05T03:39:45Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3723, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T07:13:55Z", "author": "hezhijie0327"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3723, "type": "review_comment", "body": "https://docs.aws.amazon.com/bedrock/latest/userguide/model-ids.html\r\n\r\n`:0:4k` 是 Provisioned Throughput 模型，加上会提示模型不存在因为要先创建购买需求，不加是按需使用，如`authropic.claude` 全系\r\n\r\n但是吧 抛去这个问题，我把所有模型权限打开并且都试了一遍，发现很多 LobeChat 实际其实都没支持...\r\n\r\n实际可用的只有 `authropic.claude` 全系，和 `meta.llama` 全系（Llama2 需要特殊申请）\r\n\r\n我过会儿把未支持的先注释掉，需后续支持\r\n\r\n```\r\nTitan\r\n{\r\n  \"error\": {\r\n    \"body\": {\r\n      \"attempts\": 1,\r\n      \"requestId\": \"1509d820-9dc7-43f5-9fc5-ab93d3f7b40d\",\r\n      \"httpStatusCode\": 400,\r\n      \"totalRetryDelay\": 0\r\n    },\r\n    \"type\": \"ValidationException\",\r\n    \"message\": \"Malformed input request: 6 schema violations found, please reformat your input and try again.\"\r\n  },\r\n  \"region\": \"us-west-2\",\r\n  \"provider\": \"bedrock\"\r\n}\r\n```\r\n```\r\nCohere (Command)\r\n{\r\n  \"error\": {\r\n    \"body\": {\r\n      \"attempts\": 1,\r\n      \"requestId\": \"efe37277-d554-4da6-bc63-bff64d46c117\",\r\n      \"httpStatusCode\": 400,\r\n      \"totalRetryDelay\": 0\r\n    },\r\n    \"type\": \"ValidationException\",\r\n    \"message\": \"Malformed input request: #: extraneous key [top_p] is not permitted#: extraneous key [messages] is not permitted#: extraneous key [anthropic_version] is not permitted, please reformat your input and try again.\"\r\n  },\r\n  \"region\": \"us-west-2\",\r\n  \"provider\": \"bedrock\"\r\n}\r\n```\r\n```\r\nAI21\r\n{\r\n  \"error\": {\r\n    \"body\": {\r\n      \"attempts\": 1,\r\n      \"requestId\": \"3997b989-fd45-47fc-9570-188ec64f2b9a\",\r\n      \"httpStatusCode\": 400,\r\n      \"totalRetryDelay\": 0\r\n    },\r\n    \"type\": \"ValidationException\",\r\n    \"message\": \"Malformed input request: #: extraneous key [anthropic_version] is not permitted, please reformat your input and try again.\"\r\n  },\r\n  \"region\": \"us-east-1\",\r\n  \"provider\": \"bedrock\"\r\n}\r\n```", "createdAt": "2024-09-05T07:13:55Z", "author": "hezhijie0327"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3723, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T08:05:46Z", "author": "hezhijie0327"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3723, "type": "review_comment", "body": "加回来了，更新了下 Taitan 的官方描述\r\n\r\nhttps://docs.aws.amazon.com/bedrock/latest/userguide/titan-text-models.html", "createdAt": "2024-09-05T08:05:46Z", "author": "hezhijie0327"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3723, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-05T17:33:30Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3723, "type": "review_comment", "body": "> 实际可用的只有 authropic.claude 全系，和 meta.llama 全系\r\n\r\n因为 Bedrock 的实现很恶心…它不是想 OpenAI 那种换个模型就好了的，而是每个模型都得各自实现一遍… 贼离谱\r\n\r\n我之前因为精力原因就只做了 claude 和 llama", "createdAt": "2024-09-05T17:33:30Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3723, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T02:34:51Z", "author": "hezhijie0327"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3723, "type": "review_comment", "body": "主要看现有列表里放了`Mistral`和`Jurassic`模型还默认开启了就没去多想...\r\nhttps://github.com/lobehub/lobe-chat/blob/c22b8863c53267603b3fe61a69ca4e0c5a6b63f6/src/config/modelProviders/bedrock.ts#L24-L35\r\nhttps://github.com/lobehub/lobe-chat/blob/c22b8863c53267603b3fe61a69ca4e0c5a6b63f6/src/config/modelProviders/bedrock.ts#L90-L97\r\n\r\n周末研究下 Bedrock 的实现", "createdAt": "2024-09-06T02:34:51Z", "author": "hezhijie0327"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3743, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2024-09-03T08:33:43Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-04T11:40:15Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review_comment", "body": "qwen-vl-max 要等 9.9 才更新，现在就把上下文改掉吗？", "createdAt": "2024-09-04T11:40:15Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T15:42:56Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review_comment", "body": "可以等9.9再合", "createdAt": "2024-09-06T15:42:53Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-08T00:39:59Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review_comment", "body": "9.9 合的话，可以把 qwen-vl-max-0809 预览模型也删了。", "createdAt": "2024-09-08T00:39:59Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-08T07:11:26Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review_comment", "body": "改成 DeepSeek V2 Chat 吧，按官方文档来。", "createdAt": "2024-09-08T07:11:26Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-08T07:16:35Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review_comment", "body": "Qwen2 请不要添加空格，阿里官方也没有添加。", "createdAt": "2024-09-08T07:16:35Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-08T07:17:37Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review_comment", "body": "包括 CodeQwen1.5，也属于专有名词，不需空格分隔。", "createdAt": "2024-09-08T07:17:37Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-08T07:18:12Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review_comment", "body": "同上。", "createdAt": "2024-09-08T07:18:12Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-08T07:18:22Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review_comment", "body": "同上", "createdAt": "2024-09-08T07:18:21Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-08T07:21:19Z", "author": "LovelyGuYiMeng"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review_comment", "body": "OK，对于Gemma2你怎么看，要不要空格", "createdAt": "2024-09-08T07:21:19Z", "author": "LovelyGuYiMeng"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-08T07:22:33Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review_comment", "body": "Yi-1.5，GLM-4 这些，就像 GPT-4 一样，不建议将横杠转成空格。", "createdAt": "2024-09-08T07:22:33Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-08T07:22:54Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review_comment", "body": "DeepSeek V2 Chat", "createdAt": "2024-09-08T07:22:54Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-08T07:26:11Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review_comment", "body": "这里官方文档中模型名称带横杠，不建议改动。\r\nhttps://open.bigmodel.cn/dev/howuse/model", "createdAt": "2024-09-08T07:26:11Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-08T07:27:04Z", "author": "LovelyGuYiMeng"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review_comment", "body": "![image](https://github.com/user-attachments/assets/dbe38d47-adf5-4074-9845-b7e00832aefa)\r\n直接改成DeepSeek V2.5吧", "createdAt": "2024-09-08T07:27:04Z", "author": "LovelyGuYiMeng"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-08T07:28:18Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review_comment", "body": "Gemma2 和 Gemma 2 都能见到，我这边随意。", "createdAt": "2024-09-08T07:28:18Z", "author": "sxjeru"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3757, "type": "review", "body": "LGTM", "state": "APPROVED", "createdAt": "2024-09-08T16:43:12Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review", "body": "所有有样式变更的地方都贴下图？", "state": "COMMENTED", "createdAt": "2024-09-10T16:40:47Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review_comment", "body": "Application is initializing...", "createdAt": "2024-09-10T16:37:39Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review_comment", "body": "应用启动中...", "createdAt": "2024-09-10T16:38:27Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review_comment", "body": "这个先别动。 @canisminor1990 你看下当时锁版本的原因？以及能不能升级", "createdAt": "2024-09-10T16:39:08Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review_comment", "body": "这个看下截图", "createdAt": "2024-09-10T16:39:35Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review_comment", "body": "这个也截个图看下", "createdAt": "2024-09-10T16:40:00Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-10T16:44:43Z", "author": "RubuJam"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review_comment", "body": "![AF5-1](https://github.com/user-attachments/assets/21250950-b811-45ee-9aa8-6650d8c02d6c)", "createdAt": "2024-09-10T16:44:43Z", "author": "RubuJam"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-10T16:46:18Z", "author": "RubuJam"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review_comment", "body": "![AF3](https://github.com/user-attachments/assets/9cef7e2b-0114-4060-aa18-a0e23e3abb74)", "createdAt": "2024-09-10T16:46:18Z", "author": "RubuJam"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-10T16:47:08Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review_comment", "body": "这里下一个版本直接没这个了： https://github.com/lobehub/lobe-chat/pull/3848 不用改了", "createdAt": "2024-09-10T16:47:08Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-10T16:52:42Z", "author": "RubuJam"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review_comment", "body": "那我改天把这个提交撤销掉", "createdAt": "2024-09-10T16:52:42Z", "author": "RubuJam"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-11T04:10:47Z", "author": "RubuJam"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review_comment", "body": "已经恢复至原版本", "createdAt": "2024-09-11T04:10:46Z", "author": "RubuJam"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3762, "type": "review", "body": "LGTM", "state": "APPROVED", "createdAt": "2024-09-11T07:33:19Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3764, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2024-09-04T18:17:09Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3774, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-06T15:32:35Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3774, "type": "review_comment", "body": "service 名称叫 nextAuthUser 吧", "createdAt": "2024-09-06T15:29:18Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3774, "type": "review_comment", "body": "这个放初始化比较好，然后这里用 `this.userModel.xxxx`", "createdAt": "2024-09-06T15:29:49Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3774, "type": "review_comment", "body": "这个是哪个加密算法？感觉这个算法可能不需要用 node crypto ，可能有其他包也可以", "createdAt": "2024-09-06T15:31:56Z", "author": "arvinxx"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3774, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-07T01:02:56Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3774, "type": "review_comment", "body": "移动到 constructor 了，但还是没法调用 serverDB", "createdAt": "2024-09-07T01:02:56Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3774, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2024-09-07T04:36:37Z", "author": "cy948"}
+{"repo": "lobehub/lobe-chat", "pr_number": 3774, "type": "review_comment", "body": "用的是HMAC验证机制，sha256 加密算法。", "createdAt": "2024-09-07T04:36:37Z", "author": "cy948"}
