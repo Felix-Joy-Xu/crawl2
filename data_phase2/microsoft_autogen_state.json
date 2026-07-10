@@ -7771,9 +7771,10 @@
     7898
   ],
   "pr_idx": 3617,
-  "issue_idx": 2980,
-  "disc_idx": 0,
+  "issue_idx": 3057,
+  "disc_idx": 1090,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }

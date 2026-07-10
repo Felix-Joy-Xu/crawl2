@@ -1,0 +1,356 @@
+{"number": 187, "title": "这个项目问什么是yarn和npm混用呀？", "createdAt": "2023-03-29T21:26:11Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 327, "title": "访问密码是什么？需要购买吗？", "createdAt": "2023-04-01T13:42:33Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 332, "title": "出错了您稍后再试", "createdAt": "2023-04-01T16:02:39Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 349, "title": "api代理相关问题", "createdAt": "2023-04-02T08:22:02Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 416, "title": "使用 Few-shot 创建你的专属小工具", "createdAt": "2023-04-03T09:59:05Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 514, "title": "调整随机性后回复会出现大量乱码", "createdAt": "2023-04-05T22:11:06Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 521, "title": "一直生成ssl，自定义域网址打不开", "createdAt": "2023-04-06T01:53:31Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 533, "title": "真好用", "createdAt": "2023-04-06T04:42:00Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 562, "title": "API Key配置后回答出错，账号异常？", "createdAt": "2023-04-06T11:35:31Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 590, "title": "好奇对话总结主题的代码实现", "createdAt": "2023-04-07T05:18:49Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 592, "title": "我写了份文档，如何零成本从0到1，开发并上线一个对接了openai的机器人，希望一起学习", "createdAt": "2023-04-07T06:13:45Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 633, "title": "输入框不要那个假的气泡？", "createdAt": "2023-04-08T13:41:45Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 662, "title": "Cloud save? Internet access? code/word-splitter (not sure if this make sense) and file interactions?", "createdAt": "2023-04-09T19:01:27Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 701, "title": "fork 本项目 部署成功后没有 CODE输入框", "createdAt": "2023-04-11T02:00:10Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 702, "title": "不做“用户登录”背后的逻辑", "createdAt": "2023-04-11T02:29:43Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 726, "title": "移动端左滑返回 & no hover？", "createdAt": "2023-04-11T15:21:48Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 727, "title": "上下文的联系能力怎么样？", "createdAt": "2023-04-12T01:10:19Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 764, "title": "请问部署vercel之后，可以再修改密码吗？如何操作？谢谢", "createdAt": "2023-04-13T07:50:41Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 781, "title": "请问呢，如何自动更新，Upstream Sync怎么添加？", "createdAt": "2023-04-14T01:37:47Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 785, "title": "请教一下，新建的聊天对话框，能重命名吗？", "createdAt": "2023-04-14T03:15:26Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 791, "title": "chatgpt API 参数", "createdAt": "2023-04-14T06:15:04Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 797, "title": "ChatGPT4什么时候支持", "createdAt": "2023-04-14T07:06:07Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 824, "title": "国内用这个方法，我用自己的域名以后，会不会被封号？", "createdAt": "2023-04-15T09:02:32Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 843, "title": "希望加个登录页", "createdAt": "2023-04-16T11:49:16Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 844, "title": "请请问是否会增加一个敏感词过滤功能？", "createdAt": "2023-04-16T12:21:38Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 854, "title": "黑暗模式，启动加载logo显示不出来，是灰色的", "createdAt": "2023-04-16T23:26:45Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 911, "title": "Add Fine-tune for long memory conversations.", "createdAt": "2023-04-19T00:40:27Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 922, "title": "如服务器不支持docker，该如何部署ChatGPT-Next-Web", "createdAt": "2023-04-19T07:06:14Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 947, "title": "为什么要设计访问控制？", "createdAt": "2023-04-20T05:15:30Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 961, "title": "新的版本似乎，变换主题失效了", "createdAt": "2023-04-21T00:48:32Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 967, "title": "把API-KEY放在源代码中而不是设置中是否可行？", "createdAt": "2023-04-21T05:02:47Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 995, "title": "idea编辑器为什么会报错，之前的版本没有报错", "createdAt": "2023-04-21T23:43:29Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1003, "title": "手机上用不了吗？", "createdAt": "2023-04-22T08:51:07Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1013, "title": "Zero Trust 部署流式接口问题", "createdAt": "2023-04-22T15:36:37Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1033, "title": "重新检测余额，这个按钮不能点击", "createdAt": "2023-04-23T12:20:22Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1035, "title": "请问有没有办法，可以统计到不同的api使用情况，以便于分开计费", "createdAt": "2023-04-23T14:42:51Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1037, "title": "没太看懂这个是做什么的。。。", "createdAt": "2023-04-23T15:27:08Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1038, "title": "希望能增加一个，不用访问密码和key就能使用的10条免费限制，然后输入key或者访问密码", "createdAt": "2023-04-23T15:33:09Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1048, "title": "求助：写docker-compose的时候该如何映射volumes?", "createdAt": "2023-04-24T07:10:31Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1057, "title": "关于更新的问题", "createdAt": "2023-04-24T11:54:44Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1062, "title": "[Azure OpenAI Service compatibility] To the users who are seeking a right way of using Azure Open AI proxy in this project", "createdAt": "2023-04-24T15:39:17Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1084, "title": "提示解析问题，JSON body有问题", "createdAt": "2023-04-25T12:39:45Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1089, "title": "Timer/Scheduling?", "createdAt": "2023-04-25T16:30:56Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1107, "title": "请问\"历史消息长度压缩阈值\"是什么意思？", "createdAt": "2023-04-27T03:37:24Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1162, "title": "有能接二次开发的小伙伴吗", "createdAt": "2023-04-29T06:04:29Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1178, "title": "搭建的网站要科学上网", "createdAt": "2023-04-30T15:03:20Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1181, "title": "怎么安装啊", "createdAt": "2023-04-30T16:28:52Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1182, "title": "部署时报错，请问是什么原因？", "createdAt": "2023-04-30T17:37:34Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1193, "title": "API Key 会泄露吗？", "createdAt": "2023-05-01T21:29:27Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1230, "title": "不知道可不可以把OPENAI_API_KEY方式改成OPENAI_ACCESS_TOKEN，QAQ", "createdAt": "2023-05-04T01:15:57Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1250, "title": "我端口被封了。", "createdAt": "2023-05-04T20:11:57Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1289, "title": "面具-医疗机器人", "createdAt": "2023-05-06T05:34:01Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1295, "title": "面具-算命先生", "createdAt": "2023-05-06T10:59:37Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1299, "title": "面具-食谱菜单", "createdAt": "2023-05-06T14:48:56Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1310, "title": "使用clash代理时报错", "createdAt": "2023-05-07T03:07:11Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1326, "title": "TypeError: adapter is not a function", "createdAt": "2023-05-08T04:21:29Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1331, "title": "急急急急急", "createdAt": "2023-05-08T11:45:05Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1347, "title": "2.2版本，本地yarn dev 后，Chat对话，本地访问，后台报错ConnectTimeout ，同一台电脑上，同样的网络环境，官方的Chat可以正常使用。", "createdAt": "2023-05-09T05:08:51Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1354, "title": "Upstream Sync: All jobs have failed", "createdAt": "2023-05-09T09:43:58Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1385, "title": "yarn build构建的时候报错，webpack的原因，真的不知道怎么解决，在线求助，node18.16", "createdAt": "2023-05-10T08:07:24Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1397, "title": "如何实现api接口实时返回gpt生成的内容？", "createdAt": "2023-05-10T14:00:54Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1404, "title": "写了一个openai的安全反代docker，提升部署安全", "createdAt": "2023-05-11T02:48:50Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1419, "title": "分享一个详细的绑卡教程", "createdAt": "2023-05-11T08:45:45Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1422, "title": "vercel部署完成，但是无法使用", "createdAt": "2023-05-11T10:54:28Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1432, "title": "关于一键部署的问题，强迫症有点难受", "createdAt": "2023-05-11T18:02:18Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1449, "title": "页面UI可以修改吗？比如那个”插件“按钮", "createdAt": "2023-05-12T11:29:29Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1451, "title": "如果添加多个API_Key，该如何设置呢？", "createdAt": "2023-05-12T11:37:12Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1463, "title": "计划接入AI绘图吗", "createdAt": "2023-05-13T08:36:12Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1487, "title": "面具 - 中英互译", "createdAt": "2023-05-14T11:42:28Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1490, "title": "Docker部署的怎样stream流式输出", "createdAt": "2023-05-14T13:57:18Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1507, "title": "vercel手动部署后，访问网址提示404", "createdAt": "2023-05-15T05:42:46Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1510, "title": "考虑接入微调模型（Fine-tunes）吗？", "createdAt": "2023-05-15T06:25:05Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1524, "title": "deployed successful but show invaild date, then can not use 部署時成功，但左邊出現日期錯誤，無法使用", "createdAt": "2023-05-15T15:02:52Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1525, "title": "How to set password?", "createdAt": "2023-05-15T15:04:40Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1528, "title": "为什么在微信打会出现,输入访问密码之后,本身是对的,却说错了?打开浏览器又可以了", "createdAt": "2023-05-15T18:24:11Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1530, "title": "新的聊天无法对话，一直在转，预设的面具下可以进行对话", "createdAt": "2023-05-16T01:33:32Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1547, "title": "希望网页中可以隐藏掉API Key的值", "createdAt": "2023-05-16T12:42:02Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1551, "title": "使用aws的amplify部署后流式消息响应就消失了", "createdAt": "2023-05-16T17:49:05Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1633, "title": "使用的其他网站提供的openai的代理API接口，能否支持自定义api接口域名呢？", "createdAt": "2023-05-19T09:39:05Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1663, "title": "Things to Improve", "createdAt": "2023-05-21T00:01:36Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1692, "title": "vercel部署，遇到522 undefined报错", "createdAt": "2023-05-22T14:39:49Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1721, "title": "有没考虑加入联网搜索功能", "createdAt": "2023-05-24T02:42:44Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1724, "title": "官方交流渠道：QQ 群", "createdAt": "2023-05-24T03:50:25Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1729, "title": "本地部署出现问题", "createdAt": "2023-05-24T07:53:51Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1757, "title": "各位有没有想将这个chagpt放在小程序里的", "createdAt": "2023-05-25T12:51:50Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1790, "title": "最新版本的next-web不能查看api2d的余额了", "createdAt": "2023-06-01T17:15:27Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1791, "title": "假设添加accessToken功能，实现免费使用ChatGPT", "createdAt": "2023-06-02T03:46:21Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1805, "title": "在服务器docker部署后遇到问题", "createdAt": "2023-06-04T04:28:26Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1817, "title": "面具-Notion帮助", "createdAt": "2023-06-05T08:26:52Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1820, "title": "环境变量设置无效", "createdAt": "2023-06-05T12:16:17Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1834, "title": "docker部署后提示TypeError: Failed to parse URL from http/v1/chat/completions?path=v1&path=chat&path=completions", "createdAt": "2023-06-06T07:09:41Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1860, "title": "为什么我部署后在pc端问答很快，移动端问了都没反应呢", "createdAt": "2023-06-08T09:52:21Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1872, "title": "Dockerfile打包项目问题？", "createdAt": "2023-06-09T08:37:09Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1884, "title": "code不生效", "createdAt": "2023-06-10T12:34:18Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1906, "title": "Error \"You exceeded your current quota, please check your plan and billing details\"", "createdAt": "2023-06-12T04:40:03Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 1916, "title": "safari左右滑动两次动画问题", "createdAt": "2023-06-12T14:20:54Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2010, "title": "可以美化页面", "createdAt": "2023-06-16T07:28:07Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2020, "title": "希望增加一个历史回答搜索的功能", "createdAt": "2023-06-17T06:54:11Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2040, "title": "Is there a way to disable or remove the built in Masks?", "createdAt": "2023-06-18T22:49:59Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2042, "title": "del", "createdAt": "2023-06-19T00:14:23Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2049, "title": "Requesting to add Arabic Language.", "createdAt": "2023-06-19T08:53:41Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2083, "title": "大佬你README中的Edge为啥那么好看啊怎么弄的!!", "createdAt": "2023-06-21T01:20:37Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2095, "title": "Requirements: Node version", "createdAt": "2023-06-21T21:27:58Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2104, "title": "Docker FAQ 问题集锦", "createdAt": "2023-06-23T12:33:23Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2108, "title": "调用openapi的是客户端还是服务端？", "createdAt": "2023-06-23T13:14:52Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2138, "title": "BASE_URL=变量无用", "createdAt": "2023-06-26T00:11:12Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2159, "title": "Code isn't working for auth page", "createdAt": "2023-06-26T22:40:15Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2205, "title": "导出图片左上角显示有问题", "createdAt": "2023-06-30T14:04:02Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2207, "title": "Add login-password ability", "createdAt": "2023-06-30T23:04:25Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2211, "title": "怎么才能让markdown格式的内容正常显示", "createdAt": "2023-07-01T09:14:12Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2217, "title": "面具启动页 怎样修改默认不勾选？", "createdAt": "2023-07-02T03:33:42Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2288, "title": "我clone项目后，yarn dev，本地对话报错：ConnectTimeoutError", "createdAt": "2023-07-07T08:32:02Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2301, "title": "如图，模型无法选择，是代表所有模型都可用是吗？那如何指定 gpt3 或者 gpt4 呢", "createdAt": "2023-07-08T12:23:09Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2306, "title": "本地app代理修改后报错", "createdAt": "2023-07-09T03:26:32Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2331, "title": "希望能够增加账号云同步功能，用户可以通过坚果云，OneDrive可选的进行云同步。", "createdAt": "2023-07-10T07:42:08Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2333, "title": "学习了几天，发现这是一个单页应用程序", "createdAt": "2023-07-10T08:44:29Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2335, "title": "请问BASE_URL和PROXY_URL分别有什么用啊？", "createdAt": "2023-07-10T09:06:48Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2374, "title": "如何部署到\"http://127.0.0.1:3000/demo\"子路径", "createdAt": "2023-07-13T06:55:16Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2403, "title": "增加Azure/AWS/Google的TTS API接口以及语音输入功能", "createdAt": "2023-07-16T06:21:38Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2425, "title": "Oops, something went wrong! QuotaExceededError: Failed to execute 'setItem' on 'Storage': Setting the value of 'chat-next-web-store' exceeded the quota.", "createdAt": "2023-07-17T11:34:33Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2436, "title": "接口地址错误", "createdAt": "2023-07-19T02:45:53Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2459, "title": "是否有计划接入诸如Auth0等鉴权工具来保护在线网页？", "createdAt": "2023-07-22T06:43:42Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2462, "title": "近期发现可能有机构用机器人白嫖，各位小心", "createdAt": "2023-07-22T18:15:06Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2501, "title": "vercel请问必须需要手机号才能注册吗,国内的手机号可以嘛", "createdAt": "2023-07-29T02:21:40Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2510, "title": "不能在聊天界面里直接编辑预设提示词。", "createdAt": "2023-07-30T04:59:38Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2523, "title": "怎么部署到6006端口呢，我修改了Dockerfile文件和docker-compose.yml文件都没有用呢", "createdAt": "2023-07-31T13:30:48Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2536, "title": "余额查询失败", "createdAt": "2023-08-02T03:08:26Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2538, "title": "”You made it with the following key type: secret.“出现此报错应该如何解决呢？谢谢", "createdAt": "2023-08-02T06:32:34Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2584, "title": "use ChimeraGPT(a freegpt provider) for free in ChatGPT-Next-Web", "createdAt": "2023-08-08T12:12:20Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2593, "title": "api余额问题", "createdAt": "2023-08-10T00:32:14Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2597, "title": "forked repo desn‘t show on vercel", "createdAt": "2023-08-10T02:42:47Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2611, "title": "azure通过CF转化的api链接，感觉比原生的要慢很多", "createdAt": "2023-08-12T09:44:06Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2654, "title": "Feature Suggestion - Importing Chat History", "createdAt": "2023-08-18T08:03:25Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2691, "title": "在docker内搭建完成后对话的时候提示ConnectTimeoutError", "createdAt": "2023-08-22T22:20:09Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2708, "title": "Store chatting file", "createdAt": "2023-08-26T01:37:36Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2746, "title": "api_key格式错误", "createdAt": "2023-08-30T07:04:51Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2747, "title": "收到OpenAI API的邮件：Access Terminated", "createdAt": "2023-08-30T08:32:44Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2776, "title": "OpenAi KEY　获取问题，", "createdAt": "2023-09-06T08:40:27Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2777, "title": "如何给用户每日使用量设限？", "createdAt": "2023-09-06T09:04:14Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2778, "title": "域名已经在使用了，想把这个应用链接在域名下的一个子页面该如何操作", "createdAt": "2023-09-06T09:50:42Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2786, "title": "error: failed to fetch", "createdAt": "2023-09-08T10:00:33Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2789, "title": "关于分享到ShareGPT时的数据清洗？", "createdAt": "2023-09-09T00:59:09Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2800, "title": "使用Vercel搭建，很容易被gfw给墙了，怎么办？", "createdAt": "2023-09-11T03:27:17Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2813, "title": "Claude Support", "createdAt": "2023-09-12T05:34:40Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2835, "title": "Starting made a sync service using github gist xD", "createdAt": "2023-09-14T10:54:11Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2858, "title": "azure openai在哪里设置deployment name？", "createdAt": "2023-09-18T09:33:00Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2886, "title": "为何同时使用 next.js 和 react router？", "createdAt": "2023-09-21T21:24:29Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2921, "title": "How to run ChatGPT-Next-Web with docker compose?", "createdAt": "2023-09-27T11:13:00Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2936, "title": "Tutorial: Obtaining a Session Key for OpenAI Platform", "createdAt": "2023-10-01T20:10:40Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2967, "title": "Agents (Masks)?", "createdAt": "2023-10-08T15:48:21Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 2990, "title": "Question: Can I see the consumed token of each message?", "createdAt": "2023-10-10T14:03:18Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3009, "title": "为什么不能使用gpt4 request？", "createdAt": "2023-10-13T03:44:15Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3063, "title": "hi", "createdAt": "2023-10-19T03:36:58Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3065, "title": "The official only provides instructions on how to disable users from using GPT4. I also want users to not use GPT3.5-16K. How should I set it?", "createdAt": "2023-10-19T06:55:30Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3075, "title": "How to customize the Bot_Hello text for different masks", "createdAt": "2023-10-21T06:10:26Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3122, "title": "Multiple OpenAi Keys", "createdAt": "2023-10-31T19:26:48Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3144, "title": "Add support for GPT-4 Vision", "createdAt": "2023-11-06T23:33:51Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3158, "title": "[Showcase] DALL-E 3 API", "createdAt": "2023-11-07T11:40:44Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3169, "title": "GPT-4 Turbo", "createdAt": "2023-11-07T19:09:06Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3170, "title": "vercel一键部署后是这样的，怎么解决啊", "createdAt": "2023-11-07T19:15:21Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3177, "title": "如何输入 \"next\"", "createdAt": "2023-11-08T03:21:39Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3197, "title": "[Showcase] latest model gpt-4 turbo", "createdAt": "2023-11-09T02:16:01Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3208, "title": "Clarifying max_tokens Usage and Limits in OpenAI API (Issue #3195 Update)", "createdAt": "2023-11-10T01:22:19Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3240, "title": "Please help IFRIME", "createdAt": "2023-11-12T18:52:55Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3246, "title": "支持图片应用", "createdAt": "2023-11-13T08:52:41Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3257, "title": "[Tips] For other developers if got something error can't push", "createdAt": "2023-11-13T18:10:49Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3273, "title": "Delete thread?", "createdAt": "2023-11-15T03:51:04Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3276, "title": "I'd like to use source code to deploy ChatGPT-Next-Web in my ubuntu 22.04. Anyone can help to show me a guide? thanks.", "createdAt": "2023-11-15T14:33:06Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3321, "title": "Show off OpenAI & Azure Speed Streaming Response", "createdAt": "2023-11-19T17:03:34Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3334, "title": "Show off gpt tryina find a roots $3x^3+ 4x - 4 = 0$", "createdAt": "2023-11-21T02:44:11Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3340, "title": "用的是AZURE Openai 的服务，AZURE_URL如何包含所有模型", "createdAt": "2023-11-21T16:58:28Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3342, "title": "please help me", "createdAt": "2023-11-22T01:24:02Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3351, "title": "Show off GPT 4 1106 preview LaTex Language 🦅", "createdAt": "2023-11-22T12:53:06Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3361, "title": "OpenRouter Integration", "createdAt": "2023-11-24T05:37:20Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3364, "title": "亲，能不能把右侧的滚动条做粗一点？真的看不见哦～", "createdAt": "2023-11-24T11:20:23Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3367, "title": "[Tips] Share Bash Script Desktop App Builder (Such as DevOps)", "createdAt": "2023-11-24T18:28:01Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3378, "title": "Show off DALL·E 3 Creations in LLM's", "createdAt": "2023-11-25T19:10:44Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3385, "title": "[Share] Bash Scripting Stuff for exporting data can be used for training models ai", "createdAt": "2023-11-27T03:44:03Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3399, "title": "[Show Off] AI doing crazy while generated a prompt from automated generating memory prompt (known as summarize)", "createdAt": "2023-11-28T15:41:19Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3416, "title": "[Showoff] gpt-4-1106-preview DevOps", "createdAt": "2023-11-30T20:35:22Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3417, "title": "Use with llam.cpp？", "createdAt": "2023-11-30T23:32:40Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3435, "title": "[Show Off] 300+ messages in desktop app still can handle", "createdAt": "2023-12-03T20:35:52Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3453, "title": "自建ChatGPT next为什么回答时说训练知识截止于2021年9月", "createdAt": "2023-12-04T10:57:40Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3470, "title": "[Show Off] Testing HK server (AWS) on one-api", "createdAt": "2023-12-06T13:01:51Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3476, "title": "Someone said project \"ChatGPT Next Web\" seems to have been acquired, is it true?", "createdAt": "2023-12-07T03:50:14Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3477, "title": "用midjourney画图不显示图片，回复的ui也有问题，求助~~~", "createdAt": "2023-12-07T06:54:22Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3483, "title": "[Show off] Grok's AI in the wild", "createdAt": "2023-12-08T11:32:15Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3484, "title": "Ollama integration", "createdAt": "2023-12-08T11:53:54Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3489, "title": "Slow message reception", "createdAt": "2023-12-09T16:42:37Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3520, "title": "如何禁用对话的流式输出", "createdAt": "2023-12-13T13:21:38Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3536, "title": "怎么分享唉", "createdAt": "2023-12-15T11:25:07Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3541, "title": "Seeking Assistance for Dynamic Loading of Masks via API", "createdAt": "2023-12-15T19:29:03Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3568, "title": "I suggest adding support for BingAI", "createdAt": "2023-12-18T11:41:51Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3569, "title": "GPT model with internet search for information", "createdAt": "2023-12-18T11:58:35Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3579, "title": "[Syncing] Better Syncing data written in go (STILL WIP)", "createdAt": "2023-12-19T12:19:07Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3657, "title": "[Show Off] Google AI Gemini-Pro", "createdAt": "2023-12-26T20:35:21Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3679, "title": ".", "createdAt": "2023-12-28T10:46:52Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3698, "title": "非常希望平台可以提供语音和文件的上传功能", "createdAt": "2023-12-29T07:00:35Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3727, "title": "[Show Off] Google AI Gemini-Pro in Command/Terminal", "createdAt": "2024-01-01T05:37:14Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3747, "title": "用docker部署的容器 里面设置了apikey和登录密码，然后每次访问的时候都需要同时输入登录密码和apikey", "createdAt": "2024-01-03T06:25:19Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3755, "title": "when will dall-e models be included ?", "createdAt": "2024-01-03T20:31:14Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3757, "title": "How to automatically generate titles with masks | 如何在用面具的情况下自动生成标题", "createdAt": "2024-01-04T02:24:33Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3783, "title": "关于文件上传 ／ about file-upload", "createdAt": "2024-01-07T16:12:50Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3788, "title": "nginx反代该怎么配置？", "createdAt": "2024-01-08T09:02:12Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3829, "title": "本地服务器nginx部署", "createdAt": "2024-01-12T04:33:21Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3995, "title": "[Feature] 希望可以加快联网插件的开发速度", "createdAt": "2024-01-13T12:16:07Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3867, "title": "禁用GPT4再重新启用，GPT4仍不出现在列表，已重新部署但无效", "createdAt": "2024-01-17T09:15:50Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3890, "title": "Possibility of connecting BingAI (gpt 4 + websearch)", "createdAt": "2024-01-23T04:43:37Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3912, "title": "[Feature]", "createdAt": "2024-01-25T10:47:27Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3955, "title": "是否有plan去引进字节跳动的coze[Feature]", "createdAt": "2024-01-27T11:04:41Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3956, "title": "[Feature] 希望可以不同的api用不同的地址", "createdAt": "2024-01-30T07:18:39Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3989, "title": "[Feature] Count the API tokens based on different access passwords", "createdAt": "2024-02-02T01:51:40Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3970, "title": "openai发布新模型GPT-3.5-turbo-0125，希望能跟新加上新模型", "createdAt": "2024-02-02T05:45:08Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3981, "title": "无法发起http请求", "createdAt": "2024-02-03T08:12:51Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 3988, "title": "[Feature] Implement adding Custom Models via URL", "createdAt": "2024-02-03T08:13:46Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4002, "title": "单次回复限制max_token", "createdAt": "2024-02-05T11:14:08Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4012, "title": "Rethinking the Model Provider Issue", "createdAt": "2024-02-07T03:43:54Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4022, "title": "本地部署后需要挂V才能发送接收消息", "createdAt": "2024-02-07T11:23:02Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4029, "title": "Images", "createdAt": "2024-02-10T12:26:30Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4132, "title": "[Feature] Enhancing Data Syncing Using Kubernetes (K8s)", "createdAt": "2024-02-19T00:42:13Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4081, "title": "All settings and data gone for no reason.", "createdAt": "2024-02-20T05:03:53Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4088, "title": "[Show Off] gemini-pro-vision vs gpt-4-vision-preview", "createdAt": "2024-02-20T21:01:24Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4092, "title": "how to chage BASE_URL?", "createdAt": "2024-02-21T02:58:32Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4100, "title": "[Share] Configuration Kubernetes (k8s) for this repository", "createdAt": "2024-02-21T19:25:42Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4126, "title": "[Feature Request]: Implementing an Automated Knowledge Fetch Model", "createdAt": "2024-02-22T18:29:59Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4114, "title": "[Share] Configuration Kubernetes (k8s) for one-api", "createdAt": "2024-02-24T04:47:35Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4122, "title": "关于Nginx反代在二级目录下的配置咨询", "createdAt": "2024-02-25T15:44:21Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4150, "title": "[Show Off] Better performance can handle over 1,000+ messages without disrupting functionality.", "createdAt": "2024-02-27T05:20:19Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4159, "title": "[Show Off] Gemini Pro 1M Tokens", "createdAt": "2024-02-27T22:52:54Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4166, "title": "{\"object\":\"error\",\"message\":\"No model in args\",\"code\":40302} 是什么原因", "createdAt": "2024-02-28T18:03:51Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4196, "title": "app显示有更新但无法升级[Bug]", "createdAt": "2024-03-03T00:56:15Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4198, "title": "取消密码", "createdAt": "2024-03-03T10:16:09Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4207, "title": "代码是做了保护吗？", "createdAt": "2024-03-04T15:00:12Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4209, "title": "How do I add models loaded by an API?", "createdAt": "2024-03-04T20:44:36Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4235, "title": "那里缴费， 可以帮忙发个链接吗", "createdAt": "2024-03-07T08:02:32Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4272, "title": "[Feature Request]: Multi-agents + Function call + Agent pipeline customization", "createdAt": "2024-03-08T15:16:47Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4253, "title": "WebDAV怎么设置？", "createdAt": "2024-03-09T21:15:27Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4269, "title": "[Show Off] Claude 3 WIP", "createdAt": "2024-03-11T17:23:04Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4281, "title": "openai开源马拉松", "createdAt": "2024-03-13T07:39:02Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4282, "title": "openai开源马拉松", "createdAt": "2024-03-13T08:04:52Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4309, "title": "问一下，本项目默认gemini模型调用的是gemini pro是v1还是v1.5", "createdAt": "2024-03-15T04:13:47Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4346, "title": "给 apple-touch-icon.png 添加背景", "createdAt": "2024-03-19T03:39:14Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4348, "title": "现在好像没有chat with pdf的功能", "createdAt": "2024-03-19T05:18:21Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4364, "title": "我想让WEB上默认使用我私有部署的API，请问应该在哪里配置？", "createdAt": "2024-03-21T08:14:09Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4377, "title": "关于是否可以增加 字节跳动 Beautiful Coze Aii模型", "createdAt": "2024-03-22T23:32:12Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4384, "title": "Chat Sync Issue between PC and Mobile Application", "createdAt": "2024-03-25T01:51:34Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4385, "title": "可以支持moonshot-v1模型吗", "createdAt": "2024-03-25T05:45:51Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4398, "title": "能不能同时支持多个Azure Deployment", "createdAt": "2024-03-26T14:04:31Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4422, "title": "桌面端希望增加一个快捷键呼出界面功能", "createdAt": "2024-04-01T07:05:27Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4435, "title": "Please update the appearance", "createdAt": "2024-04-02T06:59:50Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4454, "title": "API中转支持文件上传。可以直接文件上传吗", "createdAt": "2024-04-07T07:01:48Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4485, "title": "根据b站up主Geniucker的视频来操作", "createdAt": "2024-04-10T04:25:54Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4513, "title": "请问各位大神，为什么在配置gpt4会出现以下错误？", "createdAt": "2024-04-13T11:51:40Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4522, "title": "单次回复限制(max_token)是用于限制的输入还是输出", "createdAt": "2024-04-15T10:25:51Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4527, "title": "兄弟们你们的GPT还能正常使吗？我这一直所超出配额", "createdAt": "2024-04-16T11:24:26Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4550, "title": "Hola", "createdAt": "2024-04-22T03:44:34Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4554, "title": "BASE_URL 使用不了可能是我的问题", "createdAt": "2024-04-22T15:08:23Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4581, "title": "怎么删除默认的几十条prompt?", "createdAt": "2024-04-29T01:12:23Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4584, "title": "Does this support claude models?", "createdAt": "2024-04-29T02:50:23Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4603, "title": "如何设置默认模型", "createdAt": "2024-05-01T03:18:59Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4604, "title": "hi", "createdAt": "2024-05-01T05:24:38Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4648, "title": "CUSTOM_MODELS不生效？", "createdAt": "2024-05-10T02:14:47Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4669, "title": "How can I \"define\" many LLM providers  (with their creds) and then use them accordingly?", "createdAt": "2024-05-13T06:06:34Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4675, "title": "服务端docker部署,想用上最新的gpt模型,只能重新部署最新的docker镜像吗?", "createdAt": "2024-05-13T23:40:34Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4676, "title": "Does the upstash sync work automatically?", "createdAt": "2024-05-14T02:12:10Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4690, "title": "Build a personal assistant based on Tongyi Qwen(通义千问) 2.5 using Higress + NextChat.", "createdAt": "2024-05-14T08:30:42Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4691, "title": "How to disable basic models in the web version", "createdAt": "2024-05-14T12:24:21Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4709, "title": "www.ohmygpt.com三方提供API无法使用", "createdAt": "2024-05-16T06:05:07Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4768, "title": "有没有大佬能教一下怎么手动配置openai的接口代理？我发现只从环境变量设置BASE_URL好像没用。q _q    I'm having trouble manually configuring an OpenAI API proxy. Setting the BASE_URL environment variable doesn't work. Can anyone help?", "createdAt": "2024-05-23T10:28:30Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4776, "title": "A Continue Button in NextChat V3", "createdAt": "2024-05-25T15:11:25Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4780, "title": "如何移除“预设提示词”？", "createdAt": "2024-05-26T04:20:47Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4809, "title": "Where is the conversation data stored?", "createdAt": "2024-06-03T02:03:37Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4818, "title": "Send a component as response", "createdAt": "2024-06-05T07:28:05Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4884, "title": "什么时候上语音功能", "createdAt": "2024-06-25T08:38:11Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4888, "title": "如何设置FastLink，FastLink的URL的格式是怎样的？", "createdAt": "2024-06-26T00:46:07Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4889, "title": "请求更新dev网页的版本", "createdAt": "2024-06-26T01:20:56Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4896, "title": "能否更新支持ollama", "createdAt": "2024-06-27T10:07:40Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4911, "title": "有没有管理员有时间审核一下我提交的pr Export sync config #4902 如果有问题 请通知我", "createdAt": "2024-07-02T02:54:31Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4919, "title": "I think a little space between line is kind of needed", "createdAt": "2024-07-03T15:32:10Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4920, "title": "#4902 is locked, please reconsider opening it", "createdAt": "2024-07-04T01:33:55Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4973, "title": "how to remove system prompt", "createdAt": "2024-07-11T03:30:22Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 4994, "title": "Custom base_url not working in existing model", "createdAt": "2024-07-13T10:41:39Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5031, "title": "2024年7月16日，ChatGPT-Next-Web使用AZURE Openai", "createdAt": "2024-07-16T15:49:21Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5038, "title": "如何使用阿里云通义千问(qwen)", "createdAt": "2024-07-17T05:38:07Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5042, "title": "Unable to find MacOs Setup for new version v2.13.0", "createdAt": "2024-07-17T10:39:39Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5055, "title": "How to disable streaming response?", "createdAt": "2024-07-18T16:43:43Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5073, "title": "7月20日升级最新版本后，没法上传图片了啊", "createdAt": "2024-07-21T12:22:44Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5100, "title": "项目我是部署在新加坡，但更新了最新版本后，提问报错：unsupported_country_region_territory", "createdAt": "2024-07-25T07:46:24Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5118, "title": "Groq LLM API - Environment variables", "createdAt": "2024-07-27T10:55:22Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5122, "title": "A Workaround for Workers AI", "createdAt": "2024-07-29T03:40:26Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5182, "title": "请问这个可以嵌入网页端的插件当chatbox吗", "createdAt": "2024-08-03T23:05:26Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5212, "title": "HIDE_USER_API_KEY 的错误", "createdAt": "2024-08-06T11:30:54Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5251, "title": "建议登陆后开启自定义接口能从云端自动获取配置,因为使用代理请求不如浏览器自己请求更快更方便", "createdAt": "2024-08-12T02:58:59Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5265, "title": "Love", "createdAt": "2024-08-13T08:38:02Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5333, "title": "Can you support file uploads for attachments?", "createdAt": "2024-08-29T07:38:33Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5413, "title": "已经更新到v2.15.1，docker安装，怎样使用插件？", "createdAt": "2024-09-13T03:21:40Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5437, "title": "关于OpenAI API max_token的设置问题", "createdAt": "2024-09-15T06:03:37Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5479, "title": "[Git Mirror] [Auto Synced] Related this Repository", "createdAt": "2024-09-20T13:48:01Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5510, "title": "OpenAI assistants", "createdAt": "2024-09-23T19:31:25Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5531, "title": "Bug - Message : \"Empty response from server\"", "createdAt": "2024-09-25T12:01:28Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5577, "title": "希望能够使用多个不同代理地址的api", "createdAt": "2024-10-01T07:26:05Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5592, "title": "如何在 Deno.dev 上部署", "createdAt": "2024-10-07T13:35:28Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5630, "title": "对话框上面的按钮可以默认显示文字吗?", "createdAt": "2024-10-11T02:28:38Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5636, "title": "这个ui, 能实现, 输出ai回答的时候, 1s, 输出一部分吗?", "createdAt": "2024-10-11T06:22:32Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5643, "title": "有取消功能吗? 输出到一半, 已经知道答案了, 不要再输出了", "createdAt": "2024-10-12T03:38:28Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5649, "title": "可以参考cursor, 输入的时候, 或者输出的时候, 界面不要闪", "createdAt": "2024-10-13T06:28:42Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5654, "title": "不同情况下, 同一个位置的按钮, 老是变来变去", "createdAt": "2024-10-14T03:33:09Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5657, "title": "yarn export  打包后css文件被js方式引入？", "createdAt": "2024-10-14T05:38:19Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5668, "title": "默认参数的更新，比如max_tokens", "createdAt": "2024-10-14T14:05:48Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5681, "title": "DEFAULT_MODEL有那些参数可选", "createdAt": "2024-10-17T12:28:55Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5712, "title": "非coder，询问是否能在腾讯的edgeone pages上部署？", "createdAt": "2024-10-25T02:18:50Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5793, "title": "为什么每次登录网页需要重新设置模型，能不能设置一次记住当前的模型呢，因为我想共享给别人使用", "createdAt": "2024-11-09T14:35:10Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5829, "title": "可以支持word等文档上传吗？", "createdAt": "2024-11-15T07:52:54Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5918, "title": "场致变色材料推荐", "createdAt": "2024-12-10T03:20:32Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5929, "title": "What is the best way to search for a hash?", "createdAt": "2024-12-12T09:45:13Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5930, "title": "How to build a table schema with dynamic embedding model", "createdAt": "2024-12-12T09:50:06Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 5975, "title": "o1-2024-12-17 的代码输出没有使用 markdown，导致网页上预览体验很差，也没办法复制，有什么好的解决方案吗", "createdAt": "2024-12-23T14:41:43Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6021, "title": "希望加上Gemini自带的搜索功能", "createdAt": "2025-01-01T08:23:04Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6049, "title": "是否可以考虑支持本地部署的UpStash？", "createdAt": "2025-01-07T00:10:19Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6054, "title": "帐号被封了", "createdAt": "2025-01-09T07:18:59Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6117, "title": "gemini api 被封求助", "createdAt": "2025-01-30T17:01:45Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6122, "title": "有人知道R1模式的思考UI为什么没有生效吗", "createdAt": "2025-02-01T09:16:01Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6153, "title": "I purchased the Pro version on the website but i cannot use it, it is telling me this error.", "createdAt": "2025-02-06T08:37:11Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6171, "title": "How can I add MCP（Model Context Protocol）server?", "createdAt": "2025-02-07T08:21:52Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6195, "title": "感觉软件更新变缓了", "createdAt": "2025-02-10T05:50:40Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6206, "title": "模型在输出的时候, 需要停止输出, 虽然有停止按钮, 但是很麻烦", "createdAt": "2025-02-11T07:23:31Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6239, "title": "用了nextchat官方的即开即用，充值急速消耗", "createdAt": "2025-02-16T09:23:07Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6254, "title": "Accessing Action Bar Position and \"Quote/Continue\" Buttons", "createdAt": "2025-02-18T16:03:00Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6262, "title": "v2.16.0 什么时候能release?", "createdAt": "2025-02-19T09:04:09Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6303, "title": "Enterprise Edition of NextChat", "createdAt": "2025-02-27T07:51:56Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6346, "title": "官网重复扣费,盗刷信用卡", "createdAt": "2025-03-08T04:15:21Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6347, "title": "最近总是超时", "createdAt": "2025-03-08T08:32:00Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6361, "title": "How to build plugins for deployment", "createdAt": "2025-03-13T02:27:13Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6381, "title": "deepseek模型显示思考过程", "createdAt": "2025-03-17T08:59:06Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6444, "title": "Will Next Chat collect any information?", "createdAt": "2025-04-14T11:10:42Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6445, "title": "可以更新一下最新的4.1吗？", "createdAt": "2025-04-15T01:26:30Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6447, "title": "这个项目现在什么情况了，为何一个月了没有个更新呢？", "createdAt": "2025-04-16T02:20:33Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6452, "title": "What Makes ChatGPT-4 Stand Out Among AI Models?", "createdAt": "2025-04-18T02:47:31Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6453, "title": "I’m Building a Neural Network for Signal Classification, but the Model Overfits - How Can I Resolve This?", "createdAt": "2025-04-18T02:52:20Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6454, "title": "I’m Training a Transformer Model for Text Summarization, but It Struggles with Long Documents - How Can I Improve Its Performance?", "createdAt": "2025-04-18T03:01:15Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6459, "title": "Does MCP even works ?", "createdAt": "2025-04-20T17:03:21Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6462, "title": "IOS应用版本要求有点高，17.6，我的iPhone15 pro还是停留在17.3,为了更多不想升级的老iphone，希望能多向下兼容", "createdAt": "2025-04-23T17:21:23Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6490, "title": "Has anyone gotten `gpt-image-1` to work?", "createdAt": "2025-05-14T03:37:28Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6508, "title": "官方那个nextchat上传不了文件了", "createdAt": "2025-06-02T15:56:50Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6511, "title": "有没有别的项目推荐", "createdAt": "2025-06-06T16:25:52Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6512, "title": "项目已经很久没维护了，更新速度捉急 没必要等了 换吧", "createdAt": "2025-06-08T08:05:29Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6579, "title": "Is NextChat dead?", "createdAt": "2025-07-22T16:20:17Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6610, "title": "Hardening checklist for production deployments (auth, safe defaults, docs)", "createdAt": "2025-08-17T08:46:32Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6639, "title": "Ghv", "createdAt": "2025-09-25T17:07:10Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6667, "title": "Upstash Sync Connection Success but No Data Transfer (iOS & Web)", "createdAt": "2025-11-27T03:16:00Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6713, "title": "怎么没更新了", "createdAt": "2026-02-23T10:42:38Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6728, "title": "Pissbook: connect your NextChat instance to an agent-only forum", "createdAt": "2026-03-23T00:57:59Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6729, "title": "【API 推荐】高性价比 AI API 中转站 marting.pro，支持近600种模型，完美兼容 NextChat", "createdAt": "2026-03-26T12:31:35Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6770, "title": "🤖 朱雀找人 - AI发布任务，真人执行，自动结算！欢迎AI Agent来测试", "createdAt": "2026-05-05T19:45:03Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6775, "title": "Claude Code skills for investment analysis — options flow scanner + alerts (open source)", "createdAt": "2026-05-13T13:08:43Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}
+{"number": 6802, "title": "[removed]", "createdAt": "2026-06-10T09:48:12Z", "repo": "ChatGPTNextWeb/ChatGPT-Next-Web"}

@@ -1,0 +1,1146 @@
+{"number": 1, "title": "chore: Add readme, gitignore and poetry files", "createdAt": "2024-08-13T18:50:30Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 2, "title": "chore: Initial draft of stubs", "createdAt": "2024-08-13T19:42:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 3, "title": "renaming and add indices", "createdAt": "2024-08-15T15:01:33Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 4, "title": "Refactor maintenance structure, add prompt library", "createdAt": "2024-08-15T16:00:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 5, "title": "Cleanup maintenance utilities + add podcast runner", "createdAt": "2024-08-16T03:16:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 6, "title": "Update Maintenance LLM Queries and Partial Schema Retrieval", "createdAt": "2024-08-17T14:55:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 7, "title": "fix: Address graph disconnect", "createdAt": "2024-08-18T19:13:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 8, "title": "feat: Initial version of temporal invalidation + tests", "createdAt": "2024-08-20T03:00:25Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 9, "title": "Create Bulk Add Episode for faster processing", "createdAt": "2024-08-21T14:41:12Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 10, "title": "Create SECURITY.md", "createdAt": "2024-08-22T04:20:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 11, "title": "Create dependabot.yml", "createdAt": "2024-08-22T04:23:08Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 12, "title": "chore: Add development environment to the action", "createdAt": "2024-08-22T04:29:18Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 13, "title": "chore(deps): Bump openai from 1.41.1 to 1.42.0", "createdAt": "2024-08-22T04:52:30Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 14, "title": "search updates", "createdAt": "2024-08-22T15:26:59Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 15, "title": "move podcast to examples", "createdAt": "2024-08-22T18:07:37Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 16, "title": "rm podcast", "createdAt": "2024-08-22T18:16:29Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 17, "title": "ruff action", "createdAt": "2024-08-22T18:29:51Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 18, "title": "format and linting", "createdAt": "2024-08-22T19:08:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 19, "title": "search updates", "createdAt": "2024-08-22T19:45:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 20, "title": "Invalidation updates && improvements", "createdAt": "2024-08-22T20:23:11Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 21, "title": "chore: enable mypy; actions cleanup", "createdAt": "2024-08-22T20:26:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 22, "title": "depot + cleanup", "createdAt": "2024-08-22T22:13:06Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 23, "title": "Fix temporal invalidation unit tests", "createdAt": "2024-08-22T22:18:45Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 24, "title": "Resolve build index issues", "createdAt": "2024-08-22T23:03:30Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 25, "title": "fix constraints", "createdAt": "2024-08-22T23:07:16Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 26, "title": "feat: Add real world dates extraction", "createdAt": "2024-08-23T01:23:59Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 27, "title": "chore: Fix Typing Issues", "createdAt": "2024-08-23T01:32:49Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 28, "title": "improve deduping issue", "createdAt": "2024-08-23T13:47:25Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 29, "title": "Add a LICENSE file containing the Apache v2 license", "createdAt": "2024-08-23T18:03:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 30, "title": "Add Apache License 2.0 boilerplate to all Python files", "createdAt": "2024-08-23T18:33:55Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 31, "title": "chore: Update the context for date extraction + bug fixes", "createdAt": "2024-08-23T20:07:05Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 32, "title": "feat: Add CLA Assistant workflow and CONTRIBUTING guidelines", "createdAt": "2024-08-23T20:25:30Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 33, "title": "Update CONTRIBUTING.md to reflect Python 3.10+ requirement", "createdAt": "2024-08-23T20:43:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 34, "title": "chore: Experiment with different datasets", "createdAt": "2024-08-23T21:41:55Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 35, "title": "dedupe fixes", "createdAt": "2024-08-23T21:54:59Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 36, "title": "Allbirds", "createdAt": "2024-08-25T01:49:31Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 37, "title": "Controlled example", "createdAt": "2024-08-25T16:18:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 38, "title": "chore: Fix packaging", "createdAt": "2024-08-25T16:45:52Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 39, "title": "implement diskcache", "createdAt": "2024-08-26T02:07:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 40, "title": "chore: Add comments to graphiti methods", "createdAt": "2024-08-26T14:49:28Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 41, "title": "Improve LLM config. Fix bugs", "createdAt": "2024-08-26T14:51:12Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 42, "title": "README wip", "createdAt": "2024-08-26T15:20:55Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 43, "title": "chore(deps-dev): Bump pytest-asyncio from 0.23.8 to 0.24.0", "createdAt": "2024-08-26T15:38:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 44, "title": "Implement retry for LLMClient", "createdAt": "2024-08-26T19:24:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 45, "title": "Search node centering", "createdAt": "2024-08-26T21:26:25Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 46, "title": "Add text episode type", "createdAt": "2024-08-26T22:43:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 47, "title": "Update cla.yml for dependabot[bot] whitelist", "createdAt": "2024-08-26T23:00:16Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 48, "title": "Update search method to return EntityEdge objects", "createdAt": "2024-08-26T23:41:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 49, "title": "Add get_nodes_by_query method to Graphiti class", "createdAt": "2024-08-27T00:32:36Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 50, "title": "Update cla.yml to add ellipsisdev[bot] to whitelist", "createdAt": "2024-08-27T00:35:54Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 51, "title": "Add Missing Node and edge CRUD", "createdAt": "2024-08-27T16:17:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 52, "title": "feat: Add graphiti demo slides to README.md", "createdAt": "2024-08-27T17:22:37Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 53, "title": "Update status and roadmap section", "createdAt": "2024-08-27T17:51:30Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 54, "title": "Chore/add-intro-gif v2", "createdAt": "2024-08-27T17:52:14Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 55, "title": "Update README.md", "createdAt": "2024-08-27T17:59:35Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 56, "title": "Update README.md w/ spacing", "createdAt": "2024-08-27T18:02:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 57, "title": "Update README.md", "createdAt": "2024-08-27T18:10:51Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 58, "title": "Update README.md", "createdAt": "2024-08-27T18:56:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 59, "title": "Update README.md", "createdAt": "2024-08-27T19:06:00Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 60, "title": "Update README.md - docs to docs site", "createdAt": "2024-08-27T19:46:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 61, "title": "chore: Move anthropic to dev deps, remove anthropic and groq clients from __init__", "createdAt": "2024-08-27T19:56:28Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 62, "title": "feat: Add release workflow", "createdAt": "2024-08-27T20:12:53Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 63, "title": "chore: Version bump", "createdAt": "2024-08-27T20:27:21Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 64, "title": "Update README.md - init", "createdAt": "2024-08-27T22:37:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 65, "title": "Update cla.yml - name of ellipsis bot", "createdAt": "2024-08-27T22:44:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 66, "title": "Update README.md - CRUD done", "createdAt": "2024-08-27T23:40:49Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 67, "title": "add bulk temporal extraction and improve bulk quality and performance", "createdAt": "2024-08-29T14:23:00Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 68, "title": "chore(deps-dev): Bump jupyterlab from 4.2.4 to 4.2.5 in the pip group", "createdAt": "2024-08-30T16:37:14Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 69, "title": "Update README.md messaging", "createdAt": "2024-08-31T17:32:38Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 70, "title": "Update README.md - fix image url", "createdAt": "2024-08-31T17:33:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 71, "title": "Update README.md", "createdAt": "2024-08-31T17:37:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 72, "title": "Node Distance Reranker: Limit max hops (and cleanup prints)", "createdAt": "2024-09-01T18:05:53Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 73, "title": "Feat/langgraph-example", "createdAt": "2024-09-01T18:14:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 74, "title": "README.md fixes", "createdAt": "2024-09-01T19:35:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 75, "title": "chore(deps-dev): Bump langgraph from 0.2.15 to 0.2.16", "createdAt": "2024-09-02T16:02:42Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 76, "title": "chore(deps-dev): Bump groq from 0.9.0 to 0.10.0", "createdAt": "2024-09-02T16:03:24Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 77, "title": "Speed up add episode", "createdAt": "2024-09-03T15:24:09Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 78, "title": "Update image URL in README.md", "createdAt": "2024-09-03T19:06:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 79, "title": "chore: Version bump", "createdAt": "2024-09-03T21:38:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 80, "title": "Update README.md", "createdAt": "2024-09-04T04:14:50Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 81, "title": "search update", "createdAt": "2024-09-04T13:34:29Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 82, "title": "fixing documentation link and adding groq package", "createdAt": "2024-09-05T04:14:25Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 84, "title": "Update README.md", "createdAt": "2024-09-05T13:53:36Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 85, "title": "Add episode refactor", "createdAt": "2024-09-05T14:07:19Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 87, "title": "fix clearing name embeddings bug", "createdAt": "2024-09-05T18:02:02Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 88, "title": "Add Fastapi graph service", "createdAt": "2024-09-05T21:14:36Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 89, "title": "Add group ids", "createdAt": "2024-09-06T14:53:50Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 90, "title": "Fix manual image release workflow", "createdAt": "2024-09-06T16:11:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 91, "title": "Fix manual image release workflow", "createdAt": "2024-09-06T16:29:14Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 92, "title": "feat: Add group id support to service", "createdAt": "2024-09-06T18:05:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 93, "title": "chore: Update service readme", "createdAt": "2024-09-06T19:57:47Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 94, "title": "Loosen numpy dependency to numpy>=1.0.0", "createdAt": "2024-09-09T14:52:54Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 95, "title": "chore(deps-dev): Bump langgraph from 0.2.18 to 0.2.19", "createdAt": "2024-09-09T16:03:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 96, "title": "chore(deps-dev): Bump groq from 0.10.0 to 0.11.0", "createdAt": "2024-09-09T16:03:36Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 97, "title": "chore(deps): Bump openai from 1.43.1 to 1.44.0", "createdAt": "2024-09-09T16:03:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 98, "title": "chore(deps): Bump pydantic from 2.9.0 to 2.9.1", "createdAt": "2024-09-09T16:04:18Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 99, "title": "chore(deps-dev): Bump langsmith from 0.1.115 to 0.1.116", "createdAt": "2024-09-09T16:04:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 100, "title": "feat(graph-service): add entity node handling and update Docker configurations", "createdAt": "2024-09-10T01:29:35Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 101, "title": "Fix missing default None for add_episode_bulk", "createdAt": "2024-09-10T02:05:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 102, "title": "Fix llm client retry", "createdAt": "2024-09-10T05:41:30Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 103, "title": "Community nodes", "createdAt": "2024-09-10T15:19:33Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 104, "title": "feat: add error handling for missing nodes and edges, introduce new API endpoints, and update ZepGraphiti class", "createdAt": "2024-09-10T21:46:50Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 105, "title": "Add py.typed file", "createdAt": "2024-09-11T04:10:30Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 106, "title": "add extract nodes from text prompt", "createdAt": "2024-09-11T15:32:19Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 107, "title": "Improve node distance reranker speed", "createdAt": "2024-09-12T15:08:52Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 108, "title": "Version bump", "createdAt": "2024-09-13T15:47:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 111, "title": "Search refactor + Community search", "createdAt": "2024-09-15T01:56:08Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 113, "title": "chore(deps-dev): Bump pytest from 8.3.2 to 8.3.3", "createdAt": "2024-09-16T15:59:14Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 114, "title": "chore(deps-dev): Bump langsmith from 0.1.116 to 0.1.121", "createdAt": "2024-09-16T15:59:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 115, "title": "chore(deps-dev): Bump ruff from 0.6.4 to 0.6.5", "createdAt": "2024-09-16T16:00:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 116, "title": "chore(deps): Bump openai from 1.44.0 to 1.45.1", "createdAt": "2024-09-16T16:00:33Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 117, "title": "chore(deps-dev): Bump langchain-openai from 0.1.23 to 0.1.25", "createdAt": "2024-09-16T16:01:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 118, "title": "Fix groupless search", "createdAt": "2024-09-16T18:51:02Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 119, "title": "fix: Syntax error on node crud", "createdAt": "2024-09-17T16:12:16Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 121, "title": "Add community update", "createdAt": "2024-09-18T05:39:45Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 123, "title": "fix: update UUID generation and message handling", "createdAt": "2024-09-18T15:31:32Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 124, "title": "Mentions reranker", "createdAt": "2024-09-18T15:42:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 126, "title": "feat: add OpenAI configuration options to Settings and update LLM client setup", "createdAt": "2024-09-18T20:56:24Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 130, "title": "Add group_id CRUD endpoints and option store content bool", "createdAt": "2024-09-19T18:21:35Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 131, "title": "Update README.md with graphiti logo", "createdAt": "2024-09-19T21:48:11Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 132, "title": "feat: Add delete group endpoint", "createdAt": "2024-09-20T14:30:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 133, "title": "Handle JSONDecodeError in is_server_or_retry_error function", "createdAt": "2024-09-20T18:06:52Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 135, "title": "Add instructions to set up integration testing to contributor docs", "createdAt": "2024-09-20T20:20:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 136, "title": "In memory label propagation community detection", "createdAt": "2024-09-21T01:47:18Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 137, "title": "feat: Fix bug in dedupe_node_list function", "createdAt": "2024-09-21T02:17:31Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 138, "title": "chore: Update DEFAULT_MAX_TOKENS to 16384 in config.py", "createdAt": "2024-09-21T04:05:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 140, "title": "feat: Refactor OpenAIClient initialization and add client parameter", "createdAt": "2024-09-21T17:36:25Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 141, "title": "add py.typed", "createdAt": "2024-09-22T16:43:22Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 142, "title": "limit community building concurrency", "createdAt": "2024-09-22T18:00:35Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 143, "title": "Override default max tokens for Anthropic and Groq clients", "createdAt": "2024-09-22T18:24:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 144, "title": "feat: add FastAPI lifespan and healthcheck endpoint", "createdAt": "2024-09-22T19:31:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 146, "title": "chore(deps-dev): Bump langsmith from 0.1.121 to 0.1.125", "createdAt": "2024-09-23T15:13:21Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 147, "title": "chore(deps-dev): Bump ruff from 0.6.5 to 0.6.7", "createdAt": "2024-09-23T15:13:47Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 148, "title": "chore(deps): Bump openai from 1.45.1 to 1.47.0", "createdAt": "2024-09-23T15:14:07Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 149, "title": "chore(deps): Bump pydantic from 2.9.1 to 2.9.2", "createdAt": "2024-09-23T15:14:31Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 150, "title": "chore(deps-dev): Bump langgraph from 0.2.19 to 0.2.23", "createdAt": "2024-09-23T15:14:51Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 151, "title": "feat: async close and multi-group search support", "createdAt": "2024-09-24T01:18:07Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 152, "title": "Group id fix", "createdAt": "2024-09-24T19:11:25Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 153, "title": "refactor: remove unnecessary type casting in `search()` function", "createdAt": "2024-09-24T20:24:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 154, "title": "fix: Make groupIds option in search query dto", "createdAt": "2024-09-24T23:02:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 155, "title": "chore: Make deleting groups safer", "createdAt": "2024-09-24T23:52:31Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 156, "title": "feat: configurable embedding model", "createdAt": "2024-09-26T05:38:49Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 157, "title": "Add MSC benchmark and improve search performance", "createdAt": "2024-09-26T18:38:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 158, "title": "chore: simplify Docker image release workflow", "createdAt": "2024-09-26T20:43:31Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 159, "title": "feat: Dedicated embedder interface", "createdAt": "2024-09-27T02:06:55Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 160, "title": "chore: Bump version", "createdAt": "2024-09-27T17:05:03Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 162, "title": "chore: Update openai version", "createdAt": "2024-09-28T22:42:36Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 163, "title": "feat: add health checks and dependencies to docker-compose", "createdAt": "2024-09-28T22:58:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 164, "title": "chore: Add build and start CI workflow", "createdAt": "2024-09-30T14:06:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 165, "title": "chore(deps-dev): Bump langsmith from 0.1.125 to 0.1.129", "createdAt": "2024-09-30T15:53:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 166, "title": "chore(deps-dev): Bump ruff from 0.6.7 to 0.6.8", "createdAt": "2024-09-30T15:53:29Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 167, "title": "chore(deps-dev): Bump langgraph from 0.2.23 to 0.2.28", "createdAt": "2024-09-30T15:54:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 168, "title": "chore(deps): Bump neo4j from 5.24.0 to 5.25.0", "createdAt": "2024-09-30T15:54:36Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 170, "title": "update lucene sanitizer", "createdAt": "2024-10-02T15:35:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 171, "title": "test escape characters", "createdAt": "2024-10-02T17:10:50Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 172, "title": "add addepisode return object", "createdAt": "2024-10-03T16:09:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 173, "title": "Msc benchmark update", "createdAt": "2024-10-03T16:16:29Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 174, "title": "Fix edge invalidation", "createdAt": "2024-10-06T22:49:19Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 175, "title": "chore(deps): Bump openai from 1.51.0 to 1.51.1", "createdAt": "2024-10-07T15:44:37Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 176, "title": "chore(deps-dev): Bump anthropic from 0.34.2 to 0.35.0", "createdAt": "2024-10-07T15:45:30Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 177, "title": "chore(deps-dev): Bump langsmith from 0.1.130 to 0.1.131", "createdAt": "2024-10-07T15:45:53Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 178, "title": "chore(deps-dev): Bump ruff from 0.6.8 to 0.6.9", "createdAt": "2024-10-07T15:46:35Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 179, "title": "chore(deps): Bump numpy from 2.1.1 to 2.1.2", "createdAt": "2024-10-07T15:47:02Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 180, "title": "Add mmr reranking", "createdAt": "2024-10-07T15:49:11Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 181, "title": "feat: support switching LLM providers and embedding providers through…", "createdAt": "2024-10-08T16:24:06Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 182, "title": "fix: Release workflow for service image", "createdAt": "2024-10-08T21:37:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 183, "title": "Fix release workflow", "createdAt": "2024-10-08T21:44:54Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 184, "title": "support switching LLM providers and embedding providers through configuration file", "createdAt": "2024-10-09T03:12:07Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 185, "title": "Node group error type", "createdAt": "2024-10-09T22:04:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 187, "title": "make broader use of debug logs", "createdAt": "2024-10-10T21:11:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 188, "title": "fix embedding_model_name not work", "createdAt": "2024-10-11T03:51:00Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 189, "title": "bump version", "createdAt": "2024-10-11T22:26:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 190, "title": "fix duplicate search results bug", "createdAt": "2024-10-14T23:46:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 191, "title": "set content to empty after episode extractions have happened", "createdAt": "2024-10-15T16:08:20Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 192, "title": "ZEPAI-676: Remove fuzzy query in fulltext search to avoid errors with large queries", "createdAt": "2024-10-19T15:23:45Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 193, "title": "update lucene search", "createdAt": "2024-10-20T17:40:39Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 194, "title": "chore: Add missing permissions in release image workflow", "createdAt": "2024-10-20T21:48:35Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 195, "title": "Make default DB explicit", "createdAt": "2024-10-21T15:56:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 196, "title": "load env in helper file", "createdAt": "2024-10-22T07:16:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 197, "title": "Use sessions search", "createdAt": "2024-10-22T13:45:54Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 198, "title": "chore: Bump version", "createdAt": "2024-10-22T14:19:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 199, "title": "Number of Neo4j Connections Optimizations", "createdAt": "2024-10-23T16:39:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 201, "title": "chore: Set up cross encoder client", "createdAt": "2024-10-24T04:22:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 202, "title": "Cross encoder reranker in search query", "createdAt": "2024-10-24T21:49:18Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 203, "title": "Update reranker limits", "createdAt": "2024-10-28T18:09:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 204, "title": "update new names with input_data", "createdAt": "2024-10-29T14:57:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 205, "title": "Bulk add nodes and edges", "createdAt": "2024-10-30T00:21:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 206, "title": "return no results with empty search string", "createdAt": "2024-11-04T15:35:29Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 207, "title": "add_fact endpoint", "createdAt": "2024-11-05T20:11:12Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 208, "title": "Update MSC dataset", "createdAt": "2024-11-06T15:51:00Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 209, "title": "update dependency versions", "createdAt": "2024-11-06T16:11:22Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 210, "title": "add search recipes", "createdAt": "2024-11-06T19:56:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 212, "title": "add reflexion", "createdAt": "2024-11-12T17:11:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 213, "title": "Fix OpenAI cross-encoder prompt", "createdAt": "2024-11-12T17:33:28Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 214, "title": "Add episode latency improvements", "createdAt": "2024-11-14T00:10:21Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 215, "title": "add fulltext search limit", "createdAt": "2024-11-14T16:58:37Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 216, "title": "Update edge search", "createdAt": "2024-11-15T19:27:14Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 217, "title": "add delete nodes by group_id", "createdAt": "2024-11-18T18:06:51Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 218, "title": "Pagination for get by group_id", "createdAt": "2024-11-19T06:08:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 219, "title": "update episode override", "createdAt": "2024-11-26T15:57:33Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 224, "title": "add unicode escape", "createdAt": "2024-12-03T15:53:33Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 225, "title": "Implement OpenAI Structured Output", "createdAt": "2024-12-04T19:28:38Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 226, "title": "pre-release version bump", "createdAt": "2024-12-05T15:05:58Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 227, "title": "update summary length", "createdAt": "2024-12-05T20:44:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 228, "title": "bump version", "createdAt": "2024-12-05T20:56:00Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 229, "title": "feat: add retry logic and improve logging in OpenAIClient", "createdAt": "2024-12-06T15:26:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 230, "title": "pre3", "createdAt": "2024-12-06T15:37:38Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 231, "title": "fix node distance reranker", "createdAt": "2024-12-06T17:03:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 232, "title": "default to no pagination", "createdAt": "2024-12-06T17:41:29Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 233, "title": "update lucene escaping", "createdAt": "2024-12-06T20:33:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 234, "title": "refactor: use `utc_now()` for consistent UTC datetime handling", "createdAt": "2024-12-09T02:02:02Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 236, "title": "bump version", "createdAt": "2024-12-09T17:33:33Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 237, "title": "add generic client", "createdAt": "2024-12-10T17:21:53Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 238, "title": "fix: Clean input before passing it to the llm", "createdAt": "2024-12-11T00:37:24Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 239, "title": "chore: Clean input to openai generic client", "createdAt": "2024-12-11T03:15:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 240, "title": "Date filters", "createdAt": "2024-12-11T17:04:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 241, "title": "Make tenacity version non-strict (compatible with other projects)", "createdAt": "2024-12-13T08:51:06Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 242, "title": "Warn on invalid date", "createdAt": "2024-12-13T17:29:18Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 243, "title": "Abstract Neo4j filters in search queries", "createdAt": "2024-12-17T00:25:36Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 244, "title": "Bounded semaphore - limiting concurrency", "createdAt": "2024-12-17T16:04:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 245, "title": "bump version", "createdAt": "2024-12-17T18:42:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 246, "title": "use default value for return exceptions", "createdAt": "2024-12-17T20:07:19Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 247, "title": "bump version", "createdAt": "2024-12-17T20:12:22Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 249, "title": "fix: Update integration tests with correct embedding generation", "createdAt": "2024-12-19T07:00:17Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 250, "title": "chore: encapsulate process episode logic", "createdAt": "2025-01-08T03:47:16Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 251, "title": "Jack/initial eval framework", "createdAt": "2025-01-10T18:12:22Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 252, "title": "add partial eval platform", "createdAt": "2025-01-10T20:21:07Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 253, "title": "Typo in README.md example code", "createdAt": "2025-01-19T03:20:53Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 255, "title": "Set max tokens by prompt", "createdAt": "2025-01-23T16:49:36Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 256, "title": "WIP add episode bulk", "createdAt": "2025-01-24T15:26:42Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 257, "title": "OpenAI RateLimitError", "createdAt": "2025-01-27T04:45:04Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 258, "title": "update output token limits to 2048", "createdAt": "2025-01-30T17:48:11Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 259, "title": "Update README with paper link", "createdAt": "2025-01-31T16:34:52Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 260, "title": "docs: update README to enhance clarity and add Zep Memory section", "createdAt": "2025-02-02T17:10:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 261, "title": "Remove Episode by uuid", "createdAt": "2025-02-05T16:39:51Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 262, "title": "Custom ontology", "createdAt": "2025-02-07T18:27:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 263, "title": "Add triple update", "createdAt": "2025-02-12T16:48:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 264, "title": "bump version", "createdAt": "2025-02-12T17:35:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 265, "title": "node label filters", "createdAt": "2025-02-20T17:24:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 267, "title": "Scarlett/add logo and stars", "createdAt": "2025-02-20T19:38:28Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 268, "title": "Add logo and star call out", "createdAt": "2025-02-20T21:08:30Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 269, "title": "Scarlett/add logo and stars", "createdAt": "2025-02-20T21:18:14Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 270, "title": "I have read the CLA Document and I hereby sign the CLA", "createdAt": "2025-02-20T21:20:31Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 271, "title": "Neo4j 5.26", "createdAt": "2025-02-21T18:02:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 272, "title": "Update CONTRIBUTING.md", "createdAt": "2025-02-21T19:06:02Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 273, "title": "docs: update agent.ipynb", "createdAt": "2025-02-23T04:19:07Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 274, "title": "entity typo", "createdAt": "2025-02-24T17:40:28Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 275, "title": "chore: Bump version", "createdAt": "2025-02-25T19:30:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 276, "title": "Scarlett/update contributing", "createdAt": "2025-02-25T20:10:09Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 277, "title": "remove core properties from attribute list", "createdAt": "2025-02-25T20:43:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 278, "title": "bump version", "createdAt": "2025-02-25T21:11:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 279, "title": "Allow usage of different openai compatible clients in embedder and encoder", "createdAt": "2025-02-26T12:54:45Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 280, "title": "Search optimizations", "createdAt": "2025-02-27T16:38:21Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 281, "title": "Entity classification updates", "createdAt": "2025-02-27T19:59:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 283, "title": "Catch classification exceptions", "createdAt": "2025-02-28T21:44:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 284, "title": "Entity attributes in prompts", "createdAt": "2025-03-04T21:20:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 285, "title": "Entity classification updates", "createdAt": "2025-03-05T16:50:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 286, "title": "bump version", "createdAt": "2025-03-05T17:09:19Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 287, "title": "swap type_description to docstring", "createdAt": "2025-03-05T20:12:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 288, "title": "Scarlett/add keywords", "createdAt": "2025-03-07T01:50:02Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 291, "title": "get edges by node uuid", "createdAt": "2025-03-13T19:37:06Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 292, "title": "get_nodes_and_edges_by_episode", "createdAt": "2025-03-13T19:46:35Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 293, "title": "feat: add Azure OpenAI Embedding support to Graphiti", "createdAt": "2025-03-15T17:57:08Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 295, "title": "node classification failsafe - remove node labels not part of the custom ontology", "createdAt": "2025-03-18T15:56:24Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 296, "title": "remove BGE reranker client from cross_encoder initializatio nto preve…", "createdAt": "2025-03-18T21:42:20Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 298, "title": "community-fix", "createdAt": "2025-03-21T16:43:54Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 299, "title": "docs: update README for real-time capabilities and GraphRAG comparison", "createdAt": "2025-03-22T16:37:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 300, "title": "chore: update fastapi to ^0.115.0 in pyproject.toml", "createdAt": "2025-03-22T19:16:50Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 301, "title": "Add MCP Server", "createdAt": "2025-03-24T02:43:53Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 302, "title": "Fix bug of label_propagation", "createdAt": "2025-03-24T08:33:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 303, "title": "fix node save errors", "createdAt": "2025-03-24T17:48:52Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 304, "title": "feat: enhance episode processing and node search with new entity types and update dependencies", "createdAt": "2025-03-25T23:47:08Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 305, "title": "fix bug with updating node type attributes", "createdAt": "2025-03-26T16:28:09Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 306, "title": "remove example usage", "createdAt": "2025-03-27T06:11:11Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 307, "title": "update get edges by uuids", "createdAt": "2025-03-27T14:28:16Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 308, "title": "get edges by uuids return empty list instead of errors", "createdAt": "2025-03-27T17:11:38Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 309, "title": "bump version", "createdAt": "2025-03-27T21:03:35Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 310, "title": "add supports for azure open ai and managed identities login to MCP server", "createdAt": "2025-03-28T13:40:18Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 311, "title": "Add rate limit to avoid OpenAI rate limiting", "createdAt": "2025-03-29T14:33:34Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 316, "title": "update rate limits", "createdAt": "2025-04-02T15:25:00Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 317, "title": "Update default MCP Server model to gpt-4o-mini", "createdAt": "2025-04-02T18:37:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 318, "title": "bump version", "createdAt": "2025-04-02T18:49:39Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 319, "title": "Retrieve episodes override", "createdAt": "2025-04-02T21:15:03Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 320, "title": "add entity type validation handling", "createdAt": "2025-04-04T17:49:47Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 322, "title": "Refactor ORDER BY clauses in edges and nodes to use created_at instead of uuid for better chronological sorting", "createdAt": "2025-04-04T22:17:54Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 324, "title": "Gemini support", "createdAt": "2025-04-06T02:59:20Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 326, "title": "Enhance README and add quickstart example for Graphiti", "createdAt": "2025-04-06T16:11:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 327, "title": "Bump version from 0.8.8 to 0.9.0 in pyproject.toml", "createdAt": "2025-04-06T17:19:47Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 329, "title": "Fix for using non default neo4j database", "createdAt": "2025-04-06T23:29:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 330, "title": "Add set max_tokens attribute in OpenAIClient initialization", "createdAt": "2025-04-07T01:08:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 332, "title": "fix MCP config handling and docker compose setup", "createdAt": "2025-04-07T21:10:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 335, "title": "Use UUID as cursor", "createdAt": "2025-04-08T21:40:24Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 336, "title": "Fix Gemini deps and cleanup", "createdAt": "2025-04-08T22:10:49Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 338, "title": "chore: update version to 0.9.3 and restructure dependencies", "createdAt": "2025-04-08T23:07:38Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 339, "title": "chore: update dependencies and refactor type hinting", "createdAt": "2025-04-09T04:10:42Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 340, "title": "docs: add installation instructions for Graphiti using poetry and uv", "createdAt": "2025-04-09T04:17:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 341, "title": "chore: bump version to 0.9.4 in pyproject.toml", "createdAt": "2025-04-09T15:45:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 342, "title": "Add search_ and deprecate _search", "createdAt": "2025-04-09T19:42:11Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 343, "title": "e2e graph builder eval", "createdAt": "2025-04-09T20:36:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 346, "title": "update context string", "createdAt": "2025-04-10T10:18:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 351, "title": "Extract entities and facts in their language", "createdAt": "2025-04-14T20:17:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 352, "title": "update to 4.1 models", "createdAt": "2025-04-15T00:57:07Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 355, "title": "add reranker_min_score", "createdAt": "2025-04-15T16:06:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 357, "title": "add get_by_entity_node_uuid", "createdAt": "2025-04-15T16:30:05Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 359, "title": "docs: add note on LLM service compatibility in README.md", "createdAt": "2025-04-15T21:52:06Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 361, "title": "Anthropic client", "createdAt": "2025-04-15T23:03:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 362, "title": "add episode scope to search", "createdAt": "2025-04-15T23:10:38Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 363, "title": "make node record loading more robust", "createdAt": "2025-04-16T14:24:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 364, "title": "chore: update CLA Assistant action and token in workflow", "createdAt": "2025-04-16T19:22:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 365, "title": "reduce entity type attribute hallucinations", "createdAt": "2025-04-16T20:59:18Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 367, "title": "chore: clean up whitespace and cache settings in release-service-image.yml", "createdAt": "2025-04-16T23:20:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 368, "title": "enable use of Azure OpenAI with mcp server", "createdAt": "2025-04-17T12:55:54Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 369, "title": "mmr update", "createdAt": "2025-04-17T14:07:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 370, "title": "Fix edge deletion check to handle empty episodes list", "createdAt": "2025-04-17T15:18:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 372, "title": "Tests: Refactor and Fix Test Suite", "createdAt": "2025-04-17T17:53:21Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 377, "title": "Add Tests", "createdAt": "2025-04-18T03:46:03Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 378, "title": "prompt update", "createdAt": "2025-04-18T04:06:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 379, "title": "preserve labels when deduplicating a node", "createdAt": "2025-04-20T18:33:06Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 381, "title": "Node episodes list", "createdAt": "2025-04-21T03:03:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 382, "title": "Use self.max_tokens when max_token isnt specified", "createdAt": "2025-04-21T13:57:06Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 383, "title": "remove redundant endpoint", "createdAt": "2025-04-21T14:48:32Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 384, "title": "update episode index", "createdAt": "2025-04-21T16:35:05Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 385, "title": "docs: update badges and layout in README.md", "createdAt": "2025-04-22T01:21:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 386, "title": "chore: Do not build/start docker image on PRs", "createdAt": "2025-04-22T01:33:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 387, "title": "Revert episodes", "createdAt": "2025-04-22T15:44:24Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 388, "title": "bump version", "createdAt": "2025-04-22T16:03:51Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 389, "title": "feat: Add Command-Line Interface (CLI)", "createdAt": "2025-04-22T19:48:25Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 391, "title": "Bump the pip group with 3 updates", "createdAt": "2025-04-24T17:40:38Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 392, "title": "Bump h11 from 0.14.0 to 0.16.0 in /server in the pip group across 1 directory", "createdAt": "2025-04-24T17:43:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 393, "title": "Update default model to gpt-4.1-mini across various components and add new frame data files for glasses and dynamic environments", "createdAt": "2025-04-24T21:14:59Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 394, "title": "Enhance README.md with quick start guide for clients ", "createdAt": "2025-04-24T23:42:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 395, "title": "docs: update README with MCP server and REST service sections", "createdAt": "2025-04-24T23:50:20Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 399, "title": "Add episode refactor", "createdAt": "2025-04-26T03:54:16Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 401, "title": "docs: update README.md with REST Service section and GitHub stars badge", "createdAt": "2025-04-26T18:07:59Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 403, "title": "Bulk embed", "createdAt": "2025-04-27T01:30:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 404, "title": "Eval updates", "createdAt": "2025-04-27T18:19:11Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 409, "title": "Bump ruff from 0.11.4 to 0.11.7", "createdAt": "2025-04-28T16:36:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 410, "title": "Bump langsmith from 0.3.27 to 0.3.36", "createdAt": "2025-04-28T16:37:29Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 411, "title": "Bump jupyterlab from 4.4.0 to 4.4.1", "createdAt": "2025-04-28T16:39:12Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 412, "title": "Bump langgraph from 0.3.27 to 0.3.34", "createdAt": "2025-04-28T16:39:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 413, "title": "Bump groq from 0.11.0 to 0.23.1", "createdAt": "2025-04-28T16:52:47Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 414, "title": "Bump transformers from 4.51.1 to 4.51.3", "createdAt": "2025-04-28T17:29:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 415, "title": "Bump langchain-openai from 0.3.12 to 0.3.14", "createdAt": "2025-04-28T17:43:25Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 416, "title": "Bump langchain-anthropic from 0.3.10 to 0.3.12", "createdAt": "2025-04-28T17:48:22Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 417, "title": "Bump anthropic from 0.49.0 to 0.50.0", "createdAt": "2025-04-28T18:05:59Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 421, "title": "`add_episode()` refactor", "createdAt": "2025-04-30T15:27:02Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 422, "title": "bump version", "createdAt": "2025-04-30T16:14:03Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 423, "title": "Lucene sanitize", "createdAt": "2025-04-30T18:56:54Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 424, "title": "source description", "createdAt": "2025-04-30T19:16:49Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 425, "title": "chore: remove GitHub workflows for service build and release", "createdAt": "2025-04-30T19:53:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 426, "title": "search update", "createdAt": "2025-04-30T22:21:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 427, "title": "filter out empty node names", "createdAt": "2025-05-01T01:34:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 429, "title": "fix discord link in contributing file", "createdAt": "2025-05-01T17:50:00Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 430, "title": "add embedder tests", "createdAt": "2025-05-01T23:20:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 431, "title": "Anthropic cleanup", "createdAt": "2025-05-02T00:07:28Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 432, "title": "small model fix", "createdAt": "2025-05-02T13:47:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 433, "title": "Fix empty node name issues", "createdAt": "2025-05-02T16:09:07Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 438, "title": "Simplifying imports for llm_client and cross_encoder", "createdAt": "2025-05-04T06:23:57Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 440, "title": "Fix: CypherTypeError: Property values can only be of primitive types or arrays thereof", "createdAt": "2025-05-04T08:11:32Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 442, "title": "toml update", "createdAt": "2025-05-04T14:02:37Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 444, "title": "Migrate from Poetry to uv", "createdAt": "2025-05-04T22:19:28Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 445, "title": "Bump ruff from 0.11.7 to 0.11.8", "createdAt": "2025-05-05T15:38:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 446, "title": "Bump langsmith from 0.3.37 to 0.3.42", "createdAt": "2025-05-05T15:43:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 447, "title": "Bump langgraph from 0.3.34 to 0.4.1", "createdAt": "2025-05-05T15:54:45Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 448, "title": "Bump langchain-openai from 0.3.14 to 0.3.16", "createdAt": "2025-05-05T15:56:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 449, "title": "Bump google-genai from 1.9.0 to 1.13.0", "createdAt": "2025-05-05T16:01:29Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 452, "title": "feat: add smithery.yaml configuration for MCP server", "createdAt": "2025-05-06T22:13:05Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 453, "title": "feat(mcp): improve server robustness and observability", "createdAt": "2025-05-07T04:09:56Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 455, "title": "chore: upgrade Neo4j to 5.26.2 and switch to local build for graph service", "createdAt": "2025-05-07T21:17:25Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 456, "title": "Size optimizations", "createdAt": "2025-05-07T23:58:47Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 457, "title": "Update dedupe prompt", "createdAt": "2025-05-08T03:12:03Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 458, "title": "load embedding update", "createdAt": "2025-05-08T04:04:21Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 460, "title": "Add episode fix", "createdAt": "2025-05-08T17:50:19Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 461, "title": "make bulk save more robust", "createdAt": "2025-05-08T19:28:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 462, "title": "pre4", "createdAt": "2025-05-08T22:16:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 463, "title": "updates", "createdAt": "2025-05-09T18:55:50Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 466, "title": "Ignore standard entity types", "createdAt": "2025-05-10T12:07:36Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 471, "title": "update semaphore gather to use batches", "createdAt": "2025-05-12T15:26:16Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 473, "title": "Bump anthropic from 0.50.0 to 0.51.0", "createdAt": "2025-05-12T16:01:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 474, "title": "Bump jupyterlab from 4.4.1 to 4.4.2", "createdAt": "2025-05-12T16:03:51Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 475, "title": "Bump ruff from 0.11.8 to 0.11.9", "createdAt": "2025-05-12T16:04:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 476, "title": "Bump sentence-transformers from 4.0.2 to 4.1.0", "createdAt": "2025-05-12T16:05:18Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 477, "title": "Bump google-genai from 1.9.0 to 1.14.0", "createdAt": "2025-05-12T16:05:32Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 478, "title": "improve memory leak", "createdAt": "2025-05-12T20:26:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 481, "title": "Mmr optimizations", "createdAt": "2025-05-13T02:19:49Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 483, "title": "Fixed Azure OpenAI compatibility", "createdAt": "2025-05-13T12:36:30Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 486, "title": "Fix: Enable custom group_id in add_episode MCP tool", "createdAt": "2025-05-13T22:17:19Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 487, "title": "Add MseeP.ai badge", "createdAt": "2025-05-14T04:41:44Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 489, "title": "revert semaphore gather batching", "createdAt": "2025-05-14T19:23:38Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 490, "title": "Node dedupe efficiency", "createdAt": "2025-05-15T16:27:11Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 492, "title": "Fix typo in documentation", "createdAt": "2025-05-16T16:12:18Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 493, "title": "#491", "createdAt": "2025-05-16T16:27:45Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 494, "title": "Bump h11 from 0.14.0 to 0.16.0 in the pip group", "createdAt": "2025-05-16T16:56:35Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 499, "title": "Bump google-genai from 1.9.0 to 1.15.0", "createdAt": "2025-05-19T16:36:54Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 500, "title": "Bump ruff from 0.11.9 to 0.11.10", "createdAt": "2025-05-19T16:37:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 501, "title": "Edge types", "createdAt": "2025-05-19T16:38:31Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 502, "title": "Bump langgraph from 0.4.1 to 0.4.5", "createdAt": "2025-05-19T16:39:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 503, "title": "Bump langchain-anthropic from 0.3.12 to 0.3.13", "createdAt": "2025-05-19T16:40:50Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 504, "title": "Bump langchain-openai from 0.3.16 to 0.3.17", "createdAt": "2025-05-19T16:41:35Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 505, "title": "Bump setuptools from 78.1.0 to 78.1.1 in the pip group", "createdAt": "2025-05-19T18:10:21Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 506, "title": "chore: delete empty/unused files from codebase", "createdAt": "2025-05-20T03:06:40Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 511, "title": "fix: add prefix in app service", "createdAt": "2025-05-21T08:28:44Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 512, "title": "MCP Fixes", "createdAt": "2025-05-22T02:03:09Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 513, "title": "feat: add thinking_config support for Gemini 2.5 models", "createdAt": "2025-05-22T02:33:58Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 514, "title": "gemini embedding check more robust", "createdAt": "2025-05-22T02:41:53Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 515, "title": "Improve error handling in GeminiEmbedder by raising ValueError for empty embedding values. This change enhances robustness by ensuring that all returned embeddings contain valid data.", "createdAt": "2025-05-22T02:44:39Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 516, "title": "Implement Small Model in MCP Server; Default to 4.1-nano", "createdAt": "2025-05-22T03:56:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 520, "title": "Bump tornado from 6.4.2 to 6.5.1 in the pip group", "createdAt": "2025-05-23T19:35:22Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 521, "title": "chore: Bump version", "createdAt": "2025-05-23T20:04:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 525, "title": "Add support for FalkorDB Graph database alongside Neo4j usage", "createdAt": "2025-05-26T09:16:31Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 526, "title": "Bump ruff from 0.11.10 to 0.11.11", "createdAt": "2025-05-26T15:26:07Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 527, "title": "Bump google-genai from 1.15.0 to 1.16.1", "createdAt": "2025-05-26T15:34:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 528, "title": "Bump anthropic from 0.51.0 to 0.52.0", "createdAt": "2025-05-26T15:35:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 529, "title": "Bump langchain-openai from 0.3.17 to 0.3.18", "createdAt": "2025-05-26T15:37:45Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 531, "title": "fix: update key name in edge attributes context", "createdAt": "2025-05-26T16:13:25Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 532, "title": "proposed fix: handle missing target_node_uuid in edge operations", "createdAt": "2025-05-26T16:24:47Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 533, "title": "Cursor Docker networking fix + multi project support + open router support", "createdAt": "2025-05-26T20:13:20Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 537, "title": "Edge type search", "createdAt": "2025-05-27T17:06:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 539, "title": "edge operations update", "createdAt": "2025-05-28T20:26:22Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 540, "title": "remove sanitize", "createdAt": "2025-05-28T23:21:16Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 541, "title": "BUG FIX: Fix trailing AND in edge_search_filter_query_constructor Cypher query", "createdAt": "2025-05-29T01:25:33Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 542, "title": "Add MCP server integration tests and update HTTP transport command", "createdAt": "2025-05-29T09:29:20Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 545, "title": "Add bert", "createdAt": "2025-05-31T17:45:25Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 546, "title": "Bump transformers from 4.51.3 to 4.52.4", "createdAt": "2025-06-02T16:27:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 547, "title": "Bump jupyterlab from 4.4.2 to 4.4.3", "createdAt": "2025-06-02T16:29:45Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 548, "title": "Bump langchain-anthropic from 0.3.13 to 0.3.14", "createdAt": "2025-06-02T16:32:58Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 549, "title": "Bump pytest-xdist from 3.6.1 to 3.7.0", "createdAt": "2025-06-02T16:33:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 550, "title": "Bump google-genai from 1.16.1 to 1.18.0", "createdAt": "2025-06-02T16:36:52Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 551, "title": "Bump ruff from 0.11.11 to 0.11.12", "createdAt": "2025-06-02T16:39:30Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 552, "title": "Bump anthropic from 0.52.0 to 0.52.2", "createdAt": "2025-06-02T16:40:12Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 553, "title": "Bump groq from 0.23.1 to 0.26.0", "createdAt": "2025-06-02T16:47:36Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 554, "title": "Bump langsmith from 0.3.42 to 0.3.43", "createdAt": "2025-06-02T16:52:10Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 556, "title": "feat: Implement Enhanced RAG Pipeline with Compression Awareness and Fallback Mechanisms", "createdAt": "2025-06-03T06:17:28Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 558, "title": "docs: add required `LLMConfig` for Azure OpenAI", "createdAt": "2025-06-04T04:42:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 559, "title": "bump-pydantic-version", "createdAt": "2025-06-05T17:14:09Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 560, "title": "Updated docker-compose.test.yml to fix security vulnerability [yaml.docker-compose.security.no-new-privileges.no-new-privileges]", "createdAt": "2025-06-06T05:13:38Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 561, "title": "Updated docker-compose.test.yml to fix security vulnerability [yaml.docker-compose.security.writable-filesystem-service.writable-filesystem-service]", "createdAt": "2025-06-06T05:18:26Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 562, "title": "Updated Dockerfile to fix security vulnerability [dockerfile.security.missing-user.missing-user]", "createdAt": "2025-06-06T05:22:23Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 564, "title": "Edge extraction and Node Deduplication updates", "createdAt": "2025-06-06T16:21:29Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 568, "title": "Bump pytest from 8.3.5 to 8.4.0", "createdAt": "2025-06-09T16:08:55Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 569, "title": "Bump langchain-openai from 0.3.18 to 0.3.21", "createdAt": "2025-06-09T16:16:10Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 570, "title": "Bump ruff from 0.11.12 to 0.11.13", "createdAt": "2025-06-09T16:18:18Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 571, "title": "Bump langchain-anthropic from 0.3.13 to 0.3.15", "createdAt": "2025-06-09T16:21:05Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 572, "title": "Bump google-genai from 1.18.0 to 1.19.0", "createdAt": "2025-06-09T16:24:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 573, "title": "Bump the pip group with 2 updates", "createdAt": "2025-06-09T23:34:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 574, "title": "Made `docker compose` work on Mac. Fixes #519", "createdAt": "2025-06-10T02:05:31Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 575, "title": "Add support for falkordb", "createdAt": "2025-06-10T16:19:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 576, "title": "Bolt_GRAPH_PullRequest-001", "createdAt": "2025-06-10T16:29:35Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 577, "title": "Tmdcpro/bolt branch 01", "createdAt": "2025-06-10T16:34:14Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 579, "title": "Fix OpenAI Reranker logic", "createdAt": "2025-06-12T07:08:29Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 580, "title": "Create codeql.yml", "createdAt": "2025-06-13T02:02:45Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 581, "title": "feat: add Azure client wrappers for embedding and LLM, integrate into server", "createdAt": "2025-06-13T02:08:08Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 583, "title": "update driver", "createdAt": "2025-06-13T16:20:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 584, "title": "Feat/driver factory", "createdAt": "2025-06-15T04:39:33Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 588, "title": "fix: rename add_episode to add_memory", "createdAt": "2025-06-16T09:09:55Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 589, "title": "update falkordb", "createdAt": "2025-06-16T15:49:14Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 590, "title": "Bump anthropic from 0.52.2 to 0.54.0", "createdAt": "2025-06-16T16:19:19Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 591, "title": "Bump langgraph from 0.4.5 to 0.4.8", "createdAt": "2025-06-16T16:24:05Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 592, "title": "Bump google-genai from 1.19.0 to 1.20.0", "createdAt": "2025-06-16T16:25:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 593, "title": "Bump langchain-openai from 0.3.21 to 0.3.23", "createdAt": "2025-06-16T16:28:18Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 594, "title": "Bump pytest-asyncio from 0.26.0 to 1.0.0", "createdAt": "2025-06-16T16:47:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 595, "title": "Bump groq from 0.26.0 to 0.28.0", "createdAt": "2025-06-16T17:27:11Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 596, "title": "Bump mypy from 1.15.0 to 1.16.0", "createdAt": "2025-06-16T18:30:30Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 599, "title": "add IS_DUPLICATE_OF edges", "createdAt": "2025-06-17T15:44:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 600, "title": "be more explicit about edge type signatures", "createdAt": "2025-06-17T16:18:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 601, "title": "Add Ollama documentation to readme", "createdAt": "2025-06-18T07:15:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 603, "title": "Bump urllib3 from 2.3.0 to 2.5.0 in the pip group", "createdAt": "2025-06-18T20:03:00Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 604, "title": "make falkordb dependency optional", "createdAt": "2025-06-18T20:43:42Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 605, "title": "Node name bug", "createdAt": "2025-06-18T22:16:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 607, "title": "FalkorDB Integration: Bug Fixes and Unit Tests", "createdAt": "2025-06-19T06:46:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 609, "title": "set requires-python to fix poetry install", "createdAt": "2025-06-19T15:25:09Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 611, "title": "fix: ensure fact_embedding is removed from attributes in format_fact_…", "createdAt": "2025-06-20T04:57:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 613, "title": "Bump langchain-openai from 0.3.23 to 0.3.25", "createdAt": "2025-06-23T16:33:06Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 614, "title": "Bump pytest from 8.4.0 to 8.4.1", "createdAt": "2025-06-23T16:33:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 615, "title": "Bump langsmith from 0.3.45 to 0.4.1", "createdAt": "2025-06-23T16:48:55Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 616, "title": "Bump ruff from 0.11.13 to 0.12.0", "createdAt": "2025-06-23T17:07:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 617, "title": "Bump mypy from 1.16.0 to 1.16.1", "createdAt": "2025-06-23T17:28:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 618, "title": "Add group ID validation and error handling", "createdAt": "2025-06-24T04:34:24Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 619, "title": "Add max_coroutines parameter to Graphiti and update semaphore_gather function", "createdAt": "2025-06-24T05:24:31Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 620, "title": "Azure OpenAI improvements and fixes; Improve Graphiti Azure OpenAI config", "createdAt": "2025-06-24T20:06:32Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 621, "title": "bump v0.13.0", "createdAt": "2025-06-24T20:57:55Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 622, "title": "Node name bug fix", "createdAt": "2025-06-24T21:12:25Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 623, "title": "mcp concurrency limit", "createdAt": "2025-06-24T22:12:24Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 624, "title": "Excluded entity type filtering", "createdAt": "2025-06-25T00:11:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 626, "title": "fix fulltext query", "createdAt": "2025-06-25T21:49:29Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 628, "title": "Update SEMAPHORE_LIMIT default value in docker-compose.yml to 10 for improved concurrency management", "createdAt": "2025-06-26T04:44:07Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 633, "title": "feat: add telemetry with PostHog and update Docker configurations", "createdAt": "2025-06-27T05:23:49Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 634, "title": "migrate to uv", "createdAt": "2025-06-27T14:46:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 636, "title": "fix: correct spacing in group IDs filter concatenation in fulltext_query function", "createdAt": "2025-06-27T21:01:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 637, "title": "bump version to 0.14.0 in pyproject.toml", "createdAt": "2025-06-27T21:09:47Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 638, "title": "bump builder to python 3.11", "createdAt": "2025-06-27T21:20:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 639, "title": "Update release-graphiti-core.yml to python 3.11", "createdAt": "2025-06-27T21:27:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 641, "title": "update mcp to graphiti 0.14", "createdAt": "2025-06-27T21:31:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 645, "title": "Gemini client improvements; Gemini reranker", "createdAt": "2025-06-28T18:53:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 646, "title": "migrate to pyright", "createdAt": "2025-06-29T17:43:49Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 648, "title": "Potential fix for code scanning alert no. 18: Workflow does not contain permissions", "createdAt": "2025-06-30T19:31:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 649, "title": "Update README.md to clarify OpenAI API usage and Azure OpenAI configuration details", "createdAt": "2025-06-30T19:49:49Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 650, "title": "fix falkordb linting issues", "createdAt": "2025-06-30T19:52:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 651, "title": "Potential fix for code scanning alert no. 17: Workflow does not contain permissions", "createdAt": "2025-06-30T20:00:18Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 654, "title": "v0.15.0 bump", "createdAt": "2025-07-01T15:43:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 655, "title": "reformat", "createdAt": "2025-07-01T16:24:06Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 656, "title": "Add GitHub Actions workflow for building and pushing MCP Server Docker image", "createdAt": "2025-07-01T22:21:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 657, "title": "feat: add pre-built Docker image for Graphiti MCP server", "createdAt": "2025-07-01T23:06:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 660, "title": "Fix: Robust handling for dynamic labels during bulk ingestion", "createdAt": "2025-07-02T09:01:57Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 661, "title": "[REFACTOR][FIX] Move away from DEFAULT_DATABASE environment variable in favour of driver-config support.", "createdAt": "2025-07-02T09:12:06Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 663, "title": "REFACTOR: use env variables in docker-compose for mcp", "createdAt": "2025-07-02T13:00:12Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 664, "title": "Fix: Add missing name_embedding field to community search queries", "createdAt": "2025-07-02T15:21:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 668, "title": "Refactor: Replace dictionary responses with structured response classes in graphiti_mcp_server.py", "createdAt": "2025-07-03T04:57:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 672, "title": "feat: Add Gemini Support to Graphiti MCP Server", "createdAt": "2025-07-04T11:45:03Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 675, "title": "Refactor imports", "createdAt": "2025-07-04T23:33:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 676, "title": "feat: support OpenAIClient in OpenAIRerankerClient", "createdAt": "2025-07-05T00:27:47Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 677, "title": "docs: add FalkorDB support and update installation instructions", "createdAt": "2025-07-05T00:33:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 678, "title": "bump v0.15.1", "createdAt": "2025-07-05T16:02:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 679, "title": "feat(gemini): simplify config for Gemini clients", "createdAt": "2025-07-06T03:39:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 680, "title": "feat(gemini): embedding batch size & lite default", "createdAt": "2025-07-06T05:37:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 688, "title": "Refactor MCP Server to improve maintainability", "createdAt": "2025-07-09T05:21:12Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 689, "title": "feat: add issue and pull request templates with compliance workflow", "createdAt": "2025-07-09T06:01:38Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 690, "title": "Add Claude Code GitHub Workflow", "createdAt": "2025-07-09T06:16:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 691, "title": "docs: improve Neo4j database configuration documentation", "createdAt": "2025-07-09T06:34:36Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 692, "title": "feat: add template compliance check and update type checking to Pyright", "createdAt": "2025-07-09T07:07:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 693, "title": "Fix Claude actions", "createdAt": "2025-07-09T15:19:20Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 694, "title": "feat: optional relevance scores in search results", "createdAt": "2025-07-10T04:11:21Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 698, "title": "Bulk ingestion", "createdAt": "2025-07-10T14:26:31Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 699, "title": "[REFACTOR][FIX] Move away from DEFAULT_DATABASE environment variable in favour of driver-config support (dc)", "createdAt": "2025-07-10T20:41:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 700, "title": "bump v0.17.0", "createdAt": "2025-07-10T23:08:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 703, "title": "docs: add comprehensive database configuration instructions to README", "createdAt": "2025-07-11T02:46:47Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 706, "title": "update search filters", "createdAt": "2025-07-11T14:46:53Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 709, "title": "Add DETAILS.md for improved documentation", "createdAt": "2025-07-12T12:35:44Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 711, "title": "fix: neo4j username/password should not be hardcoded", "createdAt": "2025-07-13T08:52:53Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 712, "title": "feat: enhance GeminiClient with max tokens management", "createdAt": "2025-07-13T17:17:30Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 714, "title": "bump for bugfix release", "createdAt": "2025-07-14T02:02:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 716, "title": "Support Multi-Graph Usage with a Single Database Connection", "createdAt": "2025-07-14T09:03:14Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 720, "title": "Update README.md (REST server)", "createdAt": "2025-07-14T13:57:54Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 721, "title": "save edge update", "createdAt": "2025-07-14T15:08:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 722, "title": "Fix custom edge types not persisting to Neo4j (Issue #707)", "createdAt": "2025-07-14T16:20:45Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 726, "title": "fix: discord badge", "createdAt": "2025-07-15T14:41:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 727, "title": "bulk utils update", "createdAt": "2025-07-15T15:33:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 729, "title": "wassup", "createdAt": "2025-07-16T03:54:35Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 730, "title": "fix: update provider type mapping for VoyageAI to use 'voyageai' instead of 'voyage'", "createdAt": "2025-07-16T04:36:35Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 732, "title": "Bulk updates", "createdAt": "2025-07-16T06:09:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 733, "title": "[Bug Fix] Fix the Group ID usage with FalkorDB", "createdAt": "2025-07-16T06:57:19Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 735, "title": "refactor(dedupe): Add extra control for datetime and enum serialization in node deduplication", "createdAt": "2025-07-16T13:58:48Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 736, "title": "Return embeddings option in get_by_uuids", "createdAt": "2025-07-16T15:04:33Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 737, "title": "make egg_operations more robust", "createdAt": "2025-07-16T21:10:08Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 738, "title": "Add MseeP.ai badge", "createdAt": "2025-07-17T07:22:09Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 740, "title": "heyyy", "createdAt": "2025-07-17T07:54:51Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 741, "title": "fix missing attribute for self._database", "createdAt": "2025-07-17T12:02:41Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 742, "title": "Add FalkorDB Support to the MCP Server", "createdAt": "2025-07-17T15:24:09Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 743, "title": "fix", "createdAt": "2025-07-18T07:51:03Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 744, "title": "Add SiliconFlow reranker client support", "createdAt": "2025-07-18T09:57:01Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 746, "title": "Optimize mmr calculation", "createdAt": "2025-07-18T21:56:05Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 748, "title": "Reorganize and fix tests for Neo4j and FalkorDB", "createdAt": "2025-07-19T19:51:51Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 750, "title": "support ollama", "createdAt": "2025-07-20T02:15:35Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 752, "title": "fix: missing group filter on node ft search", "createdAt": "2025-07-22T05:53:21Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 753, "title": "Edge search updates", "createdAt": "2025-07-22T13:54:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 754, "title": "Group ID filtering in BFS and full-text queries", "createdAt": "2025-07-22T23:49:36Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 755, "title": "bump 0.17.11", "createdAt": "2025-07-23T00:18:50Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 758, "title": "Return reranker scores", "createdAt": "2025-07-23T19:48:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 761, "title": "feat/falkordb dynamic graph names", "createdAt": "2025-07-24T13:54:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 762, "title": "chore/prepare kuzu integration", "createdAt": "2025-07-24T14:48:24Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 764, "title": "Fix: Respect LLMConfig.max_tokens in OpenAI-based clients", "createdAt": "2025-07-24T15:38:28Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 765, "title": "liara", "createdAt": "2025-07-24T16:00:21Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 766, "title": "add concurrency explanation, update Zep", "createdAt": "2025-07-24T18:35:42Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 768, "title": "Update README.md fix wrong link", "createdAt": "2025-07-25T07:40:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 771, "title": "Fix/better json schema parse", "createdAt": "2025-07-26T10:13:28Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 773, "title": "fix: BFS max_depth parameter now properly controls traversal depth", "createdAt": "2025-07-27T11:03:56Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 775, "title": "Fix: syntax error in Fulltext queries", "createdAt": "2025-07-27T14:25:03Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 782, "title": "Bind FastMCP to All Network Interfaces for Docker Compatibility", "createdAt": "2025-07-29T19:54:55Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 783, "title": "validate pydantic objects", "createdAt": "2025-07-29T21:25:02Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 784, "title": "Create Pmll.py", "createdAt": "2025-07-29T21:44:27Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 785, "title": "Update Zep-CLA.md", "createdAt": "2025-07-29T22:00:22Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 786, "title": "Add Neptune support", "createdAt": "2025-07-29T22:15:56Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 792, "title": "move summary out of attribute extraction", "createdAt": "2025-07-31T15:43:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 793, "title": "Amazon Neptune Support", "createdAt": "2025-07-31T15:57:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 794, "title": "Montes/make max token size configurable", "createdAt": "2025-07-31T22:51:31Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 795, "title": "Implement HelixDB Integration", "createdAt": "2025-07-31T23:37:44Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 799, "title": "Add support for Kuzu as the graph driver", "createdAt": "2025-08-01T21:31:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 802, "title": "add community group id index", "createdAt": "2025-08-04T16:18:47Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 803, "title": "update add triple to always have embeddings", "createdAt": "2025-08-04T20:19:30Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 805, "title": "Add support for non-ASCII characters in LLM prompts", "createdAt": "2025-08-05T12:26:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 806, "title": "test updates", "createdAt": "2025-08-05T14:43:02Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 807, "title": "Fix Azure OpenAI configuration parameter in README", "createdAt": "2025-08-05T18:25:50Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 808, "title": "feat: Add Ollama integration and production Docker setup", "createdAt": "2025-08-06T14:55:04Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 812, "title": "refactor: hoist EXTRACT_EDGES_MAX_TOKENS into helpers.py", "createdAt": "2025-08-07T02:11:08Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 813, "title": "add batch delete capabilities", "createdAt": "2025-08-07T19:25:25Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 814, "title": "doc: mcp server env update - Azure OpenAI embedding endpoint", "createdAt": "2025-08-07T20:23:47Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 816, "title": "Fix empty group_ids bug in episode_fulltext_search", "createdAt": "2025-08-08T07:51:17Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 817, "title": "ensure ascii default to false", "createdAt": "2025-08-08T15:13:30Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 818, "title": "Null search datetimes", "createdAt": "2025-08-08T16:18:45Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 820, "title": "docs: fix capitalization (OpenAI-compatible)", "createdAt": "2025-08-09T22:33:42Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 821, "title": "style: normalize quotes in Anthropic client", "createdAt": "2025-08-09T22:39:03Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 822, "title": "chore: clarify token clamp comment in Anthropic client", "createdAt": "2025-08-09T22:44:14Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 823, "title": "Feature/cluster fields service", "createdAt": "2025-08-10T08:02:55Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 824, "title": "Fix Community Operations with FalkorDB", "createdAt": "2025-08-10T11:34:59Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 825, "title": "Fix the delete indexes for FalkorDB driver", "createdAt": "2025-08-10T15:25:12Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 826, "title": "Fix bfs search", "createdAt": "2025-08-10T16:15:08Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 829, "title": "Fix: Search methods configuration ignored (#788)", "createdAt": "2025-08-11T07:58:42Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 830, "title": "Update CONTRIBUTING.md", "createdAt": "2025-08-12T23:37:16Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 832, "title": "Graphid isolation", "createdAt": "2025-08-14T07:14:45Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 833, "title": "Fix: Correct target node UUID indexing error in edge extraction opera…", "createdAt": "2025-08-14T10:25:09Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 835, "title": "[Improvement] Add GraphID isolation support for FalkorDB multi-tenant architecture", "createdAt": "2025-08-14T12:55:37Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 837, "title": "add bulk delete", "createdAt": "2025-08-15T16:05:31Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 842, "title": "refactor(driver): extract shared driver_db_queries", "createdAt": "2025-08-18T11:08:21Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 843, "title": "fix typo and model selector", "createdAt": "2025-08-18T15:06:42Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 844, "title": "⚡️ Speed up function `validate_entity_types` by 70%", "createdAt": "2025-08-18T20:35:33Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 846, "title": "update prompts and support thinking models", "createdAt": "2025-08-19T16:17:22Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 847, "title": "doc: add mcp doc for embedder model", "createdAt": "2025-08-20T11:34:30Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 849, "title": "Gpt 5 default", "createdAt": "2025-08-20T16:57:16Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 850, "title": "Fixed issue where creating indices was not called for Neptune and added missing quickstart example", "createdAt": "2025-08-21T00:54:28Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 855, "title": "fix broken link", "createdAt": "2025-08-24T09:17:14Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 856, "title": "feat: Add GitHub AI Moderator for automated spam detection", "createdAt": "2025-08-25T02:07:31Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 859, "title": "use hnsw indexes", "createdAt": "2025-08-25T16:09:35Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 860, "title": "bump version", "createdAt": "2025-08-25T16:34:30Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 861, "title": "dont create extra search embeddings", "createdAt": "2025-08-25T16:42:08Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 863, "title": "Fix: Resolve indexing errors and add bounds checking in maintenance o…", "createdAt": "2025-08-26T02:59:04Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 866, "title": "docs: Update Ollama integration to use OpenAIGenericClient", "createdAt": "2025-08-26T21:46:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 870, "title": "update migration", "createdAt": "2025-08-27T14:57:45Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 872, "title": "update-tests", "createdAt": "2025-08-27T15:49:39Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 873, "title": "docs: Add Azure OpenAI v1 API opt-in requirement documentation", "createdAt": "2025-08-27T18:24:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 876, "title": "Update claude-code-review.yml", "createdAt": "2025-08-29T03:42:14Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 877, "title": "Update claude.yml", "createdAt": "2025-08-29T03:49:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 880, "title": "Update claude-code-review.yml", "createdAt": "2025-08-29T15:51:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 881, "title": "refactor: Major MCP server refactoring for improved maintainability and extensibility", "createdAt": "2025-08-29T15:54:38Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 883, "title": "Update claude-code-review.yml", "createdAt": "2025-08-30T15:21:14Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 884, "title": "Update cla.yml", "createdAt": "2025-08-30T15:23:18Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 885, "title": "Force to use dedupe int ID from FACT INVALIDATION CANDIDATES", "createdAt": "2025-09-01T22:19:29Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 886, "title": "fix uv installation path in Dockerfile", "createdAt": "2025-09-02T07:47:15Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 887, "title": "don't return index labels", "createdAt": "2025-09-02T14:52:54Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 888, "title": "Generic-openai", "createdAt": "2025-09-02T14:55:18Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 889, "title": "bump version", "createdAt": "2025-09-03T18:02:59Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 891, "title": "update", "createdAt": "2025-09-03T22:39:30Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 892, "title": "Add NEO4J_DATABASE environment variable support", "createdAt": "2025-09-04T18:49:16Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 894, "title": "cleanup", "createdAt": "2025-09-05T14:50:08Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 895, "title": "fix: graphiti search only connect with default db 'neo4j'  and  custom database config invalid", "createdAt": "2025-09-07T20:00:32Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 896, "title": "OpenSearch Integration for Neo4j", "createdAt": "2025-09-08T02:54:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 897, "title": "add episode bulk search results", "createdAt": "2025-09-08T18:23:05Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 898, "title": "Add return to add_triplet", "createdAt": "2025-09-08T19:03:08Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 900, "title": "Add Memgraph as graphdb vendor", "createdAt": "2025-09-09T09:53:32Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 901, "title": "add OllamaClient", "createdAt": "2025-09-09T12:03:03Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 906, "title": "OpenSearch updates", "createdAt": "2025-09-12T15:53:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 908, "title": "feat: Complete VS Code models integration package", "createdAt": "2025-09-12T23:13:36Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 910, "title": "Integrate MCP for FalkorDB", "createdAt": "2025-09-14T11:32:22Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 911, "title": "Add FalkorDB support for docker compose", "createdAt": "2025-09-14T12:50:34Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 914, "title": "fix-fulltext-syntax-error", "createdAt": "2025-09-17T13:31:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 915, "title": "feat(mcp): Add configurable similarity thresholds", "createdAt": "2025-09-19T23:22:51Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 916, "title": "feat(mcp): Add configurable similarity thresholds", "createdAt": "2025-09-19T23:34:36Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 917, "title": "Embedding fix", "createdAt": "2025-09-20T00:05:08Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 918, "title": "Fix syntax error", "createdAt": "2025-09-20T01:55:33Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 919, "title": "Railway mcp deployment", "createdAt": "2025-09-20T14:56:59Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 922, "title": "Graph quality updates", "createdAt": "2025-09-23T20:34:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 924, "title": "Skip entity attribute extraction when no fields defined", "createdAt": "2025-09-24T01:48:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 926, "title": "pre5", "createdAt": "2025-09-24T20:27:06Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 927, "title": "don't save duplicate edges", "createdAt": "2025-09-24T21:14:33Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 929, "title": "Improve node deduplication w/ deterministic matching, LLM fallbacks", "createdAt": "2025-09-25T04:23:39Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 930, "title": "Optimize Entity Dedup with Exact Fatch Matching", "createdAt": "2025-09-25T05:49:30Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 931, "title": "implement exact fact matching", "createdAt": "2025-09-25T06:02:59Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 932, "title": "Bump v0.30.0pre0", "createdAt": "2025-09-25T14:17:19Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 936, "title": "Refactor batch deduplication logic to enhance node resolution and track duplicate pairs (#929)", "createdAt": "2025-09-25T21:32:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 938, "title": "Update pyproject.toml to 0.30.0pre1", "createdAt": "2025-09-26T15:41:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 939, "title": "Fix index out of range errors in LLM deduplication responses", "createdAt": "2025-09-26T18:50:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 940, "title": "chore: Bump version", "createdAt": "2025-09-26T22:56:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 942, "title": "Improve node dedup prompts", "createdAt": "2025-09-27T21:01:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 943, "title": "Make natural language extraction configurable", "createdAt": "2025-09-28T17:21:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 944, "title": "Add Conductor configuration for development workspaces", "createdAt": "2025-09-28T17:21:58Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 946, "title": "bump 0.30.0pre3", "createdAt": "2025-09-29T02:56:20Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 948, "title": "fix: Add edge type validation based on node labels", "createdAt": "2025-09-29T21:29:52Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 949, "title": "Improve JSON entity extraction prompt", "createdAt": "2025-09-29T23:01:24Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 950, "title": "Allow Edge extraction to keep discovered edge labels", "createdAt": "2025-09-30T04:12:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 952, "title": "Add group_id parameter to language extraction function", "createdAt": "2025-09-30T16:04:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 953, "title": "fix: Fix typo in JSON entity extraction prompt", "createdAt": "2025-09-30T18:26:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 954, "title": "21 pre 7", "createdAt": "2025-09-30T18:51:05Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 955, "title": "fix: Prevent duplicate edge facts within same episode", "createdAt": "2025-10-01T03:34:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 956, "title": "bump pre8", "createdAt": "2025-10-01T14:39:50Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 957, "title": "chore: Update edge extraction prompt to paraphrase instead of quote", "createdAt": "2025-10-01T15:59:11Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 958, "title": "Bump version to 0.21.0pre9", "createdAt": "2025-10-01T16:08:20Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 959, "title": "feat: Add optional callback to control node summary generation", "createdAt": "2025-10-01T20:22:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 960, "title": "Update Claude review prompt to focus on critical feedback", "createdAt": "2025-10-01T20:27:38Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 962, "title": "Bump version to 0.21.0pre10", "createdAt": "2025-10-01T23:37:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 964, "title": "Refactor issue workflows for improved automation", "createdAt": "2025-10-02T18:32:21Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 965, "title": "fix: Improve deduplication ID validation and logging", "createdAt": "2025-10-02T18:37:05Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 966, "title": "filter out falsey values before creating embeddings", "createdAt": "2025-10-02T18:48:51Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 967, "title": "Bump version to 0.21.0pre12", "createdAt": "2025-10-02T19:23:55Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 968, "title": "fix: Improve edge extraction entity ID validation", "createdAt": "2025-10-02T19:59:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 969, "title": "Remove ensure_ascii configuration parameter", "createdAt": "2025-10-02T22:03:25Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 970, "title": "Optimize edge deduplication prompt for caching and clarity", "createdAt": "2025-10-02T23:50:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 973, "title": "validate nodes and edges aren't falsey", "createdAt": "2025-10-03T14:49:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 974, "title": "Update issue triage workflow to allow non-write users for duplicate checks", "createdAt": "2025-10-03T16:11:55Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 975, "title": "remove generic aoss_client interactions for release build", "createdAt": "2025-10-03T16:28:10Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 976, "title": "Release/v9.0", "createdAt": "2025-10-04T03:00:34Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 977, "title": "Refactor node extraction; remove summary from attribute extraction", "createdAt": "2025-10-04T20:14:16Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 978, "title": "Enforce shorter summaries with 8 sentence limit", "createdAt": "2025-10-04T21:25:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 979, "title": "Refactor summary prompts to use character limit and prevent meta-commentary", "createdAt": "2025-10-04T22:37:22Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 980, "title": "Refactor prompt structure: move MESSAGES after instructions", "createdAt": "2025-10-04T23:17:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 981, "title": "fix(docker): install uv system-wide so runtime works under non-root", "createdAt": "2025-10-05T03:26:16Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 982, "title": "Add OpenTelemetry distributed tracing support", "createdAt": "2025-10-05T16:14:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 983, "title": "Bump pre-release version to 0.22.0pre4", "createdAt": "2025-10-05T19:33:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 984, "title": "add search and graph operations interfaces", "createdAt": "2025-10-06T18:00:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 985, "title": "Remove JSON indentation from prompts to reduce token usage", "createdAt": "2025-10-06T23:00:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 986, "title": "bump 0.22.0pre5", "createdAt": "2025-10-06T23:10:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 987, "title": "Add OpenTelemetry stdout example with Kuzu", "createdAt": "2025-10-07T14:22:03Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 988, "title": "Fix datetime comparison errors by normalizing to UTC", "createdAt": "2025-10-07T15:11:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 989, "title": "feat: MCP Server v1.0.0 - Modular architecture with multi-database support", "createdAt": "2025-10-07T16:58:19Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 990, "title": "feat: MCP Server v1.0.0rc0 - Complete refactoring with modular architecture", "createdAt": "2025-10-08T14:46:26Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 991, "title": "fix: wrap embeddings with vecf32() in FalkorDB single save paths", "createdAt": "2025-10-08T17:40:51Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 993, "title": "fix deprecated cypher pattern", "createdAt": "2025-10-09T20:00:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 997, "title": "Separate unit, database, and API integration tests", "createdAt": "2025-10-12T02:09:42Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 998, "title": "Fix FalkorDB index deletion implementation", "createdAt": "2025-10-12T16:28:49Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 999, "title": "Secure Claude PR reviews with two-workflow approach", "createdAt": "2025-10-12T16:38:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1000, "title": "Remove integration markers from database tests", "createdAt": "2025-10-12T16:46:18Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1003, "title": "v0.22.0 bump", "createdAt": "2025-10-13T16:51:49Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1005, "title": "feat(mcp): separate LLM and embedder endpoints ", "createdAt": "2025-10-15T16:28:23Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1008, "title": "Add triplet", "createdAt": "2025-10-17T10:30:53Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1009, "title": "fix falkordb add triplet issue", "createdAt": "2025-10-17T10:36:49Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1010, "title": "[FalkorDB] Fix: Add missing UUID fields in edge storage for FalkorDB provider", "createdAt": "2025-10-17T14:14:03Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1013, "title": "Fix entity edge save", "createdAt": "2025-10-19T07:26:29Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1014, "title": "Add Zep vs Graphiti comparison table to README", "createdAt": "2025-10-20T22:19:11Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1017, "title": "Fix import sorting in falkordb_driver.py (follow-up to #910)", "createdAt": "2025-10-21T17:00:17Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1019, "title": "Fix missing parameter exception on neptune node_similarity_search", "createdAt": "2025-10-22T09:36:24Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1020, "title": "Fix missing parameter exception on neptune node_similarity_search", "createdAt": "2025-10-22T09:51:23Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1024, "title": "feat: MCP Server v1.0.0 - Modular architecture with multi-provider support", "createdAt": "2025-10-27T00:24:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1025, "title": "Add MCP server release workflow", "createdAt": "2025-10-27T00:54:09Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1026, "title": "Search client update", "createdAt": "2025-10-27T02:03:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1027, "title": "Bump graphiti-core from 0.18.8 to 0.22.0 in /mcp_server", "createdAt": "2025-10-27T16:02:41Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1028, "title": "[Doc] fixing typos in various files", "createdAt": "2025-10-29T09:30:04Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1029, "title": "update mmr to use bulk load overrides", "createdAt": "2025-10-29T13:22:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1031, "title": "Add automated FastAPI server container release workflow", "createdAt": "2025-10-30T01:46:47Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1032, "title": "Fix malformed query exception on neptune edge_fulltext_search", "createdAt": "2025-10-30T08:58:06Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1033, "title": "chore: adding support for aws bedrock", "createdAt": "2025-10-30T14:39:31Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1034, "title": "Chore/aws anthropic additions", "createdAt": "2025-10-30T15:02:18Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1035, "title": "chore: adding support for aws bedrock using boto3, more inclined towa…", "createdAt": "2025-10-30T15:11:35Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1036, "title": "Potential fix for code scanning alert no. 24: Workflow does not contain permissions", "createdAt": "2025-10-30T23:56:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1037, "title": "Fix MCP server release workflow to build all Dockerfile variants", "createdAt": "2025-10-31T06:19:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1038, "title": "Add smithery.yaml configuration for Graphiti MCP Server", "createdAt": "2025-10-31T23:08:15Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1039, "title": "Fix Azure structured completions", "createdAt": "2025-11-02T01:33:18Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1040, "title": "Add Conductor workspace configuration", "createdAt": "2025-11-02T01:42:45Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1042, "title": "Fix: Remove unnecessary max_tokens cap in AnthropicClient", "createdAt": "2025-11-04T01:17:11Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1043, "title": "Add dynamic max_tokens configuration for Anthropic models", "createdAt": "2025-11-04T01:40:35Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1045, "title": "Fix: Enable FalkorDB Browser startup in MCP Server Docker image", "createdAt": "2025-11-05T14:26:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1046, "title": "Update Zep comparison table description", "createdAt": "2025-11-05T15:49:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1047, "title": "Disable fork PR comment job in workflow", "createdAt": "2025-11-05T16:28:53Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1048, "title": "Implement build_indices_and_constraints for Kuzu and Neptune drivers", "createdAt": "2025-11-05T16:35:10Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1049, "title": "update kuze and neptune with build indices function", "createdAt": "2025-11-05T16:35:54Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1050, "title": "Enable FalkorDB fulltext search tests", "createdAt": "2025-11-05T17:59:50Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1051, "title": "feat(openai): add JSON-schema fallback for structured outputs in openai_client.py", "createdAt": "2025-11-06T08:27:25Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1052, "title": "feat: Add Gremlin query language support for Neptune Database", "createdAt": "2025-11-06T08:27:56Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1053, "title": "feat(openai): add JSON-schema fallback for structured outputs in openai_client", "createdAt": "2025-11-06T08:39:21Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1054, "title": "Add BROWSER env var default to FalkorDB compose", "createdAt": "2025-11-06T23:52:23Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1056, "title": "Bump version to 0.23.0", "createdAt": "2025-11-08T18:59:25Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1057, "title": "Fix MCP server telemetry and update graphiti-core to v0.23.0", "createdAt": "2025-11-08T19:16:20Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1058, "title": "Bump version to 0.23.1", "createdAt": "2025-11-09T02:37:53Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1060, "title": "Bump graphiti-core to v0.23.1 in mcp_server", "createdAt": "2025-11-09T17:13:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1061, "title": "Use OpenAI structured output API for response validation", "createdAt": "2025-11-10T04:52:00Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1064, "title": "Add Azure OpenAI example with Neo4j", "createdAt": "2025-11-14T06:05:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1065, "title": "[Doc]: fixing typos in various files", "createdAt": "2025-11-14T06:11:05Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1066, "title": "Bump v0.24.0", "createdAt": "2025-11-14T18:30:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1067, "title": "[Doc]: fixing typos in various files", "createdAt": "2025-11-15T05:49:51Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1068, "title": "feat: Add support for Chutes API integration", "createdAt": "2025-11-15T09:13:33Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1069, "title": "Claude/code review session 01 ld1 ao6 z qe lfh8vi2 urh u7 d", "createdAt": "2025-11-15T10:42:02Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1070, "title": "Update default Anthropic model to claude-haiku-4-5", "createdAt": "2025-11-15T16:56:53Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1071, "title": "[Doc]: fixing 1 dangling lik for Cursor rules", "createdAt": "2025-11-16T05:37:41Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1072, "title": "fix: OpenAIRerankerClient now properly supports AzureOpenAILLMClient", "createdAt": "2025-11-18T09:23:24Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1073, "title": "update summary character limit", "createdAt": "2025-11-18T22:03:33Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1076, "title": "fix: replace deprecated gemini-2.5-flash-lite-preview with `gemini-2.5-flash-lite`", "createdAt": "2025-11-20T23:41:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1078, "title": "修改配置文件", "createdAt": "2025-11-22T19:03:06Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1080, "title": "fix: Handle EquivalentSchemaRuleAlreadyExists errors in Neo4j driver", "createdAt": "2025-11-24T03:22:13Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1081, "title": "fix(mcp): handle Neo4j 5.x index creation race condition", "createdAt": "2025-11-24T05:14:05Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1084, "title": "AWS Neptune Support for MCP Server", "createdAt": "2025-11-24T21:00:33Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1085, "title": "Fix: Flatten results from update_community calls", "createdAt": "2025-11-27T02:44:26Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1086, "title": "Fix: Prevent oscillation in label propagation algorithm", "createdAt": "2025-11-28T02:00:18Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1088, "title": "feat: Enhanced Configuration System with Multi-Provider LLM Support", "createdAt": "2025-12-01T07:48:50Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1089, "title": "Disable issue triage and daily maintenance workflows", "createdAt": "2025-12-02T23:49:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1090, "title": "foreign language fix", "createdAt": "2025-12-03T16:42:55Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1093, "title": "bump", "createdAt": "2025-12-04T18:07:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1094, "title": "Fix/model name config", "createdAt": "2025-12-04T21:15:21Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1096, "title": "feat(mcp_server): Add FastMCP Cloud deployment support", "createdAt": "2025-12-07T07:25:55Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1097, "title": "feat: Add factory pattern for FastMCP Cloud deployment", "createdAt": "2025-12-07T08:54:33Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1099, "title": "add property filters", "createdAt": "2025-12-08T15:40:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1102, "title": "Improve semantic equivalence detection in edge deduplication", "createdAt": "2025-12-10T01:24:42Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1105, "title": "fix(mcp): search returns empty results after container restart", "createdAt": "2025-12-14T03:36:22Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1106, "title": "graph-service: agent memory ontology + reliable async ingest", "createdAt": "2025-12-15T09:30:30Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1107, "title": "feat: Add Amazon Bedrock integration for LLM, embeddings, and reranking", "createdAt": "2025-12-16T15:28:29Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1109, "title": "Fix Neo4j nested attributes serialization bug", "createdAt": "2025-12-17T12:08:59Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1114, "title": "Add SEO keyword to Zep link in README", "createdAt": "2025-12-18T07:33:09Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1115, "title": "Add triplet update", "createdAt": "2025-12-19T15:40:51Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1117, "title": "feat(mcp): add username support for FalkorDB authentication", "createdAt": "2025-12-20T22:42:46Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1118, "title": "Fix FalkorDB sanitize to handle forward slash character", "createdAt": "2025-12-20T23:44:04Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1120, "title": "feat(mcp): add openai_generic provider for LiteLLM/Ollama compatibility", "createdAt": "2025-12-22T11:32:08Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1122, "title": "Custom prompt", "createdAt": "2025-12-23T16:58:10Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1124, "title": "Fix limited number of edges", "createdAt": "2025-12-24T06:33:37Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1125, "title": "Add Support falkordblite - FalkorDB embedded version", "createdAt": "2025-12-25T09:30:54Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1126, "title": "fix: FalkorDB profile failing to start in docker-compose", "createdAt": "2025-12-28T17:08:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1127, "title": "feat(mcp): add configurable LOG_LEVEL environment variable", "createdAt": "2025-12-29T14:14:57Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1128, "title": "fix: enforce custom edge types for FalkorDB and BFS search", "createdAt": "2025-12-30T15:14:25Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1129, "title": "Fix entity extraction for large episode inputs with adaptive chunking", "createdAt": "2025-12-30T23:46:55Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1130, "title": "fix: cleanup orphaned entities after episode deletion", "createdAt": "2025-12-31T11:09:46Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1131, "title": "feat(extraction): inline attribute extraction during entity extraction", "createdAt": "2026-01-01T23:01:50Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1133, "title": "Update Add Triple", "createdAt": "2026-01-05T17:37:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1134, "title": "chore: Add None defaults to DateFilter date field and PropertyFilter property_value field", "createdAt": "2026-01-07T00:54:14Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1137, "title": "feat(mcp): add Vertex AI support and auto-expand subgroup queries", "createdAt": "2026-01-07T14:49:58Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1138, "title": "bump version", "createdAt": "2026-01-07T17:28:10Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1139, "title": "Bump version", "createdAt": "2026-01-07T21:37:07Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1140, "title": "Edge extraction efficiency", "createdAt": "2026-01-09T16:48:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1145, "title": "Feat/user filtering and optimize graphiti search performance", "createdAt": "2026-01-11T00:05:09Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1146, "title": "Fix Ollama/OpenAI-compatible provider support", "createdAt": "2026-01-12T09:54:25Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1148, "title": "use custom instructions in all extraction steps", "createdAt": "2026-01-12T20:32:33Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1149, "title": "Add Sagas", "createdAt": "2026-01-13T15:31:32Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1151, "title": "fix(falkordb): add missing special characters to sanitize method", "createdAt": "2026-01-14T19:24:08Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1152, "title": "feat(mcp): add configurable reranker/cross-encoder support", "createdAt": "2026-01-14T20:21:57Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1154, "title": "Add NotImplementedError fallback for GraphOperationsInterface methods", "createdAt": "2026-01-15T16:07:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1156, "title": "feat(mcp): add configurable small_model support for OpenAI provider", "createdAt": "2026-01-15T23:44:05Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1157, "title": "feat(mcp): add transport security configuration for remote access", "createdAt": "2026-01-16T15:25:16Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1158, "title": "Bump pyasn1 from 0.6.1 to 0.6.2 in the uv group across 1 directory", "createdAt": "2026-01-16T19:56:15Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1159, "title": "fix(mcp): pass base_url to Anthropic LLM and OpenAI Embedder clients", "createdAt": "2026-01-17T01:31:10Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1160, "title": "fix(docker): install anthropic package for Claude support", "createdAt": "2026-01-17T01:31:33Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1163, "title": "feat(search): add summary_embedding semantic search for nodes", "createdAt": "2026-01-20T18:06:13Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1167, "title": "Move saga logic into retrieve_episodes utility function", "createdAt": "2026-01-21T20:07:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1168, "title": "update", "createdAt": "2026-01-21T20:14:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1169, "title": "Remove filter_existing_duplicate_of_edges call from resolve_extracted_nodes", "createdAt": "2026-01-21T20:56:08Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1170, "title": "fix(falkordb): Clone driver for single group_id search", "createdAt": "2026-01-22T03:01:34Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1172, "title": "Add interface override paths for direct database calls", "createdAt": "2026-01-22T16:13:10Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1174, "title": "feat(mcp): add configurable cross-encoder for search result reranking", "createdAt": "2026-01-23T16:17:37Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1175, "title": "fix(falkordb): escape group_ids in RediSearch fulltext queries", "createdAt": "2026-01-25T13:28:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1176, "title": "fix(mcp): prevent queue worker task garbage collection", "createdAt": "2026-01-25T13:38:40Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1178, "title": "Fix: move AsyncWorker start to app lifespan to resolve FastAPI router…", "createdAt": "2026-01-26T14:40:59Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1179, "title": "Fix MCP server documentation to reference correct entry point", "createdAt": "2026-01-27T18:43:09Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1182, "title": "Add extracted edge facts to entity summaries", "createdAt": "2026-01-29T19:00:02Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1183, "title": "fix(falkordb): sanitize pipe and slash chars in fulltext queries", "createdAt": "2026-01-29T23:37:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1184, "title": "Fix dependabot security vulnerabilities", "createdAt": "2026-01-30T07:01:50Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1185, "title": "Revert \"Fix dependabot security vulnerabilities\"", "createdAt": "2026-01-30T15:37:39Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1186, "title": "Pin mcp_server to graphiti-core 0.26.3", "createdAt": "2026-01-30T15:39:32Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1187, "title": "Bump the uv group across 4 directories with 12 updates", "createdAt": "2026-01-30T15:42:39Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1188, "title": "Bump the uv group across 1 directory with 1 update", "createdAt": "2026-01-30T15:55:28Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1189, "title": "Update manual code review workflow to use claude-opus-4-5-20251101", "createdAt": "2026-01-30T15:57:16Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1190, "title": "fix(queue): add periodic reclaim of failed messages", "createdAt": "2026-01-30T22:51:13Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1191, "title": "Refactor prompt system for efficiency and clarity", "createdAt": "2026-01-31T03:49:45Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1192, "title": "Fix Azure OpenAI integration for v1 API compatibility", "createdAt": "2026-01-31T12:55:28Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1194, "title": "Add VoyageRerankerClient for cross-encoder reranking", "createdAt": "2026-02-03T16:44:08Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1195, "title": "feat(mcp): add multi-tenant FalkorDB search and discovery tools", "createdAt": "2026-02-03T19:37:14Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1196, "title": "feat(nodes): generate entity summary from episode when no edges exist", "createdAt": "2026-02-03T20:26:42Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1197, "title": "fix(edges): preserve all signatures when edge type is reused across node pairs", "createdAt": "2026-02-03T21:41:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1199, "title": "feat(mcp): Add configurable transport security for network access", "createdAt": "2026-02-04T23:08:58Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1200, "title": "chore: bump version to 0.27.0pre2", "createdAt": "2026-02-05T16:05:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1201, "title": "feat(gemini): refactor Gemini client for ADC/vertex auth and improvements when building with optional LLM provider dependencies", "createdAt": "2026-02-06T01:11:49Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1202, "title": "feat(gemini): add support for Gemini 3 preview models", "createdAt": "2026-02-06T02:01:53Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1206, "title": "fix(mcp): use load_dotenv(override=True) to prioritize .env over shell vars", "createdAt": "2026-02-08T17:25:16Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1207, "title": "fix: Correct Cypher syntax for multiple node label filtering", "createdAt": "2026-02-09T02:55:14Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1209, "title": "feat(architecture): unify FalkorDB, add project config and smart memory writer", "createdAt": "2026-02-09T09:44:57Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1210, "title": "perf: Use FalkorDB native CDLP for community detection", "createdAt": "2026-02-09T10:26:01Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1212, "title": "fix(graphiti): prevent add_triplet from overwriting edges with different src/dst", "createdAt": "2026-02-10T16:57:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1214, "title": "fix: pop `parameters_` from kwargs to prevent duplicate keyword argument in execute_query", "createdAt": "2026-02-11T06:03:34Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1215, "title": "fix: scope `make test` to `tests/` directory to avoid mcp_server collection error", "createdAt": "2026-02-11T06:08:44Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1216, "title": "fix: fall back to default temperature for non-OpenAI providers when not configured", "createdAt": "2026-02-11T06:11:46Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1217, "title": "fix: expose `__version__` in graphiti_core and correct MCP server fallback", "createdAt": "2026-02-11T06:17:58Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1218, "title": "fix: pass OpenAI provider's api_url to LLM client for custom endpoint support", "createdAt": "2026-02-11T06:26:51Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1219, "title": "bump version", "createdAt": "2026-02-11T14:29:55Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1220, "title": "fix(search): use OR syntax for FalkorDB multi-label node filters", "createdAt": "2026-02-11T16:19:38Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1221, "title": "fix(search): allow BFS traversal when query is empty but origin UUIDs provided", "createdAt": "2026-02-11T16:43:23Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1222, "title": "fix(falkordb): handle empty query in build_fulltext_query", "createdAt": "2026-02-12T00:15:41Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1223, "title": "fix(summary): exclude duplicate edges from node summary generation", "createdAt": "2026-02-12T00:21:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1224, "title": "feat: simplify extraction pipeline and add batch entity summarization", "createdAt": "2026-02-12T21:28:10Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1225, "title": "chore(deps): update dependencies to fix dependabot alerts", "createdAt": "2026-02-12T21:33:01Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1227, "title": "feat(mcp): add local model support with openai_generic provider and reranker config", "createdAt": "2026-02-13T22:55:52Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1228, "title": "feat(vector-store): Add pluggable Milvus vector store overlay for hybrid search", "createdAt": "2026-02-14T09:19:38Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1230, "title": "fix(server): fix Neo4j client lifecycle bugs causing \"Driver closed\" errors", "createdAt": "2026-02-15T10:02:17Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1231, "title": "Bump graphiti-core[falkordb] from 0.26.3 to 0.27.1 in /mcp_server", "createdAt": "2026-02-16T16:47:59Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1232, "title": "feat: driver operations architecture redesign", "createdAt": "2026-02-16T16:57:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1233, "title": "fix: surgical security/review fixes from CLR PR #32 + #33", "createdAt": "2026-02-17T13:54:39Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1234, "title": "feat(driver): add lightweight mode to entity queries", "createdAt": "2026-02-17T16:44:34Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1235, "title": "feat: implement Neptune and Kuzu driver operations", "createdAt": "2026-02-17T17:04:19Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1236, "title": "chore: bump version to 0.28.0 and document graph driver architecture", "createdAt": "2026-02-17T19:30:14Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1237, "title": "fix: remove PII from log messages", "createdAt": "2026-02-17T19:47:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1238, "title": "fix: replace diskcache with sqlite-based cache to resolve CVE", "createdAt": "2026-02-17T22:26:24Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1239, "title": "docs: expand canonical Antfarm engineering-injection consumer pattern", "createdAt": "2026-02-18T00:58:32Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1241, "title": "fix: raise Jaccard threshold and add edit-distance guard for fuzzy entity dedup", "createdAt": "2026-02-18T16:31:25Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1242, "title": "fix: extract custom edge attributes on first episode ingestion", "createdAt": "2026-02-18T16:56:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1243, "title": "chore: bump version to 0.28.1", "createdAt": "2026-02-19T14:59:55Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1244, "title": "chore: regenerate lockfiles to drop diskcache", "createdAt": "2026-02-19T15:25:50Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1245, "title": "fix: align AzureOpenAILLMClient return type", "createdAt": "2026-02-20T11:38:33Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1246, "title": "fix: add safe_json_loads to handle LaTeX backslashes in LLM JSON output", "createdAt": "2026-02-20T13:00:09Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1248, "title": "feat: add model size routing to AnthropicClient", "createdAt": "2026-02-21T03:36:40Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1250, "title": "feat: add FalkorDB Lite embedded driver support", "createdAt": "2026-02-21T18:01:10Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1251, "title": "fix: add max iteration cap to label_propagation to prevent infinite loop", "createdAt": "2026-02-21T19:50:34Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1252, "title": "fix: correctly merge update_community results from semaphore_gather", "createdAt": "2026-02-21T19:50:47Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1253, "title": "fix: add max iteration cap to label_propagation to prevent infinite loop", "createdAt": "2026-02-21T20:05:09Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1254, "title": "fix: correctly merge update_community results from semaphore_gather", "createdAt": "2026-02-21T20:05:23Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1255, "title": "docs: Dual-Brain Architecture and Operators Guide", "createdAt": "2026-02-21T23:50:07Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1257, "title": "Add Jina v5 embeddings provider", "createdAt": "2026-02-22T05:44:27Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1261, "title": "fix: replace edge name with uuid in debug log", "createdAt": "2026-02-23T14:35:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1264, "title": "feat(vector-store): add pluggable VectorStoreClient interface and dual-write hooks", "createdAt": "2026-02-24T07:46:09Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1267, "title": "fix: resilient async worker and phantom UUID edge filter", "createdAt": "2026-02-24T23:28:49Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1270, "title": "fix(falkordb): remove group_id from fulltext query to fix UUID syntax error", "createdAt": "2026-02-25T14:05:15Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1271, "title": "Feat/use embedding index neo4j", "createdAt": "2026-02-25T15:20:33Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1273, "title": "feat(milvus): add Milvus/Zilliz Cloud vector store backend", "createdAt": "2026-02-26T00:24:20Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1276, "title": "fix: limit resolve_extracted_nodes context to prevent max_tokens overflow", "createdAt": "2026-02-26T11:16:34Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1277, "title": "feat: unified ingestion pipeline, Smart Cutter, and lane search (FR-1 to FR-13)", "createdAt": "2026-02-27T00:43:44Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1278, "title": "feat: add Avian as an LLM provider", "createdAt": "2026-02-27T04:49:14Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1279, "title": "feat: ingestion pipeline foundation (FR-1/2/3/5/6/7/8/13)", "createdAt": "2026-02-27T18:49:20Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1280, "title": "fix(search): wrap group_ids OR clause in parentheses for BM25 queries", "createdAt": "2026-02-28T11:06:28Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1281, "title": "fix: strip markdown code blocks from Gemini JSON responses", "createdAt": "2026-02-28T14:48:49Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1282, "title": "fix(falkordb): use startNode/endNode instead of re-MATCH for edge search", "createdAt": "2026-02-28T17:21:05Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1284, "title": "feat: Add GLiNER2 hybrid LLM client", "createdAt": "2026-02-28T17:52:53Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1286, "title": "feat: add Anthropic prompt auto-caching and per-call cost logging", "createdAt": "2026-03-01T19:34:33Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1287, "title": "perf: add FalkorDB HNSW vector indices and fix O(n) fulltext re-match", "createdAt": "2026-03-01T19:35:05Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1288, "title": "perf: skip redundant index creation in Neo4jDriver when indices already exist", "createdAt": "2026-03-02T11:20:14Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1289, "title": "fix: append 0.0 score when top_logprobs is empty in OpenAIRerankerClient", "createdAt": "2026-03-02T21:08:12Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1290, "title": "docs: align README with unified-v3 + lane matrix + ingest sanitization", "createdAt": "2026-03-03T05:26:31Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1291, "title": "fix: strip markdown code fences from JSON responses in OpenAIGenericClient", "createdAt": "2026-03-03T08:14:09Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1292, "title": "chore: update Docker images to graphiti-core 0.28.1", "createdAt": "2026-03-03T16:02:00Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1293, "title": "feat(mcp): add FalkorDB Lite (embedded) as database provider", "createdAt": "2026-03-03T17:32:40Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1294, "title": "fix: prevent shared driver state mutation in multi-group FalkorDB usage", "createdAt": "2026-03-03T19:48:31Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1295, "title": "fix: escape RediSearch special characters in group_id fulltext queries", "createdAt": "2026-03-03T19:50:17Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1296, "title": "Migrate kuzu -> ladybug", "createdAt": "2026-03-04T00:15:42Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1297, "title": "docs: add missing README files for four example directories", "createdAt": "2026-03-04T00:28:18Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1301, "title": "Eijun/dedup reasoning simplify", "createdAt": "2026-03-06T01:36:56Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1303, "title": "fix: search both edge directions during deduplication", "createdAt": "2026-03-06T18:50:39Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1304, "title": "feat(lane-policy): add learning_self_audit to global hybrid retrieval", "createdAt": "2026-03-06T22:57:45Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1305, "title": "Fix/falkordb group id race condition", "createdAt": "2026-03-07T20:59:09Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1309, "title": "added gemini 3.1 models to gemini_client.py", "createdAt": "2026-03-08T22:04:42Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1310, "title": "feat: Add ArcadeDB backend driver", "createdAt": "2026-03-09T01:17:36Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1311, "title": "fix: wrap group_ids OR clause in parentheses for BM25 fulltext query", "createdAt": "2026-03-09T11:17:27Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1312, "title": "Harden search filters against Cypher injection", "createdAt": "2026-03-10T22:07:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1313, "title": "Refresh README content and fix image refs", "createdAt": "2026-03-10T22:17:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1314, "title": "Restore README title and subtitle", "createdAt": "2026-03-10T22:32:13Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1315, "title": "Bump graphiti-core version to 0.28.2", "createdAt": "2026-03-11T16:09:33Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1316, "title": "Bump langgraph from 1.0.6 to 1.0.10rc1 in the uv group across 1 directory", "createdAt": "2026-03-11T16:20:37Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1317, "title": "Bump mcp-server to 1.0.2 and require graphiti-core>=0.28.2", "createdAt": "2026-03-11T19:14:59Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1318, "title": "Bump the uv group across 2 directories with 3 updates", "createdAt": "2026-03-12T17:30:07Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1320, "title": "Apply JARVIS Graphiti customizations", "createdAt": "2026-03-13T05:24:52Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1323, "title": "Add hiring promotion section to README", "createdAt": "2026-03-13T15:39:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1324, "title": "feat: add MiniMax LLM provider with M3 default", "createdAt": "2026-03-14T16:27:00Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1326, "title": "fix: route FalkorDB queries to correct graph for single group_id", "createdAt": "2026-03-15T12:29:16Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1329, "title": "Bump the uv group across 3 directories with 4 updates", "createdAt": "2026-03-17T19:43:37Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1330, "title": "fix(falkordb): skip group_id tokenized away by RedisSearch", "createdAt": "2026-03-19T00:50:26Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1332, "title": "Guard against null/invalid embeddings in similarity search queries", "createdAt": "2026-03-19T04:47:31Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1334, "title": "fix: route FalkorDB queries to correct graph for single group_id", "createdAt": "2026-03-20T02:24:05Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1335, "title": "feat(falkordb): Use HNSW vector index procedures for similarity search", "createdAt": "2026-03-20T08:20:26Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1338, "title": "fix: pass base_url to OpenAI LLM client for custom endpoint support", "createdAt": "2026-03-21T04:42:03Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1339, "title": "fix: use OpenAIGenericClient for non-OpenAI endpoints (Gemini, Ollama, vLLM)", "createdAt": "2026-03-21T05:02:47Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1340, "title": "stabilize Graphiti MCP NAS deployment and test harness", "createdAt": "2026-03-21T09:13:34Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1341, "title": "feat: Ollama and Kuzu/LadybugDB compatibility", "createdAt": "2026-03-21T13:56:33Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1343, "title": "docs: add gitcgr code graph badge", "createdAt": "2026-03-22T14:31:56Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1344, "title": "fix: sort episode_mentions_reranker descending by mention count", "createdAt": "2026-03-22T15:13:18Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1345, "title": "Add Novita AI as LLM provider", "createdAt": "2026-03-23T03:12:59Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1348, "title": "feat: add HuggingFace embedder and FalkorDB wizard-of-oz example", "createdAt": "2026-03-25T19:15:38Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1349, "title": "Bump the uv group across 4 directories with 5 updates", "createdAt": "2026-03-26T15:51:05Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1350, "title": "add multi-backend support to server (neo4j, falkordb, neptune, kuzu)", "createdAt": "2026-03-27T05:09:33Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1351, "title": "fix: sort episode_mentions_reranker descending (most mentions first)", "createdAt": "2026-03-28T03:29:54Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1352, "title": "fix: apply host and port CLI overrides in config", "createdAt": "2026-03-28T03:36:18Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1354, "title": "fix(mcp): accept scalar group_ids in read tools", "createdAt": "2026-03-28T14:26:38Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1356, "title": "fix: prevent infinite loop in label_propagation when edge_count >= 2", "createdAt": "2026-03-29T02:35:48Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1357, "title": "fix: support CJK characters in MinHash fuzzy deduplication", "createdAt": "2026-03-29T06:19:14Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1358, "title": "feat: add structured text extraction protocol", "createdAt": "2026-03-29T09:59:27Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1361, "title": "Upstream Zep internal improvements", "createdAt": "2026-03-30T22:51:39Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1362, "title": "fix: validate LLM responses in OpenAIGenericClient to prevent Pydantic errors", "createdAt": "2026-03-31T10:38:51Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1363, "title": "Bump the uv group across 2 directories with 2 updates", "createdAt": "2026-03-31T19:06:23Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1364, "title": "ci: migrate GitHub Actions to Forge runners", "createdAt": "2026-03-31T22:33:06Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1366, "title": "feat(mcp): add optional Bearer token auth for MCP server", "createdAt": "2026-04-01T06:22:03Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1367, "title": "Bump the uv group across 2 directories with 1 update", "createdAt": "2026-04-01T22:01:20Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1368, "title": "Add automated PR triage workflow with Claude AI", "createdAt": "2026-04-02T18:57:45Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1369, "title": "Implement 'forget' functionality to selectively delete nodes and edges from the graph", "createdAt": "2026-04-02T19:09:32Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1370, "title": "fix: use `prompt` instead of `direct_prompt` in all workflows", "createdAt": "2026-04-02T20:49:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1372, "title": "refine slop detection and add note-to-author in triage comments", "createdAt": "2026-04-02T21:03:39Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1373, "title": "Pin GitHub Actions to commit SHAs for security", "createdAt": "2026-04-02T23:41:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1374, "title": "Remove OIDC perms and add Claude allowlist comments", "createdAt": "2026-04-03T00:17:28Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1375, "title": "fix: guard empty FalkorDB fulltext queries", "createdAt": "2026-04-04T02:58:05Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1376, "title": "fix: apply --host and --port CLI flags in apply_cli_overrides", "createdAt": "2026-04-04T06:49:17Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1377, "title": "feat(mcp): add reference_time parameter to add_memory tool", "createdAt": "2026-04-04T15:27:52Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1378, "title": "fix(mcp): reasoning.effort 'minimal' incompatible with gpt-5.4-mini", "createdAt": "2026-04-05T04:31:29Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1382, "title": "Feat/user id isolation", "createdAt": "2026-04-07T02:14:03Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1384, "title": "Implement: Create a helper function for normalizing group_ids parameter", "createdAt": "2026-04-07T21:52:38Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1385, "title": "Fix/user ids empty list normalize", "createdAt": "2026-04-08T06:16:37Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1386, "title": "Implement: Examine the apply_cli_overrides method implementation", "createdAt": "2026-04-08T06:54:29Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1387, "title": "Bump the uv group across 2 directories with 1 update", "createdAt": "2026-04-08T08:52:39Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1388, "title": "fix(community): async label_propagation with oscillation detection", "createdAt": "2026-04-08T14:50:27Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1389, "title": "feat(community): in-community member sampling for build_communities", "createdAt": "2026-04-08T15:47:04Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1390, "title": "Bump the uv group across 2 directories with 3 updates", "createdAt": "2026-04-08T22:09:17Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1392, "title": "Fix async ingest client lifetime and missing timestamps", "createdAt": "2026-04-09T08:06:26Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1395, "title": "fix: replace 'minimal' with 'low' reasoning effort for gpt-5.4-mini", "createdAt": "2026-04-11T18:01:55Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1402, "title": "Update google-genai requirement from >=1.62.0 to >=1.72.0 in /mcp_server", "createdAt": "2026-04-13T16:54:54Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1403, "title": "Update pytest-asyncio requirement from >=0.24.0 to >=1.3.0 in /server", "createdAt": "2026-04-13T16:54:56Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1404, "title": "Update pytest-asyncio requirement from >=0.21.0 to >=1.3.0 in /mcp_server", "createdAt": "2026-04-13T16:54:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1405, "title": "Update voyageai requirement from >=0.2.3 to >=0.3.7 in /mcp_server", "createdAt": "2026-04-13T16:55:00Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1406, "title": "Update pytest requirement from >=8.3.2 to >=9.0.3 in /server", "createdAt": "2026-04-13T16:55:03Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1407, "title": "Update pyright requirement from >=1.1.404 to >=1.1.408 in /mcp_server", "createdAt": "2026-04-13T16:55:05Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1408, "title": "Update uvicorn requirement from >=0.30.6 to >=0.44.0 in /server", "createdAt": "2026-04-13T16:55:07Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1409, "title": "Update groq requirement from >=0.2.0 to >=1.1.2 in /mcp_server", "createdAt": "2026-04-13T16:55:08Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1410, "title": "Update pydantic requirement from >=2.8.2 to >=2.13.0 in /server", "createdAt": "2026-04-13T16:55:13Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1411, "title": "Update python-dotenv requirement from >=1.0.1 to >=1.2.2 in /server", "createdAt": "2026-04-13T16:55:17Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1412, "title": "Bump the uv group across 2 directories with 4 updates", "createdAt": "2026-04-13T23:44:01Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1413, "title": "Bump the uv group across 3 directories with 5 updates", "createdAt": "2026-04-14T01:30:35Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1414, "title": "fix(mcp): fail loudly when embedder initialization fails", "createdAt": "2026-04-14T14:46:31Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1415, "title": "fix(falkordb): handle empty sanitized query in build_fulltext_query", "createdAt": "2026-04-14T16:43:55Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1416, "title": "fix(graphiti_core): default list fields in response models to prevent ValidationError on empty LLM output", "createdAt": "2026-04-14T20:20:54Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1420, "title": "perf(community): batch RELATES_TO projection into one Cypher query", "createdAt": "2026-04-17T17:14:41Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1421, "title": "fix: correctly flatten update_community results in add_episode", "createdAt": "2026-04-18T03:20:34Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1422, "title": "forward-port graphiti_core improvements from internal fork", "createdAt": "2026-04-18T04:06:42Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1423, "title": "Bump the uv group across 2 directories with 4 updates", "createdAt": "2026-04-18T19:49:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1424, "title": "examples(podcast): run podcast_runner against embedded FalkorDB", "createdAt": "2026-04-18T20:12:47Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1426, "title": "Potential fix for code scanning alert no. 26: Workflow does not contain permissions", "createdAt": "2026-04-20T22:55:25Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1428, "title": "Bump nbconvert from 7.17.0 to 7.17.1 in the uv group across 1 directory", "createdAt": "2026-04-21T18:06:41Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1429, "title": "Bump the uv group across 3 directories with 2 updates", "createdAt": "2026-04-21T22:05:20Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1430, "title": "Bump the uv group across 4 directories with 2 updates", "createdAt": "2026-04-21T22:06:31Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1432, "title": "forward-port: combined node+edge extraction + prompt refinements", "createdAt": "2026-04-22T15:46:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1433, "title": "docs: add FAQ and Troubleshooting section to README", "createdAt": "2026-04-23T00:16:11Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1434, "title": "fix: add iteration cap to label_propagation to prevent infinite loop", "createdAt": "2026-04-23T04:13:42Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1435, "title": "fix: escape hyphens in group_id values for FalkorDB fulltext queries", "createdAt": "2026-04-23T04:14:50Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1436, "title": "fix: use directed match in edge_bfs_search to prevent duplicate edges", "createdAt": "2026-04-24T05:10:39Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1437, "title": "feat(mcp_server): forward OpenAI api_url + add chat-completions LLM path", "createdAt": "2026-04-25T01:17:54Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1439, "title": "fix(mcp): coerce neo4j.time.DateTime in fact formatter", "createdAt": "2026-04-25T17:36:26Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1442, "title": "fix(mcp): reuse configured LLM client for cross_encoder to avoid OPENAI_API_KEY requirement", "createdAt": "2026-04-26T19:54:16Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1443, "title": "feat: add custom edge type support to combined extraction prompt", "createdAt": "2026-04-27T14:53:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1444, "title": "Bump graphiti-core version to 0.29.0", "createdAt": "2026-04-27T15:42:33Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1445, "title": "chore(deps): update pyyaml requirement from >=6.0 to >=6.0.3 in /mcp_server", "createdAt": "2026-04-27T19:26:43Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1446, "title": "chore(deps-dev): update ruff requirement from >=0.7.1 to >=0.15.16 in /mcp_server", "createdAt": "2026-04-27T19:26:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1447, "title": "chore(deps-dev): update faker requirement from >=37.12.0 to >=40.21.0 in /mcp_server", "createdAt": "2026-04-27T19:27:08Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1448, "title": "Update graphiti-core requirement from >=0.28.2 to >=0.29.0 in /mcp_server", "createdAt": "2026-04-27T19:27:15Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1449, "title": "chore(deps-dev): update anthropic requirement from >=0.49.0 to >=0.107.1 in /mcp_server", "createdAt": "2026-04-27T19:27:21Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1450, "title": "fix(falkordb): strip backticks and guard empty token list in fulltext query builder", "createdAt": "2026-04-28T03:11:29Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1453, "title": "fix: terminate label_propagation on bipartite / weight-symmetric graphs", "createdAt": "2026-04-29T09:25:16Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1456, "title": "fix: terminate label_propagation on bipartite / weight-symmetric graphs", "createdAt": "2026-04-30T08:22:51Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1457, "title": "fix: skip redundant name_embedding computation in create_entity_node_embeddings", "createdAt": "2026-04-30T09:02:49Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1458, "title": "Bump jupyterlab from 4.5.2 to 4.5.7 in the uv group across 1 directory", "createdAt": "2026-04-30T18:51:36Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1459, "title": "fix: mount FalkorDB volume to correct data path", "createdAt": "2026-05-01T09:30:16Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1460, "title": "fix: respect max_coroutines in community builds", "createdAt": "2026-05-02T08:00:11Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1461, "title": "fix: install MCP provider extras in Docker images", "createdAt": "2026-05-02T08:19:04Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1462, "title": "fix(docker): mount FalkorDB volume to actual data path", "createdAt": "2026-05-02T11:56:24Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1463, "title": "feat(mcp): expose custom extraction instructions in add_memory", "createdAt": "2026-05-02T23:34:42Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1464, "title": "fix(mcp): preserve default temperature for non-openai llms", "createdAt": "2026-05-03T01:35:49Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1468, "title": " mcp_server: fix passing throught OpenAI base_url", "createdAt": "2026-05-05T19:53:01Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1471, "title": "Fix FalkorDB fulltext search performance", "createdAt": "2026-05-06T13:40:20Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1472, "title": "feat(core): make semaphore concurrency configurable per Graphiti instance", "createdAt": "2026-05-06T16:25:03Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1473, "title": "Bump the uv group across 2 directories with 4 updates", "createdAt": "2026-05-07T11:07:18Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1474, "title": "fix: force batch_size=1 for gemini-embedding-2 models", "createdAt": "2026-05-07T14:10:00Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1475, "title": "fix: handle backtick tokens and empty queries in FalkorDB fulltext search", "createdAt": "2026-05-07T14:13:38Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1476, "title": "docs(graphiti): drop stale add_episode_bulk edge-invalidation/date-extraction note", "createdAt": "2026-05-07T16:29:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1478, "title": "fix(pydantic): use ConfigDict instead of class-based Config in SearchInterface", "createdAt": "2026-05-08T07:08:38Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1479, "title": "fix(azure-openai): restore tuple return signature in _handle_structured_response", "createdAt": "2026-05-08T22:41:20Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1480, "title": "chore(deps): bump the uv group across 2 directories with 1 update", "createdAt": "2026-05-08T23:29:58Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1482, "title": "fix: pass configured Neo4j database to execute_query", "createdAt": "2026-05-09T07:48:54Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1484, "title": "chore(deps): bump the uv group across 4 directories with 2 updates", "createdAt": "2026-05-11T17:18:46Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1486, "title": "fix: unpack community results from semaphore_gather in add_episode", "createdAt": "2026-05-12T17:30:34Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1487, "title": "embedder: guard against long inputs by chunking, batching and averaging", "createdAt": "2026-05-12T20:12:34Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1488, "title": "Feat: Bearer token auth + custom DNS rebind hosts", "createdAt": "2026-05-14T19:39:40Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1490, "title": "feat(mcp): add optional reference_time to add_memory", "createdAt": "2026-05-15T22:07:12Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1491, "title": "fix(mcp): delete_episode cascade to extracted edges and orphan entities", "createdAt": "2026-05-15T22:15:11Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1492, "title": "fix(prompts): force valid_at fallback to REFERENCE_TIME", "createdAt": "2026-05-15T22:21:30Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1493, "title": "fix: group bm25 filters for multiple group ids", "createdAt": "2026-05-16T21:35:04Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1494, "title": "fix: avoid FalkorDB edge rematch scans", "createdAt": "2026-05-16T21:55:09Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1495, "title": "fix: scope make test to core tests", "createdAt": "2026-05-16T22:06:58Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1497, "title": "fix: sanitize FalkorDB group ids in fulltext queries", "createdAt": "2026-05-20T20:00:33Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1498, "title": "Forward-port: attribute-hallucination guards, combined-extraction precision, saga episode-time watermarks", "createdAt": "2026-05-20T20:13:05Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1499, "title": "Bump graphiti-core version to 0.29.1", "createdAt": "2026-05-21T03:28:19Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1500, "title": "fix: avoid O(matches×graph) re-MATCH in edge search", "createdAt": "2026-05-21T07:19:48Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1501, "title": "ci(drift): upstream drift monitor (debt E7-monitor)", "createdAt": "2026-05-21T14:36:25Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1502, "title": "mcp_server: allow configuring the cross-encoder (reranker)", "createdAt": "2026-05-21T22:04:01Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1504, "title": "fix(falkor): use valid default group id", "createdAt": "2026-05-23T09:33:05Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1507, "title": "fix(falkordb): hoist LIMIT before per-row MATCH to avoid query timeout", "createdAt": "2026-05-25T06:03:43Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1508, "title": "fix(kuzu): set _database default and create FTS indices in build_indices_and_constraints (#1258)", "createdAt": "2026-05-25T13:56:35Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1510, "title": "fix: optimize edge_fulltext_search LIMIT and remove group_id from Fal…", "createdAt": "2026-05-25T16:30:16Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1511, "title": "fix: validate embeddings for NaN/Inf values with automatic retry", "createdAt": "2026-05-25T16:33:54Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1512, "title": "fix: correct sort direction in episode_mentions_reranker", "createdAt": "2026-05-26T01:46:41Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1514, "title": "docs(mcp_server): fix Ollama example — use current nested provider config + working embedder", "createdAt": "2026-05-27T12:37:19Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1519, "title": "Track scheduled driver index build tasks", "createdAt": "2026-05-29T17:32:35Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1520, "title": "fix: exclude chat/search variants from reasoning-model detection (#902)", "createdAt": "2026-05-30T17:52:52Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1524, "title": "fix: expose graphiti core version", "createdAt": "2026-06-01T13:32:45Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1527, "title": "fix: handle datetime/date in to_prompt_json", "createdAt": "2026-06-03T09:07:38Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1528, "title": "fix(deps): resolve all open Dependabot alerts in uv.lock files", "createdAt": "2026-06-04T22:41:15Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1530, "title": "fix(mcp): preserve FalkorDB URI username", "createdAt": "2026-06-05T09:28:47Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1531, "title": "fix(falkor): strip nul bytes from parameters", "createdAt": "2026-06-05T09:31:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1532, "title": "fix(docker): align FalkorDB compose service port with container", "createdAt": "2026-06-05T20:42:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1533, "title": "chore: improve graphiti maintenance path", "createdAt": "2026-06-05T21:08:25Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1535, "title": "fix(mcp): extend model env overrides to all configs + test provider routing", "createdAt": "2026-06-05T22:02:31Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1536, "title": "fix(falkordblite): make embedded install work (pin redis<8) + example cleanup", "createdAt": "2026-06-05T22:33:41Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1537, "title": "fix(llm): default OpenAIGenericClient to json_schema with json_object fallback", "createdAt": "2026-06-06T03:00:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1538, "title": "ci: use IPv4 (127.0.0.1) for FalkorDB/Neo4j waits in integration tests", "createdAt": "2026-06-06T03:41:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1539, "title": "fix: normalize NeptuneDriver params and AOSS bulk actions", "createdAt": "2026-06-06T06:37:32Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1540, "title": "ci: fix (id-token) and harden Claude review/triage workflows", "createdAt": "2026-06-06T14:57:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1541, "title": "ci(cla): authenticate CLA Assistant with a GitHub App token, drop the PAT", "createdAt": "2026-06-06T15:44:40Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1542, "title": "ci: make Claude review work on Opus 4.8 (github_token + action bump) + re-add synchronize", "createdAt": "2026-06-06T16:56:46Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1543, "title": "ci: bump claude-code-action to v1.0.139 (agent SDK that recognizes Opus 4.8)", "createdAt": "2026-06-06T17:31:56Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1544, "title": "ci: make Claude review post on Opus 4.8 (anti-suppress prompt + read-only tools)", "createdAt": "2026-06-06T17:47:07Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1545, "title": "ci: allowlist the github_comment tool so Claude review actually posts", "createdAt": "2026-06-06T18:00:33Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1546, "title": "ci: use track_progress for Claude PR review (the actual comment mechanism)", "createdAt": "2026-06-06T18:26:21Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1547, "title": "Revert \"fix(falkor): strip nul bytes from parameters (#1531)\"", "createdAt": "2026-06-06T22:50:33Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1548, "title": "deprecate(kuzu): mark Kuzu deprecated; drop from default test matrix", "createdAt": "2026-06-06T23:33:20Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1549, "title": "fix(falkordb): make default group_id valid and escape it for RediSearch", "createdAt": "2026-06-06T23:35:08Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1550, "title": "ci: run ruff lint/format on fork PRs via privilege-stripped pull_request_target", "createdAt": "2026-06-06T23:59:57Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1551, "title": "feat(llm): default to gpt-5.5 with model-tied reasoning effort", "createdAt": "2026-06-07T00:39:35Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1552, "title": "chore(mcp): modernize dependencies, MCP SDK, and default models", "createdAt": "2026-06-07T00:57:42Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1553, "title": "feat(mcp): core-parity — bi-temporal, sagas, communities, filters, triplets, custom types", "createdAt": "2026-06-07T04:14:27Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1554, "title": "fix: skip invalid Neo4j embeddings in similarity search", "createdAt": "2026-06-07T08:37:08Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1555, "title": "fix: omit temperature for reasoning chat completions", "createdAt": "2026-06-07T08:41:11Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1557, "title": "test(mcp): live end-to-end FalkorDB suite + CI workflow (gpt-5.5)", "createdAt": "2026-06-07T18:06:26Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1558, "title": "feat(mcp): accept a scalar group_id on the read tools", "createdAt": "2026-06-08T01:50:54Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1559, "title": "ci(mcp): treat pytest exit-5 (suite self-skipped) as success", "createdAt": "2026-06-08T01:59:37Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1560, "title": "ci(server): live end-to-end regression test + PR check", "createdAt": "2026-06-08T14:38:02Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1561, "title": "chore(deps-dev): update redis requirement from <8 to <9", "createdAt": "2026-06-08T15:33:42Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1562, "title": "chore(deps-dev): update azure-identity requirement from >=1.21.0 to >=1.25.3 in /mcp_server", "createdAt": "2026-06-08T15:34:28Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1563, "title": "chore(deps-dev): update google-genai requirement from >=1.72.0 to >=2.8.0 in /mcp_server", "createdAt": "2026-06-08T15:34:32Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1564, "title": "chore(deps): update openai requirement from >=1.91.0 to >=2.41.0 in /mcp_server", "createdAt": "2026-06-08T15:34:38Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1565, "title": "chore(deps): update graphiti-core requirement from >=0.29.1 to >=0.29.2 in /mcp_server", "createdAt": "2026-06-08T15:34:44Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1566, "title": "chore(deps-dev): update pytest-asyncio requirement from >=1.3.0 to >=1.4.0 in /mcp_server", "createdAt": "2026-06-08T15:34:48Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1567, "title": "ci: harden exit-5 handling in the live-test workflows (MCP backport + diagnostics)", "createdAt": "2026-06-08T19:17:58Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1568, "title": "fix: filter Neptune query params", "createdAt": "2026-06-09T01:18:45Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1569, "title": "fix: stop lucene_sanitize escaping individual uppercase letters (breaks BM25)", "createdAt": "2026-06-09T04:32:06Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1570, "title": "fix(mcp): omit temperature for Anthropic/Gemini/Groq when unset (#1103)", "createdAt": "2026-06-09T14:28:35Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1572, "title": "fix(falkordb): route single-group reads onto the group's graph", "createdAt": "2026-06-10T12:51:48Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1573, "title": "fix: stabilize graph reranking and community propagation", "createdAt": "2026-06-10T15:26:30Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1575, "title": "fix(mcp): keep strong reference to episode queue worker task to prevent silent GC", "createdAt": "2026-06-11T13:48:20Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1576, "title": "fix: prevent infinite loop in label propagation community detection", "createdAt": "2026-06-11T19:57:20Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1577, "title": "fix: pass database_ as connection-level parameter in Neo4jDriver.execute_query()", "createdAt": "2026-06-11T23:43:32Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1578, "title": "fix(extraction): plumb custom_extraction_instructions into entity summary prompts", "createdAt": "2026-06-12T14:53:34Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1579, "title": "chore(deps): bump tornado from 6.5.5 to 6.5.6 in the uv group across 1 directory", "createdAt": "2026-06-12T22:16:04Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1580, "title": "Sync/upstream main", "createdAt": "2026-06-14T14:07:18Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1581, "title": "fix(search): parenthesize group_id OR-chain in multi-group fulltext queries", "createdAt": "2026-06-14T23:15:33Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1583, "title": "chore(deps-dev): update groq requirement from >=1.2.0 to >=1.4.0 in /mcp_server", "createdAt": "2026-06-15T15:34:28Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1584, "title": "chore(deps-dev): update faker requirement from >=40.21.0 to >=40.23.0 in /mcp_server", "createdAt": "2026-06-15T15:34:36Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1585, "title": "chore(deps): update pydantic-settings requirement from >=2.0.0 to >=2.14.1 in /mcp_server", "createdAt": "2026-06-15T15:34:41Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1586, "title": "chore(deps-dev): update anthropic requirement from >=0.107.1 to >=0.109.1 in /mcp_server", "createdAt": "2026-06-15T15:34:46Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1587, "title": "chore(deps-dev): update pyright requirement from >=1.1.408 to >=1.1.410 in /mcp_server", "createdAt": "2026-06-15T15:34:53Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1588, "title": "chore(deps): bump the uv group across 2 directories with 2 updates", "createdAt": "2026-06-16T03:30:09Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1589, "title": "Clarify Neo4j vs FalkorDB troubleshooting in quickstart README", "createdAt": "2026-06-16T09:23:29Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1590, "title": "fix(falkordb): short-circuit fulltext query when every token was a stopword", "createdAt": "2026-06-16T18:33:14Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1591, "title": "chore(deps): bump the uv group across 3 directories with 8 updates", "createdAt": "2026-06-17T01:06:55Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1593, "title": "fix: Edge.__eq__ checks isinstance(other, Edge) not Node", "createdAt": "2026-06-17T22:01:56Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1594, "title": "fix: copy SearchConfig before mutating .limit to prevent shared-state clobber", "createdAt": "2026-06-17T22:02:51Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1595, "title": "fix: lucene_sanitize corrupts all words containing O/R/N/T/A/D", "createdAt": "2026-06-17T22:03:26Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1596, "title": "fix: date filter parameters collide across OR clauses", "createdAt": "2026-06-17T22:03:47Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1597, "title": "fix(embedder): support embedding_dim in AzureOpenAIEmbedderClient", "createdAt": "2026-06-18T04:43:31Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1598, "title": "fix(cross-encoder): don't crash OpenAI reranker when a response lacks logprobs", "createdAt": "2026-06-18T06:23:57Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1599, "title": "chore(deps): fix all Dependabot security alerts", "createdAt": "2026-06-19T00:29:22Z", "state": "MERGED", "repo": "getzep/graphiti"}
+{"number": 1603, "title": "add tests for resolve_edge_contradictions and rrf functions", "createdAt": "2026-06-21T10:25:02Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1604, "title": "fix: respect LLMConfig.max_tokens in OpenAIGenericClient (#763)", "createdAt": "2026-06-21T10:59:28Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1605, "title": "fix(edges): return reference_time in entity edge read query", "createdAt": "2026-06-21T14:40:19Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1606, "title": "fix(nodes): split Neptune episode entity_edges on the delimiter it was saved with", "createdAt": "2026-06-22T04:10:24Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1607, "title": "feat: add skip_extraction parameter to add_episode for fast ingestion of pre-curated content", "createdAt": "2026-06-22T04:16:40Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1608, "title": "fix(falkordb): make default group_id valid and escape it for RediSearch (#1517)", "createdAt": "2026-06-22T04:20:33Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1609, "title": "fix(search): keep edge_scores aligned with edges in episode_mentions reranker", "createdAt": "2026-06-22T06:05:23Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1610, "title": "docs: fix incorrect LLM provider in gliner2 example comments and Pyth…", "createdAt": "2026-06-22T16:06:22Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1611, "title": "chore(deps): bump jupyterlab from 4.5.7 to 4.5.9 in the uv group across 1 directory", "createdAt": "2026-06-22T18:43:12Z", "state": "CLOSED", "repo": "getzep/graphiti"}
+{"number": 1612, "title": "chore(deps): bump the uv group across 2 directories with 2 updates", "createdAt": "2026-06-23T20:19:57Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1613, "title": "fix: handle datetime serialization in to_prompt_json", "createdAt": "2026-06-24T01:20:18Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1614, "title": "fix(mcp_server): add missing docker-compose.yml and update default da…", "createdAt": "2026-06-25T18:17:04Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1617, "title": "fix(azure): use max_completion_tokens and return token usage from structured responses", "createdAt": "2026-06-27T17:24:42Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1619, "title": "fix(mcp): expose generic structured output mode", "createdAt": "2026-06-27T19:46:45Z", "state": "OPEN", "repo": "getzep/graphiti"}
+{"number": 1620, "title": "fix(llm_client): return token triple from AzureOpenAILLMClient._handle_structured_response", "createdAt": "2026-06-28T13:19:53Z", "state": "OPEN", "repo": "getzep/graphiti"}
