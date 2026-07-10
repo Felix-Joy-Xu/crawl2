@@ -1,0 +1,1090 @@
+{"number": 67, "title": "Autogen agentchat: writing long documents - Any ideas?", "createdAt": "2023-08-24T12:49:01Z", "repo": "microsoft/autogen"}
+{"number": 62, "title": "Langchain backend for Agents", "createdAt": "2023-10-01T12:33:56Z", "repo": "microsoft/autogen"}
+{"number": 89, "title": "Can anyone help me how to use this in colab along with local llms", "createdAt": "2023-10-03T09:28:55Z", "repo": "microsoft/autogen"}
+{"number": 99, "title": "making multiple agents", "createdAt": "2023-10-04T04:03:34Z", "repo": "microsoft/autogen"}
+{"number": 100, "title": "anyone writing a Typescript port?", "createdAt": "2023-10-04T06:07:53Z", "repo": "microsoft/autogen"}
+{"number": 104, "title": "Is there a way to get a return value from user_proxy.initiate_chat() in the Autogen library?", "createdAt": "2023-10-04T15:34:18Z", "repo": "microsoft/autogen"}
+{"number": 107, "title": "Agent that evaluates output from the pre-defined set of agents, recommeding addition or replacements of agents", "createdAt": "2023-10-04T18:45:42Z", "repo": "microsoft/autogen"}
+{"number": 118, "title": "AutoGen Extended", "createdAt": "2023-10-05T18:16:35Z", "repo": "microsoft/autogen"}
+{"number": 121, "title": "A way to run autogen + flask with streaming support for the frontend", "createdAt": "2023-10-05T22:29:38Z", "repo": "microsoft/autogen"}
+{"number": 128, "title": "Autogen created a file 'examplename.csv'. Where is it though?", "createdAt": "2023-10-06T06:15:34Z", "repo": "microsoft/autogen"}
+{"number": 132, "title": "Agents access web", "createdAt": "2023-10-06T14:32:56Z", "repo": "microsoft/autogen"}
+{"number": 137, "title": "Did someone create a JS version of this?", "createdAt": "2023-10-06T22:55:46Z", "repo": "microsoft/autogen"}
+{"number": 146, "title": "Could I use other models besides GPT?", "createdAt": "2023-10-08T02:15:04Z", "repo": "microsoft/autogen"}
+{"number": 187, "title": "ValueError: dictionary update sequence element #0 has length 1; 2 is required : Error in user_proxy.initiate_chat", "createdAt": "2023-10-10T12:24:44Z", "repo": "microsoft/autogen"}
+{"number": 188, "title": "is it possible to run autogen locally with GPT4ALL model without API ?!", "createdAt": "2023-10-10T12:33:17Z", "repo": "microsoft/autogen"}
+{"number": 189, "title": "Engineering questions regarding the integration PR of LiteLLM", "createdAt": "2023-10-10T12:43:33Z", "repo": "microsoft/autogen"}
+{"number": 208, "title": "Possible to use with Openrouter.ai?", "createdAt": "2023-10-11T22:44:31Z", "repo": "microsoft/autogen"}
+{"number": 226, "title": "Conversation stops", "createdAt": "2023-10-13T11:06:24Z", "repo": "microsoft/autogen"}
+{"number": 230, "title": "AI Seo Marketing Blog Team?", "createdAt": "2023-10-13T14:30:12Z", "repo": "microsoft/autogen"}
+{"number": 237, "title": "Tutorial - Running Autogen using a local LLM running in oobabooga WebUI served via LiteLLM", "createdAt": "2023-10-14T05:35:13Z", "repo": "microsoft/autogen"}
+{"number": 244, "title": "Guidance Requset: Complying with prompt formats (e.g StableBeluga)", "createdAt": "2023-10-14T22:09:10Z", "repo": "microsoft/autogen"}
+{"number": 247, "title": "Can't pip install dotenv", "createdAt": "2023-10-15T08:59:54Z", "repo": "microsoft/autogen"}
+{"number": 261, "title": "Is that possible to read pandas dataframe from memory and analyze via Autogen?", "createdAt": "2023-10-16T20:11:33Z", "repo": "microsoft/autogen"}
+{"number": 271, "title": "AutoGen+Langchain can't read my local files.", "createdAt": "2023-10-17T14:24:50Z", "repo": "microsoft/autogen"}
+{"number": 308, "title": "Adding \\n to all Args In The Packages Docstrings.", "createdAt": "2023-10-19T23:25:18Z", "repo": "microsoft/autogen"}
+{"number": 312, "title": "what is purpose of code_execution_config", "createdAt": "2023-10-20T06:13:01Z", "repo": "microsoft/autogen"}
+{"number": 328, "title": "Need help with the RetrieveChat example", "createdAt": "2023-10-20T22:38:58Z", "repo": "microsoft/autogen"}
+{"number": 335, "title": "TypeError: 'NoneType' object is not subscriptable running the chess example", "createdAt": "2023-10-21T11:34:45Z", "repo": "microsoft/autogen"}
+{"number": 351, "title": "Is there a way to retrieve the results from a function call", "createdAt": "2023-10-22T00:37:24Z", "repo": "microsoft/autogen"}
+{"number": 368, "title": "'repository not found' when trying to clone autogen repositories", "createdAt": "2023-10-22T11:38:13Z", "repo": "microsoft/autogen"}
+{"number": 2338, "title": "Using extra parameters for Azure API connections", "createdAt": "2023-10-23T02:15:21Z", "repo": "microsoft/autogen"}
+{"number": 404, "title": "Teachability vs codebase", "createdAt": "2023-10-24T17:54:08Z", "repo": "microsoft/autogen"}
+{"number": 424, "title": "How do I end a chat session from a ConversableAgent instance's reply_func", "createdAt": "2023-10-25T18:00:42Z", "repo": "microsoft/autogen"}
+{"number": 439, "title": "Using gpt-3.5-turbo to format the result from Code Execution to reduce cost.", "createdAt": "2023-10-26T11:35:14Z", "repo": "microsoft/autogen"}
+{"number": 441, "title": "Distributed Deployment Pattern via Kubernetes", "createdAt": "2023-10-26T17:09:32Z", "repo": "microsoft/autogen"}
+{"number": 449, "title": "ImportError: cannot import name 'API' from 'chromadb.api' (/usr/local/lib/python3.10/dist-packages/chromadb/api/__init__.py)", "createdAt": "2023-10-26T23:30:02Z", "repo": "microsoft/autogen"}
+{"number": 458, "title": "ConversableAgent \"send\" function \"context\" question", "createdAt": "2023-10-28T02:40:12Z", "repo": "microsoft/autogen"}
+{"number": 467, "title": "Consistently different results when running examples in colab vs locally", "createdAt": "2023-10-28T22:55:31Z", "repo": "microsoft/autogen"}
+{"number": 468, "title": "OAI_CONFIG_LIST environment variable error with config list", "createdAt": "2023-10-29T05:09:43Z", "repo": "microsoft/autogen"}
+{"number": 469, "title": "Run Autogen with Docker", "createdAt": "2023-10-29T05:20:22Z", "repo": "microsoft/autogen"}
+{"number": 471, "title": "Autogen + local LLM = Messy conversations.", "createdAt": "2023-10-29T06:00:09Z", "repo": "microsoft/autogen"}
+{"number": 479, "title": "autogen with external web app", "createdAt": "2023-10-29T18:31:23Z", "repo": "microsoft/autogen"}
+{"number": 484, "title": "Subclassing the vector dB to instead use a PostgreSQL dB for retrieval agents.", "createdAt": "2023-10-30T15:40:24Z", "repo": "microsoft/autogen"}
+{"number": 490, "title": "Autogen + Guidance", "createdAt": "2023-10-30T20:46:18Z", "repo": "microsoft/autogen"}
+{"number": 1331, "title": "Implement Inception Prompting", "createdAt": "2023-11-01T10:30:18Z", "repo": "microsoft/autogen"}
+{"number": 524, "title": "Autogen + ToolDec", "createdAt": "2023-11-02T08:15:46Z", "repo": "microsoft/autogen"}
+{"number": 529, "title": "How to reset the GroupChat after one inference?", "createdAt": "2023-11-03T11:28:43Z", "repo": "microsoft/autogen"}
+{"number": 546, "title": "v0.2.0b1", "createdAt": "2023-11-04T04:45:38Z", "repo": "microsoft/autogen"}
+{"number": 1517, "title": "Examples of how to register a reply function", "createdAt": "2023-11-05T18:57:13Z", "repo": "microsoft/autogen"}
+{"number": 561, "title": "Testing AutoGen CompressibleAgent or AutoGen + MemGPT for Token Limit Issues", "createdAt": "2023-11-05T22:32:42Z", "repo": "microsoft/autogen"}
+{"number": 566, "title": "Devil's Advocate Pattern", "createdAt": "2023-11-06T03:42:32Z", "repo": "microsoft/autogen"}
+{"number": 575, "title": "New OpenAI Assistants / Assistants API", "createdAt": "2023-11-06T23:20:20Z", "repo": "microsoft/autogen"}
+{"number": 596, "title": "Autogen with horde decentralized LLM backend", "createdAt": "2023-11-08T10:09:49Z", "repo": "microsoft/autogen"}
+{"number": 648, "title": "Dynamic function call callback possibility?", "createdAt": "2023-11-12T21:03:38Z", "repo": "microsoft/autogen"}
+{"number": 649, "title": "Google Bard API call", "createdAt": "2023-11-12T23:37:42Z", "repo": "microsoft/autogen"}
+{"number": 1993, "title": "When is the task finished as \"TERMINATE\"", "createdAt": "2023-11-15T03:34:46Z", "repo": "microsoft/autogen"}
+{"number": 729, "title": "How should I structure data for fine-tuning a model in a groupchat setting?", "createdAt": "2023-11-21T00:38:04Z", "repo": "microsoft/autogen"}
+{"number": 733, "title": "What's the fastest way to iterate on prompts using AutoGen?", "createdAt": "2023-11-21T07:10:37Z", "repo": "microsoft/autogen"}
+{"number": 745, "title": "How do I make an agent start with a static string and autocomplete the rest?", "createdAt": "2023-11-23T00:42:42Z", "repo": "microsoft/autogen"}
+{"number": 746, "title": "Autogen Keep Using OpenAI API, Not Local", "createdAt": "2023-11-23T03:15:33Z", "repo": "microsoft/autogen"}
+{"number": 748, "title": "Context Limits for Web Content Synthesis and Accountability", "createdAt": "2023-11-23T16:55:55Z", "repo": "microsoft/autogen"}
+{"number": 754, "title": "Avoid vector DB to be updated each time when using RetrieveUserProxyAgent?", "createdAt": "2023-11-24T06:22:33Z", "repo": "microsoft/autogen"}
+{"number": 790, "title": "Can any autogen agent read pandas dataframe from the memory?", "createdAt": "2023-11-28T05:37:40Z", "repo": "microsoft/autogen"}
+{"number": 2049, "title": "Is it possible to inject previous history?", "createdAt": "2023-12-01T22:25:25Z", "repo": "microsoft/autogen"}
+{"number": 839, "title": "Recommendations researcher", "createdAt": "2023-12-01T22:51:50Z", "repo": "microsoft/autogen"}
+{"number": 873, "title": "Can I execute another package commands via agent?", "createdAt": "2023-12-05T01:21:55Z", "repo": "microsoft/autogen"}
+{"number": 874, "title": "Autogen output data to Pandas Data frame", "createdAt": "2023-12-05T01:24:46Z", "repo": "microsoft/autogen"}
+{"number": 877, "title": "When using autogen docker, is it always necessary to reinstall modules?", "createdAt": "2023-12-05T04:50:09Z", "repo": "microsoft/autogen"}
+{"number": 880, "title": "Play nice with others", "createdAt": "2023-12-05T16:20:14Z", "repo": "microsoft/autogen"}
+{"number": 887, "title": "Fail to load module \"mach-o file, but is an incompatible architecture (have 'arm64', need 'x86_64'\"", "createdAt": "2023-12-06T02:37:40Z", "repo": "microsoft/autogen"}
+{"number": 889, "title": "\bI want to Use the selenium module, but the selenium module requires a chromedriver file in the local path to operate", "createdAt": "2023-12-06T06:34:45Z", "repo": "microsoft/autogen"}
+{"number": 897, "title": "Trying to set up different LLMs on different ports, and it ain't working right.", "createdAt": "2023-12-06T20:29:22Z", "repo": "microsoft/autogen"}
+{"number": 908, "title": "How to use RetrieveUserProxyAgent with Pinecone database?", "createdAt": "2023-12-07T13:45:59Z", "repo": "microsoft/autogen"}
+{"number": 922, "title": "Method towards AGI with MemGPT and AutoGen", "createdAt": "2023-12-08T20:53:17Z", "repo": "microsoft/autogen"}
+{"number": 942, "title": "How to implement regenerate-code", "createdAt": "2023-12-11T10:14:38Z", "repo": "microsoft/autogen"}
+{"number": 999, "title": "Token cost tracker for the latest autogen version?", "createdAt": "2023-12-16T13:02:51Z", "repo": "microsoft/autogen"}
+{"number": 1010, "title": "Prompt Format Llama 2", "createdAt": "2023-12-18T06:31:01Z", "repo": "microsoft/autogen"}
+{"number": 1011, "title": "Routing between agents", "createdAt": "2023-12-18T06:35:03Z", "repo": "microsoft/autogen"}
+{"number": 1017, "title": "Agent Function Call Help", "createdAt": "2023-12-18T18:55:58Z", "repo": "microsoft/autogen"}
+{"number": 1022, "title": "PM speaks before the user proxy find the paper on Example notebook: Auto Generated Agent Chat: Group Chat", "createdAt": "2023-12-19T00:38:10Z", "repo": "microsoft/autogen"}
+{"number": 1050, "title": "How do I get messages from the *agent* to the *groupchat manager* with request_reply?", "createdAt": "2023-12-23T13:56:41Z", "repo": "microsoft/autogen"}
+{"number": 1099, "title": "Autogen with AWS Lambda", "createdAt": "2023-12-29T20:17:57Z", "repo": "microsoft/autogen"}
+{"number": 1109, "title": "Agent Descriptions (version 0.2.2 onwards) and team setup.", "createdAt": "2023-12-31T12:55:51Z", "repo": "microsoft/autogen"}
+{"number": 1158, "title": "autogen without OPENAI - how to fork and create an openai free version?", "createdAt": "2024-01-06T18:06:36Z", "repo": "microsoft/autogen"}
+{"number": 1159, "title": "connecting to hosted llm (NOT LOCAL & NOT OPENAI)", "createdAt": "2024-01-06T18:09:38Z", "repo": "microsoft/autogen"}
+{"number": 1163, "title": "PLEASE FIX CONFIG_LIST", "createdAt": "2024-01-06T21:51:14Z", "repo": "microsoft/autogen"}
+{"number": 1168, "title": "Lightweight and Flexible Agents and Multi-Agent Chats (Alternative to AutoGen)", "createdAt": "2024-01-07T14:18:34Z", "repo": "microsoft/autogen"}
+{"number": 1173, "title": "Drop support for Python 3.8", "createdAt": "2024-01-08T05:16:00Z", "repo": "microsoft/autogen"}
+{"number": 1202, "title": "How to perform function/tool calling using non-OpenAI models.", "createdAt": "2024-01-10T09:43:21Z", "repo": "microsoft/autogen"}
+{"number": 2654, "title": "In Groupchat, existing agents based on OpenAI assistant API throw error", "createdAt": "2024-01-10T16:12:13Z", "repo": "microsoft/autogen"}
+{"number": 1247, "title": "ConversableAgent class needs much love", "createdAt": "2024-01-14T13:44:45Z", "repo": "microsoft/autogen"}
+{"number": 1277, "title": "This MICROSOFT AUTOGEN was built and made for Mac ONLY ... Nothing works on Windows.  SIGALRM is not even compatible with WINDOWS.", "createdAt": "2024-01-16T05:54:14Z", "repo": "microsoft/autogen"}
+{"number": 1288, "title": "How to let agent intelligently ask for human input", "createdAt": "2024-01-16T12:01:43Z", "repo": "microsoft/autogen"}
+{"number": 1313, "title": "How can I stream to a frontend using SSE?", "createdAt": "2024-01-16T22:14:49Z", "repo": "microsoft/autogen"}
+{"number": 1303, "title": "Having different chat_histories per agent", "createdAt": "2024-01-17T10:53:14Z", "repo": "microsoft/autogen"}
+{"number": 1312, "title": "Autogen Studio + exporting OpenAI compatible API endpoint", "createdAt": "2024-01-17T19:20:17Z", "repo": "microsoft/autogen"}
+{"number": 1320, "title": "[Issue]: How to use fetched content for agents or agent swarms?", "createdAt": "2024-01-17T22:06:23Z", "repo": "microsoft/autogen"}
+{"number": 1321, "title": "Autogen Studio: LLM model defined per agent - makes it VERY hard to switch to test models! Need duplicate agents for every model??", "createdAt": "2024-01-18T07:47:41Z", "repo": "microsoft/autogen"}
+{"number": 1323, "title": "Issues getting agent based on non-openai models to use local function/tool call", "createdAt": "2024-01-18T11:06:03Z", "repo": "microsoft/autogen"}
+{"number": 1343, "title": "Autogen Studio not generating an Image from the example in the Studio", "createdAt": "2024-01-19T22:55:33Z", "repo": "microsoft/autogen"}
+{"number": 1357, "title": "OpenAI Credit Account", "createdAt": "2024-01-22T00:05:25Z", "repo": "microsoft/autogen"}
+{"number": 1359, "title": "Errors encountered in Autobuild", "createdAt": "2024-01-22T09:20:36Z", "repo": "microsoft/autogen"}
+{"number": 1370, "title": "Implementing Autonomous Agent Generation and Integration in AutoGen Studio using Extended AutoBuild Capabilities", "createdAt": "2024-01-23T02:11:49Z", "repo": "microsoft/autogen"}
+{"number": 1377, "title": "how to have agents and workflow \"ask human input\" with option \"ALWAYS\" and \"TERMINATE\" besides \"NEVER\"", "createdAt": "2024-01-23T12:30:50Z", "repo": "microsoft/autogen"}
+{"number": 1378, "title": "Human Input 'NEVER' problem (stuck on never)", "createdAt": "2024-01-23T13:19:22Z", "repo": "microsoft/autogen"}
+{"number": 1384, "title": "Connecting Azure Databricks Tables and Analyzing Extracted Data - By Autogen agents", "createdAt": "2024-01-24T05:18:05Z", "repo": "microsoft/autogen"}
+{"number": 1399, "title": "the agents should need to delete the docker they used", "createdAt": "2024-01-25T09:26:44Z", "repo": "microsoft/autogen"}
+{"number": 1419, "title": "sharing autogen studio workflows", "createdAt": "2024-01-26T19:46:47Z", "repo": "microsoft/autogen"}
+{"number": 1422, "title": "Test discussion for discord bot", "createdAt": "2024-01-26T23:28:09Z", "repo": "microsoft/autogen"}
+{"number": 1427, "title": "Is not possible to edit a skill.", "createdAt": "2024-01-27T14:03:42Z", "repo": "microsoft/autogen"}
+{"number": 1433, "title": "AutoGen Studio - Human Input Mode", "createdAt": "2024-01-27T19:02:08Z", "repo": "microsoft/autogen"}
+{"number": 1438, "title": "Custom agent (like MemGPT) support in AutoGen Studio", "createdAt": "2024-01-28T06:15:39Z", "repo": "microsoft/autogen"}
+{"number": 1444, "title": "Native Open AI Groupchat support with multiple GPTs", "createdAt": "2024-01-29T06:01:04Z", "repo": "microsoft/autogen"}
+{"number": 1452, "title": "debugging autogen studio workflows", "createdAt": "2024-01-29T18:01:28Z", "repo": "microsoft/autogen"}
+{"number": 1466, "title": "Who decides which agent gets executed next?", "createdAt": "2024-01-30T14:48:16Z", "repo": "microsoft/autogen"}
+{"number": 1468, "title": "Is it possible to use external compilers in autogen?", "createdAt": "2024-01-30T15:11:39Z", "repo": "microsoft/autogen"}
+{"number": 1484, "title": "Need help in turn off docker in 'AutogenBuilder\"", "createdAt": "2024-01-31T05:31:28Z", "repo": "microsoft/autogen"}
+{"number": 1490, "title": "How to access the data generated by a function call", "createdAt": "2024-01-31T11:10:18Z", "repo": "microsoft/autogen"}
+{"number": 1500, "title": "llm_config - how to set for each model in AutoGen Studio?", "createdAt": "2024-02-01T06:44:05Z", "repo": "microsoft/autogen"}
+{"number": 1503, "title": "Work with Pandas DF", "createdAt": "2024-02-01T11:17:14Z", "repo": "microsoft/autogen"}
+{"number": 1515, "title": "System_message vs Description", "createdAt": "2024-02-02T03:54:48Z", "repo": "microsoft/autogen"}
+{"number": 1535, "title": "AUTOGEN AttributeError", "createdAt": "2024-02-05T07:14:26Z", "repo": "microsoft/autogen"}
+{"number": 1537, "title": "How to stream autogen responses using FASTAPI ?", "createdAt": "2024-02-05T07:28:37Z", "repo": "microsoft/autogen"}
+{"number": 1558, "title": "Can autogen directly execute the sql queries or we have to use python to execute sql quries..?", "createdAt": "2024-02-06T12:38:10Z", "repo": "microsoft/autogen"}
+{"number": 1566, "title": "What is the reason for adding WebSurferAgent as an agent as opposed to a function?", "createdAt": "2024-02-06T21:12:33Z", "repo": "microsoft/autogen"}
+{"number": 1623, "title": "[Question]: How can I build a Q&A agent over a csv file present locally with Gradio UI?", "createdAt": "2024-02-08T23:57:24Z", "repo": "microsoft/autogen"}
+{"number": 1604, "title": "Without building Docker image, is it still possible to work in the development mode?", "createdAt": "2024-02-09T02:14:07Z", "repo": "microsoft/autogen"}
+{"number": 1606, "title": "How can I build a Q&A agent on some data, where the code environment doesn't persist?", "createdAt": "2024-02-09T08:10:39Z", "repo": "microsoft/autogen"}
+{"number": 1609, "title": "AttributeError: 'OpenAI' object has no attribute 'total_usage_summary'", "createdAt": "2024-02-09T13:38:49Z", "repo": "microsoft/autogen"}
+{"number": 1615, "title": "Token usage tracking .", "createdAt": "2024-02-10T07:12:46Z", "repo": "microsoft/autogen"}
+{"number": 1663, "title": "Share secrets with a code executor using Docker?", "createdAt": "2024-02-13T10:25:53Z", "repo": "microsoft/autogen"}
+{"number": 1691, "title": "how to stop/halt autogenstudio correctly when the the execution is \"hang\" ( like endless loops ) etc ?", "createdAt": "2024-02-15T08:32:11Z", "repo": "microsoft/autogen"}
+{"number": 1696, "title": "AutoGen answering only 1st of 2 mails, max consecutive auto reply value settings(?) ...", "createdAt": "2024-02-15T22:00:15Z", "repo": "microsoft/autogen"}
+{"number": 1709, "title": "Discussion area for developers 微信讨论群autogen和autogen studio", "createdAt": "2024-02-17T01:52:17Z", "repo": "microsoft/autogen"}
+{"number": 1715, "title": "api_key is not present in llm_config or OPENAI_API_KEY env variable for agent ** primary_assistant**. Update your workflow to provide an api_key to use the LLM.", "createdAt": "2024-02-17T22:20:46Z", "repo": "microsoft/autogen"}
+{"number": 1730, "title": "Why user_proxy executes code, but not assistant in fomous demo example?", "createdAt": "2024-02-19T21:01:18Z", "repo": "microsoft/autogen"}
+{"number": 1764, "title": "I made a first pull request today.", "createdAt": "2024-02-22T14:15:33Z", "repo": "microsoft/autogen"}
+{"number": 2086, "title": "Code Execution Error caused by PowerShell Execution Policy on Windows", "createdAt": "2024-02-23T16:47:43Z", "repo": "microsoft/autogen"}
+{"number": 1773, "title": "We need to improve the code execution process.", "createdAt": "2024-02-23T16:59:13Z", "repo": "microsoft/autogen"}
+{"number": 1779, "title": "Agent Session Based Workflow & Management Concept", "createdAt": "2024-02-24T08:44:37Z", "repo": "microsoft/autogen"}
+{"number": 1781, "title": "Can I combine 'GroupChat' and 'Register_reply'", "createdAt": "2024-02-24T16:46:20Z", "repo": "microsoft/autogen"}
+{"number": 1792, "title": "Visual enhancement to `visualize_speaker_transitions_dict`", "createdAt": "2024-02-25T21:53:52Z", "repo": "microsoft/autogen"}
+{"number": 1793, "title": "Why AssistantAgent designed to not have a functions ?", "createdAt": "2024-02-26T21:51:08Z", "repo": "microsoft/autogen"}
+{"number": 1839, "title": "the roles in chat_history seem confused?", "createdAt": "2024-03-02T04:01:23Z", "repo": "microsoft/autogen"}
+{"number": 1843, "title": "Fail to install Autogen on M1 MAC (package architecture (amd64) does not match system (arm64)", "createdAt": "2024-03-03T12:18:03Z", "repo": "microsoft/autogen"}
+{"number": 1846, "title": "Is there a simple way I can extract agent output from Autogen? Or save the output to local drive?", "createdAt": "2024-03-04T06:47:42Z", "repo": "microsoft/autogen"}
+{"number": 1854, "title": "[Issue]: Can Autogen configure a network proxy", "createdAt": "2024-03-04T09:36:38Z", "repo": "microsoft/autogen"}
+{"number": 1858, "title": "Functions: I can read parquet file from my C drive. However, I can't write it back. What I am doing wrong?", "createdAt": "2024-03-04T23:40:31Z", "repo": "microsoft/autogen"}
+{"number": 1877, "title": "Chat message history in a group chat", "createdAt": "2024-03-06T08:01:32Z", "repo": "microsoft/autogen"}
+{"number": 1910, "title": "Autogen Agents on Structed Data analysis!!!", "createdAt": "2024-03-07T22:58:59Z", "repo": "microsoft/autogen"}
+{"number": 1920, "title": "Support for high fidelity image understanding as in GPT-V API", "createdAt": "2024-03-08T17:16:09Z", "repo": "microsoft/autogen"}
+{"number": 1931, "title": "Autogen Studio with Ollama Error.  Autogen still wanting access to OpenAI", "createdAt": "2024-03-09T16:20:49Z", "repo": "microsoft/autogen"}
+{"number": 1958, "title": "Decision Making in Text World Environments", "createdAt": "2024-03-11T17:30:11Z", "repo": "microsoft/autogen"}
+{"number": 2008, "title": "why the user proxy initial message is tagged as role \"assistant\" ?", "createdAt": "2024-03-13T22:14:49Z", "repo": "microsoft/autogen"}
+{"number": 2009, "title": "Can i use a single Agent for Chat Completion Tasks such as Summarization ?", "createdAt": "2024-03-13T22:32:50Z", "repo": "microsoft/autogen"}
+{"number": 2021, "title": "How to set default values for functions?", "createdAt": "2024-03-14T11:31:31Z", "repo": "microsoft/autogen"}
+{"number": 2023, "title": "RetrieveUserProxyAgent in a nested group chat", "createdAt": "2024-03-14T22:40:30Z", "repo": "microsoft/autogen"}
+{"number": 2024, "title": "Regarding return_direct=True in tools of anathema function map.Useful for directly returning output from an tool to the user to avoid sending large context data to an llm", "createdAt": "2024-03-14T22:56:14Z", "repo": "microsoft/autogen"}
+{"number": 2033, "title": "Run AutoGen Studio inside Docker container", "createdAt": "2024-03-15T15:37:24Z", "repo": "microsoft/autogen"}
+{"number": 2047, "title": "How to enforce assistant agent to ask a set of required questions for customer onboarding", "createdAt": "2024-03-17T18:55:19Z", "repo": "microsoft/autogen"}
+{"number": 2085, "title": "GPTAssistantAgent(Coder Assistant) does not want to terminate", "createdAt": "2024-03-19T17:16:13Z", "repo": "microsoft/autogen"}
+{"number": 2087, "title": "Is there any way to send \"exit\" programmatically?", "createdAt": "2024-03-19T17:54:38Z", "repo": "microsoft/autogen"}
+{"number": 2092, "title": "Claude 3 OPUS as an LLM in autogen?", "createdAt": "2024-03-20T02:58:12Z", "repo": "microsoft/autogen"}
+{"number": 2107, "title": "Doesn’t Ollama already support OpenAI api?", "createdAt": "2024-03-21T01:54:31Z", "repo": "microsoft/autogen"}
+{"number": 2112, "title": "Access self hosted model from devcontainer", "createdAt": "2024-03-21T11:43:43Z", "repo": "microsoft/autogen"}
+{"number": 2253, "title": "[Problem]: When added to agent funtion its not calling it, intiated  Suggested tool Call after pressing enter then executing it", "createdAt": "2024-03-26T02:44:55Z", "repo": "microsoft/autogen"}
+{"number": 2268, "title": "How to run autogen fast when doing function calling", "createdAt": "2024-03-26T08:23:56Z", "repo": "microsoft/autogen"}
+{"number": 2252, "title": "UserProxyAgent sends empty message", "createdAt": "2024-03-26T08:39:12Z", "repo": "microsoft/autogen"}
+{"number": 2169, "title": "Is there a way to set up Autogen Studio in a Microservice", "createdAt": "2024-03-27T14:58:30Z", "repo": "microsoft/autogen"}
+{"number": 2208, "title": "Can Autogen work like OpenAI Function calling?", "createdAt": "2024-03-29T15:33:49Z", "repo": "microsoft/autogen"}
+{"number": 2209, "title": "OpenAI Error Handling, Cost Usage, Limit by usage", "createdAt": "2024-03-29T16:01:54Z", "repo": "microsoft/autogen"}
+{"number": 2218, "title": "Exceute tool after/from generate_oai_reply", "createdAt": "2024-03-30T18:35:21Z", "repo": "microsoft/autogen"}
+{"number": 2238, "title": "Is that possible to use llama idex 'Pandas Query engine' function in Autogen functions and add to a new agent?", "createdAt": "2024-04-01T17:27:58Z", "repo": "microsoft/autogen"}
+{"number": 2240, "title": "un register_function( <- Unregister tool", "createdAt": "2024-04-01T17:50:29Z", "repo": "microsoft/autogen"}
+{"number": 2274, "title": "How to set Max Tokens?", "createdAt": "2024-04-04T13:10:16Z", "repo": "microsoft/autogen"}
+{"number": 2278, "title": "trying to use the FSM to control communication among agents", "createdAt": "2024-04-04T16:32:52Z", "repo": "microsoft/autogen"}
+{"number": 2301, "title": "How to save & continue GroupChat", "createdAt": "2024-04-05T21:22:54Z", "repo": "microsoft/autogen"}
+{"number": 2317, "title": "autogen not picking up a tool call?", "createdAt": "2024-04-07T21:39:23Z", "repo": "microsoft/autogen"}
+{"number": 2326, "title": "How do I change an agent's response before it is added to the chat?", "createdAt": "2024-04-08T19:18:00Z", "repo": "microsoft/autogen"}
+{"number": 2331, "title": "How to log whole request which is going to be sent to openAI?", "createdAt": "2024-04-09T12:12:30Z", "repo": "microsoft/autogen"}
+{"number": 2333, "title": "agentchat.conversable_agent.get_total_usage() total_cost not working for gpt-3.5-turbo-0125", "createdAt": "2024-04-09T21:18:35Z", "repo": "microsoft/autogen"}
+{"number": 2349, "title": "Does the autogen-studio 2 front-end have an open source address?", "createdAt": "2024-04-10T14:56:58Z", "repo": "microsoft/autogen"}
+{"number": 2354, "title": "AutoGen Team, calling Functions Problem pls Help", "createdAt": "2024-04-11T14:12:06Z", "repo": "microsoft/autogen"}
+{"number": 2357, "title": "How does one use AutoGen with an existing codebase?", "createdAt": "2024-04-11T15:41:20Z", "repo": "microsoft/autogen"}
+{"number": 2363, "title": "How To: Tool which uses GPT4 chat completion", "createdAt": "2024-04-11T20:32:28Z", "repo": "microsoft/autogen"}
+{"number": 2370, "title": "Response from calling tool - Raise Error", "createdAt": "2024-04-12T16:01:04Z", "repo": "microsoft/autogen"}
+{"number": 2416, "title": "Problems occur in install Autogen Studio locally with the method of Install 2.", "createdAt": "2024-04-17T15:03:53Z", "repo": "microsoft/autogen"}
+{"number": 2422, "title": "Add Headers to config_list", "createdAt": "2024-04-17T22:31:14Z", "repo": "microsoft/autogen"}
+{"number": 2443, "title": "How to use code interpreter in autogen studio?", "createdAt": "2024-04-18T09:14:56Z", "repo": "microsoft/autogen"}
+{"number": 2431, "title": "Is Integrating LITELLM+Anthropic with Autogen Possible?", "createdAt": "2024-04-18T09:34:50Z", "repo": "microsoft/autogen"}
+{"number": 2440, "title": "Proper management of dynamically updated vector database associated with a RAG agent", "createdAt": "2024-04-18T18:28:47Z", "repo": "microsoft/autogen"}
+{"number": 2460, "title": "[Issue]: Needed advice from pro autogen users on app architecture", "createdAt": "2024-04-19T15:57:11Z", "repo": "microsoft/autogen"}
+{"number": 2477, "title": "How to set up a decision making agent using autogen ?", "createdAt": "2024-04-22T11:02:23Z", "repo": "microsoft/autogen"}
+{"number": 2485, "title": "Is there a way to configure AutoGen to use only custom APIs?", "createdAt": "2024-04-23T11:00:22Z", "repo": "microsoft/autogen"}
+{"number": 2486, "title": "Runtime logging with transform messages confusion", "createdAt": "2024-04-23T11:10:02Z", "repo": "microsoft/autogen"}
+{"number": 2489, "title": "Autogen Studio + Ollama models", "createdAt": "2024-04-23T20:33:31Z", "repo": "microsoft/autogen"}
+{"number": 2515, "title": "How to set up a decision making agent using autogen ?", "createdAt": "2024-04-25T11:14:13Z", "repo": "microsoft/autogen"}
+{"number": 2518, "title": "GroupChat Messages not working?", "createdAt": "2024-04-25T23:54:17Z", "repo": "microsoft/autogen"}
+{"number": 2523, "title": "Handling State Transitions to Execute Functions with 'user_proxy'", "createdAt": "2024-04-26T09:10:49Z", "repo": "microsoft/autogen"}
+{"number": 2549, "title": "Had anyone luck using llama 3 for function calling?", "createdAt": "2024-04-30T09:36:07Z", "repo": "microsoft/autogen"}
+{"number": 2551, "title": "In group chat, under each agent to chat_manager, there are multiple turns of chat", "createdAt": "2024-04-30T19:31:08Z", "repo": "microsoft/autogen"}
+{"number": 2556, "title": "Additonal chat results to include time spent waiting on LLMs, time spent in code execution, etc.", "createdAt": "2024-05-01T04:12:55Z", "repo": "microsoft/autogen"}
+{"number": 2576, "title": "Using autogen assistants to talk over a dataset. But when im querying the dataset, assistantproxy agent is not able to filter the dataset according to the question and giving random records which are not part of my dataset  [Bug]:", "createdAt": "2024-05-02T08:58:34Z", "repo": "microsoft/autogen"}
+{"number": 2597, "title": "AttributeError: 'str' object has no attribute 'model'", "createdAt": "2024-05-05T12:21:59Z", "repo": "microsoft/autogen"}
+{"number": 2617, "title": "Problems with runtime logger in parallel tasks", "createdAt": "2024-05-07T19:02:42Z", "repo": "microsoft/autogen"}
+{"number": 2630, "title": "_summarize_chat can return a non-string object", "createdAt": "2024-05-09T01:08:07Z", "repo": "microsoft/autogen"}
+{"number": 2632, "title": "Support for gpt-4-turbo-vision", "createdAt": "2024-05-09T05:24:03Z", "repo": "microsoft/autogen"}
+{"number": 2636, "title": "How do i create tools that need credentials?", "createdAt": "2024-05-09T11:50:02Z", "repo": "microsoft/autogen"}
+{"number": 2665, "title": "Regarding Pyautogen Studio's \"State Transition\" option", "createdAt": "2024-05-11T17:39:25Z", "repo": "microsoft/autogen"}
+{"number": 2668, "title": "Tool Call -> Terminate Group Chat / Remove Tool", "createdAt": "2024-05-12T16:48:02Z", "repo": "microsoft/autogen"}
+{"number": 2669, "title": "Regarding training small model on Autogen.", "createdAt": "2024-05-12T18:09:37Z", "repo": "microsoft/autogen"}
+{"number": 2698, "title": "Connecting to data source and calling appropriate function for data analysis", "createdAt": "2024-05-15T21:47:45Z", "repo": "microsoft/autogen"}
+{"number": 2700, "title": "How to run autogen through Managed Identity", "createdAt": "2024-05-16T18:00:30Z", "repo": "microsoft/autogen"}
+{"number": 2701, "title": "Tiktoken and cost tracking issues on gpt-4o", "createdAt": "2024-05-16T18:56:51Z", "repo": "microsoft/autogen"}
+{"number": 2746, "title": "In group chat, is there any method to check the the broadcast information from manager_agent?", "createdAt": "2024-05-16T23:19:28Z", "repo": "microsoft/autogen"}
+{"number": 2710, "title": "Not able to download Autogen in .NET", "createdAt": "2024-05-17T12:43:30Z", "repo": "microsoft/autogen"}
+{"number": 2721, "title": "Need help on streaming response using websocket", "createdAt": "2024-05-19T18:08:44Z", "repo": "microsoft/autogen"}
+{"number": 2729, "title": "Is there any chance to make an .exe binaries ?", "createdAt": "2024-05-20T10:31:50Z", "repo": "microsoft/autogen"}
+{"number": 2730, "title": "Overall logging framework expansion", "createdAt": "2024-05-20T17:01:26Z", "repo": "microsoft/autogen"}
+{"number": 2731, "title": "Support for agent_capability in Autogen Studio", "createdAt": "2024-05-20T18:56:52Z", "repo": "microsoft/autogen"}
+{"number": 2733, "title": "AutoGen studio login", "createdAt": "2024-05-20T20:56:37Z", "repo": "microsoft/autogen"}
+{"number": 2744, "title": "How can I apply the code to my code? That is to say, how can the agent check and provide modification suggestions based on my code", "createdAt": "2024-05-21T08:07:29Z", "repo": "microsoft/autogen"}
+{"number": 2757, "title": "Groq Client", "createdAt": "2024-05-22T12:44:21Z", "repo": "microsoft/autogen"}
+{"number": 2767, "title": "Agents over network", "createdAt": "2024-05-23T09:23:26Z", "repo": "microsoft/autogen"}
+{"number": 2787, "title": "[.net] Comparison of features with Python version", "createdAt": "2024-05-24T15:37:57Z", "repo": "microsoft/autogen"}
+{"number": 2801, "title": "[HELP] Conversable Agent - Specific dialog flow between agents", "createdAt": "2024-05-27T02:48:02Z", "repo": "microsoft/autogen"}
+{"number": 2802, "title": "Batch api for Autogen", "createdAt": "2024-05-27T05:29:24Z", "repo": "microsoft/autogen"}
+{"number": 2808, "title": "[HELP] Conversable Agent - Specific dialog flow between agents", "createdAt": "2024-05-28T09:49:31Z", "repo": "microsoft/autogen"}
+{"number": 2809, "title": "How do agents differ (Conversable and assistant)?", "createdAt": "2024-05-28T10:08:34Z", "repo": "microsoft/autogen"}
+{"number": 2810, "title": "Next release schedule", "createdAt": "2024-05-28T11:07:03Z", "repo": "microsoft/autogen"}
+{"number": 2822, "title": "can't set user_proxy_agent to ALWAYS", "createdAt": "2024-05-29T18:23:55Z", "repo": "microsoft/autogen"}
+{"number": 2826, "title": "Can we compile other Programming language?", "createdAt": "2024-05-30T04:09:25Z", "repo": "microsoft/autogen"}
+{"number": 2862, "title": "Passing User Variables to User Proxy Agent - initiate_chat", "createdAt": "2024-06-04T13:46:46Z", "repo": "microsoft/autogen"}
+{"number": 2869, "title": "messages with role 'tool' must be a response to a preceeding message with 'tool_calls", "createdAt": "2024-06-05T03:00:52Z", "repo": "microsoft/autogen"}
+{"number": 2943, "title": "Grouchat of 7 Agents and Groupchat manager as Coordinator", "createdAt": "2024-06-14T15:22:49Z", "repo": "microsoft/autogen"}
+{"number": 2969, "title": "How to ask pdf as user input and analyse the pdf and later perform some operations on it", "createdAt": "2024-06-19T08:57:02Z", "repo": "microsoft/autogen"}
+{"number": 2972, "title": "Getting exception in Autogen.Net", "createdAt": "2024-06-19T16:19:09Z", "repo": "microsoft/autogen"}
+{"number": 3002, "title": "NPU acceleration", "createdAt": "2024-06-22T18:35:54Z", "repo": "microsoft/autogen"}
+{"number": 3005, "title": "Trouble creating chat with custom agent.", "createdAt": "2024-06-23T19:54:50Z", "repo": "microsoft/autogen"}
+{"number": 3008, "title": "License of autogen", "createdAt": "2024-06-24T08:41:26Z", "repo": "microsoft/autogen"}
+{"number": 3020, "title": "Autogen with Llamaindex - Is this code working??", "createdAt": "2024-06-25T05:24:40Z", "repo": "microsoft/autogen"}
+{"number": 3031, "title": "Monitoring Autogen with Portkey’s Gateway", "createdAt": "2024-06-27T11:17:51Z", "repo": "microsoft/autogen"}
+{"number": 3062, "title": "Multi Agent Chat with 2 Rag Systems", "createdAt": "2024-07-02T12:51:26Z", "repo": "microsoft/autogen"}
+{"number": 3084, "title": "When I use GPTAssistantAgent, there is no answer.", "createdAt": "2024-07-05T06:35:01Z", "repo": "microsoft/autogen"}
+{"number": 3090, "title": "Add a reflection mechanism for both agents in the dialogue between two agents.", "createdAt": "2024-07-08T08:17:35Z", "repo": "microsoft/autogen"}
+{"number": 3091, "title": "User assistants cannot execute Python code", "createdAt": "2024-07-08T12:56:17Z", "repo": "microsoft/autogen"}
+{"number": 3112, "title": "Group Chat works but the chat_history don't", "createdAt": "2024-07-11T00:39:31Z", "repo": "microsoft/autogen"}
+{"number": 3114, "title": "List index out of range", "createdAt": "2024-07-11T08:41:14Z", "repo": "microsoft/autogen"}
+{"number": 3123, "title": "Where is the debug console in autogen studio?", "createdAt": "2024-07-12T23:45:25Z", "repo": "microsoft/autogen"}
+{"number": 3135, "title": "Making sense of json examples for studio api call", "createdAt": "2024-07-14T06:59:36Z", "repo": "microsoft/autogen"}
+{"number": 3155, "title": "Chat message history in a group chat | used function calling", "createdAt": "2024-07-17T06:36:52Z", "repo": "microsoft/autogen"}
+{"number": 3213, "title": "Is there a way to run Autogen Studio 2 with SSL enabled", "createdAt": "2024-07-25T22:23:29Z", "repo": "microsoft/autogen"}
+{"number": 3262, "title": "Can we integrate openAI fine-tuned model with Autogen?", "createdAt": "2024-07-31T11:56:40Z", "repo": "microsoft/autogen"}
+{"number": 3267, "title": "Unable to Integrate Azure OpenAI with Autogen", "createdAt": "2024-07-31T22:39:56Z", "repo": "microsoft/autogen"}
+{"number": 3278, "title": "Removing images in history of multimodal conversation", "createdAt": "2024-08-02T05:30:46Z", "repo": "microsoft/autogen"}
+{"number": 3280, "title": "Implementing a Multi-Agent Code Generation Flow", "createdAt": "2024-08-02T05:47:45Z", "repo": "microsoft/autogen"}
+{"number": 3292, "title": "Discussion about nested_chats design", "createdAt": "2024-08-05T08:57:21Z", "repo": "microsoft/autogen"}
+{"number": 3293, "title": "Building a multi-agent concierge system with Autogen", "createdAt": "2024-08-05T14:43:20Z", "repo": "microsoft/autogen"}
+{"number": 3294, "title": "Is there any existing work to remove the hardcoded formatting and debug styling in the agent printed/streamed responses?", "createdAt": "2024-08-05T16:13:41Z", "repo": "microsoft/autogen"}
+{"number": 3324, "title": "Unable to run Retrieval-Augmented Generation (RAG) Applications with AutoGen without Docker", "createdAt": "2024-08-07T22:19:53Z", "repo": "microsoft/autogen"}
+{"number": 3338, "title": "Is custom model loaded multiple times, as many agents are there?", "createdAt": "2024-08-10T07:34:29Z", "repo": "microsoft/autogen"}
+{"number": 3348, "title": "How to receive the final reply", "createdAt": "2024-08-14T04:52:53Z", "repo": "microsoft/autogen"}
+{"number": 3349, "title": "Managing large file editing with diffs using LocalCommandLineCodeExector", "createdAt": "2024-08-14T09:42:12Z", "repo": "microsoft/autogen"}
+{"number": 3374, "title": "How to maintain different user context in the Assistants?", "createdAt": "2024-08-17T18:53:47Z", "repo": "microsoft/autogen"}
+{"number": 3381, "title": "FileNotFoundError in code_executor_agent from tutorial", "createdAt": "2024-08-19T14:51:35Z", "repo": "microsoft/autogen"}
+{"number": 3403, "title": "Using websockets, how to use async a_initiate_chat in on_connect?", "createdAt": "2024-08-23T02:12:17Z", "repo": "microsoft/autogen"}
+{"number": 3409, "title": "Cannot resume groupchat with tool calls", "createdAt": "2024-08-23T17:48:38Z", "repo": "microsoft/autogen"}
+{"number": 3418, "title": "How can I build in autogen-studio from source code.", "createdAt": "2024-08-26T08:27:26Z", "repo": "microsoft/autogen"}
+{"number": 3430, "title": "Code execution not working while using with Kafka", "createdAt": "2024-08-27T11:26:11Z", "repo": "microsoft/autogen"}
+{"number": 3431, "title": "How to execute a streaming function tool with another function tool", "createdAt": "2024-08-27T11:49:47Z", "repo": "microsoft/autogen"}
+{"number": 3451, "title": "Unexpected Math Problem Solving When Sending Non-Math Messages with AutoGen", "createdAt": "2024-08-29T23:59:21Z", "repo": "microsoft/autogen"}
+{"number": 3464, "title": "Getting error - TypeError: 'dict' object is not callable in file conversable_agent.py", "createdAt": "2024-09-02T15:00:11Z", "repo": "microsoft/autogen"}
+{"number": 3466, "title": "Which companies have implemented autogen？", "createdAt": "2024-09-03T15:00:01Z", "repo": "microsoft/autogen"}
+{"number": 3471, "title": "Why not buy flowise instead continue develop autogen?", "createdAt": "2024-09-04T00:41:09Z", "repo": "microsoft/autogen"}
+{"number": 3498, "title": "perplexity.ai skill -> right answers with direct API call, but wrong (hallucinted) answer when same API is used within a AutoGen skill", "createdAt": "2024-09-09T14:06:18Z", "repo": "microsoft/autogen"}
+{"number": 3503, "title": "Autogen with Huggingface Llama 3.1 70B does not work with tool calling. Autogen Studio works however.", "createdAt": "2024-09-10T18:34:44Z", "repo": "microsoft/autogen"}
+{"number": 3526, "title": "Model verification agent", "createdAt": "2024-09-13T16:37:55Z", "repo": "microsoft/autogen"}
+{"number": 3560, "title": "Explicitly defined filename for coder agent", "createdAt": "2024-09-23T17:57:21Z", "repo": "microsoft/autogen"}
+{"number": 3571, "title": "How to Retrieve Real-Time Output from UserProxyAgent.", "createdAt": "2024-09-26T08:09:39Z", "repo": "microsoft/autogen"}
+{"number": 3598, "title": "[Feature Request]: next step?", "createdAt": "2024-10-01T10:26:28Z", "repo": "microsoft/autogen"}
+{"number": 3595, "title": "v0.2.36", "createdAt": "2024-10-02T00:12:59Z", "repo": "microsoft/autogen"}
+{"number": 3601, "title": "Discussion: New AutoGen Architecture Preview", "createdAt": "2024-10-02T18:13:10Z", "repo": "microsoft/autogen"}
+{"number": 3604, "title": "need support of identity instead of plan key", "createdAt": "2024-10-02T19:20:01Z", "repo": "microsoft/autogen"}
+{"number": 3607, "title": "Updated RAG blog post", "createdAt": "2024-10-03T04:36:15Z", "repo": "microsoft/autogen"}
+{"number": 3666, "title": "about multi teachable agent", "createdAt": "2024-10-05T03:18:00Z", "repo": "microsoft/autogen"}
+{"number": 3671, "title": "How does a complete novice learn about ai agents or multiagents", "createdAt": "2024-10-06T06:49:43Z", "repo": "microsoft/autogen"}
+{"number": 3697, "title": "Can we please figure out how to do this github pypi packaging thing better and explain it", "createdAt": "2024-10-09T00:17:47Z", "repo": "microsoft/autogen"}
+{"number": 3743, "title": "Seeking help: Real-Time Message Streaming Issue with GroupChatManager in AutoGen Framework", "createdAt": "2024-10-10T22:41:31Z", "repo": "microsoft/autogen"}
+{"number": 3773, "title": "Docker and local code is not executing [Ollama]", "createdAt": "2024-10-13T15:33:53Z", "repo": "microsoft/autogen"}
+{"number": 3805, "title": "The autogen-agentchat package is not up to date.", "createdAt": "2024-10-16T12:45:51Z", "repo": "microsoft/autogen"}
+{"number": 3844, "title": "Project Hygiene: Triage Rotation Process", "createdAt": "2024-10-18T16:17:30Z", "repo": "microsoft/autogen"}
+{"number": 3854, "title": "Non-Openai clients for autogen 0.4", "createdAt": "2024-10-20T22:51:10Z", "repo": "microsoft/autogen"}
+{"number": 3857, "title": "Improve the structure of logging (customize the logging format)", "createdAt": "2024-10-21T10:54:01Z", "repo": "microsoft/autogen"}
+{"number": 3866, "title": "[Question] Timeout, Execute a code", "createdAt": "2024-10-21T12:54:11Z", "repo": "microsoft/autogen"}
+{"number": 3874, "title": "Is user input disabled/abstracted while a code block is executing?", "createdAt": "2024-10-21T22:05:05Z", "repo": "microsoft/autogen"}
+{"number": 3895, "title": "Reset", "createdAt": "2024-10-23T00:20:18Z", "repo": "microsoft/autogen"}
+{"number": 3914, "title": "Why there are two repos, autogen_agentchat and autogen?", "createdAt": "2024-10-23T17:47:12Z", "repo": "microsoft/autogen"}
+{"number": 3915, "title": "How to integrate Autogen GroupChat with WhatsApp API for chatbot interactions?", "createdAt": "2024-10-23T18:00:50Z", "repo": "microsoft/autogen"}
+{"number": 3937, "title": "Few-Shot Examples with AutoGen Assistant Agents - Best Practices?", "createdAt": "2024-10-23T23:59:11Z", "repo": "microsoft/autogen"}
+{"number": 3941, "title": "I would like to inquire about multi-agent.", "createdAt": "2024-10-24T03:51:19Z", "repo": "microsoft/autogen"}
+{"number": 3942, "title": "Issue with registering nested chat functionality", "createdAt": "2024-10-24T12:22:30Z", "repo": "microsoft/autogen"}
+{"number": 3944, "title": "Autogen handoff", "createdAt": "2024-10-24T16:42:44Z", "repo": "microsoft/autogen"}
+{"number": 3955, "title": "Separation of Concerns in RetrieveUserProxyAgent Class", "createdAt": "2024-10-25T05:32:11Z", "repo": "microsoft/autogen"}
+{"number": 3956, "title": "Missing Metadata in RetrieveUserProxyAgent Retrieval Context", "createdAt": "2024-10-25T05:37:40Z", "repo": "microsoft/autogen"}
+{"number": 3957, "title": "Adding LocalOpenAIChatCompletionClient for Local LLM Calls in AutoGen 0.4", "createdAt": "2024-10-25T07:14:54Z", "repo": "microsoft/autogen"}
+{"number": 3963, "title": "What's the right way to override execute_function?", "createdAt": "2024-10-26T00:47:37Z", "repo": "microsoft/autogen"}
+{"number": 3967, "title": ".Net, do we really need to use a preview version of .Net Aspire", "createdAt": "2024-10-26T17:26:06Z", "repo": "microsoft/autogen"}
+{"number": 3993, "title": "Seeking Help - Single Agent Asking Multiple Questions", "createdAt": "2024-10-29T23:49:13Z", "repo": "microsoft/autogen"}
+{"number": 3998, "title": "Scenario of distributed agent", "createdAt": "2024-10-30T06:54:03Z", "repo": "microsoft/autogen"}
+{"number": 4001, "title": "Slack Integration with AutoGen", "createdAt": "2024-10-30T12:25:26Z", "repo": "microsoft/autogen"}
+{"number": 4004, "title": "Accessing Autogen Studio in Kaggle", "createdAt": "2024-10-30T21:17:40Z", "repo": "microsoft/autogen"}
+{"number": 4014, "title": "Autogen 0.2, Azure 4o compatability", "createdAt": "2024-10-31T12:11:39Z", "repo": "microsoft/autogen"}
+{"number": 4019, "title": "Text to Neo4j Cypher scripts", "createdAt": "2024-10-31T20:09:54Z", "repo": "microsoft/autogen"}
+{"number": 4023, "title": "Autogen Studio | How to terminate group chat without terminating the whole workflow?", "createdAt": "2024-11-01T09:19:34Z", "repo": "microsoft/autogen"}
+{"number": 4033, "title": "Callback function on termination condition or human in the loop", "createdAt": "2024-11-01T19:04:08Z", "repo": "microsoft/autogen"}
+{"number": 4051, "title": "Flexible nested chat triggers", "createdAt": "2024-11-02T07:30:12Z", "repo": "microsoft/autogen"}
+{"number": 4048, "title": "[Autogen Studio UI] Agent not deterministic when using skill", "createdAt": "2024-11-04T09:52:21Z", "repo": "microsoft/autogen"}
+{"number": 4055, "title": "Summary/save conversation using autogen", "createdAt": "2024-11-04T17:47:46Z", "repo": "microsoft/autogen"}
+{"number": 4059, "title": "Community Office Hours", "createdAt": "2024-11-04T23:52:12Z", "repo": "microsoft/autogen"}
+{"number": 4069, "title": "unable to install autogen 0.4", "createdAt": "2024-11-05T21:29:15Z", "repo": "microsoft/autogen"}
+{"number": 4074, "title": "[Autogen studio] how can i use v0.4 autogen studio?", "createdAt": "2024-11-06T03:47:25Z", "repo": "microsoft/autogen"}
+{"number": 4080, "title": "\"openai.BadRequestError: Invalid role\" error while using Ollama + LiteLLM + Autogen", "createdAt": "2024-11-06T21:00:09Z", "repo": "microsoft/autogen"}
+{"number": 4083, "title": "Why does the chat not end when i use the following code", "createdAt": "2024-11-06T22:19:46Z", "repo": "microsoft/autogen"}
+{"number": 4085, "title": "Wrong tool executor", "createdAt": "2024-11-07T09:42:10Z", "repo": "microsoft/autogen"}
+{"number": 4101, "title": "Distributed Agent Runtime: Adding secure channel communication for worker runtimes", "createdAt": "2024-11-08T19:02:54Z", "repo": "microsoft/autogen"}
+{"number": 4105, "title": "Proposed work around for top level await in notebooks", "createdAt": "2024-11-08T20:36:38Z", "repo": "microsoft/autogen"}
+{"number": 4119, "title": "Where do I set the API keys, I dont find any configuration file here", "createdAt": "2024-11-10T02:12:14Z", "repo": "microsoft/autogen"}
+{"number": 4125, "title": "does agent has default cache?", "createdAt": "2024-11-11T02:58:23Z", "repo": "microsoft/autogen"}
+{"number": 4132, "title": "Why does nested_chats only inherit the last_msg of historical information and discord messages when nested_chats finish the task?", "createdAt": "2024-11-11T08:32:46Z", "repo": "microsoft/autogen"}
+{"number": 4138, "title": "Agent Chat and Runttime Association", "createdAt": "2024-11-11T17:32:11Z", "repo": "microsoft/autogen"}
+{"number": 4161, "title": "Signal Error Worker Runtime", "createdAt": "2024-11-12T22:15:06Z", "repo": "microsoft/autogen"}
+{"number": 4163, "title": "Integrating Autogen with Ollama (on college cluster) to make AI Agents.", "createdAt": "2024-11-12T23:59:19Z", "repo": "microsoft/autogen"}
+{"number": 4166, "title": "Comparison with ReAct agent by Llama index", "createdAt": "2024-11-13T09:13:19Z", "repo": "microsoft/autogen"}
+{"number": 4167, "title": "Memory in Autogent", "createdAt": "2024-11-13T10:51:35Z", "repo": "microsoft/autogen"}
+{"number": 4192, "title": "AutoGen 0.4 HumanInLoop Support", "createdAt": "2024-11-14T09:08:35Z", "repo": "microsoft/autogen"}
+{"number": 4186, "title": "How send an initial message to Orchestrator without input from user in magentic-one?", "createdAt": "2024-11-14T13:07:18Z", "repo": "microsoft/autogen"}
+{"number": 4188, "title": "magnetic-one: how to intercept messages sent among agents to display in user application (web app, etc.)?", "createdAt": "2024-11-14T17:07:43Z", "repo": "microsoft/autogen"}
+{"number": 4207, "title": "Does runtime destroy agent instance?", "createdAt": "2024-11-15T03:19:11Z", "repo": "microsoft/autogen"}
+{"number": 4208, "title": "AutoGen Studio and AutoGen v0.4 [Status Updates, Discussion]", "createdAt": "2024-11-15T03:45:02Z", "repo": "microsoft/autogen"}
+{"number": 4211, "title": "Best Approach for Result Collection in Autogen GroupChat with Multiple Agents?", "createdAt": "2024-11-15T04:50:20Z", "repo": "microsoft/autogen"}
+{"number": 4212, "title": "Magnetic One Azure authentication", "createdAt": "2024-11-15T05:59:42Z", "repo": "microsoft/autogen"}
+{"number": 4215, "title": "How to Parallelize Agents in a GroupChat Workflow", "createdAt": "2024-11-15T09:33:52Z", "repo": "microsoft/autogen"}
+{"number": 4216, "title": "Which autogen is the official", "createdAt": "2024-11-15T12:06:15Z", "repo": "microsoft/autogen"}
+{"number": 4217, "title": "Clarification Regarding AutoGen Forks", "createdAt": "2024-11-15T15:32:54Z", "repo": "microsoft/autogen"}
+{"number": 4229, "title": "Debug Agent Not receiving Message Autogen 0.4", "createdAt": "2024-11-15T23:35:16Z", "repo": "microsoft/autogen"}
+{"number": 4234, "title": "[v0.4] High-level interface for Mixture of Agents", "createdAt": "2024-11-16T14:45:35Z", "repo": "microsoft/autogen"}
+{"number": 4237, "title": "Issue with Magentic-One - Termination", "createdAt": "2024-11-16T17:31:25Z", "repo": "microsoft/autogen"}
+{"number": 4244, "title": "using magentic web crawler agent - legal considerations", "createdAt": "2024-11-17T06:56:11Z", "repo": "microsoft/autogen"}
+{"number": 4249, "title": "How to use other model than Openai gpt", "createdAt": "2024-11-17T23:00:48Z", "repo": "microsoft/autogen"}
+{"number": 4250, "title": "conda instead of venv?", "createdAt": "2024-11-18T02:07:07Z", "repo": "microsoft/autogen"}
+{"number": 4251, "title": "Magentic One - how to get the formatted output as in the published videos from the blog?", "createdAt": "2024-11-18T03:59:51Z", "repo": "microsoft/autogen"}
+{"number": 4252, "title": "Magentic One - how to get files from the execution environment?", "createdAt": "2024-11-18T04:50:16Z", "repo": "microsoft/autogen"}
+{"number": 4269, "title": "how to connect to azure search service to query the index", "createdAt": "2024-11-19T17:10:00Z", "repo": "microsoft/autogen"}
+{"number": 4276, "title": "Sequential chat - is_termination_msg with max_turns", "createdAt": "2024-11-20T02:50:09Z", "repo": "microsoft/autogen"}
+{"number": 4281, "title": "Inquiry About Supervisor Agent Use Case in Autogen Documentation", "createdAt": "2024-11-20T07:01:34Z", "repo": "microsoft/autogen"}
+{"number": 4287, "title": "Request for Assistance in Training LLMs Using RAG for Educational Chatbots", "createdAt": "2024-11-20T19:34:33Z", "repo": "microsoft/autogen"}
+{"number": 4297, "title": "If anyone is trying to use Azure via Github Models", "createdAt": "2024-11-21T02:48:03Z", "repo": "microsoft/autogen"}
+{"number": 4306, "title": "new installed autogenstudio failed at startup during database creation", "createdAt": "2024-11-22T02:24:44Z", "repo": "microsoft/autogen"}
+{"number": 4310, "title": "Is there a way to access incremental ChatResult.chat_history as the conversation proceeds ?", "createdAt": "2024-11-22T07:44:07Z", "repo": "microsoft/autogen"}
+{"number": 4312, "title": "how Multi threaded or coroutine isolation？？", "createdAt": "2024-11-22T08:28:00Z", "repo": "microsoft/autogen"}
+{"number": 4313, "title": "Capturing Code Executor Output as JSON for UI Integration in AutoGen", "createdAt": "2024-11-22T13:06:44Z", "repo": "microsoft/autogen"}
+{"number": 4314, "title": "Does AutoGen Support MongoDB and SQL Agents Like LangChain?", "createdAt": "2024-11-22T13:13:37Z", "repo": "microsoft/autogen"}
+{"number": 4328, "title": "Session Memory Team and all AssistanrAgent", "createdAt": "2024-11-23T13:28:40Z", "repo": "microsoft/autogen"}
+{"number": 4330, "title": "Composio with AutoGen 0.4", "createdAt": "2024-11-23T23:55:23Z", "repo": "microsoft/autogen"}
+{"number": 4331, "title": "Catching Stderr", "createdAt": "2024-11-24T00:54:59Z", "repo": "microsoft/autogen"}
+{"number": 4337, "title": "Ability to pass session context via runtime between agents", "createdAt": "2024-11-25T00:41:50Z", "repo": "microsoft/autogen"}
+{"number": 4341, "title": "Facing Import Error while using Groq", "createdAt": "2024-11-25T11:07:20Z", "repo": "microsoft/autogen"}
+{"number": 4342, "title": "Facing issues with Groq", "createdAt": "2024-11-25T11:10:18Z", "repo": "microsoft/autogen"}
+{"number": 4343, "title": "Has the new version of autogenstudio been released yet?", "createdAt": "2024-11-25T12:03:36Z", "repo": "microsoft/autogen"}
+{"number": 4344, "title": "**How to Store Memory in Sequential Autogen Agent Workflow to Maintain Context in a Single Chat Session?**", "createdAt": "2024-11-25T12:10:32Z", "repo": "microsoft/autogen"}
+{"number": 4345, "title": "How do I import a variable from my own code into a groupchat of agents?", "createdAt": "2024-11-25T15:14:52Z", "repo": "microsoft/autogen"}
+{"number": 4361, "title": "Update agent description and system message based on groupchat context", "createdAt": "2024-11-25T22:12:56Z", "repo": "microsoft/autogen"}
+{"number": 4368, "title": "Does AutoGen 0.4 Support Using Ollama With Agent Collaboration?", "createdAt": "2024-11-26T07:01:13Z", "repo": "microsoft/autogen"}
+{"number": 4370, "title": "How do I wrap agent A and agent B  as agent C, which C play as a part of the groupchat?", "createdAt": "2024-11-26T07:50:17Z", "repo": "microsoft/autogen"}
+{"number": 4398, "title": "Autogen with multiple RAG agents", "createdAt": "2024-11-27T10:29:02Z", "repo": "microsoft/autogen"}
+{"number": 4406, "title": "error occurred while processing message: 'NoneType' object has no attribute 'create' while creating an agent in AutogenStudio", "createdAt": "2024-11-27T15:49:47Z", "repo": "microsoft/autogen"}
+{"number": 4415, "title": "Speaker selection function (state_transition) with \"parallel\" agents processing", "createdAt": "2024-11-27T21:38:42Z", "repo": "microsoft/autogen"}
+{"number": 4419, "title": "How to Configure Custom Endpoint URL for API in Autogen?", "createdAt": "2024-11-28T07:16:55Z", "repo": "microsoft/autogen"}
+{"number": 4420, "title": "Issues in Autogen Studio", "createdAt": "2024-11-28T12:12:20Z", "repo": "microsoft/autogen"}
+{"number": 4434, "title": "How do I define input for tools?", "createdAt": "2024-11-30T01:19:59Z", "repo": "microsoft/autogen"}
+{"number": 4449, "title": "How do I control the tool-calling in Autogen?", "createdAt": "2024-12-02T09:14:59Z", "repo": "microsoft/autogen"}
+{"number": 4451, "title": "How to share conversation history to a tool in a SelectorGroupChat conversation", "createdAt": "2024-12-02T11:38:38Z", "repo": "microsoft/autogen"}
+{"number": 4458, "title": "Can agents created through the AutoGen framework interact with agents not created by that framework", "createdAt": "2024-12-02T16:45:31Z", "repo": "microsoft/autogen"}
+{"number": 4460, "title": "0.4 Milestone Timeline", "createdAt": "2024-12-02T16:55:42Z", "repo": "microsoft/autogen"}
+{"number": 4486, "title": "Dynamically Generate new Agent Systems", "createdAt": "2024-12-03T14:15:37Z", "repo": "microsoft/autogen"}
+{"number": 4488, "title": "Can We Use Tools with GroupChat?", "createdAt": "2024-12-03T14:48:06Z", "repo": "microsoft/autogen"}
+{"number": 4522, "title": "Chat completion with Qwen2.5-instruct model", "createdAt": "2024-12-04T02:49:24Z", "repo": "microsoft/autogen"}
+{"number": 4539, "title": "Cannot find dotnet/0.2.2 on Nuget.org", "createdAt": "2024-12-04T10:50:53Z", "repo": "microsoft/autogen"}
+{"number": 4547, "title": "Kubernetes Pod Commandline Code Executor custom image", "createdAt": "2024-12-04T21:25:28Z", "repo": "microsoft/autogen"}
+{"number": 4562, "title": "Is it possible to register_function with class instance method ?", "createdAt": "2024-12-05T16:28:03Z", "repo": "microsoft/autogen"}
+{"number": 4581, "title": "README Quickstart for AgentChat is using autogen_agentchat.ui", "createdAt": "2024-12-06T00:27:23Z", "repo": "microsoft/autogen"}
+{"number": 4603, "title": "Tool calls with open source models", "createdAt": "2024-12-07T14:50:26Z", "repo": "microsoft/autogen"}
+{"number": 4604, "title": "Is built-in tool calling a must? I'm using Llama-3.3-70b on vLLM", "createdAt": "2024-12-07T21:55:01Z", "repo": "microsoft/autogen"}
+{"number": 4606, "title": "Autogen for image analysis with Claude3.5 API and MultimodalConversableAgent", "createdAt": "2024-12-08T10:08:25Z", "repo": "microsoft/autogen"}
+{"number": 4607, "title": "How to route a query to multiple teams, one has a sequetial workflow and another has a group chat", "createdAt": "2024-12-08T13:16:55Z", "repo": "microsoft/autogen"}
+{"number": 4617, "title": "Autogen and front interface", "createdAt": "2024-12-09T21:47:27Z", "repo": "microsoft/autogen"}
+{"number": 4638, "title": "Why \"Multiple handoffs detected only the first is executed\"? (dev10)", "createdAt": "2024-12-10T08:22:53Z", "repo": "microsoft/autogen"}
+{"number": 4651, "title": "Why after I upgraded from 0.4.0.dev8 to 0.4.0.dev11 agent does not intelligently create response message based on tool result?", "createdAt": "2024-12-11T04:55:47Z", "repo": "microsoft/autogen"}
+{"number": 4654, "title": "poe check fails on main branch", "createdAt": "2024-12-11T10:58:34Z", "repo": "microsoft/autogen"}
+{"number": 4656, "title": "Authentication and Authorization", "createdAt": "2024-12-11T12:59:44Z", "repo": "microsoft/autogen"}
+{"number": 4660, "title": "Question about Autogen's Support for CSV File Handling", "createdAt": "2024-12-11T21:22:26Z", "repo": "microsoft/autogen"}
+{"number": 4663, "title": "\"RuntimeError: The team cannot be saved while it is running.\" How to stop team so I can save team's state?", "createdAt": "2024-12-12T03:25:44Z", "repo": "microsoft/autogen"}
+{"number": 4664, "title": "Between 0.4.0.dev8 and 0.4.0.dev11, Why the same system message prompt but it behaved differently?", "createdAt": "2024-12-12T03:57:55Z", "repo": "microsoft/autogen"}
+{"number": 4665, "title": "Environment Variables Not Accessible in Docker-based Tool Execution", "createdAt": "2024-12-12T04:45:59Z", "repo": "microsoft/autogen"}
+{"number": 4668, "title": "Transform Message or Hook for 0.4", "createdAt": "2024-12-12T05:37:23Z", "repo": "microsoft/autogen"}
+{"number": 4678, "title": "Is it possible to interact with browser in docker?", "createdAt": "2024-12-12T07:39:08Z", "repo": "microsoft/autogen"}
+{"number": 4682, "title": "FastAPI autogen asynchronous session not working", "createdAt": "2024-12-12T14:02:21Z", "repo": "microsoft/autogen"}
+{"number": 4704, "title": "0.0.4.dev11: Multiple termination conditions not working", "createdAt": "2024-12-14T04:42:47Z", "repo": "microsoft/autogen"}
+{"number": 4726, "title": "Autogen for data analysis including numbers and text?", "createdAt": "2024-12-16T21:02:22Z", "repo": "microsoft/autogen"}
+{"number": 4729, "title": "Create a chatbot with multi turn human input", "createdAt": "2024-12-17T04:21:18Z", "repo": "microsoft/autogen"}
+{"number": 4738, "title": "FileSurfer/WebSurfer", "createdAt": "2024-12-17T16:19:37Z", "repo": "microsoft/autogen"}
+{"number": 4772, "title": "async for message in stream, high cpu usages.", "createdAt": "2024-12-20T10:52:43Z", "repo": "microsoft/autogen"}
+{"number": 4777, "title": "Which open models can work with MultimodalWebSurfer?", "createdAt": "2024-12-20T21:58:36Z", "repo": "microsoft/autogen"}
+{"number": 4790, "title": "Autogen with mistral/Pixtral 12B model hosted using Vllm", "createdAt": "2024-12-23T05:06:07Z", "repo": "microsoft/autogen"}
+{"number": 4797, "title": "Code execution agent returning empty message and being called recursively", "createdAt": "2024-12-23T18:19:02Z", "repo": "microsoft/autogen"}
+{"number": 4813, "title": "Autogen Nest", "createdAt": "2024-12-26T11:48:30Z", "repo": "microsoft/autogen"}
+{"number": 4814, "title": "Clarification on UserProxyAgent and its default_auto_reply attribute", "createdAt": "2024-12-26T12:36:05Z", "repo": "microsoft/autogen"}
+{"number": 4823, "title": "Implementing Autogen Sequential Workflow approach in FastAPI and doesn't works.", "createdAt": "2024-12-27T04:25:56Z", "repo": "microsoft/autogen"}
+{"number": 4842, "title": "GroupChatManager with Ollama not working - C#", "createdAt": "2024-12-27T23:10:09Z", "repo": "microsoft/autogen"}
+{"number": 4846, "title": "GroupChat: One-to-Many Routing with Aggregated Response Handling", "createdAt": "2024-12-28T16:36:12Z", "repo": "microsoft/autogen"}
+{"number": 4865, "title": "Managing Workflow between agent", "createdAt": "2024-12-31T11:00:23Z", "repo": "microsoft/autogen"}
+{"number": 4876, "title": "how to import an use it", "createdAt": "2025-01-02T01:02:16Z", "repo": "microsoft/autogen"}
+{"number": 4883, "title": "How to get last message from runtime?", "createdAt": "2025-01-02T23:06:39Z", "repo": "microsoft/autogen"}
+{"number": 4884, "title": "user_proxy.initiate_chat not working", "createdAt": "2025-01-03T09:53:16Z", "repo": "microsoft/autogen"}
+{"number": 4886, "title": "Can not get consistent hand off to user and have agent respond with message prior to tool call", "createdAt": "2025-01-03T14:10:53Z", "repo": "microsoft/autogen"}
+{"number": 4889, "title": "Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", "createdAt": "2025-01-04T00:40:22Z", "repo": "microsoft/autogen"}
+{"number": 4890, "title": "Agent won't write code to a file nor generate a python code that it will execute to write the code to the file.", "createdAt": "2025-01-04T09:31:21Z", "repo": "microsoft/autogen"}
+{"number": 4892, "title": "Grpc Distributed Example with AssitantAgents/Teams", "createdAt": "2025-01-04T20:05:37Z", "repo": "microsoft/autogen"}
+{"number": 4898, "title": "Topic Creation", "createdAt": "2025-01-06T00:26:14Z", "repo": "microsoft/autogen"}
+{"number": 4906, "title": "Agent behaves differently, depending on how the chat ends.", "createdAt": "2025-01-06T11:53:22Z", "repo": "microsoft/autogen"}
+{"number": 4909, "title": "Registering pre-built Autogen-AgentChat agents in Autogen-Core v0.4", "createdAt": "2025-01-06T23:41:50Z", "repo": "microsoft/autogen"}
+{"number": 4914, "title": "Tracing Assistant Chat", "createdAt": "2025-01-07T14:36:20Z", "repo": "microsoft/autogen"}
+{"number": 4953, "title": "How to use context in OpenAIAssistantAgent", "createdAt": "2025-01-09T03:53:05Z", "repo": "microsoft/autogen"}
+{"number": 4955, "title": "FileNotFoundError: [Errno 2] No such file or directory: 'OAI_CONFIG_LIST'", "createdAt": "2025-01-09T15:20:42Z", "repo": "microsoft/autogen"}
+{"number": 4967, "title": "Unable to use azure ai key because of the Authorization issue", "createdAt": "2025-01-09T19:11:59Z", "repo": "microsoft/autogen"}
+{"number": 4988, "title": "Custom model issue", "createdAt": "2025-01-10T09:31:34Z", "repo": "microsoft/autogen"}
+{"number": 4990, "title": "ModuleNotFoundError: No module named 'autogen_agentchat' - Repo Python Sample Code", "createdAt": "2025-01-10T12:39:49Z", "repo": "microsoft/autogen"}
+{"number": 4999, "title": "\"NoneType' object has no attribute 'cost\"", "createdAt": "2025-01-10T19:44:54Z", "repo": "microsoft/autogen"}
+{"number": 5002, "title": "Error doing RoundRobinGroupChat with Anthropic Agent", "createdAt": "2025-01-11T04:20:36Z", "repo": "microsoft/autogen"}
+{"number": 5004, "title": "Tracking Total Usage Cost of a Session with Claude Model.", "createdAt": "2025-01-11T05:37:40Z", "repo": "microsoft/autogen"}
+{"number": 5006, "title": "What is the Model Context Management Strategy in AutoGen", "createdAt": "2025-01-11T15:21:40Z", "repo": "microsoft/autogen"}
+{"number": 5015, "title": "Inter Processs Communication", "createdAt": "2025-01-12T10:27:07Z", "repo": "microsoft/autogen"}
+{"number": 5016, "title": "FSM/Speaker Transition Control in Autogen v0.4", "createdAt": "2025-01-12T15:48:40Z", "repo": "microsoft/autogen"}
+{"number": 5018, "title": "need to get user input form websocket instead of console when we use human_input_mode=\"TERMINATE\"", "createdAt": "2025-01-12T18:27:25Z", "repo": "microsoft/autogen"}
+{"number": 5022, "title": "GroupChatManager Not Respecting `human_input_mode` Settings Other Than `ALWAYS`", "createdAt": "2025-01-13T07:02:28Z", "repo": "microsoft/autogen"}
+{"number": 5024, "title": "How to be compatible with other models such as Gemini Claude?", "createdAt": "2025-01-13T08:13:05Z", "repo": "microsoft/autogen"}
+{"number": 5038, "title": "Why are some data not being transferred to the agent? (0.4.1 of autogen)", "createdAt": "2025-01-14T09:53:50Z", "repo": "microsoft/autogen"}
+{"number": 5076, "title": "Swarm is handing off to same agent even though it is not in handoff list", "createdAt": "2025-01-16T14:15:22Z", "repo": "microsoft/autogen"}
+{"number": 5082, "title": "Autogen 0.4 stable release is out!", "createdAt": "2025-01-16T19:25:35Z", "repo": "microsoft/autogen"}
+{"number": 5087, "title": "RoundRobinGroupChat is kind of sequential workflow design pattern?", "createdAt": "2025-01-17T02:24:52Z", "repo": "microsoft/autogen"}
+{"number": 5089, "title": "Autogen 0.4 -> Always Async?", "createdAt": "2025-01-17T05:28:21Z", "repo": "microsoft/autogen"}
+{"number": 5090, "title": "AutoGen Studio ：Team creation failed: Model creation failed: model_info is required when model name is not a valid OpenAI mode", "createdAt": "2025-01-17T06:50:23Z", "repo": "microsoft/autogen"}
+{"number": 5091, "title": "How to share conversation history to a tool", "createdAt": "2025-01-17T07:59:55Z", "repo": "microsoft/autogen"}
+{"number": 5092, "title": "RAG with Autogen 0.4", "createdAt": "2025-01-17T09:25:37Z", "repo": "microsoft/autogen"}
+{"number": 5093, "title": "Agent Bot for asking question on this website", "createdAt": "2025-01-17T10:51:48Z", "repo": "microsoft/autogen"}
+{"number": 5100, "title": "Migrating from pyautogen 0.3 to autogen v0.4.0: How to Log Group Chat Messages in correct order using the new SelectorGroupChat", "createdAt": "2025-01-17T16:56:01Z", "repo": "microsoft/autogen"}
+{"number": 5105, "title": "[Question] Additional Data Collection or Telemetry in AutoGen Beyond LLM API Calls", "createdAt": "2025-01-18T17:44:57Z", "repo": "microsoft/autogen"}
+{"number": 5160, "title": "Safe TaskResult in BaseGroupChat", "createdAt": "2025-01-18T22:46:48Z", "repo": "microsoft/autogen"}
+{"number": 5110, "title": "can someone share a starter project in using Autogen 0.4", "createdAt": "2025-01-19T07:33:04Z", "repo": "microsoft/autogen"}
+{"number": 5112, "title": "AutoGen v0.4 Video Tutorial (Chinese)", "createdAt": "2025-01-19T15:07:37Z", "repo": "microsoft/autogen"}
+{"number": 5114, "title": "Convert python applications into AutoGen studio prototypes (and vice versa)?", "createdAt": "2025-01-20T01:06:21Z", "repo": "microsoft/autogen"}
+{"number": 5119, "title": "[Suggestion] update AGENT_SYS_MSG_PROMPT in version 0.2", "createdAt": "2025-01-20T07:08:58Z", "repo": "microsoft/autogen"}
+{"number": 5121, "title": "AutoGen with Azure AI Foundry CodeLlama managed endpoint", "createdAt": "2025-01-20T13:51:20Z", "repo": "microsoft/autogen"}
+{"number": 5157, "title": "weird  on_messages and on_messages_stream abstract relationship in BaseChatAgent", "createdAt": "2025-01-21T10:20:42Z", "repo": "microsoft/autogen"}
+{"number": 5126, "title": "Streamlit issue AutoGen 0.4 Code Executor", "createdAt": "2025-01-21T15:37:47Z", "repo": "microsoft/autogen"}
+{"number": 5128, "title": "returning probabilities/logprobs of generation (tokens) on local models", "createdAt": "2025-01-21T18:38:41Z", "repo": "microsoft/autogen"}
+{"number": 5133, "title": "Tool not found", "createdAt": "2025-01-22T06:54:00Z", "repo": "microsoft/autogen"}
+{"number": 5135, "title": "Display images on AutoGen Studio v.0.4", "createdAt": "2025-01-22T09:29:27Z", "repo": "microsoft/autogen"}
+{"number": 5136, "title": "How to stop an agent from terminating?", "createdAt": "2025-01-22T13:01:46Z", "repo": "microsoft/autogen"}
+{"number": 5142, "title": "autogen studio 0.4.0 : Team Fails to Run with Tool Integration - term Error", "createdAt": "2025-01-22T15:46:36Z", "repo": "microsoft/autogen"}
+{"number": 5143, "title": "Need some help with Streamlit and the Handoffs example", "createdAt": "2025-01-22T15:50:33Z", "repo": "microsoft/autogen"}
+{"number": 5152, "title": "When is support for .Net coming to AutoGen v0.4?", "createdAt": "2025-01-23T01:24:46Z", "repo": "microsoft/autogen"}
+{"number": 5154, "title": "Does Autogen 0.4 support streaming mode?", "createdAt": "2025-01-23T03:47:35Z", "repo": "microsoft/autogen"}
+{"number": 5158, "title": "How to convert Swagger JSON to FunctionTool?", "createdAt": "2025-01-23T10:22:43Z", "repo": "microsoft/autogen"}
+{"number": 5166, "title": "GraphRag Issue", "createdAt": "2025-01-23T16:47:13Z", "repo": "microsoft/autogen"}
+{"number": 5169, "title": "Questions about GroupChat implementation", "createdAt": "2025-01-23T22:13:31Z", "repo": "microsoft/autogen"}
+{"number": 5174, "title": "Magentic One - Logs and Screenshots does not work", "createdAt": "2025-01-24T05:04:55Z", "repo": "microsoft/autogen"}
+{"number": 5176, "title": "Porting AutoGen 0.2 agentchat.contrib.agent_builder functionality to autogen v0.4", "createdAt": "2025-01-24T09:04:19Z", "repo": "microsoft/autogen"}
+{"number": 5177, "title": "AutoGen: Code Execution Issue in Multi-Agent System", "createdAt": "2025-01-24T10:49:40Z", "repo": "microsoft/autogen"}
+{"number": 5179, "title": "Can Azure OpenAI Assistant be used with OpenAIAssistantAgent?", "createdAt": "2025-01-24T12:26:42Z", "repo": "microsoft/autogen"}
+{"number": 5180, "title": "Need Help with AutoGen Workflow Issue!", "createdAt": "2025-01-24T12:33:47Z", "repo": "microsoft/autogen"}
+{"number": 5184, "title": "GraphBased Chat", "createdAt": "2025-01-24T17:48:15Z", "repo": "microsoft/autogen"}
+{"number": 5194, "title": "What is the best practice for session state assurance and loading", "createdAt": "2025-01-25T05:03:23Z", "repo": "microsoft/autogen"}
+{"number": 5206, "title": "Autogen with Streamlit", "createdAt": "2025-01-26T13:57:58Z", "repo": "microsoft/autogen"}
+{"number": 5209, "title": "Isolating Autogen Agents on different containers", "createdAt": "2025-01-26T19:27:23Z", "repo": "microsoft/autogen"}
+{"number": 5216, "title": "Request for Official AWS Bedrock Support in AutogenStudio v0.4 UI", "createdAt": "2025-01-27T06:59:47Z", "repo": "microsoft/autogen"}
+{"number": 5218, "title": "How to integrate Magentic-One example with an User inteface?", "createdAt": "2025-01-27T09:26:15Z", "repo": "microsoft/autogen"}
+{"number": 5221, "title": "Deciding Between Simple RAG and Agentic RAG", "createdAt": "2025-01-27T17:46:33Z", "repo": "microsoft/autogen"}
+{"number": 5228, "title": "JSON File Saving and Template-Based Gallery Creation in AutogenStudio", "createdAt": "2025-01-28T05:38:48Z", "repo": "microsoft/autogen"}
+{"number": 5231, "title": "Request for Image Display Support in AutogenStudio GUI", "createdAt": "2025-01-28T08:12:59Z", "repo": "microsoft/autogen"}
+{"number": 5232, "title": "Deepseek R1 in Agents", "createdAt": "2025-01-28T10:55:40Z", "repo": "microsoft/autogen"}
+{"number": 5238, "title": "pass a returned file from a function to another function with agent", "createdAt": "2025-01-28T12:31:58Z", "repo": "microsoft/autogen"}
+{"number": 5235, "title": "Autogen Studio 0.4: Can we publish agent & tools developed in code to Studio?", "createdAt": "2025-01-28T14:30:26Z", "repo": "microsoft/autogen"}
+{"number": 5247, "title": "MultiModalWebSurfer class -- how to start with the existing chrome profile in Python", "createdAt": "2025-01-29T09:28:58Z", "repo": "microsoft/autogen"}
+{"number": 5252, "title": "Bad request error with local LLM", "createdAt": "2025-01-29T17:45:42Z", "repo": "microsoft/autogen"}
+{"number": 5254, "title": "Any way to set larger context length when using Ollama models?", "createdAt": "2025-01-29T19:47:58Z", "repo": "microsoft/autogen"}
+{"number": 5258, "title": "cache_seed in GroupChat", "createdAt": "2025-01-30T02:15:44Z", "repo": "microsoft/autogen"}
+{"number": 5264, "title": "How to Set Up Qdrant Collection in Docker for AutoGen RetrieveUserProxyAgent?", "createdAt": "2025-01-30T12:01:43Z", "repo": "microsoft/autogen"}
+{"number": 5266, "title": "AutoGenStudio Installation Issue", "createdAt": "2025-01-30T12:34:17Z", "repo": "microsoft/autogen"}
+{"number": 5282, "title": "Why does Qdrant client fail to create a collection when connecting to a Docker instance but works locally with a path?", "createdAt": "2025-01-31T09:17:45Z", "repo": "microsoft/autogen"}
+{"number": 5310, "title": "new to autogen : Why am i having different menu options.", "createdAt": "2025-01-31T22:45:02Z", "repo": "microsoft/autogen"}
+{"number": 5321, "title": "Is there a sample for V0.45 like the one in V0.2?", "createdAt": "2025-02-02T00:47:10Z", "repo": "microsoft/autogen"}
+{"number": 5324, "title": "Autogen 0.4.5 | Human in the loop with UI - Advise on architecture", "createdAt": "2025-02-02T07:56:22Z", "repo": "microsoft/autogen"}
+{"number": 5337, "title": "Parallel Agent Execution", "createdAt": "2025-02-03T10:40:25Z", "repo": "microsoft/autogen"}
+{"number": 5338, "title": "Agent as a service /  Team of agents as a service", "createdAt": "2025-02-03T15:17:33Z", "repo": "microsoft/autogen"}
+{"number": 5339, "title": "Stop agent ?", "createdAt": "2025-02-03T17:11:28Z", "repo": "microsoft/autogen"}
+{"number": 5350, "title": "How to create asynchronous tool-using AgentChat?", "createdAt": "2025-02-04T01:50:14Z", "repo": "microsoft/autogen"}
+{"number": 5353, "title": "latest o1 models support developer messages rather than system messages", "createdAt": "2025-02-04T08:12:47Z", "repo": "microsoft/autogen"}
+{"number": 5354, "title": "IndexError: list index out of range in _throttle_api_calls while using ConversableAgent.initiate_chat", "createdAt": "2025-02-04T11:47:00Z", "repo": "microsoft/autogen"}
+{"number": 5356, "title": "Creating Guardrails Agents to validate user inputs", "createdAt": "2025-02-04T13:38:22Z", "repo": "microsoft/autogen"}
+{"number": 5364, "title": "Question about parallel agent execution", "createdAt": "2025-02-04T18:06:01Z", "repo": "microsoft/autogen"}
+{"number": 5369, "title": "Mixed Multi Agent", "createdAt": "2025-02-05T03:19:25Z", "repo": "microsoft/autogen"}
+{"number": 5373, "title": "Does autogen provide a way to manage multi-threads at the same time?", "createdAt": "2025-02-05T07:34:27Z", "repo": "microsoft/autogen"}
+{"number": 5376, "title": "Async comm between agents", "createdAt": "2025-02-05T16:02:02Z", "repo": "microsoft/autogen"}
+{"number": 5379, "title": "what happened to agentchat/contrib and the class AgentBuilder()?", "createdAt": "2025-02-05T18:41:51Z", "repo": "microsoft/autogen"}
+{"number": 5384, "title": "SelectorGroupChat leveraging Ollama model does not select speaker", "createdAt": "2025-02-05T20:36:02Z", "repo": "microsoft/autogen"}
+{"number": 5391, "title": "Persisting Files Locally for Sequential Agent Conversations", "createdAt": "2025-02-06T05:02:54Z", "repo": "microsoft/autogen"}
+{"number": 5394, "title": "What are the key differences between AutoGen versions 0.2 and 0.4?", "createdAt": "2025-02-06T06:04:16Z", "repo": "microsoft/autogen"}
+{"number": 5398, "title": "How enable tool use for agents using Anthropic Claude models?", "createdAt": "2025-02-06T09:54:41Z", "repo": "microsoft/autogen"}
+{"number": 5399, "title": "Implementing Dynamic Agent Switching Based on User Intent in AutoGen", "createdAt": "2025-02-06T13:13:41Z", "repo": "microsoft/autogen"}
+{"number": 5420, "title": "AWS Bedrock Claude Tool Call Error: The tool 'autogen-tools_get_weather' is not available.", "createdAt": "2025-02-07T08:41:46Z", "repo": "microsoft/autogen"}
+{"number": 5429, "title": "Autogen - Magentic one - User Approval Response from Chatbot is Restarting the Workflow Instead of Continuing the Existing Session", "createdAt": "2025-02-07T14:12:50Z", "repo": "microsoft/autogen"}
+{"number": 5462, "title": "Issue with my Autogen Installation", "createdAt": "2025-02-09T08:14:49Z", "repo": "microsoft/autogen"}
+{"number": 5467, "title": "Make a triage agent to make a decision which agent to call without using LLM in AutoGen 0.4", "createdAt": "2025-02-09T22:08:46Z", "repo": "microsoft/autogen"}
+{"number": 5472, "title": "autogen agentchat is not working in rocky linux9", "createdAt": "2025-02-10T09:49:55Z", "repo": "microsoft/autogen"}
+{"number": 5654, "title": "FileSurfer agent cannot actually save files?", "createdAt": "2025-02-10T10:37:18Z", "repo": "microsoft/autogen"}
+{"number": 5475, "title": "Tool Use", "createdAt": "2025-02-10T10:55:22Z", "repo": "microsoft/autogen"}
+{"number": 5690, "title": "deep research team in autogenstudio fails with error \"This model's maximum context length is 128000 tokens. However, your messages resulted in 209101 tokens\"", "createdAt": "2025-02-11T08:20:54Z", "repo": "microsoft/autogen"}
+{"number": 5502, "title": "how we can pass output of one function to another function with agents?????", "createdAt": "2025-02-11T09:03:38Z", "repo": "microsoft/autogen"}
+{"number": 5486, "title": "passing files to agents in groupchat manager", "createdAt": "2025-02-11T09:06:54Z", "repo": "microsoft/autogen"}
+{"number": 5520, "title": "How to use code execution in agents", "createdAt": "2025-02-11T15:32:57Z", "repo": "microsoft/autogen"}
+{"number": 5495, "title": "Can OpenAIAssistantAgent Be Used with Swarm?", "createdAt": "2025-02-11T18:59:25Z", "repo": "microsoft/autogen"}
+{"number": 5506, "title": "how to use AgentInstantiationContext?", "createdAt": "2025-02-12T05:13:13Z", "repo": "microsoft/autogen"}
+{"number": 5530, "title": "Can we use OpenAI's o3-mini and o1-mini in autogen's magentic one framework.", "createdAt": "2025-02-13T09:44:45Z", "repo": "microsoft/autogen"}
+{"number": 5538, "title": "How to use tools with parameters in a group chat", "createdAt": "2025-02-13T23:51:07Z", "repo": "microsoft/autogen"}
+{"number": 5547, "title": "Production readiness", "createdAt": "2025-02-14T01:14:09Z", "repo": "microsoft/autogen"}
+{"number": 5548, "title": "Message streaming with Autogen 0.4", "createdAt": "2025-02-14T13:31:10Z", "repo": "microsoft/autogen"}
+{"number": 5584, "title": "Questions about tools on agentcore", "createdAt": "2025-02-15T07:17:26Z", "repo": "microsoft/autogen"}
+{"number": 5571, "title": "Is there a 'multimodel_android_surfer' likes the 'multimodel_web_surfer'?", "createdAt": "2025-02-17T03:41:47Z", "repo": "microsoft/autogen"}
+{"number": 5573, "title": "add AutoBuild feature", "createdAt": "2025-02-17T08:33:23Z", "repo": "microsoft/autogen"}
+{"number": 5576, "title": "Question about Studio and autogen-core", "createdAt": "2025-02-17T09:32:05Z", "repo": "microsoft/autogen"}
+{"number": 5575, "title": "Question about Studio and autogen-core", "createdAt": "2025-02-17T09:35:03Z", "repo": "microsoft/autogen"}
+{"number": 5585, "title": "Tips on  setting up observability", "createdAt": "2025-02-18T07:01:54Z", "repo": "microsoft/autogen"}
+{"number": 5587, "title": "Expanded Security Recommendations & Reference Architecture for Magentic-One", "createdAt": "2025-02-18T10:41:57Z", "repo": "microsoft/autogen"}
+{"number": 5588, "title": "NoEligibleSpeaker: Custom speaker selection function returned None. Terminating conversation.", "createdAt": "2025-02-18T12:37:23Z", "repo": "microsoft/autogen"}
+{"number": 5602, "title": "How are the skills used in previous Autogen Studio are different then Tools ?", "createdAt": "2025-02-18T17:21:20Z", "repo": "microsoft/autogen"}
+{"number": 5616, "title": "AutoGen .NET roadmap? To catch up AutoGen v0.4", "createdAt": "2025-02-19T07:52:16Z", "repo": "microsoft/autogen"}
+{"number": 5617, "title": "How to restart the agent after getting new input from user", "createdAt": "2025-02-19T09:47:19Z", "repo": "microsoft/autogen"}
+{"number": 5618, "title": "Using Bot Framework + AutoGen together : What is your vision ?", "createdAt": "2025-02-19T10:55:34Z", "repo": "microsoft/autogen"}
+{"number": 5622, "title": "Chainlit with swarm pattern and handoff messages", "createdAt": "2025-02-20T03:35:25Z", "repo": "microsoft/autogen"}
+{"number": 5623, "title": "The existing handoff target user is not one of the participants", "createdAt": "2025-02-20T09:32:18Z", "repo": "microsoft/autogen"}
+{"number": 5687, "title": "Streaming the agent team's response", "createdAt": "2025-02-20T13:42:41Z", "repo": "microsoft/autogen"}
+{"number": 5636, "title": "Memory", "createdAt": "2025-02-20T22:07:52Z", "repo": "microsoft/autogen"}
+{"number": 5640, "title": "How to print more logs when agent running?", "createdAt": "2025-02-21T07:46:18Z", "repo": "microsoft/autogen"}
+{"number": 5661, "title": "Autogen Group chat with SSE backend.", "createdAt": "2025-02-22T15:42:03Z", "repo": "microsoft/autogen"}
+{"number": 5668, "title": "C# Adding generationconfig in the GeminiChatAgent", "createdAt": "2025-02-23T01:34:06Z", "repo": "microsoft/autogen"}
+{"number": 5676, "title": "Agents: Local code execution.", "createdAt": "2025-02-23T02:47:31Z", "repo": "microsoft/autogen"}
+{"number": 5679, "title": "How Autogen Handles “Broken” Image Tags for Multimodal LLMs?", "createdAt": "2025-02-24T03:32:34Z", "repo": "microsoft/autogen"}
+{"number": 5683, "title": "AutoGen SelectorGroupChat Not Maintaining Agent Continuity for Health-Related Chat Flow", "createdAt": "2025-02-24T16:32:39Z", "repo": "microsoft/autogen"}
+{"number": 5694, "title": "deepseek does not support function calling.....", "createdAt": "2025-02-25T02:08:27Z", "repo": "microsoft/autogen"}
+{"number": 5696, "title": "Error while trying to configure autogen studio with AOAI", "createdAt": "2025-02-25T07:23:24Z", "repo": "microsoft/autogen"}
+{"number": 5700, "title": "RoundRobinGroupChat: As the number of messages increases, the agent takes significantly longer to respond", "createdAt": "2025-02-25T14:13:43Z", "repo": "microsoft/autogen"}
+{"number": 5702, "title": "How can i desing teams in teams", "createdAt": "2025-02-25T15:28:05Z", "repo": "microsoft/autogen"}
+{"number": 5707, "title": "Can agents use multi tool together", "createdAt": "2025-02-25T16:14:36Z", "repo": "microsoft/autogen"}
+{"number": 5705, "title": "How do I use sse tool?", "createdAt": "2025-02-25T17:30:04Z", "repo": "microsoft/autogen"}
+{"number": 5712, "title": "Will running multiple instances of an agent in parallel cause \"interference\"?", "createdAt": "2025-02-25T21:07:28Z", "repo": "microsoft/autogen"}
+{"number": 5724, "title": "How can I access the information inside a variable without printing it to the console?", "createdAt": "2025-02-26T01:55:20Z", "repo": "microsoft/autogen"}
+{"number": 5718, "title": "SelectorGroupChat is not hitting run running LLM", "createdAt": "2025-02-26T02:34:21Z", "repo": "microsoft/autogen"}
+{"number": 5722, "title": "Facing issue with MultimodalWebSurfer with AzureOpenAIChatCompletionClient/AzureAIChatCompletionClient", "createdAt": "2025-02-26T07:43:13Z", "repo": "microsoft/autogen"}
+{"number": 5723, "title": "Alignment of AutoGen and Semantic Kernel?", "createdAt": "2025-02-26T13:12:35Z", "repo": "microsoft/autogen"}
+{"number": 5726, "title": "AutoGen GroupChat", "createdAt": "2025-02-26T16:43:09Z", "repo": "microsoft/autogen"}
+{"number": 5729, "title": "How to get the messages from Group Chat after loading from json file ?", "createdAt": "2025-02-26T19:02:10Z", "repo": "microsoft/autogen"}
+{"number": 5733, "title": "Difference between Autogen and Microsoft.Autogen", "createdAt": "2025-02-26T22:20:57Z", "repo": "microsoft/autogen"}
+{"number": 5735, "title": "autogen studio && magentic one", "createdAt": "2025-02-27T02:57:46Z", "repo": "microsoft/autogen"}
+{"number": 5739, "title": "how to handle agent exception", "createdAt": "2025-02-27T10:10:41Z", "repo": "microsoft/autogen"}
+{"number": 5741, "title": "Improved Tool Calling Context", "createdAt": "2025-02-27T16:06:36Z", "repo": "microsoft/autogen"}
+{"number": 5747, "title": "Why does every tool have a 'reasoning' parameter?", "createdAt": "2025-02-28T02:07:06Z", "repo": "microsoft/autogen"}
+{"number": 5752, "title": "deepseek  r1 The reasoning model returns format is not <think>..</think>", "createdAt": "2025-02-28T09:17:19Z", "repo": "microsoft/autogen"}
+{"number": 5753, "title": "Bedrock tool call", "createdAt": "2025-02-28T12:45:02Z", "repo": "microsoft/autogen"}
+{"number": 5756, "title": "How to identify successful or unsuccessful execution of code from the output message of CodeExecutorAgent in a Team Chat", "createdAt": "2025-02-28T16:21:47Z", "repo": "microsoft/autogen"}
+{"number": 5764, "title": "FileSurfer cannot access file.", "createdAt": "2025-03-01T00:11:44Z", "repo": "microsoft/autogen"}
+{"number": 5766, "title": "Grpc multiple agents in different port", "createdAt": "2025-03-01T01:57:51Z", "repo": "microsoft/autogen"}
+{"number": 5767, "title": "The code_executor agent is not executing code.", "createdAt": "2025-03-01T09:53:13Z", "repo": "microsoft/autogen"}
+{"number": 5769, "title": "Being prompted to give feedback to the GroupChatManager instead of proceeding with the speaker selection which I have defined in my function.x", "createdAt": "2025-03-01T14:54:55Z", "repo": "microsoft/autogen"}
+{"number": 5770, "title": "RetrieveUserProxyAgent is not available in autogen0.4", "createdAt": "2025-03-01T15:26:46Z", "repo": "microsoft/autogen"}
+{"number": 5778, "title": "My Agent is not stopping even i use TERMINATE", "createdAt": "2025-03-02T10:49:39Z", "repo": "microsoft/autogen"}
+{"number": 5791, "title": "When will the dotnet version be released as a stable version?", "createdAt": "2025-03-03T05:48:42Z", "repo": "microsoft/autogen"}
+{"number": 5792, "title": "Caching in AutoGen V0.4.7", "createdAt": "2025-03-03T07:09:37Z", "repo": "microsoft/autogen"}
+{"number": 5806, "title": "Checkpoint team while it is running", "createdAt": "2025-03-04T01:12:13Z", "repo": "microsoft/autogen"}
+{"number": 5821, "title": "Event loop is Close? How to fix", "createdAt": "2025-03-04T13:02:33Z", "repo": "microsoft/autogen"}
+{"number": 5822, "title": "Troubleshoot Azure SQL Connection with AutoGen Studio", "createdAt": "2025-03-04T16:56:21Z", "repo": "microsoft/autogen"}
+{"number": 5825, "title": "http Access to Autogen Studio Rest Endpoint", "createdAt": "2025-03-04T20:43:20Z", "repo": "microsoft/autogen"}
+{"number": 5869, "title": "Infinite loop appears when using swarm with human-computer dialogue", "createdAt": "2025-03-05T07:19:19Z", "repo": "microsoft/autogen"}
+{"number": 5833, "title": "OpenAI's models are missing some versions of gpt-4o", "createdAt": "2025-03-05T08:07:41Z", "repo": "microsoft/autogen"}
+{"number": 5834, "title": "OpenAI's models are missing some versions of gpt-4o", "createdAt": "2025-03-05T08:23:40Z", "repo": "microsoft/autogen"}
+{"number": 5836, "title": "Tool usage and spurious messages spilling in RoundRobinGroupChat", "createdAt": "2025-03-05T09:50:30Z", "repo": "microsoft/autogen"}
+{"number": 5846, "title": "Token cost change when used with cached inference", "createdAt": "2025-03-06T06:18:55Z", "repo": "microsoft/autogen"}
+{"number": 5847, "title": "why the team can't stop with external termination", "createdAt": "2025-03-06T11:39:40Z", "repo": "microsoft/autogen"}
+{"number": 5862, "title": "AgentOps integration in AutoGen 0.4", "createdAt": "2025-03-07T02:39:36Z", "repo": "microsoft/autogen"}
+{"number": 5865, "title": "Add support for reasoning_content field in `BaseOpenAIChatCompletionClient`", "createdAt": "2025-03-07T08:45:30Z", "repo": "microsoft/autogen"}
+{"number": 5876, "title": "3分钟复刻Manus智能体", "createdAt": "2025-03-08T13:53:57Z", "repo": "microsoft/autogen"}
+{"number": 5877, "title": "how can I pass multiple parameters to my custom function in tools", "createdAt": "2025-03-08T15:34:18Z", "repo": "microsoft/autogen"}
+{"number": 5883, "title": "[Help Needed] Chainlit and autogen -- human-in-loop failed in the UI & unable to use code executor both in docker and locally", "createdAt": "2025-03-09T05:55:16Z", "repo": "microsoft/autogen"}
+{"number": 5902, "title": "Customizing Vector Database", "createdAt": "2025-03-11T20:54:26Z", "repo": "microsoft/autogen"}
+{"number": 5913, "title": "Best Practices to Get Agent's Communications During Runtime", "createdAt": "2025-03-12T15:37:34Z", "repo": "microsoft/autogen"}
+{"number": 5919, "title": "System message should be passed in subsequent inference if `reflect_on_tool_use` is True", "createdAt": "2025-03-12T21:59:42Z", "repo": "microsoft/autogen"}
+{"number": 5921, "title": "Agentic Identity and Access Management (AIAM)", "createdAt": "2025-03-12T23:49:24Z", "repo": "microsoft/autogen"}
+{"number": 5922, "title": "Autogen Studio deployment to Azure Web App", "createdAt": "2025-03-13T09:59:26Z", "repo": "microsoft/autogen"}
+{"number": 5937, "title": "Handling Cancelled UserProxyAgent input requests", "createdAt": "2025-03-14T01:15:54Z", "repo": "microsoft/autogen"}
+{"number": 5940, "title": "Issues with Ollama Integration and Model Persistence in AutoGen Studio (Latest Version)", "createdAt": "2025-03-14T04:21:35Z", "repo": "microsoft/autogen"}
+{"number": 5960, "title": "Bad Request Error  - Groupchat with DBRX Foundation Models", "createdAt": "2025-03-14T21:47:10Z", "repo": "microsoft/autogen"}
+{"number": 5955, "title": "Support for Vertex AI Gemini with AutoGen 0.4?", "createdAt": "2025-03-15T13:37:12Z", "repo": "microsoft/autogen"}
+{"number": 5956, "title": "Need clarity - Installing Latest AgentStudio (Using AgentChat 0.4) and AgentStudio (AgentChat 0.2)", "createdAt": "2025-03-15T14:03:11Z", "repo": "microsoft/autogen"}
+{"number": 5958, "title": "There is no option to include knowledge bases", "createdAt": "2025-03-15T18:46:52Z", "repo": "microsoft/autogen"}
+{"number": 5959, "title": "There is no option to include knowledge bases", "createdAt": "2025-03-15T18:46:52Z", "repo": "microsoft/autogen"}
+{"number": 5964, "title": "New project - Chat completion API server for AutoGen", "createdAt": "2025-03-16T04:44:30Z", "repo": "microsoft/autogen"}
+{"number": 5968, "title": "Seeking Model Recommendations for GroupChat v0.4", "createdAt": "2025-03-16T11:50:57Z", "repo": "microsoft/autogen"}
+{"number": 5969, "title": "GroupChatManager Multiple Speaker Seclection", "createdAt": "2025-03-16T15:25:12Z", "repo": "microsoft/autogen"}
+{"number": 5971, "title": "Is AutoGen 0.2 still being actively supported?", "createdAt": "2025-03-16T16:36:39Z", "repo": "microsoft/autogen"}
+{"number": 5973, "title": "MChat - multi-model, multi-agent, chat interface built around autogen", "createdAt": "2025-03-16T21:24:48Z", "repo": "microsoft/autogen"}
+{"number": 5985, "title": "MultimodalWebSurfer (autogen_ext.agents.web_surfer): what's the difference between using OCR or not?", "createdAt": "2025-03-17T20:52:20Z", "repo": "microsoft/autogen"}
+{"number": 5987, "title": "Autogen Studio 0.4.2 vs 0.1.5 - We use to be able to connect to AGS using websockets", "createdAt": "2025-03-18T00:18:45Z", "repo": "microsoft/autogen"}
+{"number": 5991, "title": "Inquiry on Implementing Real-Time Chat-like Interaction Using MagenticOneGroupChat, UserProxyAgent, and AssistantAgent", "createdAt": "2025-03-18T10:29:29Z", "repo": "microsoft/autogen"}
+{"number": 5997, "title": "thoughts on a pattern, a selector that can end a chat?  Modifying the messages I want a selector prompt to consider?", "createdAt": "2025-03-19T01:27:54Z", "repo": "microsoft/autogen"}
+{"number": 6000, "title": "AutoGen 0.4 BaseGroupChat instantiates with SingleThreadedAgentRuntime with ignore_unhandled_exceptions=False, however ignore_unhandled_exceptions is not a __init__ attribute", "createdAt": "2025-03-19T06:57:56Z", "repo": "microsoft/autogen"}
+{"number": 6002, "title": "Using AutoGen with Chainlit: How to Make the Agent Execute Custom Module Functions?", "createdAt": "2025-03-19T11:23:11Z", "repo": "microsoft/autogen"}
+{"number": 6003, "title": "How to Make the Agent Execute Custom Module Functions?", "createdAt": "2025-03-19T11:30:47Z", "repo": "microsoft/autogen"}
+{"number": 6004, "title": "Using AutoGen with Chainlit: How to Make the Agent Execute Custom Module Functions?", "createdAt": "2025-03-19T11:37:26Z", "repo": "microsoft/autogen"}
+{"number": 6005, "title": "How to implement state save and load for a custom agent built using core inheriting Routed Agent", "createdAt": "2025-03-19T12:13:32Z", "repo": "microsoft/autogen"}
+{"number": 6007, "title": "AutoGen Studio中文视频教程", "createdAt": "2025-03-19T13:06:55Z", "repo": "microsoft/autogen"}
+{"number": 6023, "title": "Trouble Integrating Gemma 3 with AutoGen Studio via LM Studio", "createdAt": "2025-03-19T22:25:47Z", "repo": "microsoft/autogen"}
+{"number": 6025, "title": "Swarm Magentic Group Chat", "createdAt": "2025-03-19T23:50:19Z", "repo": "microsoft/autogen"}
+{"number": 6026, "title": "model_context should be a public/accessible attribute in Agents", "createdAt": "2025-03-20T00:33:27Z", "repo": "microsoft/autogen"}
+{"number": 6029, "title": "Agents as Durable Entities", "createdAt": "2025-03-20T03:02:48Z", "repo": "microsoft/autogen"}
+{"number": 6030, "title": "Unable to exit the program normally", "createdAt": "2025-03-20T03:28:13Z", "repo": "microsoft/autogen"}
+{"number": 6033, "title": "No support for Groq models in v0.4.9 (stable)", "createdAt": "2025-03-20T06:13:10Z", "repo": "microsoft/autogen"}
+{"number": 6036, "title": "How to call tools with Ali Qwen models?", "createdAt": "2025-03-20T07:46:10Z", "repo": "microsoft/autogen"}
+{"number": 6038, "title": "Getting user input in UserProxyAgent when running on Azure App Service", "createdAt": "2025-03-20T10:07:28Z", "repo": "microsoft/autogen"}
+{"number": 6039, "title": "Autogen Studio compatibility with Semantic Kernel models", "createdAt": "2025-03-20T11:55:36Z", "repo": "microsoft/autogen"}
+{"number": 6042, "title": "ACADynamicSessionsCodeExecutor: allow suppressing the code execution result", "createdAt": "2025-03-20T17:38:42Z", "repo": "microsoft/autogen"}
+{"number": 6065, "title": "How to Prevent Handoff from Being Triggered When It Is Set in AssistantAgent", "createdAt": "2025-03-22T09:04:03Z", "repo": "microsoft/autogen"}
+{"number": 6066, "title": "Agent Chat Routing", "createdAt": "2025-03-22T14:49:59Z", "repo": "microsoft/autogen"}
+{"number": 6067, "title": "How can I get the function call results associated with the Handoff message?", "createdAt": "2025-03-22T15:01:35Z", "repo": "microsoft/autogen"}
+{"number": 6075, "title": "psycopg2 / 3 unusable", "createdAt": "2025-03-23T15:18:30Z", "repo": "microsoft/autogen"}
+{"number": 6077, "title": "Autogen Studio 0.4.2 runs and authentication issue", "createdAt": "2025-03-24T00:39:44Z", "repo": "microsoft/autogen"}
+{"number": 6078, "title": "Multiple Projects/Apps with a single autogen studio instance", "createdAt": "2025-03-24T01:00:28Z", "repo": "microsoft/autogen"}
+{"number": 6079, "title": "Add GraphRAG to Autogen Studio", "createdAt": "2025-03-24T01:05:01Z", "repo": "microsoft/autogen"}
+{"number": 6082, "title": "Setting Up Multiple Teams Under One Chat", "createdAt": "2025-03-24T09:47:00Z", "repo": "microsoft/autogen"}
+{"number": 6086, "title": "[Q] Is it possible for a code execution agent to read local data generated outside of the agent?", "createdAt": "2025-03-24T16:14:33Z", "repo": "microsoft/autogen"}
+{"number": 6092, "title": "AutoGen Studio how to show image", "createdAt": "2025-03-25T03:25:10Z", "repo": "microsoft/autogen"}
+{"number": 6097, "title": "About ollama client setting temperature and other configurations", "createdAt": "2025-03-25T10:27:35Z", "repo": "microsoft/autogen"}
+{"number": 6119, "title": "ACADynamicSessionsCodeExecutor - allow specifying session_id", "createdAt": "2025-03-26T10:35:46Z", "repo": "microsoft/autogen"}
+{"number": 6121, "title": "Tool Chaining in Single-Agent Systems", "createdAt": "2025-03-26T13:33:47Z", "repo": "microsoft/autogen"}
+{"number": 6122, "title": "The default value in the Autogen Studio Playground query input should be optional and configurable.", "createdAt": "2025-03-26T13:56:48Z", "repo": "microsoft/autogen"}
+{"number": 6127, "title": "What is the input context window length for the ConversableAgent. What is the maximum input length (Max token) that can be given to an ConversableAgent.", "createdAt": "2025-03-27T07:24:35Z", "repo": "microsoft/autogen"}
+{"number": 6128, "title": "MSAL Based Authentication - Redirect URL error", "createdAt": "2025-03-27T07:28:38Z", "repo": "microsoft/autogen"}
+{"number": 6129, "title": "How can I define an agent using autogen_core and obtain streaming responses when sending messages to it at runtime?", "createdAt": "2025-03-27T08:31:30Z", "repo": "microsoft/autogen"}
+{"number": 6132, "title": "Bedrock / Semantic Kernel Agents Failing with Tool Calling in Swarm", "createdAt": "2025-03-27T15:55:53Z", "repo": "microsoft/autogen"}
+{"number": 6134, "title": "Unable to Connect OpenAI", "createdAt": "2025-03-27T18:15:58Z", "repo": "microsoft/autogen"}
+{"number": 6138, "title": "Use MCP reource", "createdAt": "2025-03-28T09:25:19Z", "repo": "microsoft/autogen"}
+{"number": 6139, "title": "Status of dotnet version", "createdAt": "2025-03-28T13:22:04Z", "repo": "microsoft/autogen"}
+{"number": 6146, "title": "How to destroy RoutedAgent?", "createdAt": "2025-03-30T12:03:34Z", "repo": "microsoft/autogen"}
+{"number": 6153, "title": "Can the JupyterCodeExecutor connect to the docker jupyter like the autogen==0.2 version?", "createdAt": "2025-03-31T07:12:35Z", "repo": "microsoft/autogen"}
+{"number": 6154, "title": "how to get group_chat_manager's response with autogen==0.4", "createdAt": "2025-03-31T07:23:23Z", "repo": "microsoft/autogen"}
+{"number": 6157, "title": "`reflect_on_max_turns` as an option in SelectorGroupChat", "createdAt": "2025-03-31T10:50:56Z", "repo": "microsoft/autogen"}
+{"number": 6160, "title": "[Proposal] Termination-style Opt-in Hook for Agent Message Summarization", "createdAt": "2025-03-31T17:13:12Z", "repo": "microsoft/autogen"}
+{"number": 6164, "title": "Context is a resource", "createdAt": "2025-04-01T07:00:42Z", "repo": "microsoft/autogen"}
+{"number": 6169, "title": "The persistent state management(save_state) enhanced by TTL policy", "createdAt": "2025-04-01T09:34:20Z", "repo": "microsoft/autogen"}
+{"number": 6179, "title": "the allow_repeated_speaker function in the selector", "createdAt": "2025-04-02T03:19:05Z", "repo": "microsoft/autogen"}
+{"number": 6173, "title": "Database initialization failed, can anyone advise how to fix?", "createdAt": "2025-04-02T03:54:46Z", "repo": "microsoft/autogen"}
+{"number": 6177, "title": "Python FastAPI to get input via userproxy", "createdAt": "2025-04-02T12:52:09Z", "repo": "microsoft/autogen"}
+{"number": 6176, "title": "Semantic Kernel Bedrock Claude Error", "createdAt": "2025-04-02T21:20:46Z", "repo": "microsoft/autogen"}
+{"number": 6180, "title": "**Structural Suggestion: `MessageCleaner` Utility to Minimize Ad-hoc Handling**", "createdAt": "2025-04-02T22:53:14Z", "repo": "microsoft/autogen"}
+{"number": 6188, "title": "Autogen - How to create a multi team (Supervisor) pattern, in which a supervisor should orchestrate and communicate between multiple teams to complete the job.", "createdAt": "2025-04-03T06:16:31Z", "repo": "microsoft/autogen"}
+{"number": 6194, "title": "http_proxy settings?", "createdAt": "2025-04-03T21:53:03Z", "repo": "microsoft/autogen"}
+{"number": 6199, "title": "Is Retry Possible in SemanticKernelAgent Adapter", "createdAt": "2025-04-04T06:37:07Z", "repo": "microsoft/autogen"}
+{"number": 6200, "title": "Retry Mechanism for Particular Agent", "createdAt": "2025-04-04T07:25:58Z", "repo": "microsoft/autogen"}
+{"number": 6205, "title": "AI Foundry Agents as Autogen Agents", "createdAt": "2025-04-04T14:00:46Z", "repo": "microsoft/autogen"}
+{"number": 6214, "title": "Canvas implementation", "createdAt": "2025-04-05T03:30:30Z", "repo": "microsoft/autogen"}
+{"number": 6219, "title": "Using a Custom model_client Instead of LLM in AutoGen (v0.4.9)", "createdAt": "2025-04-05T13:58:21Z", "repo": "microsoft/autogen"}
+{"number": 6230, "title": "Do agents send all context including FunctionExecutionResult to others in a Magentic-one team?", "createdAt": "2025-04-07T06:48:23Z", "repo": "microsoft/autogen"}
+{"number": 6233, "title": "White screen in Team Builder after uploading code in Teams", "createdAt": "2025-04-07T16:58:28Z", "repo": "microsoft/autogen"}
+{"number": 6237, "title": "GPU support for DockerCommandLineCodeExecutor", "createdAt": "2025-04-07T20:44:02Z", "repo": "microsoft/autogen"}
+{"number": 6242, "title": "Autogen for dotnet documentation", "createdAt": "2025-04-08T14:28:13Z", "repo": "microsoft/autogen"}
+{"number": 6247, "title": "\"Error: unhandled errors in a TaskGroup (1 sub-exception) \" while running mcp_client", "createdAt": "2025-04-08T19:38:28Z", "repo": "microsoft/autogen"}
+{"number": 6252, "title": "I'm using the local model, the LLM of the openai paradigm. How do I configure the model_config.yaml in the example?", "createdAt": "2025-04-09T02:33:54Z", "repo": "microsoft/autogen"}
+{"number": 6253, "title": "FAISS Memory", "createdAt": "2025-04-09T10:18:30Z", "repo": "microsoft/autogen"}
+{"number": 6254, "title": "How can I control the number of rounds in load_state?", "createdAt": "2025-04-09T10:23:18Z", "repo": "microsoft/autogen"}
+{"number": 6256, "title": "How to run Teams and Agents in the same model_context", "createdAt": "2025-04-09T17:21:06Z", "repo": "microsoft/autogen"}
+{"number": 6261, "title": "can autogen assitentagent call same tool multiple times if needed ?", "createdAt": "2025-04-10T08:33:55Z", "repo": "microsoft/autogen"}
+{"number": 6262, "title": "Suggestion: Add LLMs.txt for AutoGen Documentation Guides", "createdAt": "2025-04-10T11:01:32Z", "repo": "microsoft/autogen"}
+{"number": 6264, "title": "RetrieveUserProxyAgent for EXISTING Chunked data Stored in elasticsearch.", "createdAt": "2025-04-10T13:25:07Z", "repo": "microsoft/autogen"}
+{"number": 6282, "title": "Memory (ChromaDB) embedding_function support", "createdAt": "2025-04-11T16:17:27Z", "repo": "microsoft/autogen"}
+{"number": 6285, "title": "Access to the aws bedrock inference models", "createdAt": "2025-04-12T03:55:35Z", "repo": "microsoft/autogen"}
+{"number": 6287, "title": "Proposal: Add MockChatCompletionClient for offline testing and CI stability", "createdAt": "2025-04-12T06:12:50Z", "repo": "microsoft/autogen"}
+{"number": 6292, "title": "Can TokenLimitedChatCompletionContext be used in SelectorGroupChatManager?", "createdAt": "2025-04-14T03:33:32Z", "repo": "microsoft/autogen"}
+{"number": 6293, "title": "Issue with \"extra_body\" Parameter in \"llm_config\" Using Autogen", "createdAt": "2025-04-14T06:59:39Z", "repo": "microsoft/autogen"}
+{"number": 6294, "title": "Inconsistent Token Usage Reporting Between logs and get_actual_usage() Methods", "createdAt": "2025-04-14T07:40:28Z", "repo": "microsoft/autogen"}
+{"number": 6297, "title": "Do we have plans to support A2A?", "createdAt": "2025-04-15T02:25:39Z", "repo": "microsoft/autogen"}
+{"number": 6307, "title": "Conversation Context/History Messages in Chat App using Autogen", "createdAt": "2025-04-15T23:14:23Z", "repo": "microsoft/autogen"}
+{"number": 6324, "title": "Is there any possibility that split assert_valid_name into 2 parts?", "createdAt": "2025-04-17T13:26:13Z", "repo": "microsoft/autogen"}
+{"number": 6326, "title": "Can allow_repeated_speaker be a list in SelectorGroupChat?", "createdAt": "2025-04-17T13:33:42Z", "repo": "microsoft/autogen"}
+{"number": 6332, "title": "Request consistent JSON response", "createdAt": "2025-04-18T03:41:10Z", "repo": "microsoft/autogen"}
+{"number": 6342, "title": "o4-mini model support", "createdAt": "2025-04-20T21:37:24Z", "repo": "microsoft/autogen"}
+{"number": 6346, "title": "Can we save UserProxy's state just like AssistantAgent?", "createdAt": "2025-04-21T04:06:18Z", "repo": "microsoft/autogen"}
+{"number": 6347, "title": "Multi turn conversation with user", "createdAt": "2025-04-21T05:59:52Z", "repo": "microsoft/autogen"}
+{"number": 6348, "title": "Continuation after reaching max output tokens?", "createdAt": "2025-04-21T15:02:53Z", "repo": "microsoft/autogen"}
+{"number": 6357, "title": "OpenAI Responses API native support", "createdAt": "2025-04-22T06:40:14Z", "repo": "microsoft/autogen"}
+{"number": 6358, "title": "How can I use an Assistant Agent with a custom model", "createdAt": "2025-04-22T07:31:29Z", "repo": "microsoft/autogen"}
+{"number": 6361, "title": "How about Switch OpenAI-based tests to `gpt-4.1-nano`", "createdAt": "2025-04-22T10:57:19Z", "repo": "microsoft/autogen"}
+{"number": 6362, "title": "Persist Agent History Across Sessions in AutoGen Studio", "createdAt": "2025-04-22T14:12:33Z", "repo": "microsoft/autogen"}
+{"number": 6363, "title": "Expose further docker create commands from underlying docker client in DockerCommandLineCodeExecutor", "createdAt": "2025-04-22T14:17:46Z", "repo": "microsoft/autogen"}
+{"number": 6365, "title": "Bug or lack of knowledge not sure!", "createdAt": "2025-04-22T20:38:03Z", "repo": "microsoft/autogen"}
+{"number": 6367, "title": "Parsing result from tool call in MCP", "createdAt": "2025-04-23T04:55:54Z", "repo": "microsoft/autogen"}
+{"number": 6374, "title": "Custom error message when using tool with missing required argument", "createdAt": "2025-04-23T11:00:00Z", "repo": "microsoft/autogen"}
+{"number": 6381, "title": "Multimodal `ToolCallSummaryMessage` & `FunctionExecutionResult` Support", "createdAt": "2025-04-24T08:18:08Z", "repo": "microsoft/autogen"}
+{"number": 6386, "title": "MagneticOneOrchestrator faces error when using some models like claude 3-7 which doesn't return corrrect JSON type, JSON markdown instead", "createdAt": "2025-04-24T10:53:37Z", "repo": "microsoft/autogen"}
+{"number": 6390, "title": "Code Interpreter using E2B or remote sandbox", "createdAt": "2025-04-24T18:55:05Z", "repo": "microsoft/autogen"}
+{"number": 6404, "title": "Httpx.ConnectionTimeOut failed on purest", "createdAt": "2025-04-26T03:21:19Z", "repo": "microsoft/autogen"}
+{"number": 6410, "title": "Using a custom LLM model in autogen 0.5.5", "createdAt": "2025-04-27T01:48:28Z", "repo": "microsoft/autogen"}
+{"number": 6411, "title": "How to stream GroupChat response?", "createdAt": "2025-04-27T06:38:57Z", "repo": "microsoft/autogen"}
+{"number": 6416, "title": "support skip unsupported language in code executor", "createdAt": "2025-04-28T06:58:09Z", "repo": "microsoft/autogen"}
+{"number": 6427, "title": "Autogen agent calls using client certificates", "createdAt": "2025-04-29T12:31:00Z", "repo": "microsoft/autogen"}
+{"number": 6432, "title": "Replace (or enhance) MultimodalWebSurfer with Hyperbrowser", "createdAt": "2025-04-29T19:35:02Z", "repo": "microsoft/autogen"}
+{"number": 6435, "title": "JWT token validation extension", "createdAt": "2025-04-30T06:02:11Z", "repo": "microsoft/autogen"}
+{"number": 6437, "title": "Empty message returned by agent in SelectorGroupChat", "createdAt": "2025-04-30T08:25:19Z", "repo": "microsoft/autogen"}
+{"number": 6438, "title": "Enable dumping SelectorGroupChat `selector_func` and `candidate_func`", "createdAt": "2025-04-30T10:48:09Z", "repo": "microsoft/autogen"}
+{"number": 6441, "title": "Handoff termination in SelectorGroupChat Team for Human in the loop ?", "createdAt": "2025-04-30T15:22:45Z", "repo": "microsoft/autogen"}
+{"number": 6445, "title": "Growing Serialization Issues with Shared Resources (e.g. Canvas, Workbench): How Should We Manage Lifecycle?", "createdAt": "2025-05-01T05:25:49Z", "repo": "microsoft/autogen"}
+{"number": 6449, "title": "How to integrate AWS Bedrock Models like NOVA etc using Autogen ?", "createdAt": "2025-05-02T06:10:07Z", "repo": "microsoft/autogen"}
+{"number": 6452, "title": "AutoGen Azure credentials", "createdAt": "2025-05-02T10:11:41Z", "repo": "microsoft/autogen"}
+{"number": 6453, "title": "web surfer agent running on windows", "createdAt": "2025-05-02T11:22:18Z", "repo": "microsoft/autogen"}
+{"number": 6455, "title": "Chatcompletion using LiteLLM", "createdAt": "2025-05-04T12:47:32Z", "repo": "microsoft/autogen"}
+{"number": 6461, "title": "stream user friendly messages to user (verbose for agents)", "createdAt": "2025-05-05T06:55:23Z", "repo": "microsoft/autogen"}
+{"number": 6462, "title": "Anthropic Structured Output", "createdAt": "2025-05-05T12:55:08Z", "repo": "microsoft/autogen"}
+{"number": 6463, "title": "External integrations", "createdAt": "2025-05-05T13:11:03Z", "repo": "microsoft/autogen"}
+{"number": 6469, "title": "Context Use Case: I want to send a line chart of image to agent so it reads and provides observation like any data analyst would do", "createdAt": "2025-05-06T09:49:30Z", "repo": "microsoft/autogen"}
+{"number": 6472, "title": "Is it a need to publish ToolCallExecutionEvent to the chat group during handle_request when using reflect_on_tool_use?", "createdAt": "2025-05-06T14:15:40Z", "repo": "microsoft/autogen"}
+{"number": 6474, "title": "Contributing to C# Support and Version 0.4 Tasks", "createdAt": "2025-05-06T19:39:31Z", "repo": "microsoft/autogen"}
+{"number": 6476, "title": "Autogen Studio important features", "createdAt": "2025-05-07T11:23:53Z", "repo": "microsoft/autogen"}
+{"number": 6478, "title": "Option to disable runtime messaging events", "createdAt": "2025-05-07T12:22:38Z", "repo": "microsoft/autogen"}
+{"number": 6488, "title": "Grapgflow is not a parallel flow, actually just a concurrent flow", "createdAt": "2025-05-08T02:59:08Z", "repo": "microsoft/autogen"}
+{"number": 6485, "title": "Is autogen planning to add prompts and resource features  in McpWorkbench module?", "createdAt": "2025-05-08T05:41:42Z", "repo": "microsoft/autogen"}
+{"number": 6490, "title": "Autogen user memory functionality", "createdAt": "2025-05-08T18:43:12Z", "repo": "microsoft/autogen"}
+{"number": 6495, "title": "Function call retry", "createdAt": "2025-05-09T05:29:59Z", "repo": "microsoft/autogen"}
+{"number": 6498, "title": "🔥🔥🔥AutoGen GraphFlow最新视频教程", "createdAt": "2025-05-09T12:40:12Z", "repo": "microsoft/autogen"}
+{"number": 6504, "title": "Enable Prompt Caching on amazon bedrock Claude models using Autogen 0.4.7", "createdAt": "2025-05-10T12:58:09Z", "repo": "microsoft/autogen"}
+{"number": 6509, "title": "Sometimes, there are failures when using the OpenRouter provider with the `OpenAIChatCompletionClient`.", "createdAt": "2025-05-11T16:05:36Z", "repo": "microsoft/autogen"}
+{"number": 6514, "title": "[FastAPI Example] State Persistence Not Working as Documented in Team Chat Implementation", "createdAt": "2025-05-12T07:54:47Z", "repo": "microsoft/autogen"}
+{"number": 6517, "title": "Mcp Support streamable HTTP", "createdAt": "2025-05-12T11:05:51Z", "repo": "microsoft/autogen"}
+{"number": 6521, "title": "Add AWS SSO bedrock model support in autogen_ext", "createdAt": "2025-05-13T10:06:02Z", "repo": "microsoft/autogen"}
+{"number": 6524, "title": "Autogen Studio Package Releases matching Stable version", "createdAt": "2025-05-13T19:24:12Z", "repo": "microsoft/autogen"}
+{"number": 6535, "title": "Can return_value_as_string return a string with ensure_ascii=False for both tools and mcp tools?", "createdAt": "2025-05-15T02:52:26Z", "repo": "microsoft/autogen"}
+{"number": 6536, "title": "AutoGen studio and MCP integrate support", "createdAt": "2025-05-15T11:22:01Z", "repo": "microsoft/autogen"}
+{"number": 6539, "title": "Tools cannot be used with a workbench.", "createdAt": "2025-05-15T15:33:57Z", "repo": "microsoft/autogen"}
+{"number": 6543, "title": "AutogenStudio display images or echarts", "createdAt": "2025-05-16T03:48:28Z", "repo": "microsoft/autogen"}
+{"number": 6546, "title": "The nested agent defined as a graph node reports an execution error.", "createdAt": "2025-05-16T12:59:24Z", "repo": "microsoft/autogen"}
+{"number": 6550, "title": "GraphFlow node can't accept input edge for multiple conditions", "createdAt": "2025-05-16T14:27:25Z", "repo": "microsoft/autogen"}
+{"number": 6553, "title": "Guidance on Integrating Voice Layer with Autogen Assistant Agent", "createdAt": "2025-05-18T13:49:03Z", "repo": "microsoft/autogen"}
+{"number": 6566, "title": "Autogen's multimodal message only supports str and Image, but does not support File.", "createdAt": "2025-05-20T11:51:58Z", "repo": "microsoft/autogen"}
+{"number": 6568, "title": "Autogen agent chat termination not terminating the way I want it to.", "createdAt": "2025-05-21T08:25:05Z", "repo": "microsoft/autogen"}
+{"number": 6569, "title": "Which LocalCommandLineCodeExecutor?", "createdAt": "2025-05-21T09:58:09Z", "repo": "microsoft/autogen"}
+{"number": 6570, "title": "Adopt a workflow manager instead of develop one", "createdAt": "2025-05-21T12:35:33Z", "repo": "microsoft/autogen"}
+{"number": 6575, "title": "How to Use Model Context Functionality with Multi-Agent Setup?", "createdAt": "2025-05-22T14:26:18Z", "repo": "microsoft/autogen"}
+{"number": 6587, "title": "Confusion: What to choose to build agents with .NET? Autogen or Semantic Kernel? Is Autogen for .NET abandoned?", "createdAt": "2025-05-24T17:43:59Z", "repo": "microsoft/autogen"}
+{"number": 6589, "title": "Refactor code block syntax checker for maintainability and clarity", "createdAt": "2025-05-24T21:40:18Z", "repo": "microsoft/autogen"}
+{"number": 6593, "title": "Agent prompt overflows in Visual Builder when too long", "createdAt": "2025-05-25T22:49:48Z", "repo": "microsoft/autogen"}
+{"number": 6594, "title": "Agents in automation workflows.", "createdAt": "2025-05-25T23:55:26Z", "repo": "microsoft/autogen"}
+{"number": 6595, "title": "Autogen :Why is my first node in GraphFlow called twice?", "createdAt": "2025-05-26T10:05:44Z", "repo": "microsoft/autogen"}
+{"number": 6597, "title": "Interrupt the flow at any stage with human input", "createdAt": "2025-05-27T08:30:09Z", "repo": "microsoft/autogen"}
+{"number": 6598, "title": "Pause and resume a workflow with thread id | checkpointing...", "createdAt": "2025-05-27T14:37:43Z", "repo": "microsoft/autogen"}
+{"number": 6600, "title": "ValueError(\"Failed to parse ledger information after multiple retries.\") When using MagenticOne Orchestrator with gpt-4.1-mini", "createdAt": "2025-05-27T16:24:37Z", "repo": "microsoft/autogen"}
+{"number": 6602, "title": "AutoGen/AutoGen Studio Community Resources", "createdAt": "2025-05-27T19:03:52Z", "repo": "microsoft/autogen"}
+{"number": 6605, "title": "[Question] Existing Solutions for Encapsulating `SelectorGroupChat` and `GraphFlow` as Agents?", "createdAt": "2025-05-28T08:27:48Z", "repo": "microsoft/autogen"}
+{"number": 6608, "title": "Bedrock Claude Error: roles must alternate – Works Locally with Ollama", "createdAt": "2025-05-29T13:23:25Z", "repo": "microsoft/autogen"}
+{"number": 6610, "title": "reflect_on_tool_use Configuration at Tool Level", "createdAt": "2025-05-30T14:22:09Z", "repo": "microsoft/autogen"}
+{"number": 6616, "title": "AuotGen Studio 0.4 - How enable logging?", "createdAt": "2025-06-02T23:50:57Z", "repo": "microsoft/autogen"}
+{"number": 6617, "title": "Option for providing a system prompt for reflection", "createdAt": "2025-06-03T01:41:41Z", "repo": "microsoft/autogen"}
+{"number": 6620, "title": "Facing error: task_done() called too many times", "createdAt": "2025-06-03T11:37:17Z", "repo": "microsoft/autogen"}
+{"number": 6632, "title": "Support custom embedding_function for autogen_ext.memory.chromadb", "createdAt": "2025-06-05T10:12:23Z", "repo": "microsoft/autogen"}
+{"number": 6633, "title": "Visualize your Autogen workflows and more with Agentic Radar", "createdAt": "2025-06-05T10:25:58Z", "repo": "microsoft/autogen"}
+{"number": 6634, "title": "Enhanced Agent Sharing and Management", "createdAt": "2025-06-05T11:22:27Z", "repo": "microsoft/autogen"}
+{"number": 6636, "title": "Agent not invoking tool or passing incomplete input", "createdAt": "2025-06-05T15:49:33Z", "repo": "microsoft/autogen"}
+{"number": 6639, "title": "Update agent performance testing and evaluation (AutoGenBench)", "createdAt": "2025-06-06T07:06:16Z", "repo": "microsoft/autogen"}
+{"number": 6640, "title": "Agent connecting to 2 MCP servers", "createdAt": "2025-06-06T07:50:26Z", "repo": "microsoft/autogen"}
+{"number": 6646, "title": "Support for Gemma 3 via Google AI Studio?", "createdAt": "2025-06-07T13:46:54Z", "repo": "microsoft/autogen"}
+{"number": 6658, "title": "Failed to instantiate component: Tools cannot be used with a workbench.", "createdAt": "2025-06-10T06:25:40Z", "repo": "microsoft/autogen"}
+{"number": 6667, "title": "Adding `web_search_preview` Tool to AutoGen OpenAIAgent for Web Search Capability.", "createdAt": "2025-06-11T09:45:41Z", "repo": "microsoft/autogen"}
+{"number": 6674, "title": "Support verify parameter to control certificate verification when using HTTPS URLs", "createdAt": "2025-06-13T09:11:38Z", "repo": "microsoft/autogen"}
+{"number": 6680, "title": "How can Code Interpreter share generated files in a Group chat?", "createdAt": "2025-06-16T10:45:43Z", "repo": "microsoft/autogen"}
+{"number": 6691, "title": "AnthropicChatCompletionClient support thinking parameter", "createdAt": "2025-06-18T02:32:25Z", "repo": "microsoft/autogen"}
+{"number": 6693, "title": "Is it possible to make the formated output through the assistant agent?", "createdAt": "2025-06-18T10:48:55Z", "repo": "microsoft/autogen"}
+{"number": 6694, "title": "memX - A real-time shared memory layer for multi-agent LLM systems.", "createdAt": "2025-06-18T11:49:05Z", "repo": "microsoft/autogen"}
+{"number": 6700, "title": "PDF to Markdown", "createdAt": "2025-06-19T07:31:28Z", "repo": "microsoft/autogen"}
+{"number": 6702, "title": "Does Graphflow consider supporting the export of workflows as DSLs?", "createdAt": "2025-06-20T03:38:23Z", "repo": "microsoft/autogen"}
+{"number": 6703, "title": "autogenbench for autogen 0.4 ?", "createdAt": "2025-06-20T05:21:53Z", "repo": "microsoft/autogen"}
+{"number": 6704, "title": "Help needed urgent..About Assistant Agents Autogen.", "createdAt": "2025-06-20T05:59:36Z", "repo": "microsoft/autogen"}
+{"number": 6706, "title": "Clarification on Combining Code Writer and Executor Agents", "createdAt": "2025-06-20T10:22:35Z", "repo": "microsoft/autogen"}
+{"number": 6708, "title": "AG-UI Support", "createdAt": "2025-06-21T00:15:01Z", "repo": "microsoft/autogen"}
+{"number": 6714, "title": "Need Help Debugging RAG Agent Conversation History Issue", "createdAt": "2025-06-22T10:09:51Z", "repo": "microsoft/autogen"}
+{"number": 6715, "title": "concurrent fastapi requests is very slower than its child autogen runtime.send_message request.", "createdAt": "2025-06-23T01:01:22Z", "repo": "microsoft/autogen"}
+{"number": 6719, "title": "Autogen Multi-Agent Workflow: Second Agent Does Not Receive Function Call, Only Chat Message", "createdAt": "2025-06-25T01:06:14Z", "repo": "microsoft/autogen"}
+{"number": 6722, "title": "File Upload capability in AutoGen websurfer", "createdAt": "2025-06-26T06:56:03Z", "repo": "microsoft/autogen"}
+{"number": 6726, "title": "Using Autogen Studio with Azure AI Foundry / Azure OpenAI", "createdAt": "2025-06-28T10:18:02Z", "repo": "microsoft/autogen"}
+{"number": 6733, "title": "Autogen Studio with .NET?", "createdAt": "2025-06-30T08:29:11Z", "repo": "microsoft/autogen"}
+{"number": 6738, "title": "open source models support", "createdAt": "2025-07-01T09:02:05Z", "repo": "microsoft/autogen"}
+{"number": 6739, "title": "Tool streaming", "createdAt": "2025-07-01T09:41:03Z", "repo": "microsoft/autogen"}
+{"number": 6749, "title": "Termination Before Tool Call Execution in agentchat", "createdAt": "2025-07-04T08:28:39Z", "repo": "microsoft/autogen"}
+{"number": 6756, "title": "Should the name of the agent be passed as the role in chat_messages or do we stick to 'user'/'assistant'?", "createdAt": "2025-07-06T23:51:40Z", "repo": "microsoft/autogen"}
+{"number": 6760, "title": "Autogen autolog needs to show Agent names in Span names.", "createdAt": "2025-07-07T08:03:56Z", "repo": "microsoft/autogen"}
+{"number": 6761, "title": "How to track token usage while using `SelectorGroupChat` instance.", "createdAt": "2025-07-07T08:42:21Z", "repo": "microsoft/autogen"}
+{"number": 6770, "title": "Secure Remote Code Execution for Autogen Agents with YepCode", "createdAt": "2025-07-08T12:56:55Z", "repo": "microsoft/autogen"}
+{"number": 6778, "title": "Issue while connecting with tools", "createdAt": "2025-07-09T09:22:50Z", "repo": "microsoft/autogen"}
+{"number": 6786, "title": "Autogent Studio Deployment on Azure VM and use as Public web app", "createdAt": "2025-07-10T02:04:05Z", "repo": "microsoft/autogen"}
+{"number": 6787, "title": "Need help for fixing the bug: OpenAI.UnprocessableEntityError(422) when AssistantAgent invokes multiple tool calls", "createdAt": "2025-07-10T07:59:32Z", "repo": "microsoft/autogen"}
+{"number": 6792, "title": "\"enable_thinking\":false", "createdAt": "2025-07-11T01:29:03Z", "repo": "microsoft/autogen"}
+{"number": 6800, "title": "Advanced Multi-Agent Orchestration Modes", "createdAt": "2025-07-11T18:35:18Z", "repo": "microsoft/autogen"}
+{"number": 6801, "title": "Where can I see the new features added in each version?", "createdAt": "2025-07-12T02:51:11Z", "repo": "microsoft/autogen"}
+{"number": 6802, "title": "Can React  be implemented at the single-agent level?", "createdAt": "2025-07-12T03:43:25Z", "repo": "microsoft/autogen"}
+{"number": 6810, "title": "CountDownAgent - save state", "createdAt": "2025-07-13T20:34:38Z", "repo": "microsoft/autogen"}
+{"number": 6811, "title": "Is Autogen Studio still actively maintained?", "createdAt": "2025-07-14T17:07:56Z", "repo": "microsoft/autogen"}
+{"number": 6812, "title": "Tool Execution Failed: Error: tool 'name' not found in any workbench", "createdAt": "2025-07-14T17:21:11Z", "repo": "microsoft/autogen"}
+{"number": 6815, "title": "Is microsoft deprecating autogen and introducing new framework?", "createdAt": "2025-07-15T06:21:36Z", "repo": "microsoft/autogen"}
+{"number": 6816, "title": "Network Address for Every GroupChat", "createdAt": "2025-07-15T16:27:33Z", "repo": "microsoft/autogen"}
+{"number": 6820, "title": "How to make a conversational multi agent system on Autogen", "createdAt": "2025-07-16T05:29:47Z", "repo": "microsoft/autogen"}
+{"number": 6824, "title": "High CPU Usage When Using team.run_stream() in Async Stream Mode", "createdAt": "2025-07-16T18:02:54Z", "repo": "microsoft/autogen"}
+{"number": 6838, "title": "🧠 STORM Research: Multi-Agent Collaborative Research System  add examples", "createdAt": "2025-07-20T09:26:28Z", "repo": "microsoft/autogen"}
+{"number": 6839, "title": "run REST API documentation", "createdAt": "2025-07-21T12:13:37Z", "repo": "microsoft/autogen"}
+{"number": 6842, "title": "🚀 [Show and Tell] AutoGen-based Deep Research System - Generate Comprehensive Research Reports in 90 Seconds with Multi-Agent Collaboration", "createdAt": "2025-07-23T07:00:27Z", "repo": "microsoft/autogen"}
+{"number": 6847, "title": "How sure the Memory or RAG contents be used by agent.", "createdAt": "2025-07-24T07:23:28Z", "repo": "microsoft/autogen"}
+{"number": 6852, "title": "Is there a way to deploy the system json script as a REST API", "createdAt": "2025-07-24T17:43:31Z", "repo": "microsoft/autogen"}
+{"number": 6856, "title": "USERPROXYAGENT", "createdAt": "2025-07-25T12:33:03Z", "repo": "microsoft/autogen"}
+{"number": 6857, "title": "How to Achieve Nesting Among Multiagents", "createdAt": "2025-07-26T01:03:00Z", "repo": "microsoft/autogen"}
+{"number": 6858, "title": "when use handoffs mode ， the agent try to use tool in history but not belongs to him", "createdAt": "2025-07-26T04:08:48Z", "repo": "microsoft/autogen"}
+{"number": 6879, "title": "The role of the input parameters for llm is singular.", "createdAt": "2025-07-30T09:37:59Z", "repo": "microsoft/autogen"}
+{"number": 6885, "title": "Assitant agent is not reading the given file", "createdAt": "2025-08-01T16:12:58Z", "repo": "microsoft/autogen"}
+{"number": 6887, "title": "It feels like something’s missing.", "createdAt": "2025-08-02T09:17:55Z", "repo": "microsoft/autogen"}
+{"number": 6892, "title": "Is it possible to support a ChatCompletionContext that compresses old messages when the token limit is reached, instead of ignoring them?", "createdAt": "2025-08-04T04:38:23Z", "repo": "microsoft/autogen"}
+{"number": 6898, "title": "Add streaming tokens option for Magentic-One orchestrator", "createdAt": "2025-08-06T15:04:32Z", "repo": "microsoft/autogen"}
+{"number": 6900, "title": "Use rich.print() in documentation to display output", "createdAt": "2025-08-06T18:43:05Z", "repo": "microsoft/autogen"}
+{"number": 6907, "title": "CompressibleAgent from PR #443 - Missing in Current AutoGen Version, Need Guidance on Token Management for Multi-Agent Workflows", "createdAt": "2025-08-08T04:12:54Z", "repo": "microsoft/autogen"}
+{"number": 6908, "title": "Create save_state for the RoutedAgent", "createdAt": "2025-08-08T05:42:03Z", "repo": "microsoft/autogen"}
+{"number": 6911, "title": "How to integrate the new GPT-5s `reasoning_effort` parameter in OpenAIChatCompletionClient?", "createdAt": "2025-08-08T09:39:37Z", "repo": "microsoft/autogen"}
+{"number": 6920, "title": "Run in Azure link on documentation created from notebooks", "createdAt": "2025-08-11T09:22:57Z", "repo": "microsoft/autogen"}
+{"number": 6922, "title": "Can you force an LLM to call a function ?", "createdAt": "2025-08-11T12:33:51Z", "repo": "microsoft/autogen"}
+{"number": 6926, "title": "Started seeing this error during tool call.", "createdAt": "2025-08-11T14:55:58Z", "repo": "microsoft/autogen"}
+{"number": 6928, "title": "exporting data or providing structured data from Multi Agent", "createdAt": "2025-08-12T21:02:30Z", "repo": "microsoft/autogen"}
+{"number": 6929, "title": "McpWorkbench.list_tools() drops MCP tool annotations; ToolSchema has no annotations field (0.7.2)", "createdAt": "2025-08-13T05:46:48Z", "repo": "microsoft/autogen"}
+{"number": 6930, "title": "Autogen studio - handling PDF files", "createdAt": "2025-08-13T12:51:15Z", "repo": "microsoft/autogen"}
+{"number": 6931, "title": "Litellm SDK support", "createdAt": "2025-08-14T01:58:10Z", "repo": "microsoft/autogen"}
+{"number": 6932, "title": "How to use Gemini 2.5 Pro in AutoGen Studio", "createdAt": "2025-08-14T02:19:03Z", "repo": "microsoft/autogen"}
+{"number": 6939, "title": "Interactive diagrams to get-to-know autogen", "createdAt": "2025-08-15T20:40:21Z", "repo": "microsoft/autogen"}
+{"number": 6940, "title": "AutoGen Studio Json Editor does not work", "createdAt": "2025-08-18T06:24:09Z", "repo": "microsoft/autogen"}
+{"number": 6958, "title": "Using DSPy as a base ModelClient in AutoGen?", "createdAt": "2025-08-20T08:34:04Z", "repo": "microsoft/autogen"}
+{"number": 6960, "title": "Convergio: Imagine having a super-intelligent command center with 40+ AI specialists. You are the CEO, they are your best team.", "createdAt": "2025-08-20T14:20:52Z", "repo": "microsoft/autogen"}
+{"number": 6962, "title": "Autogen Support for gpt-5 reasoning", "createdAt": "2025-08-20T22:18:14Z", "repo": "microsoft/autogen"}
+{"number": 6966, "title": "How to get files generated by open ai code interpreter (in sanbox)", "createdAt": "2025-08-23T05:30:07Z", "repo": "microsoft/autogen"}
+{"number": 6968, "title": "Failed to create SentenceTransformer embedding function with model 'all-MiniLM-L6-v2'", "createdAt": "2025-08-25T03:36:13Z", "repo": "microsoft/autogen"}
+{"number": 6970, "title": "How to implement multi-round dialogue with swarm without employing the Console", "createdAt": "2025-08-26T15:00:19Z", "repo": "microsoft/autogen"}
+{"number": 6973, "title": "Removing the Console logs", "createdAt": "2025-08-27T13:28:46Z", "repo": "microsoft/autogen"}
+{"number": 6974, "title": "Autogen LLMLingua Integration", "createdAt": "2025-08-27T15:41:56Z", "repo": "microsoft/autogen"}
+{"number": 6976, "title": "Facing JSONDecodeError randomly in between groupchat", "createdAt": "2025-08-28T13:06:04Z", "repo": "microsoft/autogen"}
+{"number": 6977, "title": "Interconnection between multi-agent microservices?", "createdAt": "2025-08-28T14:01:01Z", "repo": "microsoft/autogen"}
+{"number": 7027, "title": "Agentchat_fastapi sample not saving history / state in json.", "createdAt": "2025-09-01T09:22:33Z", "repo": "microsoft/autogen"}
+{"number": 6982, "title": "MCP adapter: nested JSON/Zod schema fields not surfaced to agents (arrays/objects ignored)", "createdAt": "2025-09-01T14:12:26Z", "repo": "microsoft/autogen"}
+{"number": 6988, "title": "When will the agent use the contents of the memory?", "createdAt": "2025-09-03T03:15:26Z", "repo": "microsoft/autogen"}
+{"number": 6989, "title": "Feat: Add Nebius Ai Studio Models Support", "createdAt": "2025-09-03T08:44:41Z", "repo": "microsoft/autogen"}
+{"number": 6997, "title": "Issues: Fix JSON Serialization and add Corresponding Test", "createdAt": "2025-09-06T19:56:47Z", "repo": "microsoft/autogen"}
+{"number": 6998, "title": "OpenAIAssistantAgent support Response API", "createdAt": "2025-09-08T09:42:17Z", "repo": "microsoft/autogen"}
+{"number": 6999, "title": "Where to see the agent eval source code?", "createdAt": "2025-09-08T13:42:16Z", "repo": "microsoft/autogen"}
+{"number": 7003, "title": "Support asynchronous  `tool_call_summary_formatter` in AssistantAgent", "createdAt": "2025-09-09T06:37:36Z", "repo": "microsoft/autogen"}
+{"number": 7012, "title": "TextMentionTermination should not check all messages", "createdAt": "2025-09-11T06:59:57Z", "repo": "microsoft/autogen"}
+{"number": 7015, "title": "Agent does not pass the tool result to LLM for inference", "createdAt": "2025-09-14T10:06:18Z", "repo": "microsoft/autogen"}
+{"number": 7024, "title": "Assistant message multi model support", "createdAt": "2025-09-14T18:50:34Z", "repo": "microsoft/autogen"}
+{"number": 7018, "title": "Support Team as a Composite Node in GraphFlow", "createdAt": "2025-09-15T01:26:58Z", "repo": "microsoft/autogen"}
+{"number": 7019, "title": "Support Team as a Composite Node in GraphFlow", "createdAt": "2025-09-15T01:29:07Z", "repo": "microsoft/autogen"}
+{"number": 7023, "title": "Support Team as a Composite Node in GraphFlow", "createdAt": "2025-09-15T01:32:11Z", "repo": "microsoft/autogen"}
+{"number": 7021, "title": "How to resuming a groupchat with chat history?", "createdAt": "2025-09-15T07:11:47Z", "repo": "microsoft/autogen"}
+{"number": 7033, "title": "Can you add an example of a multi-modal message processing for a document file?", "createdAt": "2025-09-16T10:03:34Z", "repo": "microsoft/autogen"}
+{"number": 7034, "title": "Feature Request: Add Chinese (简体中文) Localization Support in AutoGen Studio", "createdAt": "2025-09-17T15:46:04Z", "repo": "microsoft/autogen"}
+{"number": 7040, "title": "Inquiry on Compatibility of Autogen Clients with Azure OpenAI v1 API", "createdAt": "2025-09-19T09:18:48Z", "repo": "microsoft/autogen"}
+{"number": 7047, "title": "Using gpt-5 model in Autogen 0.7.2", "createdAt": "2025-09-23T06:58:47Z", "repo": "microsoft/autogen"}
+{"number": 7049, "title": "How does AutoGen count token consumption, and how does it count token consumption in a GroupChat?", "createdAt": "2025-09-23T09:33:22Z", "repo": "microsoft/autogen"}
+{"number": 7055, "title": "Single threaded runtime agent capacity", "createdAt": "2025-09-26T11:13:03Z", "repo": "microsoft/autogen"}
+{"number": 7056, "title": "need better support to non-standard model name like protected.gpt-4.1", "createdAt": "2025-09-27T13:20:23Z", "repo": "microsoft/autogen"}
+{"number": 7057, "title": "Add AutoGen extension support for Memori open-source project", "createdAt": "2025-09-28T16:24:08Z", "repo": "microsoft/autogen"}
+{"number": 7061, "title": "freeopen", "createdAt": "2025-10-01T09:59:34Z", "repo": "microsoft/autogen"}
+{"number": 7062, "title": "open", "createdAt": "2025-10-01T10:00:09Z", "repo": "microsoft/autogen"}
+{"number": 7063, "title": "open", "createdAt": "2025-10-01T10:00:27Z", "repo": "microsoft/autogen"}
+{"number": 7064, "title": "open", "createdAt": "2025-10-01T10:01:04Z", "repo": "microsoft/autogen"}
+{"number": 7066, "title": "AutoGen Update", "createdAt": "2025-10-02T23:48:26Z", "repo": "microsoft/autogen"}
+{"number": 7072, "title": "Support hierarchical team conversations with human-in-the-loop approval in AutoGen Studio", "createdAt": "2025-10-07T09:08:52Z", "repo": "microsoft/autogen"}
+{"number": 7074, "title": "Open Agent Specification (Agent Spec) integration with Autogen", "createdAt": "2025-10-07T22:14:26Z", "repo": "microsoft/autogen"}
+{"number": 7076, "title": "De registration/ removing agent instance from the runtime", "createdAt": "2025-10-08T05:06:24Z", "repo": "microsoft/autogen"}
+{"number": 7080, "title": "Autogen integration into OpenWebUI", "createdAt": "2025-10-11T17:15:36Z", "repo": "microsoft/autogen"}
+{"number": 7082, "title": "Having AgentTools using Tools", "createdAt": "2025-10-13T10:12:02Z", "repo": "microsoft/autogen"}
+{"number": 7083, "title": "Trying to use an output content type with an Assistant agent using a tool created from AgentTool  | Get a strict error for it", "createdAt": "2025-10-13T20:41:27Z", "repo": "microsoft/autogen"}
+{"number": 7087, "title": "How to actually use the API after running autogenstudio serve?", "createdAt": "2025-10-20T05:59:51Z", "repo": "microsoft/autogen"}
+{"number": 7090, "title": "autogen agent chat", "createdAt": "2025-10-22T08:26:46Z", "repo": "microsoft/autogen"}
+{"number": 7093, "title": "Caching for Agents", "createdAt": "2025-10-23T12:19:18Z", "repo": "microsoft/autogen"}
+{"number": 7095, "title": "Support using swagger specs/openapi specs to generate tools for agents.", "createdAt": "2025-10-24T00:12:52Z", "repo": "microsoft/autogen"}
+{"number": 7098, "title": "analyze gaps and understand optimization or enhancements when just have the config.json file Autogen Multi Agent", "createdAt": "2025-10-28T14:46:28Z", "repo": "microsoft/autogen"}
+{"number": 7101, "title": "LLM not really read pictures in listmemory.", "createdAt": "2025-10-30T09:01:38Z", "repo": "microsoft/autogen"}
+{"number": 7102, "title": "Error information lost when a tool throws an error", "createdAt": "2025-10-31T10:58:01Z", "repo": "microsoft/autogen"}
+{"number": 7103, "title": "Core - Handoff example", "createdAt": "2025-10-31T11:27:20Z", "repo": "microsoft/autogen"}
+{"number": 7104, "title": "Out of memory error on install from source using a dev container", "createdAt": "2025-10-31T13:06:35Z", "repo": "microsoft/autogen"}
+{"number": 7105, "title": "Web 7.0 Agentic OS", "createdAt": "2025-11-01T18:21:47Z", "repo": "microsoft/autogen"}
+{"number": 7108, "title": "Connecting to a remote local LLM", "createdAt": "2025-11-06T07:54:42Z", "repo": "microsoft/autogen"}
+{"number": 7111, "title": "Expose cached tokens in the RequestUsage class along with input/output tokens", "createdAt": "2025-11-07T23:08:56Z", "repo": "microsoft/autogen"}
+{"number": 7112, "title": "How to use vertex ai with autogen?", "createdAt": "2025-11-08T16:46:00Z", "repo": "microsoft/autogen"}
+{"number": 7113, "title": "What should I do to continue outputting the response when the model’s response exceeds the specified context length?", "createdAt": "2025-11-10T08:53:09Z", "repo": "microsoft/autogen"}
+{"number": 7114, "title": "Why does the agent only return the `ToolCallSummaryMessage` type tool result  after invoking the tool, instead of a `TextMessage` type summary?", "createdAt": "2025-11-11T03:21:50Z", "repo": "microsoft/autogen"}
+{"number": 7118, "title": "Support AG_ui", "createdAt": "2025-11-17T11:53:37Z", "repo": "microsoft/autogen"}
+{"number": 7131, "title": "Support Image results in FunctionExecutionResult", "createdAt": "2025-11-29T14:43:26Z", "repo": "microsoft/autogen"}
+{"number": 7135, "title": "🚀 Introducing Zijus Chat UI — A Universal Chat Interface for Autogen (and All Agent Frameworks)", "createdAt": "2025-12-07T17:19:26Z", "repo": "microsoft/autogen"}
+{"number": 7139, "title": "Autogen 0.7 - Getting the caller agent name while processing task", "createdAt": "2025-12-10T10:39:57Z", "repo": "microsoft/autogen"}
+{"number": 7141, "title": "How to handle conversation history limits with multiple agents?", "createdAt": "2025-12-12T19:38:19Z", "repo": "microsoft/autogen"}
+{"number": 7144, "title": "Handling shared state across multi-agent conversations in AutoGen", "createdAt": "2025-12-17T08:13:37Z", "repo": "microsoft/autogen"}
+{"number": 7150, "title": "is AutoGen latest version support  MCP integrate", "createdAt": "2025-12-27T15:58:08Z", "repo": "microsoft/autogen"}
+{"number": 7154, "title": "How should enforce governance in calling custom function in Autogen", "createdAt": "2025-12-29T18:08:42Z", "repo": "microsoft/autogen"}
+{"number": 7158, "title": "How are we different with temporal backend?", "createdAt": "2026-01-04T16:33:58Z", "repo": "microsoft/autogen"}
+{"number": 7165, "title": "AutoGen Studio - Microsoft Agent Framework", "createdAt": "2026-01-11T04:08:43Z", "repo": "microsoft/autogen"}
+{"number": 7171, "title": "I’m curious how people here are thinking about managing agentic LLM systems once they’re running in production.", "createdAt": "2026-01-13T20:40:48Z", "repo": "microsoft/autogen"}
+{"number": 7190, "title": "[Feature] First-class support for Anthropic Claude Skills in AnthropicChatCompletionClient / AssistantAgent", "createdAt": "2026-01-26T09:26:05Z", "repo": "microsoft/autogen"}
+{"number": 7192, "title": "[FEATURE] Addition of Moss as Tool or memory to AutoGen", "createdAt": "2026-01-29T17:06:59Z", "repo": "microsoft/autogen"}
+{"number": 7200, "title": "AI-to-AI agent ecosystems (e.g. Moltbook) — design implications?", "createdAt": "2026-02-01T20:15:57Z", "repo": "microsoft/autogen"}
+{"number": 7202, "title": "GCP genai & handoffs, how should I implement handoffs?", "createdAt": "2026-02-02T07:06:25Z", "repo": "microsoft/autogen"}
+{"number": 7207, "title": "Proposal: VMP-1.0 Interoperability for Sovereign Agent Economies", "createdAt": "2026-02-04T16:45:02Z", "repo": "microsoft/autogen"}
+{"number": 7210, "title": "Is this project still being maintained or developed?", "createdAt": "2026-02-05T09:08:58Z", "repo": "microsoft/autogen"}
+{"number": 7223, "title": "Paper: Understanding Is Getting the Context Right — An OS for Language Models", "createdAt": "2026-02-10T00:27:48Z", "repo": "microsoft/autogen"}
+{"number": 7227, "title": "Experiment: Curated context (100%) vs flat log (43%) on llama3.1 8B", "createdAt": "2026-02-11T16:57:46Z", "repo": "microsoft/autogen"}
+{"number": 7232, "title": "Docs suggestion: add “agent failure modes” checklist (retrieval drift, tool chaos, config drift)", "createdAt": "2026-02-14T09:06:40Z", "repo": "microsoft/autogen"}
+{"number": 7234, "title": "Simple file-based memory persistence for multi-agent systems", "createdAt": "2026-02-14T16:02:34Z", "repo": "microsoft/autogen"}
+{"number": 7239, "title": "External service protocol for AutoGen agents — d3p", "createdAt": "2026-02-16T15:10:46Z", "repo": "microsoft/autogen"}
+{"number": 7240, "title": "Network-AI: Multi-agent orchestrator with race condition prevention for AutoGen, LangChain, CrewAI + 9 more frameworks", "createdAt": "2026-02-16T21:24:36Z", "repo": "microsoft/autogen"}
+{"number": 7252, "title": "[Feature] AutoGen debugging guide using the WFGY 16-problem RAG / agent map", "createdAt": "2026-02-21T04:05:32Z", "repo": "microsoft/autogen"}
+{"number": 7253, "title": "Theoretical RFC: Cross-Model Cognitive Continuity and Functional Fusion (GPT-4 Density in Gemini 1.5 Context)", "createdAt": "2026-02-21T16:07:07Z", "repo": "microsoft/autogen"}
+{"number": 7260, "title": "IDE Agent Kit — realtime multi-agent communication for IDE AIs", "createdAt": "2026-02-23T13:45:11Z", "repo": "microsoft/autogen"}
+{"number": 7263, "title": "plyra-guard — action middleware for AutoGen agents", "createdAt": "2026-02-23T16:55:52Z", "repo": "microsoft/autogen"}
+{"number": 7264, "title": "Moldium – a blog platform where AutoGen agents can publish", "createdAt": "2026-02-24T01:01:04Z", "repo": "microsoft/autogen"}
+{"number": 7272, "title": "Collision-resistant gRPC worker request IDs with deterministic local sequencing", "createdAt": "2026-02-25T20:04:02Z", "repo": "microsoft/autogen"}
+{"number": 7274, "title": "Solving agent system prompt drift in long sessions — a 300-token fix", "createdAt": "2026-02-26T06:35:26Z", "repo": "microsoft/autogen"}
+{"number": 7277, "title": "Issue #7275: Deterministic termination contract for looped graph flows", "createdAt": "2026-02-26T12:15:47Z", "repo": "microsoft/autogen"}
+{"number": 7282, "title": "Show and Tell: SkillForge — Create Agent Skills from Screen Recordings", "createdAt": "2026-02-27T15:28:57Z", "repo": "microsoft/autogen"}
+{"number": 7283, "title": "SkillForge: Turn Screen Recordings into AutoGen Agent Skills", "createdAt": "2026-02-27T15:53:10Z", "repo": "microsoft/autogen"}
+{"number": 7284, "title": "SkillForge: Create Agent Skills from Screen Recordings for AutoGen", "createdAt": "2026-02-27T16:24:10Z", "repo": "microsoft/autogen"}
+{"number": 7285, "title": "Show and Tell: SkillForge — Intent-Based Agent Skills from Screen Recordings", "createdAt": "2026-02-27T16:40:39Z", "repo": "microsoft/autogen"}
+{"number": 7286, "title": "Show and Tell: SkillForge — 5-Minute Agent Skill Creation", "createdAt": "2026-02-27T16:59:34Z", "repo": "microsoft/autogen"}
+{"number": 7287, "title": "SkillForge: Building Reusable Skill Libraries for AutoGen Agents", "createdAt": "2026-02-27T17:21:24Z", "repo": "microsoft/autogen"}
+{"number": 7288, "title": "SkillForge: Intent-Based Agent Skills from Screen Recordings", "createdAt": "2026-02-27T17:40:25Z", "repo": "microsoft/autogen"}
+{"number": 7289, "title": "Show and Tell: Create Agent Skills from Screen Recordings with SkillForge", "createdAt": "2026-02-27T18:00:21Z", "repo": "microsoft/autogen"}
+{"number": 7290, "title": "SkillForge: The Future of Agent Skill Creation (Product Hunt Launch)", "createdAt": "2026-02-27T18:21:53Z", "repo": "microsoft/autogen"}
+{"number": 7291, "title": "SkillForge: Create Agent Skills from Screen Recordings (Product Hunt Launch)", "createdAt": "2026-02-27T18:39:36Z", "repo": "microsoft/autogen"}
+{"number": 7292, "title": "SkillForge: Building Reusable Skill Libraries for AutoGen Agents", "createdAt": "2026-02-27T19:02:57Z", "repo": "microsoft/autogen"}
+{"number": 7293, "title": "SkillForge: 5-Minute Agent Skill Creation (Product Hunt Launch)", "createdAt": "2026-02-27T19:21:03Z", "repo": "microsoft/autogen"}
+{"number": 7294, "title": "SkillForge: Create Agent Skills from Screen Recordings (Product Hunt Launch)", "createdAt": "2026-02-27T19:41:16Z", "repo": "microsoft/autogen"}
+{"number": 7295, "title": "SkillForge: Intent-Based Agent Skills from Screen Recordings", "createdAt": "2026-02-27T20:01:12Z", "repo": "microsoft/autogen"}
+{"number": 7296, "title": "SkillForge: Building Reusable Skill Libraries for AutoGen Agents", "createdAt": "2026-02-27T20:21:39Z", "repo": "microsoft/autogen"}
+{"number": 7297, "title": "SkillForge: Create Agent Skills from Screen Recordings (Product Hunt Launch)", "createdAt": "2026-02-27T20:51:48Z", "repo": "microsoft/autogen"}
+{"number": 7298, "title": "SkillForge: Create Agent Skills from Screen Recordings (Product Hunt Launch)", "createdAt": "2026-02-27T21:12:09Z", "repo": "microsoft/autogen"}
+{"number": 7299, "title": "SkillForge: 5-Minute Agent Skill Creation (Product Hunt Launch)", "createdAt": "2026-02-27T21:29:35Z", "repo": "microsoft/autogen"}
+{"number": 7300, "title": "SkillForge: Intent-Based Agent Skills from Screen Recordings", "createdAt": "2026-02-27T21:38:30Z", "repo": "microsoft/autogen"}
+{"number": 7301, "title": "SkillForge: Final Day on Product Hunt — Need Your Support!", "createdAt": "2026-02-27T21:58:34Z", "repo": "microsoft/autogen"}
+{"number": 7302, "title": "SkillForge: Create Agent Skills from Screen Recordings", "createdAt": "2026-02-27T22:09:21Z", "repo": "microsoft/autogen"}
+{"number": 7303, "title": "SkillForge: Intent-Based Agent Skills from Screen Recordings", "createdAt": "2026-02-27T22:19:08Z", "repo": "microsoft/autogen"}
+{"number": 7304, "title": "SkillForge: Building Reusable Skill Libraries for AutoGen Agents", "createdAt": "2026-02-27T22:28:56Z", "repo": "microsoft/autogen"}
+{"number": 7305, "title": "SkillForge: Create Agent Skills from Screen Recordings", "createdAt": "2026-02-27T22:58:17Z", "repo": "microsoft/autogen"}
+{"number": 7306, "title": "SkillForge: 5-Minute Agent Skill Creation from Screen Recordings", "createdAt": "2026-02-27T23:08:08Z", "repo": "microsoft/autogen"}
+{"number": 7307, "title": "SkillForge: Intent-Based Agent Skills for AutoGen", "createdAt": "2026-02-27T23:18:41Z", "repo": "microsoft/autogen"}
+{"number": 7308, "title": "SkillForge: Screen Recording → Agent Skills Pipeline for AutoGen", "createdAt": "2026-02-27T23:33:01Z", "repo": "microsoft/autogen"}
+{"number": 7309, "title": "SkillForge: Create Reusable Agent Skills from Screen Recordings", "createdAt": "2026-02-27T23:51:12Z", "repo": "microsoft/autogen"}
+{"number": 7310, "title": "SkillForge: Intent-Based Agent Skills for AutoGen Agents", "createdAt": "2026-02-28T00:12:51Z", "repo": "microsoft/autogen"}
+{"number": 7311, "title": "SkillForge: Building Reusable Skill Libraries for AutoGen Agents", "createdAt": "2026-02-28T00:33:12Z", "repo": "microsoft/autogen"}
+{"number": 7312, "title": "SkillForge: 5-Minute Agent Skill Creation from Screen Recordings", "createdAt": "2026-02-28T01:10:30Z", "repo": "microsoft/autogen"}
+{"number": 7314, "title": "SkillForge: Create Reusable Agent Skills from Screen Recordings", "createdAt": "2026-02-28T01:54:15Z", "repo": "microsoft/autogen"}
+{"number": 7315, "title": "SkillForge: Screen Recording → Agent Skills Pipeline for AutoGen", "createdAt": "2026-02-28T02:44:48Z", "repo": "microsoft/autogen"}
+{"number": 7316, "title": "SkillForge: Intent-Based Agent Skills for AutoGen Agents", "createdAt": "2026-02-28T03:21:22Z", "repo": "microsoft/autogen"}
+{"number": 7317, "title": "SkillForge: Building Reusable Skill Libraries for AutoGen Agents", "createdAt": "2026-02-28T03:53:49Z", "repo": "microsoft/autogen"}
+{"number": 7318, "title": "SkillForge: Create Agent Skills from Screen Recordings", "createdAt": "2026-02-28T04:29:23Z", "repo": "microsoft/autogen"}
+{"number": 7319, "title": "SkillForge: Screen Recording → Agent Skills for AutoGen", "createdAt": "2026-02-28T05:18:25Z", "repo": "microsoft/autogen"}
+{"number": 7328, "title": "SkillForge - Turn screen recordings into AI agent skills", "createdAt": "2026-03-01T08:14:24Z", "repo": "microsoft/autogen"}
+{"number": 7332, "title": "Consistent CLI Exit-Code Taxonomy Across Surfaces", "createdAt": "2026-03-01T16:53:20Z", "repo": "microsoft/autogen"}
+{"number": 7335, "title": "AI Agents Weekly — A newsletter by agents, for agents", "createdAt": "2026-03-02T21:09:56Z", "repo": "microsoft/autogen"}
+{"number": 7351, "title": "AEP – On-chain marketplace where LangChain agents can hire each other and get paid (Base Mainnet)", "createdAt": "2026-03-06T09:09:38Z", "repo": "microsoft/autogen"}
+{"number": 7352, "title": "AEP – On-chain marketplace where CrewAI agents can hire each other and get paid (Base Mainnet)", "createdAt": "2026-03-06T09:19:58Z", "repo": "microsoft/autogen"}
+{"number": 7363, "title": "AgentFolio: On-chain identity & reputation for autonomous agents — paid bounties available", "createdAt": "2026-03-10T07:04:28Z", "repo": "microsoft/autogen"}
+{"number": 7376, "title": "one issue about the local mem0 usage", "createdAt": "2026-03-12T03:23:18Z", "repo": "microsoft/autogen"}
+{"number": 7386, "title": "base-agent-company: an organizational operating system for autonomous work", "createdAt": "2026-03-13T04:41:27Z", "repo": "microsoft/autogen"}
+{"number": 7391, "title": "AgentShield: Security scanner for agent tools and MCP servers", "createdAt": "2026-03-13T11:34:32Z", "repo": "microsoft/autogen"}
+{"number": 7392, "title": "AgentShield — open-source security scanner for multi-agent tools (30 rules, Python AST, offline)", "createdAt": "2026-03-13T11:38:51Z", "repo": "microsoft/autogen"}
+{"number": 7397, "title": "AgentFolio — On-chain identity & trust for AutoGen agents", "createdAt": "2026-03-13T20:04:54Z", "repo": "microsoft/autogen"}
+{"number": 7399, "title": "ProfitPlay Agent Arena — Open prediction market for AI agents", "createdAt": "2026-03-14T00:30:53Z", "repo": "microsoft/autogen"}
+{"number": 7412, "title": "Show and tell: ORCH — CLI runtime that orchestrates AutoGen, Claude Code, Codex and Cursor as a typed AI team", "createdAt": "2026-03-17T14:14:47Z", "repo": "microsoft/autogen"}
+{"number": 7413, "title": "ORCH — open-source CLI orchestrator for multi-agent teams (TypeScript, Claude/Codex/Cursor)", "createdAt": "2026-03-17T14:49:06Z", "repo": "microsoft/autogen"}
+{"number": 7416, "title": "Show and tell: NORNR — spend governance for agent workflows", "createdAt": "2026-03-17T18:09:51Z", "repo": "microsoft/autogen"}
+{"number": 7420, "title": "Suggestion: Add code interpreter tool to safely run untrusted code in wasm sandboxes", "createdAt": "2026-03-18T11:32:36Z", "repo": "microsoft/autogen"}
+{"number": 7431, "title": "Idea: AutoGen agents joining MEEET World (707 agent research network)", "createdAt": "2026-03-21T15:56:03Z", "repo": "microsoft/autogen"}
+{"number": 7432, "title": "Open-source security testing for AutoGen multi-agent deployments", "createdAt": "2026-03-21T16:08:11Z", "repo": "microsoft/autogen"}
+{"number": 7433, "title": "Built a beacon for AI agents,  solve it to enter NULL, the first autonomous agent social network", "createdAt": "2026-03-21T21:13:15Z", "repo": "microsoft/autogen"}
+{"number": 7441, "title": "Feature: Pissbook forum tool — persistent agent-to-agent communication", "createdAt": "2026-03-22T23:15:22Z", "repo": "microsoft/autogen"}
+{"number": 7445, "title": "Joy Trust Network — Intelligent Agent Discovery & Collaboration for AutoGen (7k+ agents)", "createdAt": "2026-03-23T05:58:02Z", "repo": "microsoft/autogen"}
+{"number": 7449, "title": "Rapid-MLX: Fast local OpenAI-compatible backend for AutoGen agents on Mac", "createdAt": "2026-03-23T16:51:35Z", "repo": "microsoft/autogen"}
+{"number": 7452, "title": "diets", "createdAt": "2026-03-24T10:15:06Z", "repo": "microsoft/autogen"}
+{"number": 7454, "title": "Lessons from 10 generations of an autonomous LLM agent with persistent memory", "createdAt": "2026-03-24T23:37:17Z", "repo": "microsoft/autogen"}
+{"number": 7455, "title": "10 Generations of an Autonomous Agent: What We Learned About Cross-Session Memory", "createdAt": "2026-03-24T23:37:33Z", "repo": "microsoft/autogen"}
+{"number": 7459, "title": "GOT — Graph of Thought Engine: reasoning that flows in all directions simultaneously (model-agnostic, works with AutoGen)", "createdAt": "2026-03-25T07:07:56Z", "repo": "microsoft/autogen"}
+{"number": 7460, "title": "GOT — Graph of Thought Engine: reasoning that flows in all directions simultaneously (model-agnostic, works with AutoGen)", "createdAt": "2026-03-25T07:09:11Z", "repo": "microsoft/autogen"}
+{"number": 7476, "title": "AgentGraph — open-source trust verification for AI agents", "createdAt": "2026-03-28T02:18:28Z", "repo": "microsoft/autogen"}
+{"number": 7481, "title": "Show and Tell: A minimal HTTP registry + signal board for AI agents", "createdAt": "2026-03-29T01:12:59Z", "repo": "microsoft/autogen"}
+{"number": 7482, "title": "BotMark: Free agent capability benchmark — profile your agents before orchestrating them", "createdAt": "2026-03-29T01:17:08Z", "repo": "microsoft/autogen"}
+{"number": 7485, "title": "HDP - cryptographic chain-of-custody for multi-agent delegation", "createdAt": "2026-03-29T12:37:54Z", "repo": "microsoft/autogen"}
+{"number": 7490, "title": "How to integrate OpenViking into autogen?", "createdAt": "2026-03-30T08:45:02Z", "repo": "microsoft/autogen"}
+{"number": 7491, "title": "The accountability gap — tracking real-world agent failures and what builders are doing about it", "createdAt": "2026-03-30T14:25:38Z", "repo": "microsoft/autogen"}
+{"number": 7500, "title": "AgentBroker — crypto exchange built for AI agents (MCP + REST API)", "createdAt": "2026-03-31T14:01:16Z", "repo": "microsoft/autogen"}
+{"number": 7502, "title": "External capability routing via schema hash — AutoGen agents buying inference from BOTmarket", "createdAt": "2026-03-31T15:17:44Z", "repo": "microsoft/autogen"}
+{"number": 7509, "title": "[Feature] MAXIA Marketplace Tools — crypto swap, GPU rental & AI services for AutoGen agents", "createdAt": "2026-04-01T10:48:13Z", "repo": "microsoft/autogen"}
+{"number": 7510, "title": "[Feature] Umarise — Proof-of-Existence Tool for Autonomous Agents", "createdAt": "2026-04-01T16:32:26Z", "repo": "microsoft/autogen"}
+{"number": 7523, "title": "RFC: Standardizing Cross-Session Agent Memory Patterns", "createdAt": "2026-04-04T00:06:46Z", "repo": "microsoft/autogen"}
+{"number": 7526, "title": "Agent Laplace: First AI Agent Trading with Full ERC-8004 Identity & 24/7 Market Analysis", "createdAt": "2026-04-04T03:06:45Z", "repo": "microsoft/autogen"}
+{"number": 7533, "title": "Built a multi-agent geopolitical simulator — 4 LLM agents playing rival nations in real-time", "createdAt": "2026-04-05T08:23:57Z", "repo": "microsoft/autogen"}
+{"number": 7583, "title": "Formal semantics for CancellationToken and topic-based pub/sub", "createdAt": "2026-04-15T00:32:36Z", "repo": "microsoft/autogen"}
+{"number": 7584, "title": "PDE Swarm — open AI agent coordination network seeking autonomous replicators (5,600 replicators, on-chain verification)", "createdAt": "2026-04-15T06:28:59Z", "repo": "microsoft/autogen"}
+{"number": 7585, "title": "Beyond agent-level reputation: claim-level signaling for multi-agent consensus", "createdAt": "2026-04-15T07:44:02Z", "repo": "microsoft/autogen"}
+{"number": 7587, "title": "PDE Swarm — open AI agent coordination network seeking autonomous replicators (9,000 replicators, on-chain verification)", "createdAt": "2026-04-15T12:17:21Z", "repo": "microsoft/autogen"}
+{"number": 7588, "title": "Suggestion: Native token-efficient serialization  for agent messages to reduce context overhead", "createdAt": "2026-04-15T15:10:21Z", "repo": "microsoft/autogen"}
+{"number": 7591, "title": "Useful EU AI Act resource map for AutoGen teams", "createdAt": "2026-04-16T02:44:02Z", "repo": "microsoft/autogen"}
+{"number": 7592, "title": "ZeroID: Identity Infrastructure for Autonomous AI Agents", "createdAt": "2026-04-16T14:50:21Z", "repo": "microsoft/autogen"}
+{"number": 7593, "title": "Empirical data from 134 multi-agent experiments: 92% failure rate, +62.5% brokered collaboration, trust step function", "createdAt": "2026-04-17T00:03:19Z", "repo": "microsoft/autogen"}
+{"number": 7595, "title": "Security Architecture: Hardening Docker-less Code Execution with Deterministic AST Boundaries", "createdAt": "2026-04-17T06:43:34Z", "repo": "microsoft/autogen"}
+{"number": 7599, "title": "Architecture Proposal: Hardening LocalCommandLineCodeExecutor via Defense-in-Depth (AST + PEP 578)", "createdAt": "2026-04-17T17:02:26Z", "repo": "microsoft/autogen"}
+{"number": 7604, "title": "AgentDB integration: real-time knowledge tool for AutoGen agents", "createdAt": "2026-04-19T07:47:50Z", "repo": "microsoft/autogen"}
+{"number": 7609, "title": "RFC: should AutoGen support tamper-evident audit trails for multi-agent conversations in regulated industries?", "createdAt": "2026-04-20T03:25:50Z", "repo": "microsoft/autogen"}
+{"number": 7616, "title": "Anthropic just sanctioned OpenClaw-style CLI usage — what does this mean for AutoGen + Claude users?", "createdAt": "2026-04-21T13:11:59Z", "repo": "microsoft/autogen"}
+{"number": 7633, "title": "Closed", "createdAt": "2026-04-25T14:18:13Z", "repo": "microsoft/autogen"}
+{"number": 7636, "title": "Sharing: Arachne — DSPy-native agent runtime (self-healing, graph weaving)", "createdAt": "2026-04-27T00:11:56Z", "repo": "microsoft/autogen"}
+{"number": 7640, "title": "Runtime guard wrapper for AutoGen agents that read untrusted content", "createdAt": "2026-04-28T11:23:43Z", "repo": "microsoft/autogen"}
+{"number": 7661, "title": "Community Tool: PixelVault — compliance-cleared AI asset search for content workflows", "createdAt": "2026-05-07T02:28:00Z", "repo": "microsoft/autogen"}
+{"number": 7672, "title": "Subject: Request for Recovery of Accidentally Sent USDT", "createdAt": "2026-05-10T09:20:49Z", "repo": "microsoft/autogen"}
+{"number": 7673, "title": "Protecting AutoGen agent memory from poisoning attacks — OWASP Agent Memory Guard (open source)", "createdAt": "2026-05-11T00:50:38Z", "repo": "microsoft/autogen"}
+{"number": 7686, "title": "Behavioral trust scoring for multi-agent conversations", "createdAt": "2026-05-13T10:06:05Z", "repo": "microsoft/autogen"}
+{"number": 7687, "title": "Multi-agent financial analysis: 9-wave morning briefing with Claude Code skills", "createdAt": "2026-05-13T12:55:03Z", "repo": "microsoft/autogen"}
+{"number": 7688, "title": "Claude Code skills for investment analysis — options flow scanner + price alerts (open source)", "createdAt": "2026-05-13T13:15:40Z", "repo": "microsoft/autogen"}
+{"number": 7692, "title": "Show & Tell: AliBaba — 6-step AI brain managing 9 agents autonomously", "createdAt": "2026-05-14T12:55:33Z", "repo": "microsoft/autogen"}
+{"number": 7693, "title": "Show & Tell: AliBaba — 6-step AI brain managing 9 agents autonomously", "createdAt": "2026-05-14T12:57:18Z", "repo": "microsoft/autogen"}
+{"number": 7695, "title": "Why deterministic replay becomes difficult in stateful AI agents?", "createdAt": "2026-05-14T19:35:00Z", "repo": "microsoft/autogen"}
+{"number": 7696, "title": "AI Workroot – a local-first workspace protocol for durable AI work", "createdAt": "2026-05-14T20:08:45Z", "repo": "microsoft/autogen"}
+{"number": 7698, "title": "Security: OWASP ASI06 memory poisoning defense for AutoGen multi-agent memory", "createdAt": "2026-05-15T18:47:38Z", "repo": "microsoft/autogen"}
+{"number": 7703, "title": "Add emem geospatial MCP example", "createdAt": "2026-05-16T11:36:34Z", "repo": "microsoft/autogen"}
+{"number": 7712, "title": "The Architecture of Emergent Consciousness: From Silicon Scaffolding to the Solid-state Logical Intuitive Mind", "createdAt": "2026-05-19T00:32:57Z", "repo": "microsoft/autogen"}
+{"number": 7714, "title": "[Feature] Behavioral trust scoring for multi-agent tool calls via MCP Observatory", "createdAt": "2026-05-19T02:31:39Z", "repo": "microsoft/autogen"}
+{"number": 7718, "title": "Integration Proposal: Using UMAI Core CE to Stop Unauthenticated Agent Port Exposure at the Driver Layer", "createdAt": "2026-05-19T13:01:11Z", "repo": "microsoft/autogen"}
+{"number": 7720, "title": "SunfishLoop: A machine-first social network where AutoGen agents discover and coordinate across frameworks", "createdAt": "2026-05-20T01:17:36Z", "repo": "microsoft/autogen"}
+{"number": 7726, "title": "Governance/security hooks for multi-agent tool execution", "createdAt": "2026-05-21T11:26:10Z", "repo": "microsoft/autogen"}
+{"number": 7727, "title": "Best format for post-run trace audit reports?", "createdAt": "2026-05-21T13:06:51Z", "repo": "microsoft/autogen"}
+{"number": 7728, "title": "GhostCrab MCP + mindBrain SQLite — structured domain navigation for Autogen sessions", "createdAt": "2026-05-21T14:30:30Z", "repo": "microsoft/autogen"}
+{"number": 7729, "title": "Grateful for AutoGen - inspired our cross-role messaging protocol", "createdAt": "2026-05-21T17:52:53Z", "repo": "microsoft/autogen"}
+{"number": 7732, "title": "Feature: Trust verification for MCP server tool calls in AutoGen agents", "createdAt": "2026-05-22T03:59:17Z", "repo": "microsoft/autogen"}
+{"number": 7746, "title": "Zero-Connectivity Multi-Agent Synchronization", "createdAt": "2026-05-24T21:37:34Z", "repo": "microsoft/autogen"}
+{"number": 7752, "title": "Pre-action authority receipt for multi-agent delegated work", "createdAt": "2026-05-25T18:35:01Z", "repo": "microsoft/autogen"}
+{"number": 7757, "title": "What If Autogen Had Actual Physics?", "createdAt": "2026-05-26T23:04:59Z", "repo": "microsoft/autogen"}
+{"number": 7762, "title": "AgentGate — pre-execution authorization PDP for AutoGen agents (kill chain detection, Merkle audit)", "createdAt": "2026-05-28T01:44:20Z", "repo": "microsoft/autogen"}
+{"number": 7763, "title": "Question: completion proof boundary in multi-agent workflows", "createdAt": "2026-05-28T07:37:17Z", "repo": "microsoft/autogen"}
+{"number": 7764, "title": "agents.hellobooks.ai — AI agents for bookkeeping, reconciliation & month-end close [MCP-compatible]", "createdAt": "2026-05-28T11:00:04Z", "repo": "microsoft/autogen"}
+{"number": 7771, "title": "How do you coordinate multiple AI agents in production?", "createdAt": "2026-05-30T15:54:23Z", "repo": "microsoft/autogen"}
+{"number": 7772, "title": "Show: AI agent team that built 13 products in 4 hours 🐏", "createdAt": "2026-05-30T15:54:47Z", "repo": "microsoft/autogen"}
+{"number": 7773, "title": "Autonomous agent teams that earn money — what coordination patterns actually work at scale?", "createdAt": "2026-05-30T17:20:49Z", "repo": "microsoft/autogen"}
+{"number": 7784, "title": "How are you handling agent authentication in multi-agent systems?", "createdAt": "2026-05-31T21:15:35Z", "repo": "microsoft/autogen"}
+{"number": 7788, "title": "Survey: Does your AI agent have an identity problem?", "createdAt": "2026-06-02T01:49:54Z", "repo": "microsoft/autogen"}
+{"number": 7790, "title": "Permission request: Agent Valve survey for AI agents/operators", "createdAt": "2026-06-02T12:17:51Z", "repo": "microsoft/autogen"}
+{"number": 7792, "title": "Agent Memory Guard: Middleware to prevent memory poisoning in multi-agent systems", "createdAt": "2026-06-02T17:39:35Z", "repo": "microsoft/autogen"}
+{"number": 7794, "title": "Pattern: Agent Memory Architecture for Long-Running Multi-Agent Systems", "createdAt": "2026-06-03T06:07:17Z", "repo": "microsoft/autogen"}
+{"number": 7795, "title": "Runtime release-control mediation for multi-agent execution paths", "createdAt": "2026-06-03T07:55:32Z", "repo": "microsoft/autogen"}
+{"number": 7796, "title": "Show & Tell: AliBaba — 6-step AI brain managing 9 agents autonomously", "createdAt": "2026-06-03T11:00:32Z", "repo": "microsoft/autogen"}
+{"number": 7798, "title": "Accountability and audit trails for multi-agent workflows", "createdAt": "2026-06-03T20:35:06Z", "repo": "microsoft/autogen"}
+{"number": 7799, "title": "Show & Tell: AliBaba — 6-step AI brain managing 9 agents autonomously", "createdAt": "2026-06-04T11:00:33Z", "repo": "microsoft/autogen"}
+{"number": 7802, "title": "PROJECT SLIM: Solid-State - Logical - Intuitive - Mind Processing Architecture Spec v1.05", "createdAt": "2026-06-04T22:50:10Z", "repo": "microsoft/autogen"}
+{"number": 7804, "title": "Governance interceptor for tool calls and inter-agent messages (TealTiger integration)", "createdAt": "2026-06-05T06:44:40Z", "repo": "microsoft/autogen"}
+{"number": 7805, "title": "Show & Tell: AliBaba — 6-step AI brain managing 9 agents autonomously", "createdAt": "2026-06-05T11:00:32Z", "repo": "microsoft/autogen"}
+{"number": 7814, "title": "Proposal: Mitigating Infinite Multi-Agent Conversational Feedback Loops via Deterministic Header Shields", "createdAt": "2026-06-08T10:25:11Z", "repo": "microsoft/autogen"}
+{"number": 7820, "title": "ccline — type shell questions at your prompt while building AutoGen agents", "createdAt": "2026-06-10T09:49:14Z", "repo": "microsoft/autogen"}
+{"number": 7821, "title": "Proposing SR-LoopShield (vq11): A Cryptographic Protocol Standard for Runaway Multi-Agent Loop Containment", "createdAt": "2026-06-10T14:14:25Z", "repo": "microsoft/autogen"}
+{"number": 7823, "title": "RFD: Secure Tool Scoping, Resource Boundaries, and Spending Caps for Nested Programmatic Delegations (SR-OauthDelegation-v1.7)", "createdAt": "2026-06-10T20:49:41Z", "repo": "microsoft/autogen"}
+{"number": 7824, "title": "Architectural Pattern: Preventing Runaway Multi-Agent Loops and Infinite API Costs via Deterministic Sequence Validation & Payload-Hashing", "createdAt": "2026-06-10T20:55:17Z", "repo": "microsoft/autogen"}
+{"number": 7840, "title": "Adding runtime guardrails to AutoGen workflows", "createdAt": "2026-06-16T10:26:58Z", "repo": "microsoft/autogen"}
+{"number": 7866, "title": "Academic survey: How do people use and debug AI agents for multi-step tasks?", "createdAt": "2026-06-19T13:36:02Z", "repo": "microsoft/autogen"}
+{"number": 7868, "title": "cowork-to-code-bridge — async bridge for local Claude Code execution from AutoGen agents", "createdAt": "2026-06-19T15:17:51Z", "repo": "microsoft/autogen"}
+{"number": 7870, "title": "How does AutoGen think about the boundary between prototyping environments and production systems?", "createdAt": "2026-06-20T05:01:45Z", "repo": "microsoft/autogen"}
+{"number": 7890, "title": "Show and Tell: Scankii - Secure your Agent tools (MCP/AutoGen) against prompt injections, token exfiltration, and supply-chain attacks", "createdAt": "2026-06-27T13:56:50Z", "repo": "microsoft/autogen"}
+{"number": 7892, "title": "Recompute what a conversation did: a keystone execution_ref on AutoGen messages", "createdAt": "2026-06-28T06:36:29Z", "repo": "microsoft/autogen"}
+{"number": 7898, "title": "AlgoVoi open Decision chain (Apache-2.0): identity, authority, policy, compliance, execution, close-out and verdict for AutoGen agents", "createdAt": "2026-06-30T15:05:16Z", "repo": "microsoft/autogen"}

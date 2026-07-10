@@ -5316,9 +5316,10 @@
     5367
   ],
   "pr_idx": 1079,
-  "issue_idx": 1560,
+  "issue_idx": 4232,
   "disc_idx": 0,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }

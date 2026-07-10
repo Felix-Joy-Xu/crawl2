@@ -3340,10 +3340,11 @@
     3337,
     3388
   ],
-  "pr_idx": 1610,
-  "issue_idx": 0,
-  "disc_idx": 0,
+  "pr_idx": 1929,
+  "issue_idx": 1277,
+  "disc_idx": 128,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
