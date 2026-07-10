@@ -30,39 +30,28 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      - name: Quick commit test
+        run: |
+          mkdir -p data_phase2
+          echo "test $(date)" > data_phase2/TEST.txt
+          git config --global user.name "actions"
+          git config --global user.email "actions@github.com"
+          git add data_phase2/TEST.txt
+          git commit -m "test: verify git push works" && git push && echo "=== COMMIT PUSH OK ===" || echo "=== COMMIT PUSH FAILED ==="
+
       - name: Run crawler
         env:
           GITHUB_TOKENS: ${{ secrets.for_2 }}
           TEST_MODE: ${{ inputs.test_mode == true && '1' || '' }}
         run: |
-          # 后台每30分钟自动提交进度
-          (
-            while true; do
-              sleep 1800
-              if [ -d data_phase2 ] && [ -n "$(find data_phase2 -name '*.jsonl' 2>/dev/null)" ]; then
-                git add data_phase2/ 2>/dev/null || true
-                git commit -m "Phase2 自动备份 [skip ci]" 2>/dev/null && git push 2>/dev/null || true
-              fi
-            done
-          ) &
-          COMMIT_PID=$!
-          
+          ( while true; do sleep 1800; git add data_phase2/ 2>/dev/null; git commit -m "Phase2 [skip ci]" 2>/dev/null && git push 2>/dev/null || echo "[auto-backup] no new data"; done ) &
           python crawler_phase2.py
-          
-          kill $COMMIT_PID 2>/dev/null || true
+          kill %1 2>/dev/null || true
 
-      - name: Commit final progress
+      - name: Commit final
         if: always()
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [ -d data_phase2 ]; then
-            git add data_phase2/ 2>/dev/null || true
-            if ! git diff --cached --quiet; then
-              git commit -m "Phase2 爬取进度 [skip ci]" && git push || echo "推送跳过"
-            else
-              echo "无变更"
-            fi
-          else
-            echo "data_phase2/ 目录不存在"
-          fi
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "actions@github.com"
+          git add data_phase2/ 2>/dev/null || true
+          git commit -m "Phase2 final [skip ci]" 2>/dev/null && git push 2>/dev/null || echo "[final] nothing to commit"
