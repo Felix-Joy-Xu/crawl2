@@ -1,12 +1,7 @@
-name: Phase2 Crawler (AI原生仓库 + 回溯2020)
+name: Phase2 Crawler V2
 
 on:
   workflow_dispatch:
-    inputs:
-      test_mode:
-        description: '测试模式 (只爬 d3/d3)'
-        type: boolean
-        default: true
   schedule:
     - cron: "0 */6 * * *"
 
@@ -28,30 +23,29 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests
-
-      - name: Quick commit test
-        run: |
-          mkdir -p data_phase2
-          echo "test $(date)" > data_phase2/TEST.txt
-          git config --global user.name "actions"
-          git config --global user.email "actions@github.com"
-          git add data_phase2/TEST.txt
-          git commit -m "test: verify git push works" && git push && echo "=== COMMIT PUSH OK ===" || echo "=== COMMIT PUSH FAILED ==="
+        run: pip install -r requirements.txt
 
       - name: Run crawler
         env:
           GITHUB_TOKENS: ${{ secrets.for_2 }}
-          TEST_MODE: ${{ inputs.test_mode == true && '1' || '' }}
         run: |
-          ( while true; do sleep 1800; git add data_phase2/ 2>/dev/null; git commit -m "Phase2 [skip ci]" 2>/dev/null && git push 2>/dev/null || echo "[auto-backup] no new data"; done ) &
-          python crawler_phase2.py
-          kill %1 2>/dev/null || true
+          # 每30分钟自动提交
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          (
+            while true; do
+              sleep 1800
+              echo "=== 30分钟自动备份 ==="
+              git add data_phase2/
+              git commit -m "Phase2 auto [skip ci]" && git push || echo "无新数据"
+            done
+          ) &
+          python crawler_v2.py
 
-      - name: Commit final
+      - name: Final commit
         if: always()
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "actions@github.com"
-          git add data_phase2/ 2>/dev/null || true
-          git commit -m "Phase2 final [skip ci]" 2>/dev/null && git push 2>/dev/null || echo "[final] nothing to commit"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data_phase2/
+          git commit -m "Phase2 final [skip ci]" && git push || echo "无新数据"
