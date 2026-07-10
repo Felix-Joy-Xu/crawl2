@@ -41,6 +41,30 @@ END_DATE = datetime.datetime(2026, 7, 1, 0, 0, 0)
 
 # 目标仓库列表 — Phase2: AI原生仓库 + 回溯
 REPOSITORIES = [
+    "Aider-AI/aider",
+    "continuedev/continue",
+    "cline/cline",
+    "All-Hands-AI/OpenHands",
+    "openai/openai-python",
+    "anthropics/anthropic-sdk-python",
+    "ollama/ollama",
+    "vercel/ai",
+    "lobehub/lobe-chat",
+    "microsoft/autogen",
+    "crewAIInc/crewAI",
+    "langchain-ai/langgraph",
+    "browser-use/browser-use",
+    "ChatGPTNextWeb/ChatGPT-Next-Web",
+    "getzep/graphiti",
+    "langchain-ai/langchain",
+    "huggingface/transformers",
+    "vercel/next.js",
+    "godotengine/godot",
+    "rust-lang/rust",
+    "yt-dlp/yt-dlp",
+    "2dust/v2rayN",
+    "axios/axios",
+    "vuejs/vue",
     "d3/d3",
 ]
 
@@ -57,7 +81,7 @@ MAX_RUN_TIME = 5.5 * 3600  # 5.5小时，单位：秒
 
 # 并发与限流配置
 MAX_WORKERS = 6          # 并发线程数
-MAX_TEST_ISSUES = 10     # 测试模式：只抓N个issue后退出 (0=全量)
+MAX_TEST_ISSUES = 0      # 测试模式：抓N个issue后退出 (0=全量)
 GLOBAL_RPS = 10          # 全局每秒最大请求数 (防次级限流核心)
 
 # ==========================================
