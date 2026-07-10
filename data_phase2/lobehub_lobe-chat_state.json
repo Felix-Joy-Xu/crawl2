@@ -16304,10 +16304,11 @@
   ],
   "pr_idx": 8762,
   "issue_idx": 6125,
-  "disc_idx": 1400,
+  "disc_idx": 1409,
   "failed_pr": [],
   "failed_issue": [
     5355
   ],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }

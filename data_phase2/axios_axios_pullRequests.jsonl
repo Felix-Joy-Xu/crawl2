@@ -1,0 +1,505 @@
+{"number": 2634, "title": "Let's release v1.0.0.", "createdAt": "2020-01-02T19:15:34Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2637, "title": "Integrate with gitpod", "createdAt": "2020-01-03T13:40:59Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2639, "title": "Fixing typo in CHANGELOG.md", "createdAt": "2020-01-04T17:19:35Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2642, "title": "Fix grammar", "createdAt": "2020-01-06T17:56:59Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2643, "title": "Fix link formatting in CHANGELOG.md to display PR number in parens as link", "createdAt": "2020-01-07T18:52:48Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2647, "title": "Adding axios headers", "createdAt": "2020-01-09T14:33:32Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2652, "title": "WIP - try running in the CI", "createdAt": "2020-01-10T20:28:21Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2656, "title": "Fix merging of params", "createdAt": "2020-01-12T22:15:45Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2659, "title": "Testing if the CI runs", "createdAt": "2020-01-13T15:53:13Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2661, "title": "Adding option to disable automatic decompression", "createdAt": "2020-01-13T18:01:59Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2664, "title": "Adding Table of Contents", "createdAt": "2020-01-15T05:01:04Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2666, "title": "Fixing issue for HEAD method and gziped repsonse", "createdAt": "2020-01-15T09:09:23Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2669, "title": "Allow baseURL to contain GET query parameters", "createdAt": "2020-01-15T19:29:30Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2671, "title": "Fix regular expressions in `isValidXss`", "createdAt": "2020-01-16T15:56:14Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2679, "title": "Remove unnecessary XSS check introduced by #2451", "createdAt": "2020-01-20T14:08:04Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2681, "title": "Adding example GET request with header/body content", "createdAt": "2020-01-20T16:13:29Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2683, "title": "Revert `finally` as `then`", "createdAt": "2020-01-21T07:07:20Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2689, "title": "Compatible with follow-redirect aborts the request", "createdAt": "2020-01-25T07:13:23Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2695, "title": "Add test for redirecting with too large response", "createdAt": "2020-01-27T15:17:33Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2702, "title": "issue#2609 | Sasha | predictable axios requests", "createdAt": "2020-01-30T15:35:25Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2715, "title": "Add the missing `responseEncoding` typing", "createdAt": "2020-02-05T15:55:21Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2724, "title": "Adding test code for \"Options of Http Method\"", "createdAt": "2020-02-09T09:42:35Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2725, "title": "Checking if json string is valid", "createdAt": "2020-02-09T09:46:12Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2726, "title": "Storing uploaded files in 'examples/upload'.", "createdAt": "2020-02-09T09:58:05Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2727, "title": "Remove axios.all() and axios.spread() from Readme.md", "createdAt": "2020-02-09T14:38:42Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2729, "title": "Refine arguments' types for error interceptors", "createdAt": "2020-02-10T16:02:09Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2733, "title": "Update index.d.ts", "createdAt": "2020-02-12T09:49:36Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2748, "title": "Fix tests in browsers", "createdAt": "2020-02-15T07:50:53Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2749, "title": "Fix default custom properties are ignored", "createdAt": "2020-02-15T10:51:41Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2751, "title": "Fix moxios by not forcing adapters to resolve baseURL", "createdAt": "2020-02-16T07:56:16Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2763, "title": "Add `onUploadProgress` and `onDownloadProgress` are browser only", "createdAt": "2020-02-18T08:57:59Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2769, "title": "Adding method usePromise for allowing replace Promise used by axios", "createdAt": "2020-02-20T22:01:28Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2773, "title": "Fixing an issue that type 'null' is not assignable to validateStatus", "createdAt": "2020-02-24T13:45:49Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2778, "title": "Update ' sign to ` in proxy spec", "createdAt": "2020-02-25T09:03:22Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2781, "title": "Add independent `maxBodyLength` option", "createdAt": "2020-02-26T04:21:56Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2784, "title": "Fixing CHANGELOG.md issue link", "createdAt": "2020-02-27T17:31:31Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2787, "title": "Update README.md with standard words", "createdAt": "2020-02-28T20:44:45Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2795, "title": "Allow axios.create(options) to be used recursively", "createdAt": "2020-03-03T20:25:23Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2797, "title": "Updating axios in types to be lower case", "createdAt": "2020-03-04T09:11:01Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2798, "title": "Add `rawConfig` to response errors", "createdAt": "2020-03-04T21:12:31Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2800, "title": "Fix Non-standard environment `pathname` is undefined #2799", "createdAt": "2020-03-05T09:35:04Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2801, "title": "Fix Non-standard environment `pathname` is undefined #2799", "createdAt": "2020-03-05T09:39:48Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2805, "title": "Updating documentation for usage form-data", "createdAt": "2020-03-06T10:18:53Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2806, "title": "Create \"clear\" helper for InterceptorManager and optimize \"eject\" helper", "createdAt": "2020-03-06T12:00:51Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2807, "title": "headers type check", "createdAt": "2020-03-07T09:34:18Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2812, "title": "Don't drop ERR_FR_REDIRECTION_FAILURE #2811", "createdAt": "2020-03-10T17:53:32Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2828, "title": "更新代码", "createdAt": "2020-03-18T03:00:26Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2830, "title": "Fixing slow maxContentLength check", "createdAt": "2020-03-19T01:12:58Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2831, "title": "declare types entry in package.json", "createdAt": "2020-03-19T10:47:47Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2844, "title": "Refactor mergeConfig without utils.deepMerge", "createdAt": "2020-03-24T15:16:08Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2849, "title": "Fixing sometimes response.data is string instead of object", "createdAt": "2020-03-25T22:33:33Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2851, "title": "Fixing 'progressEvent' type", "createdAt": "2020-03-26T12:11:17Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2854, "title": "Added statusCode", "createdAt": "2020-03-27T12:14:32Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2856, "title": "Make default transformResponse parse JSON more properly", "createdAt": "2020-03-28T13:27:54Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2859, "title": "Upgrade to follow-redirects@1.11.0", "createdAt": "2020-03-29T11:00:41Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2860, "title": "Add test with Node.js 12", "createdAt": "2020-03-29T12:41:37Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2865, "title": "Updating interceptor documentation", "createdAt": "2020-04-01T12:53:18Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2872, "title": "Exposing the Axios constructor in index.d.ts", "createdAt": "2020-04-02T18:19:36Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2874, "title": "Fix broken timeout behavior in Node.js environment", "createdAt": "2020-04-04T22:34:10Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2880, "title": "Caseless header comparing in HTTP adapter.", "createdAt": "2020-04-07T15:39:38Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2887, "title": "Update README.md for `data`", "createdAt": "2020-04-11T12:20:27Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2891, "title": "Feature: Fetch API Adapter", "createdAt": "2020-04-12T23:09:33Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2892, "title": "Removing 2 unneeded functions from the httpAdapter", "createdAt": "2020-04-13T04:28:42Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2893, "title": "Update README.md about validateStatus", "createdAt": "2020-04-14T04:16:32Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2911, "title": "Update README.md about validateStatus", "createdAt": "2020-04-20T00:42:38Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2912, "title": "Update README.md about validateStatus", "createdAt": "2020-04-20T00:48:36Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2914, "title": "Updating typings for `arraybuffer` and `stream` responseType", "createdAt": "2020-04-21T00:32:44Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2926, "title": "Leave traces about 'content-encoding'", "createdAt": "2020-04-24T10:41:20Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2928, "title": "Documentation update to clear up ambiguity in code examples", "createdAt": "2020-04-24T14:59:44Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2930, "title": "Adding nodejs http.request option: insecureHTTPParser for interoperability", "createdAt": "2020-04-26T00:07:36Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2933, "title": "Fixing HTTPS proxy from env", "createdAt": "2020-04-28T17:06:48Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2941, "title": "fix whitespace", "createdAt": "2020-05-01T18:47:54Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2942, "title": "Fixing... whitespace", "createdAt": "2020-05-01T19:12:42Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2943, "title": "Adding support for paramsValidator ([#2940](https://github.com/axios/axios/issues/2940))", "createdAt": "2020-05-03T13:43:01Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2949, "title": "Adding a type guard for `AxiosError`", "createdAt": "2020-05-06T07:46:41Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2950, "title": "update", "createdAt": "2020-05-06T13:14:29Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2956, "title": "Adding HTTP status code to error.toJSON", "createdAt": "2020-05-08T13:23:00Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2976, "title": "change readme pull request", "createdAt": "2020-05-21T08:11:54Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2977, "title": "Revert \"Bug/allow header to contain http verb keys #1252\"", "createdAt": "2020-05-22T19:39:14Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2982, "title": "Revert \"Fixing default transformRequest with buffer pools\"", "createdAt": "2020-05-27T18:02:53Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 2992, "title": "Added jin-frame in ECOSYSTEM.md", "createdAt": "2020-06-01T13:04:50Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2993, "title": "Added entry for axios-api-profiler in ecosystem", "createdAt": "2020-06-01T17:50:13Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 2995, "title": "Improved type-safety for AxiosRequestConfig", "createdAt": "2020-06-02T21:49:42Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3002, "title": "Make the default type of response data never", "createdAt": "2020-06-07T12:58:01Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3006, "title": "Replace 'blacklist' with 'blocklist'", "createdAt": "2020-06-10T00:41:38Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3018, "title": "fix #3017 - align auto-import with README examples", "createdAt": "2020-06-12T09:15:20Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3021, "title": "Change headers type to string record", "createdAt": "2020-06-13T08:35:00Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3022, "title": "Add GitHub actions to close invalid issues", "createdAt": "2020-06-13T13:12:40Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3029, "title": "Add GitHub actions to close stale issues/prs", "createdAt": "2020-06-17T14:29:03Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3031, "title": "Update close-issues.yml", "createdAt": "2020-06-17T17:03:09Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3035, "title": "Add days and change name to work", "createdAt": "2020-06-18T06:54:49Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3036, "title": "Dont throw/catch transform exceptions on 304", "createdAt": "2020-06-18T08:47:34Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3049, "title": "Fix stale bot config", "createdAt": "2020-06-22T13:55:37Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3050, "title": "add table of content (preview)", "createdAt": "2020-06-22T17:36:03Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3056, "title": "Don't unzip HTTP 304 Not Modified response empty body (#3055)", "createdAt": "2020-06-24T09:30:57Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3070, "title": "Protocol not parsed when setting proxy config from env vars", "createdAt": "2020-06-27T00:08:39Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3072, "title": "Fixing header removal on Node.js", "createdAt": "2020-06-28T14:10:42Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3084, "title": "Catch raised exception from IE 11.", "createdAt": "2020-07-01T04:31:04Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3092, "title": "Revert \"Return http adapter by default\"", "createdAt": "2020-07-02T17:38:48Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3107, "title": "Adding description about Global axios defaults & Config order of prec…", "createdAt": "2020-07-07T17:11:35Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3111, "title": "Throw better error if url doesnt exist", "createdAt": "2020-07-09T00:08:19Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3138, "title": "Support custom DNS lookup function", "createdAt": "2020-07-22T09:39:09Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3145, "title": "Adding Request Hooks functionality to axios", "createdAt": "2020-07-23T14:32:06Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3149, "title": "Update README.md", "createdAt": "2020-07-25T21:07:22Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3153, "title": "Fixing Cancel' signature. (#3152)", "createdAt": "2020-07-27T06:55:26Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3159, "title": "Fix transport bug", "createdAt": "2020-07-31T14:28:24Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3164, "title": "Adding some overlaping error checking", "createdAt": "2020-08-02T21:53:31Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3168, "title": "fix: `config.timeoutErrorMessage` not working on node", "createdAt": "2020-08-03T09:42:49Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3171, "title": "upgraded dependencies", "createdAt": "2020-08-05T08:02:29Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3176, "title": "Adding globalObject: 'this' to webpack config", "createdAt": "2020-08-06T10:09:34Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3180, "title": "Removing skip for support sockets test", "createdAt": "2020-08-07T13:08:24Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3200, "title": "Fixing an issue that type 'null' and 'undefined' is not assignable to validateStatus when typescript strict option is enabled", "createdAt": "2020-08-14T14:11:25Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3206, "title": "Revert \"Return http adapter by default\"", "createdAt": "2020-08-19T07:45:15Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3209, "title": "Improve timeout error when timeout is browser default", "createdAt": "2020-08-19T22:13:53Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3221, "title": "Fix #3219 by referencing DOM built-in library", "createdAt": "2020-08-22T17:19:04Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3222, "title": "Fixing #3219 by copying lib dom definitions", "createdAt": "2020-08-22T21:02:05Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3228, "title": "Fixing ProgressEvent type definitions so that Axios doesn't have to depend on lib dom (Fixes #3219)", "createdAt": "2020-08-25T15:13:50Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3229, "title": "Adding generic support for instance method", "createdAt": "2020-08-25T21:25:59Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3237, "title": "Fixing node types", "createdAt": "2020-08-30T14:08:17Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3252, "title": "docs: Fix simple typo, existant -> existent", "createdAt": "2020-09-02T20:18:23Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3263, "title": "Adding multiple authentications in headers", "createdAt": "2020-09-08T16:19:51Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3269, "title": "fix: added generic support for `AxiosInstance`", "createdAt": "2020-09-09T09:43:10Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3270, "title": "added generic support for AxiosInstance", "createdAt": "2020-09-09T09:54:20Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3272, "title": "adding multiple authentications headers", "createdAt": "2020-09-09T14:28:05Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3282, "title": "fix axios.delete ignores config.data", "createdAt": "2020-09-12T08:42:25Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3287, "title": "Fixing requestHeaders.Authorization", "createdAt": "2020-09-13T20:31:29Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3289, "title": "Revert \"Fixing overwrite Blob/File type as Content-Type in browser.\"", "createdAt": "2020-09-16T03:23:31Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3295, "title": "An alternative way to cancel requests using promise.cancel method", "createdAt": "2020-09-19T13:21:23Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3296, "title": "Missing info regarding semver exception in contributing.md", "createdAt": "2020-09-22T10:40:53Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3305, "title": "Fixed cancelToken leakage; Added AbortController support;", "createdAt": "2020-09-28T20:22:36Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3309, "title": "Fix typos", "createdAt": "2020-10-02T20:14:16Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3321, "title": "Avoid unnecessary Buffer allocations in Node.js", "createdAt": "2020-10-07T07:04:03Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3326, "title": "Convert data as empty object if undefined is passed", "createdAt": "2020-10-09T16:03:20Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3342, "title": "Update types check", "createdAt": "2020-10-16T09:28:08Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3360, "title": "Fixing catch..then on examples (README page)", "createdAt": "2020-10-21T21:17:49Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3361, "title": "Lock travis to not use node v15", "createdAt": "2020-10-23T10:41:42Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3362, "title": "use utils.toString instead Object.prototype.toString", "createdAt": "2020-10-23T12:17:45Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3364, "title": "Remove the skipping of \"should support sockets\" test", "createdAt": "2020-10-25T17:56:27Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3367, "title": "Update README.md", "createdAt": "2020-10-29T08:18:20Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3375, "title": "Use different socket for Win32 test", "createdAt": "2020-10-31T22:19:16Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3376, "title": "Check Content-Type before using JSON.parse on response.", "createdAt": "2020-11-01T02:55:59Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3377, "title": "Testing and cleanup of transformResponse", "createdAt": "2020-11-01T04:45:47Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3380, "title": "Removing '[' and ']' from URL encode exclude characters (#3316)", "createdAt": "2020-11-03T05:23:32Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3394, "title": "Run tests on BrowserStack", "createdAt": "2020-11-09T05:47:54Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3401, "title": "Update dev dependencies", "createdAt": "2020-11-12T04:45:44Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3409, "title": "Update README.md", "createdAt": "2020-11-13T00:53:55Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3410, "title": "Hotfix: Prevent SSRF", "createdAt": "2020-11-13T01:48:56Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3413, "title": "Swap `.npmignore` with the `files` property of `package.json`", "createdAt": "2020-11-13T22:13:19Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3414, "title": "Update index.d.js for missing 'responseEncoding' property", "createdAt": "2020-11-15T17:19:33Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3415, "title": "Fully automate dev setup with Gitpod", "createdAt": "2020-11-16T05:30:59Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3422, "title": "Adding a socket handler for keep TCP connection", "createdAt": "2020-11-19T05:38:56Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3432, "title": "Unreachable code", "createdAt": "2020-11-24T13:25:34Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3441, "title": "Keep precision of big numbers, swapping json parser for json-bigint parser", "createdAt": "2020-11-26T11:30:45Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3446, "title": "fix: Use String.prototype.trim() if available", "createdAt": "2020-11-27T13:50:36Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3449, "title": "optimization: optimize the declaration file so that typescript can deduce better", "createdAt": "2020-12-02T15:28:24Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3450, "title": "optimization: optimize the declaration file so that typescript can deduce better", "createdAt": "2020-12-02T15:41:01Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3470, "title": "Don't rely on strict mode behaviour for arguments", "createdAt": "2020-12-10T16:47:11Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3471, "title": "Update the 'Global axios defaults' README to use a safer example", "createdAt": "2020-12-10T18:19:21Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3477, "title": "Removing '[' and ']' from URL encode exclude characters", "createdAt": "2020-12-15T04:24:08Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3485, "title": "Removing unused imports", "createdAt": "2020-12-18T21:51:54Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3496, "title": "Adding axios-test-instance to ecosystem", "createdAt": "2020-12-23T14:30:41Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3515, "title": "Fixing docs in CONTRIBUTING.md", "createdAt": "2021-01-01T09:40:42Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3519, "title": "Updating always executed method \"then\" to \"finally\"", "createdAt": "2021-01-02T20:06:00Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3523, "title": "Removing duplicate functionality item in changelog", "createdAt": "2021-01-05T06:52:19Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3538, "title": "Fix the missing launcher", "createdAt": "2021-01-11T09:29:05Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3539, "title": "Default headers example AUTH_TOKEN comment", "createdAt": "2021-01-11T10:35:57Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3544, "title": "Returned error treated when requesting uncommon URL", "createdAt": "2021-01-13T16:49:29Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3545, "title": "chore: ignore yarn.lock file", "createdAt": "2021-01-14T01:36:52Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3546, "title": "refactor(helpers): optimize the logic of isAxiosError", "createdAt": "2021-01-14T02:32:48Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3562, "title": "Add missing \"port\" definition to AxiosRequestConfig", "createdAt": "2021-01-16T12:22:55Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3564, "title": "(Add tests to) document how multiple inceptors work", "createdAt": "2021-01-17T18:15:34Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3566, "title": "sorry - mistake!", "createdAt": "2021-01-18T06:41:50Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3567, "title": "Fixing a typographical error", "createdAt": "2021-01-18T07:24:12Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3581, "title": "Fixed The timeoutErrorMessage property in config not work with Node.js (fixes #3580)", "createdAt": "2021-01-22T17:37:14Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3604, "title": "Update upgrade guide for https proxy setting", "createdAt": "2021-01-28T18:49:18Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3610, "title": "Merge branch 0.21.1 into master", "createdAt": "2021-01-29T12:03:53Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3613, "title": "Fixing possible runtime error in isAxiosError.js type guard", "createdAt": "2021-01-31T08:44:42Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3614, "title": "Release/1.0.0 beta.1", "createdAt": "2021-02-01T03:53:48Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3617, "title": "Adding type AxiosInstance Constructor in AxiosStatic", "createdAt": "2021-02-01T18:27:03Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3619, "title": "Adding an error message for FormData when you use http adapter", "createdAt": "2021-02-03T11:29:22Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3630, "title": "Update bind.js", "createdAt": "2021-02-09T07:39:17Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3645, "title": "Refactored AxiosError to be a constructor; Refactored Cancel [error] to be an AxiosError subclass;", "createdAt": "2021-02-13T20:18:01Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3654, "title": "Adding type that Axios constructor in AxiosStatic", "createdAt": "2021-02-18T23:35:37Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3667, "title": "chore: hotfix by I", "createdAt": "2021-03-06T11:34:09Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3681, "title": "Change homepage link to https://axios-http.com", "createdAt": "2021-03-15T15:11:39Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3688, "title": "JSON improvements: throw if JSON parsing failed; number, boolean can be passed directly as payload for encoding to JSON #2613, #61, #907", "createdAt": "2021-03-19T17:22:55Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3694, "title": "[Updated] follow-redirects version", "createdAt": "2021-03-23T14:39:36Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3703, "title": "Adding ability to omit User-Agent header", "createdAt": "2021-03-23T20:15:29Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3707, "title": "Update README.md", "createdAt": "2021-03-24T06:36:54Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3712, "title": "[Updated] karma sauce launcher", "createdAt": "2021-03-30T06:18:55Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3717, "title": "Fix/karma sauce errors", "createdAt": "2021-03-31T11:28:44Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3727, "title": "Adding body serializer config method", "createdAt": "2021-04-05T20:44:26Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3734, "title": "Add type for the third parameter to use", "createdAt": "2021-04-07T14:37:06Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3737, "title": "Update 'getUri' method to use baseURL", "createdAt": "2021-04-08T20:00:38Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3738, "title": "Fixing quadratic runtime and extra memory usage when setting a maxContentLength", "createdAt": "2021-04-10T02:55:35Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3748, "title": "Fixing responseInterceptors are not work when requestInterceptors are asyncronous", "createdAt": "2021-04-14T09:13:12Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3756, "title": "toFormData helper function", "createdAt": "2021-04-17T16:39:46Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3757, "title": "toFormData helper function", "createdAt": "2021-04-17T17:14:34Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3763, "title": "Feat/json improvements", "createdAt": "2021-04-19T17:40:55Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3767, "title": "Adding documentation for the type guard `isAxiosError`", "createdAt": "2021-04-25T23:49:45Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3771, "title": "[Updated] follow-redirects to the latest version", "createdAt": "2021-04-29T15:58:19Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3772, "title": "Updating `lib/core/README.md` about Dispatching requests", "createdAt": "2021-04-29T23:35:13Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3773, "title": "Adding AxiosRequestConfig type for credential and mode", "createdAt": "2021-05-02T12:58:08Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3781, "title": "Adding parseInt to config.timeout", "createdAt": "2021-05-04T19:17:33Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3783, "title": "Adding custom return type support to interceptor", "createdAt": "2021-05-06T08:11:30Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3784, "title": "Fixing a regression issue #2234 where url of instance config is ignored", "createdAt": "2021-05-06T13:58:54Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3785, "title": "Fixing remove Content-Type when data is instance of FormData", "createdAt": "2021-05-07T09:21:10Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3786, "title": "Fixing maxBodyLength enforcement", "createdAt": "2021-05-07T16:44:30Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3791, "title": "Adding error handling when missing url", "createdAt": "2021-05-10T01:40:07Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3794, "title": "Fix broken type-declaration", "createdAt": "2021-05-12T10:20:18Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3796, "title": "Add funding button to Axios", "createdAt": "2021-05-13T12:16:55Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3800, "title": "Add AxiosInterceptorOptions to d.ts", "createdAt": "2021-05-17T14:40:49Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3802, "title": "Update line on methods, update TS definition to allow strings", "createdAt": "2021-05-17T21:53:52Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3803, "title": "Add explanation of cancel token", "createdAt": "2021-05-18T07:03:18Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3806, "title": "Added data type that defaults to any", "createdAt": "2021-05-18T18:52:52Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3807, "title": "Remove charset in tests", "createdAt": "2021-05-21T03:00:21Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3809, "title": "Update isAbsoluteURL.js", "createdAt": "2021-05-24T12:01:11Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3813, "title": "Fixes the sauce labs tests by bumping karma-sauce-launcher", "createdAt": "2021-05-26T05:11:30Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3816, "title": "Fixing `isAxiosError` typings to take generics", "createdAt": "2021-05-27T05:46:12Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3817, "title": "Update ECOSYSTEM.md", "createdAt": "2021-05-29T20:56:59Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3818, "title": "Fixing README.md ", "createdAt": "2021-05-30T06:20:40Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3822, "title": "fix obvious mistyping", "createdAt": "2021-06-04T09:38:56Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3825, "title": "Fix README typo under Request Config", "createdAt": "2021-06-05T01:27:33Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3826, "title": "Added test for buildURL with null params.", "createdAt": "2021-06-08T20:36:58Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3831, "title": "change isCancel to be a type guard", "createdAt": "2021-06-10T10:09:56Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3836, "title": "Use native `Array.isArray()` in `utils.js`", "createdAt": "2021-06-12T19:51:12Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3837, "title": "Fixing instance data not being applied to request", "createdAt": "2021-06-13T19:56:32Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3847, "title": "Fixing README.md", "createdAt": "2021-06-22T05:55:53Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3850, "title": "use Record<string, string> for headers", "createdAt": "2021-06-23T12:37:27Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3851, "title": "Abort codes", "createdAt": "2021-06-23T22:58:34Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3852, "title": "Adding support for beforeRedirect config option", "createdAt": "2021-06-24T00:32:56Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3865, "title": "Write two request interceptors in a row, and the latter will be executed later", "createdAt": "2021-06-28T12:09:39Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3866, "title": "Write two request interceptors in a row, and the latter will be execu…", "createdAt": "2021-06-28T12:20:29Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3895, "title": "Uses only 'application/json' as default 'Accept' header", "createdAt": "2021-07-13T13:49:23Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3906, "title": "Adding 'responseEncoding' prop missing Typescript", "createdAt": "2021-07-20T21:50:44Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3907, "title": "Adding restful subpath params support", "createdAt": "2021-07-21T14:00:23Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3911, "title": "feat: fix proxy agent", "createdAt": "2021-07-23T07:05:10Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3912, "title": "Changed the default values of the Accept header", "createdAt": "2021-07-25T06:21:16Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3916, "title": "Adding aborted event handler", "createdAt": "2021-07-27T07:59:46Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3918, "title": "Adding responseEncoding prop type in AxiosRequestConfig", "createdAt": "2021-07-28T17:30:10Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3922, "title": "fix: set user-agent header case-insensitively for http adapter", "createdAt": "2021-07-30T02:49:00Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3925, "title": "Resolving typing", "createdAt": "2021-08-01T19:08:13Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3936, "title": "README: fixing JSON syntax", "createdAt": "2021-08-05T13:18:22Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3937, "title": "Adding CI", "createdAt": "2021-08-08T11:31:14Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3938, "title": "Adding CI on Github Actions.", "createdAt": "2021-08-08T12:30:47Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3951, "title": "Update bower.json", "createdAt": "2021-08-13T07:16:59Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3952, "title": "fix: response interceptors doesn't work", "createdAt": "2021-08-13T10:31:11Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3953, "title": "Updating CI status badge", "createdAt": "2021-08-13T12:33:49Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3957, "title": "fix typo.", "createdAt": "2021-08-16T20:52:34Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3961, "title": "Added errors to be displayed when the query parsing process itself fails.", "createdAt": "2021-08-17T18:05:22Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3962, "title": "Fixing axiosRequestConfig params type", "createdAt": "2021-08-18T17:38:22Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3966, "title": "Fixing error handling when stream is destroyed while reading", "createdAt": "2021-08-20T11:10:00Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3967, "title": "Adding error handling inside stream end callback", "createdAt": "2021-08-21T12:34:43Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3968, "title": "Adding inflation for deflate streams without zlib header", "createdAt": "2021-08-22T05:46:04Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3970, "title": "Code breaks at null pathname in isURLSameOrigin bug fix", "createdAt": "2021-08-22T14:07:07Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3975, "title": "Fix \"Content-Length\" header for GET and DELETE methods", "createdAt": "2021-08-25T01:37:07Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3980, "title": "Security fix for ReDoS", "createdAt": "2021-08-26T14:36:30Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3981, "title": "Create SECURITY.md", "createdAt": "2021-08-26T17:45:14Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 3987, "title": "Fixed confusion in baseURL in config section", "createdAt": "2021-08-29T22:21:39Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3990, "title": "Fixed confusion in baseURL at request config section", "createdAt": "2021-08-31T19:24:03Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 3991, "title": "Update client.html", "createdAt": "2021-08-31T21:19:10Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4008, "title": "Fixing buildURL anchor hash removal when no params are provided", "createdAt": "2021-09-04T11:43:22Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4013, "title": "Fixing interceptor chain when request interceptor is asynchronous", "createdAt": "2021-09-04T13:40:57Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4020, "title": "fix json transform when data is pre-stringified", "createdAt": "2021-09-05T19:50:37Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4021, "title": "Fix/safe json stringify to avoid unnecessary string encoding.", "createdAt": "2021-09-05T20:11:25Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4025, "title": "Release/0.21.4", "createdAt": "2021-09-06T15:29:44Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4029, "title": "Fix/drop package.json import", "createdAt": "2021-09-07T19:02:30Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4033, "title": "add type options for interceptor use", "createdAt": "2021-09-08T09:19:21Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4037, "title": "Interceptor Options", "createdAt": "2021-09-08T20:39:00Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4041, "title": "fix/Avoid package.json import;", "createdAt": "2021-09-10T14:41:34Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4045, "title": "Adding `insecureHTTPParser` property to TypeScript typings", "createdAt": "2021-09-11T03:50:09Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4046, "title": "Updating deprecated api of abortion in node.js", "createdAt": "2021-09-12T17:24:35Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4050, "title": "Fixes umd build for non-web targets", "createdAt": "2021-09-13T13:14:34Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4052, "title": "Fixed default transitional config for custom Axios instance;", "createdAt": "2021-09-13T21:08:34Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4055, "title": "Adding defaultReject feature and _instanceId property (resolves #3984)", "createdAt": "2021-09-14T08:53:12Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4059, "title": "Updating: add use options to type definitions", "createdAt": "2021-09-15T08:00:20Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4065, "title": "Feat/export package version constant", "createdAt": "2021-09-15T15:48:00Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4066, "title": "Adding insecureHTTPParser type to AxiosRequestConfig", "createdAt": "2021-09-15T20:52:44Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4069, "title": "Fix node version on CI", "createdAt": "2021-09-16T19:11:07Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4072, "title": "The better trim() polyfill.", "createdAt": "2021-09-17T11:57:49Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4075, "title": "Make the code more concise", "createdAt": "2021-09-18T13:01:57Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4076, "title": "feature: allow path of the url to be decoded back, useful for OData q…", "createdAt": "2021-09-18T15:31:38Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4077, "title": "OData support, dont encode the path of the request", "createdAt": "2021-09-19T15:12:11Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4078, "title": "Added optional ability for child instances to use actual parent config values", "createdAt": "2021-09-20T23:33:31Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4096, "title": "refactor: added listen callback function", "createdAt": "2021-09-28T12:58:11Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4107, "title": "Release/v0.22.0", "createdAt": "2021-10-01T05:56:22Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4110, "title": "feat: Add possibility to choose response type based on the response, resolves #4098", "createdAt": "2021-10-01T08:58:05Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4111, "title": "Revert \"Improved type-safety for AxiosRequestConfig (#2995)\"", "createdAt": "2021-10-01T12:46:48Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4114, "title": "chore(docs): rename Angular to AngularJS", "createdAt": "2021-10-01T13:21:48Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4115, "title": "Fix missing semicolon in typings", "createdAt": "2021-10-01T13:59:24Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4116, "title": "Distinguish request and response data types", "createdAt": "2021-10-01T14:22:50Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4117, "title": "fix(types): default request headers types", "createdAt": "2021-10-01T14:53:49Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4133, "title": "Fix types of Axios requst methods", "createdAt": "2021-10-04T09:18:55Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4135, "title": "Fix header type", "createdAt": "2021-10-04T12:49:23Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4136, "title": "fix response headers types", "createdAt": "2021-10-04T14:05:42Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4140, "title": "Test types", "createdAt": "2021-10-05T11:20:47Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4142, "title": "Change never type to unknown", "createdAt": "2021-10-05T15:52:40Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4143, "title": "Release/v0.22.0", "createdAt": "2021-10-05T18:18:29Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4144, "title": "Expand Headers types", "createdAt": "2021-10-05T19:18:06Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4147, "title": "Fixed TransitionalOptions typings", "createdAt": "2021-10-06T13:58:56Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4164, "title": "Move response type generic to last", "createdAt": "2021-10-08T18:17:15Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4171, "title": "fix circular dep on defaults", "createdAt": "2021-10-10T14:34:53Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4174, "title": "Adding missed Interceptor types", "createdAt": "2021-10-11T10:56:34Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4178, "title": "ci(workflow): add cache to workflows using actions/setup-node", "createdAt": "2021-10-12T17:54:18Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4179, "title": "Update webpack.config.js", "createdAt": "2021-10-13T02:11:03Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4180, "title": "Fixed app crash on passing null to axios.isAxiosError. Based on issue…", "createdAt": "2021-10-13T08:16:17Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4185, "title": "fix(types): allow to specify partial default headers for instance cre…", "createdAt": "2021-10-13T10:04:27Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4186, "title": "revert: change type of AxiosResponse to any", "createdAt": "2021-10-13T17:12:01Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4189, "title": "Fix app crash on passing null to isAxiosError method. Issue #4172", "createdAt": "2021-10-14T13:58:15Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4191, "title": "adding create instance config type as AxiosRequestConfig does not if always", "createdAt": "2021-10-15T06:04:18Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4195, "title": "Update types to include newly added Interceptor Options", "createdAt": "2021-10-16T01:28:24Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4197, "title": "Updating both adapters to set config.url to full URL", "createdAt": "2021-10-17T17:31:06Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4198, "title": "Fixing Tranformer header argument types", "createdAt": "2021-10-17T21:54:51Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4201, "title": "Fix TS definition for AxiosRequestTransformer", "createdAt": "2021-10-19T22:11:08Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4202, "title": "Remove unnecessary checks in default transformRequest", "createdAt": "2021-10-19T22:43:10Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4205, "title": "Feature proposition data validation", "createdAt": "2021-10-20T09:12:47Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4206, "title": "fix: AxiosInstance allow Generic", "createdAt": "2021-10-20T14:01:02Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4207, "title": "docs: add to installing using pnpm ", "createdAt": "2021-10-20T17:51:05Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4208, "title": "clear error when invalid header value", "createdAt": "2021-10-20T20:36:35Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4210, "title": "fixing issue #4172 when passing null to isAxiosError + adding tests", "createdAt": "2021-10-21T19:17:11Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4212, "title": "Fixing issue #4192 NO_PROXY does not support *.com", "createdAt": "2021-10-22T15:21:32Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4213, "title": "Adding createDefaults method", "createdAt": "2021-10-23T14:20:54Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4214, "title": "Cache dependencies in GitHub Actions CI workflow", "createdAt": "2021-10-23T20:35:58Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4215, "title": "Added progress capturing support for node.js environment;", "createdAt": "2021-10-24T23:34:37Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4217, "title": "Fix CHANGELOG referenced PR", "createdAt": "2021-10-25T20:14:28Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4219, "title": "Update CHANGELOG.md", "createdAt": "2021-10-26T00:51:54Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4220, "title": "Refactored project file structure to avoid circular imports;", "createdAt": "2021-10-26T11:53:29Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4221, "title": "True up dev", "createdAt": "2021-10-26T17:48:14Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4224, "title": "types: allow type definition for axios instance methods", "createdAt": "2021-10-27T14:22:59Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4225, "title": "update readme file", "createdAt": "2021-10-27T16:00:06Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4229, "title": "Added generic `AxiosAbortSignal` TS interface to avoid importing AbortController polyfill", "createdAt": "2021-10-29T13:03:53Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4232, "title": "Fix grammatical issues in README", "createdAt": "2021-10-30T09:39:10Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4238, "title": "Include axios-url-template in ECOSYSTEM.md", "createdAt": "2021-11-01T16:18:36Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4240, "title": "Adding restful style params support", "createdAt": "2021-11-02T13:33:38Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4241, "title": "Add native cookier jar", "createdAt": "2021-11-03T01:35:31Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4248, "title": "Interceptor clear", "createdAt": "2021-11-04T21:44:39Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4254, "title": "Fixing type inference of return value", "createdAt": "2021-11-10T02:40:37Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4259, "title": "Add @supercharge/sttp to ECOSYSTEM.md", "createdAt": "2021-11-11T20:42:31Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4261, "title": "Fixed race condition on immediate requests cancellation", "createdAt": "2021-11-12T15:57:57Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4275, "title": "Fixing request url is not exist", "createdAt": "2021-11-21T08:19:36Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4287, "title": "Add the `responseEncoding` type to `AxiosRequestConfig`", "createdAt": "2021-11-24T20:17:15Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4291, "title": "Adding better error message when URL protocol is missing (#4244)", "createdAt": "2021-11-27T11:13:08Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4293, "title": "fix: add isCancel type assert", "createdAt": "2021-11-28T15:46:45Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4301, "title": "Update package.json", "createdAt": "2021-11-29T09:58:26Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4319, "title": "docs(ecosystem): add react hook plugin", "createdAt": "2021-12-09T16:44:32Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4321, "title": "Add options for AxiosInterceptorManager's use method", "createdAt": "2021-12-10T09:36:17Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4322, "title": "add `string[]` to `AxiosRequestHeaders` type", "createdAt": "2021-12-10T12:08:48Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4326, "title": "Adding connection timeout to http adapter", "createdAt": "2021-12-14T11:23:30Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4334, "title": "Fixing AxiosRequestHeaders typings", "createdAt": "2021-12-17T10:41:09Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4340, "title": "Fixing default header's Content-Type (#4339)", "createdAt": "2021-12-20T10:39:13Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4344, "title": "Expand isAxiosError types", "createdAt": "2021-12-21T18:44:54Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4346, "title": "Fixing removing package-lock from gitignore", "createdAt": "2021-12-21T23:04:05Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4348, "title": "Feature: adding an adapter that supports HarmonyOS in axios", "createdAt": "2021-12-24T06:35:54Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4351, "title": "Updating webpack version to 5", "createdAt": "2021-12-28T11:56:47Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4356, "title": "Adding Axios Interceptor Option Type", "createdAt": "2021-12-29T08:42:47Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4363, "title": "Update interceptor options to extensible", "createdAt": "2021-12-30T08:23:03Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4368, "title": "Added a reference to http(s) agent options in README", "createdAt": "2022-01-03T09:19:36Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4373, "title": "Updating default-headers (#4372)", "createdAt": "2022-01-09T04:45:37Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4379, "title": "Updating follow-redirects to version 1.14.7", "createdAt": "2022-01-12T14:23:15Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4387, "title": "Updating HTTP links in README.md to use HTTPS", "createdAt": "2022-01-14T22:44:23Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4390, "title": "Fix browser support image broken when use camo link. :tea:", "createdAt": "2022-01-16T16:59:33Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4391, "title": "Fix FormData example", "createdAt": "2022-01-17T04:45:07Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4413, "title": "Fixed isFormData predicate;", "createdAt": "2022-01-21T23:32:15Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4414, "title": "Edited readme with 3 updated browser icons of chrome, firefox and safari.", "createdAt": "2022-01-22T05:05:49Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4418, "title": "Updated README example to be coherent with the CommonJS usage", "createdAt": "2022-01-23T02:42:52Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4425, "title": "expand AxiosInstance types", "createdAt": "2022-01-27T04:27:06Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4426, "title": "Fix/remove url required", "createdAt": "2022-01-27T06:22:19Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4435, "title": "Fixing http tests to avoid hanging when assertions fail", "createdAt": "2022-01-31T19:25:29Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4436, "title": "Resolving proxy from env on redirect", "createdAt": "2022-01-31T20:28:01Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4444, "title": "Enhance + Types for AxiosInterceptorOptions", "createdAt": "2022-02-04T10:39:56Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4445, "title": "Adding node", "createdAt": "2022-02-04T19:25:34Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4446, "title": "Added FormData automatic serialization section to Readme.md;", "createdAt": "2022-02-04T20:53:58Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4448, "title": "Improved FormData support;", "createdAt": "2022-02-06T14:11:49Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4461, "title": "Bump karma from 6.3.11 to 6.3.14", "createdAt": "2022-02-11T13:53:59Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4462, "title": "Update follow-redirects dependency due to Vurnerbility", "createdAt": "2022-02-11T14:00:04Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4465, "title": "multipart/form-data playground", "createdAt": "2022-02-12T16:46:26Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4468, "title": "Replacing deprecated substr() with slice()", "createdAt": "2022-02-12T21:58:03Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4469, "title": "Add `toFormData` Node support and tests ", "createdAt": "2022-02-13T06:12:27Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4470, "title": "Env form data", "createdAt": "2022-02-13T07:12:17Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4472, "title": "Revert \"Fixed isFormData predicate;\"", "createdAt": "2022-02-13T13:43:08Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4473, "title": "Bump follow-redirects from 1.14.7 to 1.14.8", "createdAt": "2022-02-13T13:45:47Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4475, "title": "fix: create config headers types", "createdAt": "2022-02-13T15:21:15Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4491, "title": "Bump url-parse from 1.5.4 to 1.5.7", "createdAt": "2022-02-19T15:16:39Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4492, "title": "Changed `func-names` eslint rule to `as-needed`;", "createdAt": "2022-02-20T16:44:26Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4494, "title": "Fixing #4440 requests ignore 0 and false as request payload", "createdAt": "2022-02-23T21:02:32Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4495, "title": "Fixing getUri method for the Uncaught TypeError", "createdAt": "2022-02-24T00:20:30Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4500, "title": "Fix some word spelling and Lint style in comment", "createdAt": "2022-02-27T04:51:07Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4501, "title": "Bump url-parse from 1.5.4 to 1.5.10", "createdAt": "2022-02-28T02:01:37Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4505, "title": "Use type alias instead of interface for AxiosPromise", "createdAt": "2022-03-01T13:57:05Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4506, "title": "Bump karma from 6.3.14 to 6.3.16", "createdAt": "2022-03-02T13:32:38Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4511, "title": "add 'Context-Type' prop to AxiosRequestHeaders", "createdAt": "2022-03-07T10:39:18Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4514, "title": "Feat/circular deps", "createdAt": "2022-03-09T15:55:07Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4515, "title": "Feat/circular deps", "createdAt": "2022-03-09T15:59:18Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4516, "title": "Feat/circular deps (#4515)", "createdAt": "2022-03-09T17:18:42Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4517, "title": "#4412 Fix FormData detection.", "createdAt": "2022-03-09T19:57:22Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4528, "title": "Improved FormData support; (#4448)", "createdAt": "2022-03-15T05:51:22Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4532, "title": "fix url to defaults.js", "createdAt": "2022-03-17T09:23:52Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4544, "title": "don't need to transform arguments to array", "createdAt": "2022-03-22T14:46:53Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4549, "title": "The content type option is left to the developer", "createdAt": "2022-03-25T03:15:27Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4550, "title": "The content type option is left to the developer", "createdAt": "2022-03-25T03:27:36Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4551, "title": "Fixing wrong link in changelog", "createdAt": "2022-03-27T10:54:33Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4557, "title": "Fixing instance.defaults.headers type", "createdAt": "2022-03-29T18:44:04Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4562, "title": "follow-redirects to ^1.14.9", "createdAt": "2022-03-30T09:17:15Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4566, "title": "Bump minimist from 1.2.5 to 1.2.6", "createdAt": "2022-03-31T20:06:28Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4567, "title": "Fix reuse socket wrt to proxy", "createdAt": "2022-04-01T06:48:09Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4572, "title": "docs(index.d.ts): add interceptor handles ts declare and customConfig…", "createdAt": "2022-04-01T11:30:37Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4574, "title": "Bump minimist from 1.2.5 to 1.2.6", "createdAt": "2022-04-01T18:48:50Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4580, "title": "Adding HTTP status code for transformResponse", "createdAt": "2022-04-04T11:18:28Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4587, "title": "opt: opt judgment code of cancel", "createdAt": "2022-04-06T14:34:21Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4590, "title": "Emphasize the URLSearchParam built-in interface", "createdAt": "2022-04-07T18:17:21Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4591, "title": "📝 update README.md", "createdAt": "2022-04-08T02:11:09Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4594, "title": "Removed import of `url` module in browser build due to huge size overhead…", "createdAt": "2022-04-08T17:00:52Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4596, "title": "Replaced Webpack in favor of Rollup.", "createdAt": "2022-04-08T23:24:40Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4599, "title": "Update README.md", "createdAt": "2022-04-12T03:12:05Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4603, "title": "Adding Generics to AxiosInstance", "createdAt": "2022-04-15T08:00:35Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4615, "title": "Bump async from 2.6.3 to 2.6.4", "createdAt": "2022-04-25T06:00:22Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4624, "title": "Updating AxiosError to include stack trace", "createdAt": "2022-04-25T19:22:03Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4639, "title": "Enhanced protocol parsing implementation to fix #4633;", "createdAt": "2022-04-26T14:27:18Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4640, "title": "Fixed FormData posting in browser environment by reverting #3785;", "createdAt": "2022-04-26T16:08:51Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4641, "title": "Disabled WebPack auto importing plugin to avoid unnecessary imports;", "createdAt": "2022-04-26T19:42:42Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4642, "title": "Fixing FormData content-type handling in XHR", "createdAt": "2022-04-27T00:07:32Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4649, "title": "Fix grammar in README", "createdAt": "2022-04-27T19:16:11Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4654, "title": "fix(type): add AxiosError to AxiosStatic", "createdAt": "2022-04-28T21:50:10Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4656, "title": "Removed incorrect argument for NetworkError constructor;", "createdAt": "2022-04-29T12:50:07Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4659, "title": "Include request and config when creating a `CanceledError`.", "createdAt": "2022-05-01T01:38:35Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4665, "title": "Make AxiosError.config optional in the type definition", "createdAt": "2022-05-03T05:45:14Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4668, "title": "Added generic TS types for the exposed `toFormData` helper;", "createdAt": "2022-05-03T18:02:02Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4673, "title": "Bump follow-redirects from 1.14.9 to 1.15.0", "createdAt": "2022-05-03T21:56:37Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4675, "title": "Adding types for progress event callbacks", "createdAt": "2022-05-04T03:43:43Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4678, "title": "Added `blob` to the list of protocols supported by the browser;", "createdAt": "2022-05-05T15:03:24Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4687, "title": "Update SECURITY.md", "createdAt": "2022-05-06T11:30:06Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4699, "title": "Revert \"The content type option is left to the developer\"", "createdAt": "2022-05-09T18:14:23Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4701, "title": "Fixing Z_BUF_ERROR when no content", "createdAt": "2022-05-10T10:27:55Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4704, "title": "Added enhanced `toFormData` implementation with additional options", "createdAt": "2022-05-11T16:55:17Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4708, "title": "Fixing proxy beforeRedirect regression", "createdAt": "2022-05-12T18:43:10Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4711, "title": "Adding `Canceler` parameters config and request", "createdAt": "2022-05-13T08:33:12Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4714, "title": "Added automatic payload serialization to `application/x-www-form-urlencoded`", "createdAt": "2022-05-13T23:14:36Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4715, "title": "Allow webpack users to overwrite buildins", "createdAt": "2022-05-14T09:54:52Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4717, "title": "Fixed `AxiosError` status code type;", "createdAt": "2022-05-14T23:42:10Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4718, "title": "Fixed `AxiosError` stack capturing;", "createdAt": "2022-05-14T23:42:48Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4721, "title": "Added the ability for the `url-encoded-form` serializer to respect the `formSerializer` config;", "createdAt": "2022-05-16T13:03:14Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4722, "title": "Updated eslint config;", "createdAt": "2022-05-16T13:42:34Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4725, "title": "Added data URL support for node.js;", "createdAt": "2022-05-17T19:55:25Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4728, "title": "Fixed bug #4727 : toFormData Blob issue on node>v17;", "createdAt": "2022-05-18T20:09:21Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4731, "title": "Fix/4263/maxbodylength defaults", "createdAt": "2022-05-19T09:50:06Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4734, "title": "URL params serializer;", "createdAt": "2022-05-20T17:18:59Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4735, "title": "Added `axios.formToJSON` method;", "createdAt": "2022-05-21T21:54:41Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4736, "title": "types: impove types", "createdAt": "2022-05-23T10:30:42Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4738, "title": "Fix/4737/timeout error message for http", "createdAt": "2022-05-24T14:47:14Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4739, "title": "types: improve interceptors axios response type", "createdAt": "2022-05-25T00:16:25Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4742, "title": "Updated Docs;", "createdAt": "2022-05-25T20:15:53Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4743, "title": "Bump grunt from 1.5.2 to 1.5.3", "createdAt": "2022-05-26T00:10:57Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4745, "title": "Fixing content-type header repeated", "createdAt": "2022-05-26T13:40:27Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4750, "title": "Update v1.x branch with proposed release changes", "createdAt": "2022-05-28T09:55:44Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4751, "title": "Update v2.x branch to align with v1.x", "createdAt": "2022-05-28T09:57:00Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4752, "title": "CI updates", "createdAt": "2022-05-28T10:12:10Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4753, "title": "Refactored axios headers helpers to the AxiosHeaders class;", "createdAt": "2022-05-28T14:40:43Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4754, "title": "Update base with master", "createdAt": "2022-05-28T15:22:52Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4755, "title": "Update base with master", "createdAt": "2022-05-28T15:23:17Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4756, "title": "Update base with master", "createdAt": "2022-05-28T15:25:27Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4764, "title": "Bump eventsource from 1.1.0 to 1.1.1", "createdAt": "2022-06-01T22:29:05Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4765, "title": "chore: Set permissions for GitHub actions", "createdAt": "2022-06-02T01:09:31Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4767, "title": "Add resource section", "createdAt": "2022-06-02T10:16:17Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4769, "title": "chore: sync branches", "createdAt": "2022-06-02T19:15:20Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4770, "title": "chore: Included githubactions in the dependabot config", "createdAt": "2022-06-03T01:29:42Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4771, "title": "chore(deps): Included dependency review", "createdAt": "2022-06-03T22:01:47Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4772, "title": "Added progress capturing support, data rate limiting and aborting the response stream in node.js env;", "createdAt": "2022-06-03T22:24:12Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4782, "title": "Fix #4440, #3549 - Request ignores false, 0 and '' as body values", "createdAt": "2022-06-12T23:08:22Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4784, "title": "update security.md", "createdAt": "2022-06-14T12:26:55Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4785, "title": "Fix #4440, #3549 - Request ignores false, 0 and '' as body values (v1.x)", "createdAt": "2022-06-14T18:58:38Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4786, "title": "Fix #4440, #3549 - Request ignores false, 0 and '' as body values (v0.x)", "createdAt": "2022-06-14T19:02:39Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4787, "title": "Axios ES2017", "createdAt": "2022-06-14T21:24:34Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4788, "title": "fix: delete redundant code", "createdAt": "2022-06-15T15:12:14Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4790, "title": "Add clear method to the type def of inteceptor manager", "createdAt": "2022-06-16T16:06:50Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4791, "title": "refactor: increase code readability", "createdAt": "2022-06-16T22:25:43Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4795, "title": "Revert \"Fix #4440, #3549 - Request ignores false, 0 and '' as body values\"", "createdAt": "2022-06-18T08:57:42Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4796, "title": "chore(deps): bump actions/checkout from 2 to 3", "createdAt": "2022-06-18T09:06:45Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4797, "title": "chore(deps): bump actions/stale from 3 to 5", "createdAt": "2022-06-18T09:06:50Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4798, "title": "chore(deps): bump actions/setup-node from 2 to 3", "createdAt": "2022-06-18T09:06:55Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4801, "title": "chore(deps): bump actions/dependency-review-action from 1 to 2", "createdAt": "2022-06-20T10:25:03Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4804, "title": "feat: brower platform add `data` protocol.", "createdAt": "2022-06-23T11:38:30Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4805, "title": "Fixed missed minified builds;", "createdAt": "2022-06-23T15:18:10Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4813, "title": "Axios response headers may be `undefined`", "createdAt": "2022-06-25T21:33:48Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4814, "title": "feat: brower platform add data protocol.", "createdAt": "2022-06-27T03:40:46Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4815, "title": "fix type error", "createdAt": "2022-06-27T09:24:05Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4817, "title": "Removed the Internet explorer image from README.md since its out of market", "createdAt": "2022-06-28T03:17:01Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4818, "title": "fix type error and remove 'R'", "createdAt": "2022-06-28T05:41:32Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4819, "title": "Fixed a regression bug with unsubscribing from cancel token & signal inside http adapter;", "createdAt": "2022-06-28T15:16:07Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4820, "title": "fix(adapters/http): remove repeated compression algorithm from header", "createdAt": "2022-06-28T19:40:26Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4825, "title": "Fix markup for note in README", "createdAt": "2022-06-30T13:09:11Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4829, "title": "chore: migrate to typescript", "createdAt": "2022-07-03T12:45:53Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4850, "title": "Fix deleting content-type in get request", "createdAt": "2022-07-14T06:09:22Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4852, "title": "Use WHATWG URL API instead of url.parse()", "createdAt": "2022-07-14T20:10:42Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4853, "title": "Fix typo and formatting, add colons", "createdAt": "2022-07-15T13:48:27Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4854, "title": "chore: remove unnecessary spaces", "createdAt": "2022-07-16T06:11:06Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4855, "title": "chore:  fix example access exception", "createdAt": "2022-07-17T07:28:29Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4856, "title": "chore:  fix example access exception", "createdAt": "2022-07-17T07:37:47Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4857, "title": "fix: the error of calling extend to pass parameters #4844", "createdAt": "2022-07-17T12:02:18Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4862, "title": "Typings: SerializerOptions.indexes allows `boolean | null | undefined`", "createdAt": "2022-07-18T16:06:03Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4868, "title": "feat: Add ability to use URL objects a la fetch API.", "createdAt": "2022-07-20T21:11:53Z", "state": "CLOSED", "repo": "axios/axios"}
+{"number": 4871, "title": "fix: loosing request header (#4858)", "createdAt": "2022-07-21T01:47:04Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4872, "title": "chore(deps): bump terser from 4.8.0 to 4.8.1", "createdAt": "2022-07-21T03:01:31Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4874, "title": "Require interceptors to return values", "createdAt": "2022-07-22T15:58:35Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4875, "title": "chore: simplify the import path of AxiosError", "createdAt": "2022-07-23T03:05:51Z", "state": "MERGED", "repo": "axios/axios"}
+{"number": 4880, "title": "fix: error __dirname is not defined", "createdAt": "2022-07-24T16:35:16Z", "state": "CLOSED", "repo": "axios/axios"}
