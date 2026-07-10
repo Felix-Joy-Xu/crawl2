@@ -1,0 +1,1409 @@
+{"number": 1034, "title": "[Feat/Chat] 历史记录总结功能实现", "createdAt": "2023-07-31T04:40:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 1035, "title": "[Feat/Chat] 同父级多条内容折叠", "createdAt": "2023-08-03T13:17:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 109, "title": "思考下是否需要将chat/[id] 模式改为 query 模式", "createdAt": "2023-08-12T14:48:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 126, "title": "新增次数兑换", "createdAt": "2023-08-28T14:05:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 411, "title": "[RFC] 007 - 插件三期", "createdAt": "2023-09-05T15:06:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 178, "title": "[RFC] 001 - Support Azure OpenAI API", "createdAt": "2023-09-10T13:47:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 252, "title": "[RFC] 002 - Pref Mobile 移动端 FOUC", "createdAt": "2023-09-29T10:58:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 253, "title": "[RFC] 003 - 多语言 RSC 升级", "createdAt": "2023-09-29T11:29:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 277, "title": "[Q&A] LangChain or Vercel AI SDK", "createdAt": "2023-10-07T16:43:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 284, "title": "[Request] 模型适配 One-API 支持", "createdAt": "2023-10-09T07:55:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 287, "title": "[RFC] 005 - Hotkeys 快捷键支持", "createdAt": "2023-10-10T06:33:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 302, "title": "[Q&A]  多个 API Key 的输入页面，是否是功能重叠了？", "createdAt": "2023-10-11T07:13:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 304, "title": "[RFC] 004 - 支持自定义模型名称，以兼容 OneAPI 、OpenAI Fine-tuning", "createdAt": "2023-10-11T13:50:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 311, "title": "[Q&A] Android PWA 键盘模式下无法点击发送按钮解决方法", "createdAt": "2023-10-11T16:16:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 323, "title": "[Idea] 真正与 AI 互动协作的文档模式", "createdAt": "2023-10-15T09:54:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 345, "title": "[RFC] 006 - 支持插件自定义会话时序逻辑", "createdAt": "2023-10-19T09:04:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 367, "title": "[RFC] 012 - 支持 TTS & STT 语音对话", "createdAt": "2023-10-27T08:59:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 368, "title": "[RFC] 009 - 基于 YJS 的跨端同步", "createdAt": "2023-10-27T11:21:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 378, "title": "[RFC] 010 - 数据持久层框架重构", "createdAt": "2023-10-28T16:51:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 451, "title": "LobeChat desktop & mobile application?", "createdAt": "2023-10-31T17:21:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 404, "title": "[Q&A] 在宝塔怎么部署", "createdAt": "2023-11-03T09:41:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 400, "title": "[Q&A] 如何设置插件市场索引", "createdAt": "2023-11-03T09:48:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 402, "title": "[Q&A] windows 本地开发，如何安装依赖", "createdAt": "2023-11-03T20:14:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 403, "title": "[Idea] 支持话题的一键归档", "createdAt": "2023-11-04T09:13:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 406, "title": "[Q&A] 如何修改默认模型？", "createdAt": "2023-11-04T15:36:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 408, "title": "[RFC] 008 - Lobe Chat Midjourney 插件", "createdAt": "2023-11-05T03:11:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 420, "title": "[Q&A] 如何不通过自定义模型方式手动修改默认的 gpt-4-1106-preview，gpt-4-32k 模型到 GPT 的其他版本号上", "createdAt": "2023-11-07T09:46:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 427, "title": "[RFC] 011 - 会话支持上传图像", "createdAt": "2023-11-08T03:44:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 460, "title": "[RFC] 013 - Dall·E 3 支持", "createdAt": "2023-11-15T02:23:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 466, "title": "[Q&A] 如何设置 OpenAI API 接口转发 How to set up OpenAI proxy", "createdAt": "2023-11-16T13:20:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 480, "title": "[RFC] 014 - TTS & STT 二期", "createdAt": "2023-11-19T17:35:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 483, "title": "[Q&A] Azure OpenAI 暂不支持  TTS & STT 相关模型", "createdAt": "2023-11-20T04:41:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 502, "title": "[Q&A] Latex 显示异常", "createdAt": "2023-11-20T11:26:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 487, "title": "[Idea] Assistant API 功能的接入 可以创建一种新的插件开发方式 Tools Studio", "createdAt": "2023-11-20T11:37:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 489, "title": "[RFC] 015 - 支持设定话题的创建模式", "createdAt": "2023-11-20T14:19:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 1460, "title": "[Bug] 使用 Docker 部署，使用域名访问报错", "createdAt": "2023-11-26T15:07:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 1091, "title": "[Question] How can I connect the UI to text-generation-webui", "createdAt": "2023-11-26T15:17:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 540, "title": "[Q&A] 自部署时 Error 526 导致无法流式返回", "createdAt": "2023-11-30T00:30:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 531, "title": "[Q&A] Response streaming fail 自部署流式返回失效", "createdAt": "2023-11-30T11:08:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 1115, "title": "[Request] 默认助手的设置逻辑问题", "createdAt": "2023-12-01T01:35:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 539, "title": "[Q&A] 关于用户信息同步", "createdAt": "2023-12-01T01:46:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 543, "title": "[Idea] 浏览器环境的上下文压缩研究", "createdAt": "2023-12-01T14:25:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 551, "title": "[RFC] 016 - 插件体系升级为工具体系", "createdAt": "2023-12-02T07:32:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 552, "title": "[Idea] Agent 智能助理的演进要素", "createdAt": "2023-12-02T07:35:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 561, "title": "[Q&A] Will the API Key be leaked?  | 我的 API Key 会泄漏吗？", "createdAt": "2023-12-03T03:45:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 575, "title": "[Q&A] 密码只能设置6位吗？", "createdAt": "2023-12-04T06:42:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 1092, "title": "[Design] Link 样式优化", "createdAt": "2023-12-05T13:14:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 583, "title": "[Idea] 全文搜索与 CMD K", "createdAt": "2023-12-06T01:55:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 585, "title": "[RFC] 017 - 插件支持 OpenAPI Schema（OpenAI 插件兼容）", "createdAt": "2023-12-06T13:23:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 593, "title": "可否出一个windows可执行文件的release？", "createdAt": "2023-12-06T17:17:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 591, "title": "[Q&A] 为何使用 GPT-4 API 时会返回 GPT-3 响应？", "createdAt": "2023-12-07T01:28:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 620, "title": "[Idea] 支持问题联想功能", "createdAt": "2023-12-10T04:46:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 623, "title": "[Q&A] Docker 安装，配置好环境变量后，为何返回值是空白？", "createdAt": "2023-12-12T02:56:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 636, "title": "截图是用的啥工具呀？挺好看", "createdAt": "2023-12-13T03:38:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 713, "title": "[Q&A] 如何创建仅自己可用的agent呢？", "createdAt": "2023-12-13T08:46:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 969, "title": "更灵活的用户输入预处理 inputTemplate", "createdAt": "2023-12-14T03:18:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 655, "title": "[Q&A] chat-preivew 域名的管理员设置密码是多少？", "createdAt": "2023-12-14T03:31:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 666, "title": "[Idea] RAG Tuning Of Assitants", "createdAt": "2023-12-15T03:46:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 734, "title": "[Q&A] 使用第三方接口报错的原因？", "createdAt": "2023-12-18T01:41:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 712, "title": "[Q&A] 我是一个初级前端，应该如何才能写出如此结构化的项目？", "createdAt": "2023-12-19T02:04:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 728, "title": "[Q&A] openai 的接口问什么要从 vercel 服务端绕一圈?", "createdAt": "2023-12-19T10:53:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 727, "title": "[Q&A] 为什么 chat-next-web 和 lobehub 对于模型信息的提问返回不一样？", "createdAt": "2023-12-19T11:07:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 736, "title": "[Q&A] 希望使用gpt-4-vision-preview模型时候可以设置图片只上传一次", "createdAt": "2023-12-20T04:45:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 735, "title": "[Q&A] 能否支持第三方的api key，比如 openkey 等等", "createdAt": "2023-12-20T06:56:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 737, "title": "[RFC] 018 - 多模型服务商一期：架构设计 & AWS Bedrock / Zhipu / Gemini / Moonshot 支持", "createdAt": "2023-12-20T09:46:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 784, "title": "[Q&A] How to obtain the administrator password?", "createdAt": "2023-12-21T22:31:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 771, "title": "[Idea] 分析代码仓库中代码", "createdAt": "2023-12-22T06:23:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 768, "title": "[Idea] 一些奇特的想法", "createdAt": "2023-12-22T07:22:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 780, "title": "[Q&A]  is the plugins same as ChatGPT official?", "createdAt": "2023-12-22T16:36:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 1016, "title": "[Q&A] 使用cloudflare tunnel 部署时无法流式回应", "createdAt": "2023-12-23T10:46:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 795, "title": "[Q&A] 上传文件、调用DALLE3、askpdf插件使用咨询", "createdAt": "2023-12-24T10:33:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 813, "title": "[Q&A] 通过Vercel部署的，应该怎么设置环境变量中的access code，让这个密码生效？", "createdAt": "2023-12-26T04:04:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 832, "title": "[Q&A] LobeHub和ChatGPT-Next-Web之间，在手机上只能生成一个桌面图标？", "createdAt": "2023-12-27T06:40:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 831, "title": "[Q&A] lobe-chat 的回复能否逐行一点点的显示回复？", "createdAt": "2023-12-27T12:55:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 855, "title": "[Q&A] 代理问题 极空间部署docker", "createdAt": "2023-12-27T16:47:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 970, "title": "[Q&A] 使用Azure openai key后，GPT-4无法使用插件功能", "createdAt": "2023-12-28T03:10:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 853, "title": "[Q&A] 調整左上角 \"LobeHub\" Logo 圖示的方法與圖檔位置資訊請求。", "createdAt": "2023-12-28T06:20:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 852, "title": "[Q&A] 在哪里可以看到自己部署的LobeChat版本？", "createdAt": "2023-12-28T07:50:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 873, "title": "[Bug] 打开页面会提示3个错误，如下", "createdAt": "2023-12-29T03:04:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 876, "title": "[Q&A] 自定义插件出现调用报错怎么办？", "createdAt": "2023-12-29T03:48:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 863, "title": "[Idea] 知识库", "createdAt": "2023-12-29T04:59:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 875, "title": "[Q&A] 使用第三方模型，为什么插件没有生效？", "createdAt": "2023-12-29T06:50:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 874, "title": "[Q&A] 请问目前一共支持哪些模型？", "createdAt": "2023-12-29T07:15:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 869, "title": "[Idea] 话题模板", "createdAt": "2023-12-29T10:39:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 871, "title": "[RFC] 019 - Conversation 会话列表优化", "createdAt": "2023-12-29T10:58:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 872, "title": "[RFC] 020 - Vision model 方案优化", "createdAt": "2023-12-29T11:26:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 883, "title": "[Q&A] 你们部署最新版本的0.118.1的时候没有出现bug吗？", "createdAt": "2023-12-30T20:18:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 888, "title": "[Q&A] 现在插件商店需要科学网络才能显示吗？", "createdAt": "2024-01-01T01:13:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 891, "title": "[RFC] 021 - 自定义助手开场引导", "createdAt": "2024-01-01T06:54:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 922, "title": "[Q&A] 使用PandoraNext api无法使用爬虫插件", "createdAt": "2024-01-01T19:50:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 900, "title": "[Q&A] 当插件只打开了一个的时候，是否可以不再去detect应该用哪一个插件", "createdAt": "2024-01-02T05:12:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 913, "title": "[RFC] 022 - 环境变量配置默认助手参数", "createdAt": "2024-01-03T02:54:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 3284, "title": "[Request] 能否实现与 NextChat 相同的参数快捷填入功能？", "createdAt": "2024-01-03T06:07:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 928, "title": "[Q&A] 使用 API 中转服务，无法使用插件", "createdAt": "2024-01-03T10:38:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 924, "title": "[Idea] LobeAgent Runtime", "createdAt": "2024-01-03T11:02:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 933, "title": "[Q&A] 如何修改上传图片限制，以支持所有文件上传？", "createdAt": "2024-01-03T12:27:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 930, "title": "[Q&A] lobe chat不能设置那种stream模式的输出吗？", "createdAt": "2024-01-03T15:51:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 937, "title": "[Q&A] 请教自部署access code的问题", "createdAt": "2024-01-04T04:32:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 939, "title": "[Q&A] 有办法切回 function_call 的版本吗，好几个代理都没法用 tool_call", "createdAt": "2024-01-04T10:22:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 948, "title": "[Q&A] 使用代理的方式访问openai，同样的代理和api key，在其他的平台测试可以正常访问（key是有额度的），但是在lobe-chat使用时提示额度用尽，可能是什么原因呢", "createdAt": "2024-01-05T07:12:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 967, "title": "[Q&A] Vercel部署过程出现 `Cannot find module '/vercel/path0/install.js'` 错误", "createdAt": "2024-01-06T07:29:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 959, "title": "[Q&A] how can i run my self hosted llms using opanai compatible api but with no key", "createdAt": "2024-01-06T12:48:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 977, "title": "[Question] 连接自定义 proxy 出现 `UNABLE_TO_VERIFY_LEAF_SIGNATURE`", "createdAt": "2024-01-07T05:16:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 973, "title": "[Q&A] dalle插件如何自定义生成质量和数量", "createdAt": "2024-01-07T15:17:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 975, "title": "[Q&A] build之后 启动 白屏 Application error: a client-side exception has occurred (see the browser console for more information).[Bug]", "createdAt": "2024-01-08T01:52:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 988, "title": "[Q&A] 请问，超出限制后怎么进行持续进行讨论", "createdAt": "2024-01-09T05:49:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 993, "title": "[Q&A] 在线访问密码", "createdAt": "2024-01-09T14:35:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 994, "title": "[Q&A] Adding Arabic Language Support", "createdAt": "2024-01-09T21:28:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 1004, "title": "[Q&A] preview网站设置azure账号后报错", "createdAt": "2024-01-10T07:44:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 1065, "title": "[Q&A] 代理服务器地址填了聊天没任何反应", "createdAt": "2024-01-10T14:24:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 1057, "title": "[Q&A] 能否出一个lobechat 和自定义插件业务逻辑的说明或文档", "createdAt": "2024-01-11T09:28:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 1014, "title": "[Q&A] 左上角图标本地化", "createdAt": "2024-01-11T13:15:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 1025, "title": "[Q&A] 自定义的多模态模型，接入后如何上传图片？", "createdAt": "2024-01-12T02:59:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 1024, "title": "[Q&A] 本地运行lobechat报错", "createdAt": "2024-01-12T03:00:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 1029, "title": "同样的大模型，内容输出在电脑端明显比手机端快很多，可能是什么原因呢？", "createdAt": "2024-01-12T06:22:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 1028, "title": "我想让lobechat 理解我们的业务，应该怎么做", "createdAt": "2024-01-12T07:42:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 1031, "title": "Modal组件是挂载到body上的，为什么不显示呢，会跟随到父组件的状态变化？", "createdAt": "2024-01-12T14:47:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 1032, "title": "[Q&A] 如何获取 OpenAI API Key", "createdAt": "2024-01-12T14:56:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 1033, "title": "[Q&A] Issue Running App Locally with GitHub Codespaces -Metadata.metadataBase Error", "createdAt": "2024-01-12T21:24:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 1043, "title": "[Idea] 支持创建群聊或agent组，引入多个AI agent协同完成一项任务", "createdAt": "2024-01-14T04:25:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 1063, "title": "[Q&A] 请问下大佬哪里有函数调用的demo或者例子", "createdAt": "2024-01-15T02:46:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 1062, "title": "\"全部话题\"窗口设置", "createdAt": "2024-01-16T02:23:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 1067, "title": "[Q&A] 支持二次开发吗", "createdAt": "2024-01-16T05:09:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 1071, "title": "请问有AskYourPDF这个插件的使用教程吗", "createdAt": "2024-01-16T06:24:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 1074, "title": "[Idea] csv 文档生成助手或者插件", "createdAt": "2024-01-16T06:50:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 1080, "title": "[Q&A] 问一下这个toolstoken有什么作用呢？", "createdAt": "2024-01-17T07:48:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 1090, "title": "[Idea] 聊天记录导出增强", "createdAt": "2024-01-18T15:24:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 1160, "title": "[Request] 大神門能支持一下copilot-gpt4-service 嗎?", "createdAt": "2024-01-18T22:30:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 1096, "title": "[Q&A] lobechat的输出方式", "createdAt": "2024-01-19T01:56:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 1098, "title": "[Q&A] 自部署流式返回这个在哪里修改，在项目的哪里", "createdAt": "2024-01-19T03:42:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 1102, "title": "[Q&A] Docker部署设置midjourney插件的 PLUGIN_SETTINGS 无效？", "createdAt": "2024-01-19T08:26:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 1113, "title": "[Q&A] Math syntax improperly generated and/or parsed 80% of the time", "createdAt": "2024-01-20T14:31:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 1121, "title": "OpenAI Credit Account", "createdAt": "2024-01-22T00:05:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 1127, "title": "[Q&A] How to restore chats history when domain change? | 当域名发生变化时，如何找回历史记录？", "createdAt": "2024-01-22T06:51:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 1230, "title": "自定义模型剩余字数为什么会没有显示？", "createdAt": "2024-01-23T01:21:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 1132, "title": "[Q&A] 请问如何配置Dall E 3生成图片的尺寸？", "createdAt": "2024-01-23T09:28:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 1139, "title": "有知道MidJourney插件怎么使用的吗?完全搞不懂怎么使用", "createdAt": "2024-01-24T08:00:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 1149, "title": "[Q&A] 使用 coplilot-gpt4-service 时，调用插件没有后续对话？", "createdAt": "2024-01-25T02:50:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 1151, "title": "[Q&A] 我自己部署也想要PWA这个下载功能", "createdAt": "2024-01-26T01:45:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 1159, "title": "插件使用", "createdAt": "2024-01-27T08:44:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 1168, "title": "通过vercel部署后，对话记录是保存在哪里的（服务器还是本地）？可否导出（备份）、导入？", "createdAt": "2024-01-28T03:12:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 1174, "title": "何时发布saas版本", "createdAt": "2024-01-28T17:45:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 1176, "title": "[Bug] 客户端异常", "createdAt": "2024-01-29T01:51:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 1182, "title": "[RFC] 023 - 跨助手引用 Agent Mentions", "createdAt": "2024-01-30T01:26:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 1188, "title": "服务报错。本地开发无法增加助手等内容", "createdAt": "2024-01-30T07:58:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 1193, "title": "azure openai返回的数据结构，我想要获取这些信息有吗？", "createdAt": "2024-01-30T09:46:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 1206, "title": "lobe-chat和其他chatgpt的回答对比", "createdAt": "2024-02-02T02:44:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 1207, "title": "代码执行器", "createdAt": "2024-02-02T04:45:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 1219, "title": "[RFC] 025 - Azure OpenAI 实现重构", "createdAt": "2024-02-04T10:11:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 1226, "title": "我部署下来为啥使用插件DALL E3 之后，不出图片，一直在转圈，是需要啥东西吗？", "createdAt": "2024-02-05T08:43:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 1235, "title": "为何不支持多个key的填写啊?", "createdAt": "2024-02-06T01:09:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 1237, "title": "连接性检查，无相应。", "createdAt": "2024-02-06T02:20:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 1243, "title": "大佬lobechat的插件功能是用的官方的functioncalling吗", "createdAt": "2024-02-06T04:28:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 1249, "title": "[Bug] Gemini-Pro 对话格式和 ChatGPT 一样，那 Gemini-Pro-Vision 呢？", "createdAt": "2024-02-06T05:12:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 1253, "title": "python开发插件", "createdAt": "2024-02-06T09:05:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 1254, "title": "在 docker 部署中使用宿主機系統代理", "createdAt": "2024-02-06T09:24:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 1257, "title": "[RFC] 024 - 浏览器端请求方式改造", "createdAt": "2024-02-06T09:58:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 1268, "title": "原谅我比较呆，该如何使用DALL插件？", "createdAt": "2024-02-07T07:05:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 1262, "title": "我想让gpt自己生成代码，然后把代码插入我的环境里执行并获取返回结果要怎么实现", "createdAt": "2024-02-07T09:33:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 1271, "title": "反复工具检测是什么原因呢", "createdAt": "2024-02-08T08:55:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 1275, "title": "How do I save settings permanently?", "createdAt": "2024-02-08T15:34:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 1279, "title": "自定义页面部分内容", "createdAt": "2024-02-09T15:38:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 1283, "title": "[RFC] 026 - 多模型服务商二期： 支持本地 LLM （Ollama）", "createdAt": "2024-02-11T03:37:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 1284, "title": "2024 Model Providers support | 2024 年模型服务商支持", "createdAt": "2024-02-11T03:58:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 1287, "title": "[RFC] 027 - API Key 字段支持使用多个Key", "createdAt": "2024-02-11T08:55:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 1304, "title": "GeminiPro Vision模型会话中提供附带网址的问题时报错", "createdAt": "2024-02-14T08:04:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 1318, "title": "[Request] 更改“新建助手”“随便聊聊”逻辑", "createdAt": "2024-02-15T13:57:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 1310, "title": "[RFC] 028 - 插件四期 · 流式 Tools Calling", "createdAt": "2024-02-17T12:33:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 1316, "title": "如何配置默认插件", "createdAt": "2024-02-18T06:49:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 1320, "title": "请问如何快速返回顶部？滚动条无法选中拖动吗？", "createdAt": "2024-02-18T16:46:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 1328, "title": "响应", "createdAt": "2024-02-20T01:46:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 1333, "title": "[Request] 我想请教两个问题 ，关于授权登录的", "createdAt": "2024-02-20T05:20:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 1336, "title": "Azure Docker 環境下 auth0 CallBack URL 會抓到 0.0.0.0:3210 [Bug]", "createdAt": "2024-02-20T10:05:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 1340, "title": "用户输入的内容能否加个按钮，让内容直接 源码 显示？", "createdAt": "2024-02-20T15:22:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 1350, "title": "[Request] 如果用api调用lobechat dalle3插件", "createdAt": "2024-02-22T07:06:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 1365, "title": "token数获取", "createdAt": "2024-02-23T09:47:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 1390, "title": "🥳 LobeChat Cloud is currently in Public Beta 公测已开启", "createdAt": "2024-02-25T16:35:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 1396, "title": "docker", "createdAt": "2024-02-27T02:11:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 1399, "title": "为什么插件调用一定要通过一个网关？", "createdAt": "2024-02-27T04:58:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 1405, "title": "[Bug] Auth0 Config on vercel", "createdAt": "2024-02-27T08:20:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 1410, "title": "[RFC] 029 - Langfuse integrations / Langfuse 集成", "createdAt": "2024-02-28T05:22:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 1413, "title": "限制文生图 图片的展示尺寸", "createdAt": "2024-02-28T10:10:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 1414, "title": "LobeChat日志留存", "createdAt": "2024-02-28T10:54:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 1429, "title": "gemini-pro-vision和gpt-4-vision-preview似乎都不支持连续对话？", "createdAt": "2024-03-01T02:26:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 1431, "title": "Few-Shot Prompting 支持情况", "createdAt": "2024-03-01T03:36:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 1438, "title": "各位大佬，我想问问，我如何可以默认 模型", "createdAt": "2024-03-02T03:28:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 1443, "title": "Vercel部署报错出现这种状况改如何解决", "createdAt": "2024-03-02T19:18:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 1453, "title": "如何手动打包部署？", "createdAt": "2024-03-03T07:09:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 1808, "title": "[Bug] gemini apikey使用报错", "createdAt": "2024-03-03T09:44:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 1462, "title": "如何修改标题：LobeHub", "createdAt": "2024-03-05T03:54:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 1463, "title": "Chat Disappear After Close the Browser", "createdAt": "2024-03-05T05:26:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 1467, "title": "[Request] Load Ollama Service from external service", "createdAt": "2024-03-05T07:32:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 1486, "title": "Can't Connect Ollama With Lobe-Chat", "createdAt": "2024-03-07T09:27:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 1487, "title": "Running on vercel --> custom domain --> have access to chats on all my devices?", "createdAt": "2024-03-07T09:48:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 1504, "title": "求一个可传入 API key 值的 API 接口", "createdAt": "2024-03-08T08:05:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 1507, "title": "Guidance on Integrating Custom RAG Chat Engine (llama-index) with Lobe Chat", "createdAt": "2024-03-08T09:47:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 1536, "title": "Getting CORS error in hardened firefox( idk about others browsers) while installing plugins which cannot be resolved with addons too so need some practical suggestions :-)", "createdAt": "2024-03-11T14:45:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 1540, "title": "为什么现在chatgpt模型只剩下3.5turbo，4turbo，和4turbo-version，其他的版本怎么不显示了呀", "createdAt": "2024-03-11T14:49:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 1538, "title": "Compatibility of Plugins with Local LLM (Ollama)", "createdAt": "2024-03-11T14:55:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 1614, "title": "[Bug] Ollama not available anymore", "createdAt": "2024-03-12T08:45:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 1941, "title": "[Bug] vercel部署后，edge浏览器访问，设置Azure OpenAI参数，图片描述极其简单。", "createdAt": "2024-03-12T09:24:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 1549, "title": "多个openai的key和多个代理地址", "createdAt": "2024-03-12T13:32:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 1550, "title": "lobe-chat是否能变成网站客服AI?", "createdAt": "2024-03-12T15:36:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 1552, "title": "Deployment on Vercel fails from time to time", "createdAt": "2024-03-13T01:20:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 1553, "title": "寻基于lobe-chat的二开，有意请微信 13604184701", "createdAt": "2024-03-13T01:45:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 1591, "title": "Thank you!", "createdAt": "2024-03-15T17:25:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 1623, "title": "How do I do it, like your explaining to a toddler", "createdAt": "2024-03-18T10:31:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 2259, "title": "Chat with ollama/mistral-7b behind litellm returns strange answer", "createdAt": "2024-03-18T16:44:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 1632, "title": "[RFC] 031 - URL 分享设置参数", "createdAt": "2024-03-19T01:30:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 1643, "title": "Azure Openai 部署后报错。", "createdAt": "2024-03-19T12:30:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 1674, "title": "[Bug] Azure Openai 部署后，只有 3.5 可以用", "createdAt": "2024-03-19T12:42:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 1645, "title": "似乎没有预设对话？", "createdAt": "2024-03-19T14:14:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 1677, "title": "Docker 部署本地127.0.0.1(localhost)地址无法使用，但是换成内网的IP地址可以正常访问", "createdAt": "2024-03-19T14:40:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 1667, "title": "Connect an authentication provider", "createdAt": "2024-03-21T13:09:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 1679, "title": "claude 通过代理服务器oneapi 调用返回401", "createdAt": "2024-03-21T13:22:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 1681, "title": "LobeChat Synchronization: an exploration and practice of Local First | LobeChat 云同步： Local First 的一次探索与实践", "createdAt": "2024-03-22T06:41:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 1684, "title": "openrouter不能选择模型，无法进行聊天", "createdAt": "2024-03-22T08:45:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 1685, "title": "[RFC] 032 - indexedDB 持久化请求", "createdAt": "2024-03-22T10:56:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 1686, "title": "[RFC] 033 - 模型列表", "createdAt": "2024-03-22T11:09:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 1692, "title": "[Bug] Upstream Sync Failed!", "createdAt": "2024-03-22T15:57:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 1698, "title": "Vercel 重新部署失败", "createdAt": "2024-03-22T17:31:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 1700, "title": "[RFC] 034 - Layout 实现重构", "createdAt": "2024-03-23T05:04:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 1702, "title": "助手列表", "createdAt": "2024-03-23T06:33:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 1741, "title": "我设置了仅开启 gemini1.5Pro 他还是会显示别的", "createdAt": "2024-03-23T08:16:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 1707, "title": "Configuration file", "createdAt": "2024-03-23T13:26:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 1716, "title": "有没有可能实现对比模式，就是一个问题多个模型进行回答", "createdAt": "2024-03-24T12:35:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 1730, "title": "[Bug] 当上下文中的字数较多时，上游服务器的响应速度较慢，此时会报告 504 错误", "createdAt": "2024-03-24T16:05:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 1726, "title": "[Request] 希望能增加一个话题置顶功能，可以选择需要重点关注的话题置顶", "createdAt": "2024-03-25T03:04:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 1742, "title": "[Bug] `gpt-4-turbo-preview` answer is not up to date.", "createdAt": "2024-03-25T09:14:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 1735, "title": "01AI API KEY 可以配置环境变量吗", "createdAt": "2024-03-25T17:20:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 1738, "title": "希望可以增加文档读取功能", "createdAt": "2024-03-26T00:20:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 1758, "title": "Docker-compose部署Claude 3 API配置", "createdAt": "2024-03-27T07:41:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 1763, "title": "Docker compose 如何保持最新？", "createdAt": "2024-03-27T09:25:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 1804, "title": "[Bug] Claude 3 中文乱码", "createdAt": "2024-03-27T12:04:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 1768, "title": "Towards LobeChat 1.0 | 迈向 LobeChat 1.0", "createdAt": "2024-03-27T15:52:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 1779, "title": "Error: Cannot find module './ru.js'", "createdAt": "2024-03-28T04:13:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 1788, "title": "部署在 Vercel 上的性能表现", "createdAt": "2024-03-28T08:18:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 1796, "title": "[RFC] 030 - Google Gemini 1.5 Pro API 兼容", "createdAt": "2024-03-28T16:51:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 1797, "title": "是否可以调整一下添加助手后提示的位置", "createdAt": "2024-03-29T00:51:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 1799, "title": "GigaChat", "createdAt": "2024-03-29T02:07:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 1800, "title": "DeepSeek", "createdAt": "2024-03-29T02:27:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 2018, "title": "What's version release of LobeChat  LobeChat 的版本发布模式是怎么样的", "createdAt": "2024-03-29T17:55:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 1823, "title": "请问多组API适用范围？如何部署？", "createdAt": "2024-03-30T09:16:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 1847, "title": "Gemini输出的文案格式没有被正确识别[Bug]", "createdAt": "2024-03-31T13:53:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 1836, "title": "有没有大神能写个 wolframalpha 的计算插件", "createdAt": "2024-03-31T15:29:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 1843, "title": "为什么我宝塔安装了docker，查看也在运行，我反向代理了，访问就是提示502呢，直接访问IP和端口也不行", "createdAt": "2024-03-31T16:49:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 1839, "title": "[RFC] 035 - Loading 态集成", "createdAt": "2024-04-01T02:29:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 1845, "title": "lobe能否跳过等待当前助手回答，直接开始下一个助手的对话？", "createdAt": "2024-04-01T09:01:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 1966, "title": "Mixtral model down ?", "createdAt": "2024-04-01T14:42:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 1851, "title": "[RFC] 036 - LobeChat 服务端数据库 & ORM", "createdAt": "2024-04-01T16:47:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 1852, "title": "默认助手重命名？", "createdAt": "2024-04-01T23:47:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 1890, "title": "[RFC] 037 - LobeChat 1.0 Milestone", "createdAt": "2024-04-03T14:06:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 1894, "title": "[RFC] 038 - Feature Flags", "createdAt": "2024-04-04T06:45:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 1896, "title": "Reduce ChatGPT 3.5 token consumption", "createdAt": "2024-04-04T08:39:58Z", "repo": "lobehub/lobe-chat"}
+{"number": 1905, "title": "Please guide me how to run this project :(", "createdAt": "2024-04-05T14:03:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 1912, "title": "can support ipv6?", "createdAt": "2024-04-06T06:22:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 1915, "title": "安全问题思考", "createdAt": "2024-04-07T04:06:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 1922, "title": "登陆页面在哪", "createdAt": "2024-04-07T09:48:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 1927, "title": "curl -I http://localhost:3210/api/market HTTP/1.1 500 Internal Server Error", "createdAt": "2024-04-08T06:49:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 1937, "title": "Claude系列的模型会支持插件系统吗？", "createdAt": "2024-04-09T04:11:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 1951, "title": "请问语言模型的配置内容保存在docker的哪个文件里面？", "createdAt": "2024-04-10T08:38:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 1953, "title": "Can we use the new GPT-4 Turbo Model with lobe-chat ?", "createdAt": "2024-04-10T13:30:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 1954, "title": "Docker容器的端口是否可自定义", "createdAt": "2024-04-10T16:44:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 1959, "title": "[RFC] 042 - Minimax Provider 集成", "createdAt": "2024-04-11T01:39:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 1960, "title": "[RFC] 039 - 插件五期", "createdAt": "2024-04-11T01:41:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 1986, "title": "接入 WakaTime", "createdAt": "2024-04-11T15:48:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 2002, "title": "Railway error", "createdAt": "2024-04-12T05:58:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 2010, "title": "My docker deployment tries to load a Vercel library (speed-insights/script.js)", "createdAt": "2024-04-12T12:19:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 2022, "title": "[RFC] 040 - 用户鉴权", "createdAt": "2024-04-13T14:29:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 2040, "title": "[RFC] 041 - 多模型服务商三期： 二线 Providers 支持 / OpenAI Compatible 模型服务商", "createdAt": "2024-04-14T15:15:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 2047, "title": "How to view rendered document page after making changes in /docs？", "createdAt": "2024-04-15T08:41:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 2195, "title": "Docker 反向代理部署 发生客户端异常，部分 JS 文件有时会出现 514 错误响应", "createdAt": "2024-04-16T02:55:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 2060, "title": "GOOGLE_ANALYTICS_MEASUREMENT_ID能否设置多个值？", "createdAt": "2024-04-16T03:23:58Z", "repo": "lobehub/lobe-chat"}
+{"number": 2067, "title": "Is there any way to persist or export settings & configuration?", "createdAt": "2024-04-16T16:03:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 2080, "title": "目前的chat和agent之类的是基于什么库开发的呢？", "createdAt": "2024-04-17T16:51:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 2096, "title": "[Bug] docker build 要多少内存", "createdAt": "2024-04-18T13:50:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 2098, "title": "本地大模型如何支持插件功能", "createdAt": "2024-04-19T08:19:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 2103, "title": "对每个模型厂商都加入模型控制列表", "createdAt": "2024-04-19T14:01:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 2171, "title": "[Bug] Error API Endpoint usage", "createdAt": "2024-04-20T20:49:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 2141, "title": "Unable to delete lobe-chat when removing from docker desktop", "createdAt": "2024-04-22T05:23:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 2150, "title": "lobechat是否支持使用自己训练的模型（非hugging face模型），并且在界面上添加各种ui组件", "createdAt": "2024-04-23T02:23:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 2151, "title": "关于 Gemini 1.5 文件上传", "createdAt": "2024-04-23T04:17:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 2152, "title": "怎么关闭邮件通知？", "createdAt": "2024-04-23T04:32:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 2174, "title": "Azure OpenAI not working", "createdAt": "2024-04-23T12:41:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 2169, "title": "[RFC] 042 - Ollama client 请求优化", "createdAt": "2024-04-24T01:33:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 2172, "title": "Ollama Reject lobechat on different hosted setup.", "createdAt": "2024-04-24T02:39:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 2199, "title": "[RFC] 043 - SessionStore 拆分 AgentStore", "createdAt": "2024-04-25T14:24:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 2200, "title": "添加一个“助手与对话”的按钮", "createdAt": "2024-04-25T14:35:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 2228, "title": "[Bug] 谷歌浏览器在使用了:chrome://settings/clearBrowserData 清理浏览数据，会将我所有的回话列表以及相应的设置全部清除", "createdAt": "2024-04-26T01:43:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 2217, "title": "新版本带上openAI的key无法使用", "createdAt": "2024-04-26T11:10:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 2224, "title": "149.6版本再次出现ollama连接问题[Bug]", "createdAt": "2024-04-26T13:29:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 2233, "title": "[RFC] 044 - tRPC 集成", "createdAt": "2024-04-27T06:36:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 2260, "title": "[Request] llama对话过程能否保活？", "createdAt": "2024-04-27T11:58:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 2251, "title": "docker build时报错，请问，有没有快速的解决办法？", "createdAt": "2024-04-28T01:31:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 2284, "title": "[Bug] 本地的 Ollama 模型无法调用", "createdAt": "2024-04-28T10:32:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 2272, "title": "What is the env variable to set default temperature?", "createdAt": "2024-04-29T02:21:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 2276, "title": "[Request] 增加使用同步功能的文档", "createdAt": "2024-04-29T03:37:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 2290, "title": "是否可以支持增加可以控制全局的一些配置项", "createdAt": "2024-04-29T12:51:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 2295, "title": "[RFC] 045 - App Layout 重构", "createdAt": "2024-04-29T14:51:58Z", "repo": "lobehub/lobe-chat"}
+{"number": 2303, "title": "May I ask if I can integrate this project with a database and a Java service for use in a commercial setting?", "createdAt": "2024-04-30T01:49:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 2310, "title": "调用ollama里的模型会话时长只有5分钟[Bug]", "createdAt": "2024-04-30T05:00:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 2313, "title": "使用", "createdAt": "2024-04-30T08:08:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 2315, "title": "关于如何使用LobeChat对接非GPT类模型", "createdAt": "2024-04-30T09:52:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 2321, "title": "提交更改报错", "createdAt": "2024-04-30T16:14:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 2352, "title": "[Bug] 最近fork的项目，现在自己的项目actions里面找不到那个Enable的按钮了，无法upstream更新", "createdAt": "2024-05-03T02:30:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 2368, "title": "[Bug] 插件无法正常调用，回复需要等待然后不再回答", "createdAt": "2024-05-04T04:51:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 2362, "title": "插件无法正常调用，回复需要等待然后不再回答", "createdAt": "2024-05-04T06:18:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 2380, "title": "[Request] 是否可以考虑优化浏览器缓存占用", "createdAt": "2024-05-04T13:25:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 2377, "title": "OpenAI API compatible HTTP server with GPT4-V and function call?", "createdAt": "2024-05-05T08:40:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 2392, "title": "[Bug] 使用客户端请求模式时出错", "createdAt": "2024-05-06T02:31:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 2396, "title": "aws bedrock模型列表显示不全", "createdAt": "2024-05-06T08:35:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 2398, "title": "如何在本项目实时预览 lobe-ui 修改", "createdAt": "2024-05-06T11:27:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 2403, "title": "1", "createdAt": "2024-05-06T16:30:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 2404, "title": "Image input disabled when using multimodal LLM?", "createdAt": "2024-05-06T20:10:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 2947, "title": "[Bug] Clerk 好像无法正常接入", "createdAt": "2024-05-08T14:04:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 2442, "title": "Anthropic/ Claude 无法从客户端请求", "createdAt": "2024-05-10T02:20:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 2443, "title": "建议新增查询额度功能", "createdAt": "2024-05-10T03:40:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 2444, "title": "数据同步功能开启无法使用", "createdAt": "2024-05-10T05:21:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 2448, "title": "LobeHub 的midjourney_proxy_url", "createdAt": "2024-05-10T10:08:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 2639, "title": "感觉这个加载很慢", "createdAt": "2024-05-10T11:59:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 2457, "title": "怎么直接发送一张图片？", "createdAt": "2024-05-11T15:15:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 2464, "title": "请加上 Deepseek V2 支持功能", "createdAt": "2024-05-12T16:56:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 2475, "title": "项目的服务端在哪", "createdAt": "2024-05-13T08:39:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 2517, "title": "随便聊聊的语音服务的-语音识别识别设置无法正确获取到本地浏览器", "createdAt": "2024-05-14T15:53:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 2523, "title": "调用chat的AI接口，传入stream为false,还是调用流式数据，或者返回报错", "createdAt": "2024-05-15T15:43:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 2528, "title": "`NEXT_PUBLIC_BASE_PATH` not work with docker", "createdAt": "2024-05-16T02:26:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 2532, "title": "GPT-4o's multimodal abilities?", "createdAt": "2024-05-16T07:43:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 2675, "title": "[Bug] netlify Building Failed", "createdAt": "2024-05-16T21:14:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 2545, "title": "Product development", "createdAt": "2024-05-17T10:18:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 2546, "title": "what is login URI in lobe chat", "createdAt": "2024-05-17T11:20:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 2551, "title": "Auth0 Authentication failure：TypeError: Invalid URL string.", "createdAt": "2024-05-18T07:41:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 2561, "title": "sonchicho", "createdAt": "2024-05-19T02:39:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 2563, "title": "sonchicho", "createdAt": "2024-05-19T05:29:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 2655, "title": "部署在 netlify 使用 gemini 会被打断？", "createdAt": "2024-05-19T13:56:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 2576, "title": "[Request] 对于各模型、各平台的支持希望可以以plugin的形式出现。", "createdAt": "2024-05-20T06:26:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 2574, "title": "[RFC] 046 - ENV config 重构", "createdAt": "2024-05-20T08:29:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 2580, "title": "If add many model API, can I select which model to serve in my LobeChat?", "createdAt": "2024-05-21T01:09:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 2600, "title": "[RFC] 047 - 系统助手", "createdAt": "2024-05-22T10:41:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 2607, "title": "Gemini 1.5 pro without vertex", "createdAt": "2024-05-22T13:49:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 2619, "title": "使用 Vercel 部署，并启动了 Upstream Sync Action，自动更新版本时出现错误: Issue Close Require", "createdAt": "2024-05-23T02:59:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 2628, "title": "update failure after deployment", "createdAt": "2024-05-24T00:17:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 2650, "title": "For hundreds of requests, can the js be packaged?", "createdAt": "2024-05-25T05:51:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 2654, "title": "You exceeded you're current quota", "createdAt": "2024-05-25T12:34:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 2656, "title": "是否支持cf部署？", "createdAt": "2024-05-25T14:43:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 2658, "title": "本地开发的部署文档没有找到，不希望使用docker或者其他平台。", "createdAt": "2024-05-25T18:23:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 2705, "title": "[RFC] 048 - Home 页进阶 Tip", "createdAt": "2024-05-29T02:17:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 2710, "title": "[RFC] 049 - 乐观更新改造", "createdAt": "2024-05-29T04:35:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 2716, "title": "请问，现在接入 next-auth 之后跟登陆之前有什么区别？", "createdAt": "2024-05-29T12:17:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 2730, "title": "[Bug] 部分图片无法在通过域名访问时加载", "createdAt": "2024-05-30T11:35:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 2742, "title": "[Bug] Netlify部署提示内存不足", "createdAt": "2024-05-30T19:36:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 2735, "title": "我想首界面的设计可以简介一点不要那么花哨请问应该如何调整配置", "createdAt": "2024-05-31T05:35:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 2810, "title": "麻烦问一下为什么不能选择到gpt-40，后台模型我是开放的", "createdAt": "2024-05-31T05:38:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 2746, "title": "API in backend", "createdAt": "2024-06-01T06:47:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 2756, "title": "Connect AI agent to LobeChat", "createdAt": "2024-06-01T19:57:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 2763, "title": "WebRTC Sync stopped working", "createdAt": "2024-06-02T15:20:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 2766, "title": "Ability to (Deep)link into LobeChat with initial prompt and other parameters", "createdAt": "2024-06-03T06:03:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 2783, "title": "如何通过环境变量限定上下文的长度？", "createdAt": "2024-06-03T10:25:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 2773, "title": "Lobechat Cloud 版预计什么时候能上线呢", "createdAt": "2024-06-03T12:55:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 2776, "title": "Healthcheck endpoint", "createdAt": "2024-06-03T19:23:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 2794, "title": "[RFC] 050 - 文心一言 Provider 接入", "createdAt": "2024-06-05T08:09:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 2799, "title": "如何搭建使用webrtc同步服务？", "createdAt": "2024-06-06T08:29:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 2800, "title": "微软key部署问题", "createdAt": "2024-06-06T09:31:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 2828, "title": "`.top` 域名为何没法正常显示应用图标？", "createdAt": "2024-06-09T15:36:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 2833, "title": "Is there a way to extract chat data automatically?", "createdAt": "2024-06-10T06:19:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 2837, "title": "关于插件的一些疑问", "createdAt": "2024-06-10T10:14:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 2940, "title": "[Request] 能否增加对www.authing.cn服务商的集成", "createdAt": "2024-06-10T13:55:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 2843, "title": "[NEW RELEASE] Introducing MARS5, open-source, insanely prosodic text-to-speech (TTS) model.", "createdAt": "2024-06-10T18:50:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 2852, "title": "新版本的 Docker Image 拉不下来有无解决办法", "createdAt": "2024-06-11T03:10:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 5664, "title": "Ollama can't be conencted", "createdAt": "2024-06-12T02:17:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 2882, "title": "[Bug] LobeChat 默认助理的默认配置中model改为model=gemini-1.5-flash-latest，首次访问仍会访问openai接口", "createdAt": "2024-06-13T10:59:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 2900, "title": "chatgpt新的会话，为什么中文回答得好好的，突然就用英文来回答我的问题？", "createdAt": "2024-06-13T13:59:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 2869, "title": "我要修改这句话应该修改哪一个文件", "createdAt": "2024-06-14T05:44:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 2873, "title": "部署失败提示空间不足才发现怎么镜像这么大了", "createdAt": "2024-06-14T08:35:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 2888, "title": "對話時的 \"限制歷史訊息數\" 能否允許設置成 \"0\" ?", "createdAt": "2024-06-16T08:55:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 2953, "title": "进入程序会卡在启动页，需要鼠标在页面上点击一下才能进入welcome页", "createdAt": "2024-06-19T02:18:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 2959, "title": "Could you please add Claude 3.5 Sonnet model and Llama 3 model of AWS Bedrock?", "createdAt": "2024-06-20T23:48:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 2962, "title": "为什么Gemini模型不能收到图片 / Why can't the Gemini model receive images?", "createdAt": "2024-06-21T06:37:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 3048, "title": "Gemini fails for custom plugin", "createdAt": "2024-06-21T18:30:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 2987, "title": "[HELP] Deploying Lobe-Chat with Server-Side Persistence and SSO | 部署带服务器端持久化和SSO的Lobe-Chat", "createdAt": "2024-06-22T22:22:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 2996, "title": "[Bug] 无法通过docker环境变量设置默认助手为claude-3-5-sonnet", "createdAt": "2024-06-23T00:16:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 3062, "title": "在服务端数据库的方案中，文档需要进一步说明避免用户落到坑里", "createdAt": "2024-06-23T23:18:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 3020, "title": "[HELP] Is it possible to keep using WebRTC?", "createdAt": "2024-06-24T22:07:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 3022, "title": "使用ollama模型为什么需要API key", "createdAt": "2024-06-25T03:01:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 3023, "title": "[RFC] 051 - 知识库/文件上传", "createdAt": "2024-06-25T03:59:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 3027, "title": "API key", "createdAt": "2024-06-25T06:42:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 3029, "title": "HelloGitHub 徽章计划", "createdAt": "2024-06-25T07:03:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 3031, "title": "服务器部署了docker后访问，需要我的管理员密码？", "createdAt": "2024-06-25T07:47:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 3036, "title": "教程：使用 Higress + LobeChat 对接通义千问 （支持 RAG、联网）", "createdAt": "2024-06-25T10:07:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 3041, "title": "部署在vercel的lobechat，最近频繁部署失败", "createdAt": "2024-06-25T22:56:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 3317, "title": "[Bug] ollama请求地址错误", "createdAt": "2024-06-27T13:39:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 3065, "title": "LobeChat File Ops Support", "createdAt": "2024-06-27T13:40:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 3107, "title": "我在服务器用docker部署后遇到了问题", "createdAt": "2024-07-01T14:30:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 3121, "title": "我在云服务器上部署lobechat时，想要和ollama集成时遇到了问题。", "createdAt": "2024-07-02T10:13:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 3134, "title": "怎么修改next auth登录的前端代码", "createdAt": "2024-07-03T07:22:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 3249, "title": "HTTP 地址下的语音输入没有反应", "createdAt": "2024-07-08T00:51:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 3172, "title": "服务端数据库模式部署报错", "createdAt": "2024-07-08T10:11:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 3178, "title": "[Bug] 使用one-api挂载nvdia的模型nvidia/nemotron-4-340b-instruct时出现报错，而fastgpt可以正常使用", "createdAt": "2024-07-09T04:36:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 3186, "title": "[RFC] 052 - Cloudflare Workers AI Support", "createdAt": "2024-07-10T05:43:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 3187, "title": "How to set up system-agent/System Assistant by env?", "createdAt": "2024-07-10T07:22:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 3188, "title": "How to enable plugins by env variables?", "createdAt": "2024-07-10T07:24:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 3192, "title": "Setting Up a WebRTC Signaling Server for Lobe Chat Data Sync", "createdAt": "2024-07-10T16:54:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 3197, "title": "找了几圈都没找到具体一点的“多用户管理“配置教程～", "createdAt": "2024-07-11T11:39:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 3219, "title": "Lobechat is unable to view the locally installed models", "createdAt": "2024-07-14T07:20:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 3221, "title": "云服务的推广可以加入一个关闭按钮吗？现在一直在上面闪，比较难受", "createdAt": "2024-07-14T15:17:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 3222, "title": "现在 Docker 部署方式，对于数据库的支持咋样了？", "createdAt": "2024-07-15T02:21:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 3225, "title": "Jailbreak Role Settings prompts began to fail after 2-3k tokens of messages.", "createdAt": "2024-07-15T07:43:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 3283, "title": "[RFC] 069 - V2 Breaking Change", "createdAt": "2024-07-21T11:54:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 3292, "title": "[RFC] 053 - Artifacts", "createdAt": "2024-07-23T04:54:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 3318, "title": "[RFC] 065 - Ollama 实现重构", "createdAt": "2024-07-26T02:36:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 3330, "title": "Add OpenRoughter Provider Roughting?", "createdAt": "2024-07-26T13:32:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 3337, "title": "整合数据库的docker版本什么时候能出呢", "createdAt": "2024-07-27T08:13:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 3357, "title": "什么时候GPT4支持文件上传功能？", "createdAt": "2024-07-28T15:24:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 3361, "title": "[RFC] 054 - OpenAI Compatible Runtime 兼容不同 Stream 提取模式", "createdAt": "2024-07-29T05:51:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 3375, "title": "Output and input .jsonl file for speciflic chat section", "createdAt": "2024-07-31T22:10:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 3383, "title": "希望能够增加openai的接口数量", "createdAt": "2024-08-02T01:29:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 3399, "title": "[RFC] 055 - 服务端数据库版部署环境变量优化", "createdAt": "2024-08-05T03:45:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 3407, "title": "Upstream sync失败", "createdAt": "2024-08-05T13:57:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 3411, "title": "为代码中的模型提供商排序", "createdAt": "2024-08-06T05:28:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 3420, "title": "Problem Of Microsoft Entra ID :在zeabur平台上使用docker部署服务端数据库版本时使用Microsoft Entra ID部署时回调地址无响应", "createdAt": "2024-08-07T07:09:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 3472, "title": "功能建议", "createdAt": "2024-08-14T05:32:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 3533, "title": "[RFC] 056 - 知识库体验优化 / RAG 性能优化", "createdAt": "2024-08-21T17:26:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 3550, "title": "Better File Chunk | 更加强大的文件分块", "createdAt": "2024-08-22T08:56:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 3576, "title": "mem0", "createdAt": "2024-08-23T13:49:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 3582, "title": "是否在不同部署的情况下不应显示不可用功能?", "createdAt": "2024-08-23T22:42:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 3590, "title": "数据库服务端部署时对接阿里云oss服务上传文件出错，求解决！！！", "createdAt": "2024-08-24T14:42:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 3625, "title": "分享一组自用的数据库版本私有化docker-compose", "createdAt": "2024-08-27T06:51:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 3628, "title": "Why when using openrouter tools usage and vision are not supported for OpenAI's models?", "createdAt": "2024-08-27T07:38:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 3678, "title": "使用 Docker Compose 部署 LobeChat 服务端数据库版本时候遇到Logto 404的错误", "createdAt": "2024-08-30T02:37:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 3684, "title": "Better File Preview | 更好的文件预览", "createdAt": "2024-08-30T11:33:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 3699, "title": "数学公式重复出现", "createdAt": "2024-08-30T15:00:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 3703, "title": "Default login screen with Logto", "createdAt": "2024-08-31T15:21:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 3714, "title": "[RFC] 057 - RAG Eval & Benchmark", "createdAt": "2024-09-01T09:47:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 3742, "title": "[Bug] 似乎是跨域問題造成無法用ddns的域名訪問docker容器", "createdAt": "2024-09-02T13:05:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 3748, "title": "How to compile the docker-database container personally?", "createdAt": "2024-09-03T06:09:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 3753, "title": "Highly recommand to move S3_PUBLIC_DOMAIN sharing function to server side", "createdAt": "2024-09-03T16:19:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 3755, "title": "[RFC] 058 - 服务端接口架构梳理", "createdAt": "2024-09-03T17:22:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 4358, "title": "[Bug] The icons set is intrusive", "createdAt": "2024-09-03T20:43:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 3766, "title": "话题里的默认话题如何删除啊", "createdAt": "2024-09-04T11:26:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 3845, "title": "[Bug] 谁能帮我看看我的logo认证，创建应用就转圈，我已经内网配置了内网dns，还有nginx和ssl，", "createdAt": "2024-09-05T07:33:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 3783, "title": "[Bug] 上传文件报错，已经对接cloudflareR2存储", "createdAt": "2024-09-05T10:11:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 3782, "title": "如何实现进阶数据库部署后，ACCESS_CODE仍旧生效？[Bug]", "createdAt": "2024-09-05T13:25:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 3786, "title": "Using Auth0 for Deploying Server Database Version Using Docker", "createdAt": "2024-09-06T02:44:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 3789, "title": "关于删除身份认证的问题", "createdAt": "2024-09-06T06:18:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 3794, "title": "有没有切换身份认证服务的方案", "createdAt": "2024-09-06T07:58:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 4314, "title": "[Bug] 上传小写后缀图片（如.jpg, .png）报CORS错误。", "createdAt": "2024-09-07T06:14:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 3842, "title": "本地数据库版本部署的用户无法修改密码[Bug]", "createdAt": "2024-09-07T09:57:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 3812, "title": "logto登录提示HTTPS错误[Bug]", "createdAt": "2024-09-07T13:23:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 3847, "title": "[Bug] next-auth fetch failed with third auth provider", "createdAt": "2024-09-08T08:04:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 3828, "title": "OpenAI is not accessible with `getaddrinfo`", "createdAt": "2024-09-08T08:53:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 3830, "title": "使用docker进阶部署后，env中的apikey和proxyurl失效", "createdAt": "2024-09-08T15:36:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 3834, "title": "向量化失败", "createdAt": "2024-09-08T17:23:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 3846, "title": "增加更多的单点登录，例如Casdoor", "createdAt": "2024-09-09T05:18:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 4221, "title": "请问 logto 登录的问题，可否帮忙看下，下面提供了具体的配置", "createdAt": "2024-09-09T08:56:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 3861, "title": "How can I use HTTPS in LobeChat?", "createdAt": "2024-09-09T13:39:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 3862, "title": "如何在无登录态的情况下自动跳转到SSO的登录页", "createdAt": "2024-09-09T14:09:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 3873, "title": "[Bug] 插件“哔哩哔哩”输出的图片是损坏的", "createdAt": "2024-09-09T15:33:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 3884, "title": "使用身份验证服务登录的方案能否分配用户可用模型？", "createdAt": "2024-09-10T13:03:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 3888, "title": "[RFC] 059 - Chat Compeletion 接口支持 URL 转 Base64", "createdAt": "2024-09-10T18:54:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 4357, "title": "服务端模式部署后上传文件一直显示上传中", "createdAt": "2024-09-11T08:25:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 3908, "title": "logo图咋裂了🤣", "createdAt": "2024-09-11T14:13:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 3912, "title": "是否支持把设置保存在服务器，并且每次对话都使用默认的预设？", "createdAt": "2024-09-11T17:25:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 4356, "title": "deepseek模型调用插件未按预期返回结果，只返回了json值", "createdAt": "2024-09-11T17:49:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 5030, "title": "本地开发情况下Compiling时间非常长", "createdAt": "2024-09-11T19:02:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 4355, "title": "[Bug] Unable to Upload PDF in Chat Using \"Upload File\" Feature", "createdAt": "2024-09-12T16:35:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 3953, "title": "Lobe Chat 为什么不支持 Ollama 模型的视觉识别？", "createdAt": "2024-09-13T09:20:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 4138, "title": "[Bug] Undeployed database alterations found", "createdAt": "2024-09-14T11:31:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 3966, "title": "向量化使用azure openai", "createdAt": "2024-09-14T12:10:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 4094, "title": "[Request] 可以设置所有人都能看到并使用的默认助手吗？", "createdAt": "2024-09-15T14:01:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 3988, "title": "LobeChat 因授权问题无法连接至MinIO服务器", "createdAt": "2024-09-16T06:02:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 4137, "title": "LobeChat 因授权问题无法连接至MinIO服务器", "createdAt": "2024-09-16T07:18:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 4002, "title": "[Bug] relation \"xxx\" does not exist 服务器端数据库版本使用时报错无relation", "createdAt": "2024-09-17T09:58:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 4009, "title": "[Bug] lobe-chat-db使用compose线上部署，logto启动后自动退出（其他服务正常）", "createdAt": "2024-09-18T07:36:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 4375, "title": "[Bug] \"message\": \"Invalid image.\" ask chat about uploaded image", "createdAt": "2024-09-19T13:23:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 4036, "title": "docker: invalid reference format", "createdAt": "2024-09-19T19:31:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 4039, "title": "能否对服务商使用\"复制\"功能?", "createdAt": "2024-09-20T07:22:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 4202, "title": "关于Postgresql 配置问题", "createdAt": "2024-09-20T17:55:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 4051, "title": "请问现在鉴权已经可以迁移到casdoor了吗？", "createdAt": "2024-09-20T20:32:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 4058, "title": "请问文件分块失败是什么原因？", "createdAt": "2024-09-21T15:04:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 4348, "title": "[Request] 提供一个ZITADEL 身份验证服务本地部署参考", "createdAt": "2024-09-21T16:03:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 4062, "title": "分块所依赖的向量模型能使用别的模型吗？比如glm的embedding-3？", "createdAt": "2024-09-21T22:26:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 4087, "title": "[RFC] 060 - 对话样式自定义", "createdAt": "2024-09-23T04:17:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 4091, "title": "如何实现pdf论文总结", "createdAt": "2024-09-23T06:11:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 4097, "title": "是否可以考虑直接拉取网页来作为知识库", "createdAt": "2024-09-23T13:54:58Z", "repo": "lobehub/lobe-chat"}
+{"number": 4103, "title": "关于o1模型的响应时间", "createdAt": "2024-09-24T04:25:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 4136, "title": "[Question] Minio upload file", "createdAt": "2024-09-24T08:02:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 4133, "title": "Azure openAI 配置问题请教", "createdAt": "2024-09-24T15:27:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 4116, "title": "希望github登录能获取到用户名和头像", "createdAt": "2024-09-24T16:52:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 4132, "title": "[Bug] 文件上传失败  分块失败", "createdAt": "2024-09-25T01:27:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 4135, "title": "[Bug] Docker database pgvector connectivity issue on Lobchat files section", "createdAt": "2024-09-25T15:55:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 4144, "title": "[Docs] Feedback for `self-hosting/advanced/auth/next-auth/zitadel`", "createdAt": "2024-09-26T01:53:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 4351, "title": "请教一个问题docker生产部署 生成图片的时候不显示出来", "createdAt": "2024-09-26T05:32:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 4232, "title": "github鉴权，无法将获取到的用户名和头像传入web前端并显示", "createdAt": "2024-09-26T16:31:58Z", "repo": "lobehub/lobe-chat"}
+{"number": 4169, "title": "How to completely disable authentication in self-hosted", "createdAt": "2024-09-27T09:59:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 4182, "title": "Stopping when minimizing browser", "createdAt": "2024-09-27T19:06:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 4192, "title": "o1模型部分时候无法正常回复", "createdAt": "2024-09-28T14:04:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 4206, "title": "如何在安装 PWA 后，同时打开多个 PWA 页面", "createdAt": "2024-09-28T14:18:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 4196, "title": "Why is LobeChat Calling Itself 'Apache 2.0 Licensed' When the ASF Prohibits Using 'Apache' in Modified Licenses?", "createdAt": "2024-09-28T21:50:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 4203, "title": "[RFC] 053 - Multiple RAG Strategies Support", "createdAt": "2024-09-29T03:30:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 4204, "title": "[RFC] 061 - Multiple RAG Strategies Support", "createdAt": "2024-09-29T03:30:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 12096, "title": "[Bug] cross origin request block", "createdAt": "2024-09-30T15:16:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 4237, "title": "[Bug] AWS S3 Region ENV variable issue", "createdAt": "2024-10-01T10:21:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 4238, "title": "Lobe Chat Database version. GPT-4 Error", "createdAt": "2024-10-01T12:37:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 4244, "title": "A curated list of Custom Plugins", "createdAt": "2024-10-02T07:40:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 4261, "title": "[Request] User Topup Payment support 充值支付", "createdAt": "2024-10-03T06:46:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 4250, "title": "[LangChainChunkingError]: Unsupported file type, please check your file is a supported type, or just create an issue.", "createdAt": "2024-10-03T11:58:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 4296, "title": "[Bug] unauthorized_client: Callback URL mismatch. http://0.0.0.0:3210/api/auth/callback/auth0 is not in the list of allowed callback URLs", "createdAt": "2024-10-04T17:54:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 4263, "title": "对话中总token数大于约1500时返回403错误", "createdAt": "2024-10-05T14:48:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 4271, "title": "cazanova", "createdAt": "2024-10-06T14:04:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 4281, "title": "[Bug] 文档中关于NEXTAUTH_URL的描述有误", "createdAt": "2024-10-07T05:32:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 4293, "title": "[Bug] Using github as auth provider, failed with MissingCSRF", "createdAt": "2024-10-07T12:24:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 4285, "title": "更换 auth provider 的话，会影响聊天记录吗？", "createdAt": "2024-10-07T19:07:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 4286, "title": "请问有没有办法使要发送的图片不以url形式，而是以base64编码发送？", "createdAt": "2024-10-07T22:34:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 4304, "title": "怎么选择声音？", "createdAt": "2024-10-09T11:04:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 4545, "title": "[Bug] docker deploy error Exited (139)", "createdAt": "2024-10-10T05:19:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 4325, "title": "Docker 编译报错", "createdAt": "2024-10-11T03:04:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 4354, "title": "PostgreSQL connect ECONNREFUSED", "createdAt": "2024-10-12T09:07:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 4337, "title": "第三方api调用问题", "createdAt": "2024-10-12T09:34:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 4362, "title": "[RFC] 062 - 提示词 XML 结构化", "createdAt": "2024-10-13T17:36:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 4364, "title": "\"导出助手和消息\"功能导出的json，是如何保存对话记录的图片的？", "createdAt": "2024-10-14T01:02:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 4392, "title": "服务端数据库模式的物理配置要求", "createdAt": "2024-10-17T00:55:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 4398, "title": "NEXTAUTH OIDC CONNECT Configuration", "createdAt": "2024-10-17T15:22:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 4402, "title": "If anyone have successfully finished docker-database depoly with reverse proxy?", "createdAt": "2024-10-18T01:41:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 4403, "title": "建议增加创作者激励和多种收费模式", "createdAt": "2024-10-18T02:19:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 4409, "title": "Does it work with Cloudflare Tunnel?", "createdAt": "2024-10-18T13:58:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 4412, "title": "[RFC] 064 - Dify Integration | Dify 接入", "createdAt": "2024-10-18T23:19:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 4415, "title": "Lobechat usable with cli or api?", "createdAt": "2024-10-19T16:48:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 4430, "title": "Casdoor 注册多个账号后 登入的 C,D,E,F账号 实际都是进入 B 账号", "createdAt": "2024-10-21T01:57:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 4444, "title": "[RFC] 063 - Agent Provider", "createdAt": "2024-10-22T05:21:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 4449, "title": "[RFC] 065 - 升级到 Next 15 + React 19", "createdAt": "2024-10-22T17:15:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 4550, "title": "[Bug] 插件市场搜索插件 serper安装不了，可以通过自定义安装，但是安装会提示错误", "createdAt": "2024-10-24T15:37:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 4475, "title": "Vercel deployment with database fails with SIGKILL error", "createdAt": "2024-10-24T18:26:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 4488, "title": "[RFC] 066 - Vertex AI", "createdAt": "2024-10-25T16:42:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 4497, "title": "[Bug] Anthropic AI 配置 API 代理地址出错", "createdAt": "2024-10-25T19:15:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 4518, "title": "[Bug] 使用 Docker Compose 部署 LobeChat 服务端数据库版本 重定向/unknown-session错误", "createdAt": "2024-10-26T07:16:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 4515, "title": "[RFC] 067 - Pinned Assistant List 侧边栏常驻助手", "createdAt": "2024-10-27T09:38:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 4516, "title": "Clerk and Docker?", "createdAt": "2024-10-27T13:26:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 4538, "title": "[Bug] 怎么才能彻底删除对话历史呢？", "createdAt": "2024-10-29T09:17:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 4539, "title": "[Bug] Docker Compose部署无法使用", "createdAt": "2024-10-29T10:27:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 4537, "title": "[Bug] 文件上传失败，Cross跨域问题， 腾讯云存储桶已配置跨域", "createdAt": "2024-10-29T11:49:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 4558, "title": "Unofficial Lobe Chat Documentation with Code references & AI Chat.", "createdAt": "2024-10-31T02:57:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 4563, "title": "如何给助手设置默认启用dalee.3插件?", "createdAt": "2024-10-31T08:53:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 5427, "title": "[Bug] GPT 4o无法生成回答，ERR_JWT_EXPIRED", "createdAt": "2024-11-01T05:04:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 8027, "title": "Feedback for `usage/foundation/basic` - Lobe is printing responses in a tiny font in a tiny window in the chat?", "createdAt": "2024-11-02T02:01:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 4584, "title": "对于个人部署，目前服务器端数据库版本的登录过于臃肿", "createdAt": "2024-11-02T08:31:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 4582, "title": "数据库版本如何针对不同用户开放使用不同的模型", "createdAt": "2024-11-02T11:19:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 4594, "title": "Is there anyway to make this work with ePub format?", "createdAt": "2024-11-03T07:42:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 4595, "title": "知识库有考虑以后可以上传图片，根据图片中的文字内容分块化吗", "createdAt": "2024-11-03T09:44:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 4597, "title": "[RFC] 068 - 首屏体积优化", "createdAt": "2024-11-03T13:14:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 4599, "title": "使用ollama的本地大模型，支持视觉识别的模型图片上传为灰色。", "createdAt": "2024-11-04T03:17:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 4604, "title": "[Bug] 在使用docker在服务器上进阶部署服务时，点击database，跳出弹窗，请进行登录。", "createdAt": "2024-11-04T12:08:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 4621, "title": "[Bug] 将.txt文件加入知识库进行分块向量化时，向量化失败。", "createdAt": "2024-11-05T10:07:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 4614, "title": "Folder/Sub-folder hierarchy", "createdAt": "2024-11-05T14:31:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 4616, "title": "[RFC] 070 - 分支对话", "createdAt": "2024-11-05T18:46:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 4634, "title": "重构 ModelProviders 面向对象设计", "createdAt": "2024-11-07T01:26:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 4692, "title": "5G网络下，生成内容会中断", "createdAt": "2024-11-09T03:04:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 4654, "title": "Embedding Error: Requested 9064 tokens instead of 8192 tokens", "createdAt": "2024-11-09T12:46:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 4667, "title": "为什么Vercel上部署后，设置ACCESS_CODE为环境变量没有生效呢？", "createdAt": "2024-11-11T03:44:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 4698, "title": "Using lobechat for explaining code with diagrams", "createdAt": "2024-11-15T13:17:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 4705, "title": "Getting Error After Deploying Private Agent Market", "createdAt": "2024-11-16T11:37:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 4717, "title": "Thread Enhancement | 子话题能力增强", "createdAt": "2024-11-17T08:11:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 6086, "title": "[Bug] Microsoft Entra ID Error AADSTS50011 with OpenID authentication", "createdAt": "2024-11-18T07:47:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 4741, "title": "[RFC] 071 - 多模态生成 (绘图/视频/音乐)", "createdAt": "2024-11-20T09:58:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 12067, "title": "[Bug] Error when using image conversation", "createdAt": "2024-11-20T10:15:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 4743, "title": "是否有人也发现，新版调用大模型如 gpt或 claude 模型回答效果变差了", "createdAt": "2024-11-20T11:34:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 4746, "title": "Is there any API Available to use the Custom Agents that I create in Lobe Chat? Or is there any plan for that ?", "createdAt": "2024-11-21T06:08:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 6117, "title": "Authentication with Microsoft-entra-id and nginx/docker configuration does not work", "createdAt": "2024-11-21T09:05:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 4758, "title": "Docker Compose是否有参数可以设定默认的System Assistants", "createdAt": "2024-11-22T13:38:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 4798, "title": "[Bug] 「部署问题」Casdoor 配置与 NextAuth 认证错误", "createdAt": "2024-11-22T14:29:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 4774, "title": "[Request] 恳求大佬给一个X.AI在VERCEL中部署的变量名称", "createdAt": "2024-11-23T17:59:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 4781, "title": "Difference between Cloud and Self-Hosted Community Edition?", "createdAt": "2024-11-24T18:47:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 4784, "title": "High CPU Usage in PWA Lobechat", "createdAt": "2024-11-25T04:38:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 4792, "title": "[RFC] 072 - Prompts 进阶配置", "createdAt": "2024-11-26T03:13:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 4795, "title": "Can a Local IndexDB install be transferred to a Postgres Server Database version?", "createdAt": "2024-11-26T11:40:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 4806, "title": "[Bug] 知识库上传文件报错", "createdAt": "2024-11-27T03:23:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 4814, "title": "开发指南", "createdAt": "2024-11-27T11:21:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 4831, "title": "S3存储公共读取权限带来的隐私顾虑(privacy issue with public read access for S3 storage)", "createdAt": "2024-11-28T22:18:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 4833, "title": "Vercel 自动部署经常超时，偶尔才能成功一次，除非手动重新部署", "createdAt": "2024-11-29T02:44:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 4835, "title": "the possibility of using the same database by different users", "createdAt": "2024-11-29T09:26:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 12069, "title": "[Bug] Knowledge base can only upload PDF, PPT and other files, cannot upload images", "createdAt": "2024-11-30T05:28:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 4854, "title": "Minio 跨域 CORS 如何配置", "createdAt": "2024-11-30T09:24:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 4843, "title": "Search topics across assistants", "createdAt": "2024-11-30T17:11:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 4844, "title": "About Login, How can I make a guest login or anonymous login (use first then login), please ? 请问如何进行访客登录或匿名登录（先使用后登录）?", "createdAt": "2024-11-30T18:44:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 4849, "title": "Login??", "createdAt": "2024-12-01T03:43:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 4859, "title": "[RFC] 073 - 语言模型模块升级为 AI Infra", "createdAt": "2024-12-01T16:51:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 4860, "title": "[RFC] 074 - 插件提示优化", "createdAt": "2024-12-02T03:08:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 4868, "title": "[RFC] 075 - 客户端模式 从 Dexie DB  迁移 pglite", "createdAt": "2024-12-02T12:49:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 4885, "title": "太强了，仅仅发布一下感慨", "createdAt": "2024-12-04T12:02:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 4890, "title": "Casdoor的admin默认密码不是123？", "createdAt": "2024-12-05T08:53:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 4897, "title": "OPENAI_MODEL_LIST参数似乎未按文档描述的方式执行", "createdAt": "2024-12-05T15:36:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 4903, "title": "[Bug] Casdoor的注册用户可以删除其他用户", "createdAt": "2024-12-06T11:31:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 4908, "title": "The model response is only loaded if the current LobeChat tab is open in the browser", "createdAt": "2024-12-06T19:48:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 4914, "title": "[Bug] The ollama tools call can't use in docker", "createdAt": "2024-12-07T03:07:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 4920, "title": "Is lobe chat compatible with openwebui functions ?", "createdAt": "2024-12-07T15:13:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 4936, "title": "关于数据库版本对于用户和模型的使用量监控问题", "createdAt": "2024-12-09T01:40:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 4938, "title": "如何防止暴力破解？能否添加验证码？", "createdAt": "2024-12-09T05:26:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 4946, "title": "gemini  api检查能过 但是聊天就报错", "createdAt": "2024-12-09T11:49:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 4955, "title": "建议将lobechat 部署在国内服务器还是国外服务器？", "createdAt": "2024-12-10T08:30:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 4956, "title": "[部署求助]修改了Dockerfile和Dockerfile.database之后如何部署", "createdAt": "2024-12-10T09:19:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 4959, "title": "Minio 必须要把ACCESS POLICY设置为PUBLIC才能正常使用吗？", "createdAt": "2024-12-10T11:20:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 4961, "title": "自定义服务商", "createdAt": "2024-12-10T11:47:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 4969, "title": "token数是如何计算的", "createdAt": "2024-12-11T01:50:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 4978, "title": "Disabling the \"Just Chat\" function on Lobe Chat.", "createdAt": "2024-12-11T12:23:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 4982, "title": "Github 这是出啥问题了么。。。releases 里面默认是去年的版本", "createdAt": "2024-12-12T01:32:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 4986, "title": "我通过阿里云部署的lobe-chat实例再次运行后要求我输入密码，但是我自己都不知道还有密码！", "createdAt": "2024-12-12T03:09:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 4989, "title": "知识库向量化失败", "createdAt": "2024-12-12T04:38:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 5005, "title": "Docker container takes a long time to stop and exits with code 137", "createdAt": "2024-12-13T08:38:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 5037, "title": "How to use Azure Openai Embedding Model for Knowledgebase?", "createdAt": "2024-12-16T09:00:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 5038, "title": "数据库版支持修改用户头像吗？", "createdAt": "2024-12-16T10:05:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 5047, "title": "API in Lobechat ?", "createdAt": "2024-12-16T16:38:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 8037, "title": "[Bug] 通义千问视觉模型无法使用 Missing Content-Length of multimodal url", "createdAt": "2024-12-17T07:55:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 5688, "title": "[Bug] authentik作为sso登录提供者，登录验证报错", "createdAt": "2024-12-17T11:03:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 5066, "title": "[Bug] logto and database are broken since last X updates", "createdAt": "2024-12-17T18:32:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 5151, "title": "[Bug] lobe-chat-db使用compose线上部署，logto启动后自动退出（其他服务正常）  #4009", "createdAt": "2024-12-18T07:01:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 5078, "title": "how to control response style globally", "createdAt": "2024-12-19T02:32:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 5079, "title": "Chunking error: incomplete chunking reference", "createdAt": "2024-12-19T02:45:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 6064, "title": "[Bug] 重定向 URI：http://myip:3210/api/auth/callback/casdoor在许可跳转列表中未找到", "createdAt": "2024-12-19T03:40:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 5081, "title": "[RFC] 084 - 为 LLM Providers 添加集成测试", "createdAt": "2024-12-19T05:01:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 12101, "title": "[Bug] S3 Storage Service ACL inoperative", "createdAt": "2024-12-19T09:52:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 5526, "title": "[Bug] 使用 Zeabur 模板部署的数据库版本如何更新呢？", "createdAt": "2024-12-19T14:46:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 5089, "title": "Multi-agent complex decision making in LobeChat", "createdAt": "2024-12-19T16:05:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 5105, "title": "[RFC]  076 - 操作卡顿性能优化", "createdAt": "2024-12-20T17:45:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 8114, "title": "[Bug] 代码块显示错位问题", "createdAt": "2024-12-21T13:45:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 5120, "title": "在本地搭建知识库，是要求一些东西能在公网访问吗？", "createdAt": "2024-12-21T17:28:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 5147, "title": "[RFC] 077 - 兼容 Postgres/Pglite 的数据导入导出", "createdAt": "2024-12-23T05:37:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 5157, "title": "[Request] 希望语音合成服务可以设置voice，发音角色", "createdAt": "2024-12-23T13:00:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 5160, "title": "how to offer free limited usage for users without entering API key", "createdAt": "2024-12-23T21:40:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 5164, "title": "gpt-4-turbo 带图的问题会\"断流\"", "createdAt": "2024-12-24T03:39:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 5168, "title": "我在尝试使用腾讯的edgeone来部署，但是部署失败了", "createdAt": "2024-12-24T09:46:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 5181, "title": "[RFC] 078 - Model Provider 升级为 AI Provider", "createdAt": "2024-12-25T16:01:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 5192, "title": "Dokploy 部署问题", "createdAt": "2024-12-26T09:03:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 5200, "title": "Windows系统下通过Docker部署", "createdAt": "2024-12-27T01:34:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 5215, "title": "[RFC] 079 - Edge Config 配置层", "createdAt": "2024-12-28T16:24:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 5246, "title": "Can we deploy it without MinIO S3 when local deploy it?", "createdAt": "2024-12-31T06:38:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 5248, "title": "Doc文档无法预览", "createdAt": "2024-12-31T08:19:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 5251, "title": "Local Embedding model", "createdAt": "2025-01-01T05:42:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 5254, "title": "[Bug] 数据库模式只有上传图片有问题。", "createdAt": "2025-01-01T06:59:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 5257, "title": "请问这个随机key的环境变量是控制什么地方的api key？", "createdAt": "2025-01-02T01:09:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 5259, "title": "[Q&A] How to share file storage between users in LobeChat database version?", "createdAt": "2025-01-02T06:15:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 5261, "title": "[RFC] 080 - 通过 Webdav 实现数据同步", "createdAt": "2025-01-02T08:03:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 5271, "title": "502BadGateway求助，数据库版本，升级到最新版本后无法正常访问，容器反复重启", "createdAt": "2025-01-02T08:04:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 5264, "title": "助理头像如何才能恢复成原来的立体样式？", "createdAt": "2025-01-02T09:34:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 5269, "title": "docker部署服务器版的问题", "createdAt": "2025-01-02T15:56:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 5282, "title": "[Request] 如果我想使用中转服务商来使用deepseek，在vercel里面应该怎么修改环境变量", "createdAt": "2025-01-03T12:29:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 5286, "title": "[Bug] Module not found: Can't resolve '@lobehub/ui/es/LogoThree'", "createdAt": "2025-01-03T16:58:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 5288, "title": "Where's the official web browsing plugin in self-hosted client-only version?", "createdAt": "2025-01-04T08:08:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 5292, "title": "UI changes or WorkSpace Option", "createdAt": "2025-01-04T13:01:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 5293, "title": "本地部署问题", "createdAt": "2025-01-04T13:29:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 5307, "title": "为什么右侧的分枝问题的文字看不到了？", "createdAt": "2025-01-05T19:24:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 5309, "title": "[Bug] Docker Compose 部署 LobeChat 服务端数据库版本存在错误", "createdAt": "2025-01-05T23:07:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 5317, "title": "[Bug] failed to run server tests in node 20", "createdAt": "2025-01-06T09:28:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 5321, "title": "Having loading error when opening the pdf files in my knowledge base", "createdAt": "2025-01-07T08:51:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 5323, "title": "能否增加一个简单的通知功能", "createdAt": "2025-01-07T12:02:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 5324, "title": "[RFC] 081 - 分支对话二期", "createdAt": "2025-01-07T12:21:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 5440, "title": "[Bug] 插件无法使用、无法语音输入！", "createdAt": "2025-01-09T01:02:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 5364, "title": "更新到新版本后，env中自定义模型部分似乎失效了", "createdAt": "2025-01-09T05:46:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 5371, "title": "1.44后db客户端中如何给所有用户同步更新模型列表", "createdAt": "2025-01-09T08:21:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 5384, "title": "please add an Email provider to the \"Providers\" list for the application: LobeChat", "createdAt": "2025-01-10T02:44:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 12126, "title": "[Request] Does lobe-chat support group API key usage?", "createdAt": "2025-01-10T09:59:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 5412, "title": "Inconsistent Embedding Dimensions in Configuration and Code Usage", "createdAt": "2025-01-12T05:18:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 5417, "title": "自构建镜像卡在“用户状态初始化”", "createdAt": "2025-01-13T07:43:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 5419, "title": "lobe-chat 的 DB 版本能否支持不登录进行使用？", "createdAt": "2025-01-13T10:14:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 5425, "title": "成功实现域名部署LobeChat DB 基于Logto鉴权服务，经验分享", "createdAt": "2025-01-14T02:34:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 5430, "title": "lobe-chat-database docker 从1.43.2升级到1.45.7，配置全清空了", "createdAt": "2025-01-14T07:10:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 5432, "title": "按照教程，GitHub验证提示404", "createdAt": "2025-01-14T08:39:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 5445, "title": "调整向量化操作调用的接口", "createdAt": "2025-01-15T02:43:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 5466, "title": "插件请求为何会走一道网关", "createdAt": "2025-01-15T10:34:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 5461, "title": "[RFC] 082 - 应用页面打开速度优化", "createdAt": "2025-01-15T18:16:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 5465, "title": "View usage by different users", "createdAt": "2025-01-16T02:26:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 5469, "title": "使用casdoor+minio本地部署，无法上传文件", "createdAt": "2025-01-16T08:10:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 5470, "title": "LobeChat-Database-Compose working perfectly apart from knowledge database and file viewing", "createdAt": "2025-01-16T08:46:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 5471, "title": "插件BUG", "createdAt": "2025-01-16T09:11:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 5476, "title": "使用lobechat上传图片到多模态大模型，无法识别", "createdAt": "2025-01-16T10:20:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 5482, "title": "use mindie deploy a qwen2.5-0.5b model, can't connect to lobechat, report a issue is model not found,", "createdAt": "2025-01-17T01:47:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 5487, "title": "[Bug] Docker版本报ConnectTimeoutError错误，导致主页的‘新增助手推荐’功能一直处于Loading状态", "createdAt": "2025-01-17T03:58:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 5512, "title": "lobechat和dify的区别", "createdAt": "2025-01-20T03:48:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 5513, "title": "在公司内网部署给同事使用，能否只在我使用docker部署的时候，配置好APIKey和URL，后续其他同事访问时无需再输入apikey？", "createdAt": "2025-01-20T04:39:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 5518, "title": "[Bug] 本地Windows部署，登录认证回调报错", "createdAt": "2025-01-20T09:48:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 5531, "title": "知识库在数据库模式下支持在线编辑文档是否能支持?", "createdAt": "2025-01-21T03:28:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 5545, "title": "[Bug] 部署在vercel上，请求本地ollama报错“Direct IP access is not allowed in Vercel's Edge environment”", "createdAt": "2025-01-21T12:02:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 5537, "title": "AI Provider 版本可不可以支援環境變數幫所有用戶預設模型？", "createdAt": "2025-01-21T14:04:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 5538, "title": "Max Output tokens", "createdAt": "2025-01-21T14:25:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 5549, "title": "Setting the environment variable so that the default model for entering the interface is the one specified by openrouter.", "createdAt": "2025-01-22T09:43:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 5555, "title": "Run Locally without Docker", "createdAt": "2025-01-22T18:50:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 5556, "title": "[RFC] 083 - 思考过程展示", "createdAt": "2025-01-23T02:16:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 5568, "title": "[bug] Google服务商的“使用客户端请求模式”", "createdAt": "2025-01-23T05:52:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 5570, "title": "\"Context Details\" Not showing in preview version.", "createdAt": "2025-01-23T17:34:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 5579, "title": "回复的时候Think部分的第一行会被吞掉", "createdAt": "2025-01-24T07:41:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 5586, "title": "lobechat文件上传", "createdAt": "2025-01-25T04:44:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 5615, "title": "Increase timeout when doing a plugin call", "createdAt": "2025-01-28T15:01:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 5655, "title": "[Bug] Error after file upload", "createdAt": "2025-01-29T12:07:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 5623, "title": "How to add custom model provider through envrionment variables如何从环境变量添加自定义服务商", "createdAt": "2025-01-29T14:23:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 8109, "title": "[Bug] weird respones from gpt-4o or gpt-4o-mini from OpenAI", "createdAt": "2025-01-30T10:28:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 5652, "title": "docker-compose setup脚本无法获取 `s3_data.tar.gz`", "createdAt": "2025-01-31T15:07:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 5649, "title": "Temperature is not supported in o3-mini o3-mini不支持温度参数", "createdAt": "2025-02-01T07:08:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 5663, "title": "怎么自定义嵌入模型？", "createdAt": "2025-02-02T02:04:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 5669, "title": "[Vercel 部署] 关闭自定义 API 代理地址", "createdAt": "2025-02-02T07:48:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 5677, "title": "Add plugins via configs or env", "createdAt": "2025-02-02T17:25:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 6078, "title": "[Bug] Model Reasoning Timeout and Process Absence", "createdAt": "2025-02-03T02:42:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 5685, "title": "lobechat为什么不能保存配置？", "createdAt": "2025-02-03T06:41:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 6081, "title": "[Bug] 我用FNOS的docker安装IP模式，其中{:8000}和{:5432}端口均被占用了，于是我修改了配置文件，但是lobe-casdoor一直报错。", "createdAt": "2025-02-03T12:13:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 5716, "title": "Error [TRPCError]: Invalid key length", "createdAt": "2025-02-04T01:24:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 5718, "title": "LobeChat 能否实现 deepseek 官网的联网搜索分析功能？", "createdAt": "2025-02-04T02:53:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 5730, "title": "[Request] 所有AI模型支持自定义BaseURL", "createdAt": "2025-02-04T11:48:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 5748, "title": "Add Deep Research Functionality", "createdAt": "2025-02-04T18:47:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 5758, "title": "通过创建自定义模型的方式接入百炼平台的Deepseek系列模型却无法工作？", "createdAt": "2025-02-05T04:13:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 5772, "title": "使用 deepseek r1 作为【话题命名模型】时，话题名称会出现深度思考的信息。", "createdAt": "2025-02-05T15:14:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 5786, "title": "Add Proxy API Configuration Options with Timeout, Retry, and Resilience Features", "createdAt": "2025-02-06T09:21:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 5788, "title": "[Bug] 设置了DEFAULT_AGENT_CONFIG和OLLAMA_MODEL_LIST环境变量界面上显示的默认模型并不正确", "createdAt": "2025-02-06T11:31:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 5798, "title": "将 Logto 替换为 Casdoor 后无法登录且日志抛错", "createdAt": "2025-02-06T14:08:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 5808, "title": "在使用chatgpt模型的时候出现乱码", "createdAt": "2025-02-06T15:47:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 5867, "title": "[Request] 请问有办法实现多用户采用同一套配置吗？", "createdAt": "2025-02-07T01:47:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 6845, "title": "[Bug] lobechat部署后，怎样让设值的LLM生效", "createdAt": "2025-02-07T07:02:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 6232, "title": "[Bug] LobeChat 配置 Casdoor_Webhook 无响应", "createdAt": "2025-02-07T07:15:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 5838, "title": "Use Azure Serverless AI API", "createdAt": "2025-02-07T07:46:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 5865, "title": "自己部署的Lobe版本，新的AI Provider无法展示，仍然是老版本的视图", "createdAt": "2025-02-07T14:38:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 5870, "title": "请问下企业版怎么订阅？", "createdAt": "2025-02-08T02:15:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 5872, "title": "使用任何ollama的embedding模型都会报错。", "createdAt": "2025-02-08T02:45:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 5879, "title": "使用docker run和docker compose部署lobe，环境变量配置未生效", "createdAt": "2025-02-08T03:53:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 5886, "title": "在对话中选择model的时候，能不能加个过滤", "createdAt": "2025-02-08T07:11:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 6590, "title": "自定义渠道 deepseek-reasoner 请求错误", "createdAt": "2025-02-09T03:27:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 5932, "title": "话题自动命名/消息内容翻译等选项的默认模型有环境变量可以配置吗", "createdAt": "2025-02-09T07:31:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 6087, "title": "[Bug] 套 Cloudflare 代理后，打开网站卡在“应用启动中”", "createdAt": "2025-02-09T13:54:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 5944, "title": "一些功能建议", "createdAt": "2025-02-09T17:38:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 6118, "title": "知识库上传文件时域名拼接的问题：我使用域名，桶似乎拼接错了位置，应该是`https:// s3域名:端口/桶/XXXX目录`，但我得到的是 `https://桶.s3域名:端口/XXXX目录`", "createdAt": "2025-02-09T23:58:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 5992, "title": "[Bug] 本地数据库版本使用auth0 提示next-auth/error?error=Configuration", "createdAt": "2025-02-10T03:17:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 5958, "title": "地数据库版本使用auth0 提示next-auth/error?error=Configuration", "createdAt": "2025-02-10T04:56:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 5991, "title": "[Bug] 向量化失败 [EmbeddingError]: {\"errorType\" : \"InvalidGithubToken\"}", "createdAt": "2025-02-10T05:48:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 5975, "title": "How to configure casdoor for windows deployment? I deployed but always show UNAUTHORIZED", "createdAt": "2025-02-10T08:52:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 5982, "title": "如何取消\"有新版本可用\"红点及弹窗提示", "createdAt": "2025-02-10T11:53:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 5986, "title": "宝塔面板（9.0.0）在域名部署下开启反代缓存会出现登陆会话管理问题", "createdAt": "2025-02-10T13:23:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 5996, "title": "市场market无法修改默认模型", "createdAt": "2025-02-10T18:46:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 5999, "title": "docker compose部署的数据库版本如何升级到最新版", "createdAt": "2025-02-11T02:51:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 6011, "title": "“登录认证服务”如何更换为另一个 auth0 账号", "createdAt": "2025-02-11T08:43:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 6015, "title": "请教一下lobechat本地部署database版本使用logto登录问题", "createdAt": "2025-02-11T10:18:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 6023, "title": "The one-click deploy for Zeabur = wrong image", "createdAt": "2025-02-11T14:16:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 6024, "title": "RepoCloud deploy for lobe chat database", "createdAt": "2025-02-11T14:20:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 6042, "title": "Goo job", "createdAt": "2025-02-12T01:44:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 6053, "title": "lobe 如何在启动时加载默认自定义模型配置？", "createdAt": "2025-02-12T10:32:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 6059, "title": "【国内网络环境卡顿】vercel部署配置 Clerk 身份验证服务后，国内网络环境卡顿到无法注册账户", "createdAt": "2025-02-12T15:20:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 6075, "title": "[Bug] Connect Timeout Error (attempted addresses: 185.199.111.133:443, timeout: 10000ms)]", "createdAt": "2025-02-13T03:17:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 6116, "title": "Remote OLLAMA url  CORS failed", "createdAt": "2025-02-13T05:20:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 6092, "title": "私有化部署，登录态问题", "createdAt": "2025-02-13T06:48:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 6104, "title": "MinIo 存储配置成功，文件上传失败，显示 AuthorizationQueryParametersError", "createdAt": "2025-02-13T09:38:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 6103, "title": "Cannot add Azure AI Serverless Model as a Provider. (not azure open ai)", "createdAt": "2025-02-13T09:52:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 6111, "title": "用Docker compose部署时遇到 Get \"https://registry-1.docker.io/v2/\": EOF该如何解决，求大神指点", "createdAt": "2025-02-13T14:54:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 6121, "title": "Qwen-vl-max模型无法发送图片", "createdAt": "2025-02-13T18:26:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 6159, "title": "[Bug] Openrouter服务商的R1模型深度思考的有时无法展示", "createdAt": "2025-02-13T18:42:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 6131, "title": "lobe-chat的wechat无法扫码登录. 原因是nextauth依赖的oauth4webapi的作者坚持一行无意义的assert代码, 你们有办法解决吗?", "createdAt": "2025-02-14T02:13:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 6135, "title": "服务端如何获取用户的身份信息,emai,userName...", "createdAt": "2025-02-14T06:18:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 6145, "title": "[Request] 是否支持公网IP版本部署？", "createdAt": "2025-02-14T07:00:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 6152, "title": "[Request] Initiate DeepSeek-R1's response with \"\\<think\\>\\n\" at the beginning of every output", "createdAt": "2025-02-14T11:54:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 6156, "title": "docker compose部署如何通过环境变量指定默认话题命名模型", "createdAt": "2025-02-14T14:07:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 6157, "title": "2025 AI Provider Support | 2025 年 AI 服务商支持", "createdAt": "2025-02-14T14:12:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 6166, "title": "知识库的引用源数量能否自定义设置", "createdAt": "2025-02-15T02:43:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 6200, "title": "[Bug] 无法连接到S3对象", "createdAt": "2025-02-15T04:22:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 6191, "title": "Azure AI Model Inference 与 Lobe Chat 集成指南 | Guide to Integrating Azure AI Model Inference with Lobe Chat", "createdAt": "2025-02-15T17:55:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 6224, "title": "can not generate sercet key with one click deploy scripts", "createdAt": "2025-02-16T12:00:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 6233, "title": "CF中存储桶跨域问题", "createdAt": "2025-02-17T03:04:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 6235, "title": "火山引擎无法使用", "createdAt": "2025-02-17T03:11:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 6268, "title": "DB版出现同账户配置不同", "createdAt": "2025-02-17T04:40:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 6246, "title": "[Bug] npm run build 的时候卡住了", "createdAt": "2025-02-17T06:04:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 6248, "title": "Midjourney插件一直显示任务启动中，为什么啊", "createdAt": "2025-02-17T06:51:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 6257, "title": "Bing搜索插件中的BING_API_KEY是否可以在部署后端的环境变量中设置？", "createdAt": "2025-02-17T09:25:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 6265, "title": "[Request] 能否让更多 provider 支持客户端请求模式", "createdAt": "2025-02-17T11:44:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 6266, "title": "casdoor配置上传头像提示SignatureDoesNotMatch", "createdAt": "2025-02-17T11:53:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 6271, "title": "[Request] sorting models", "createdAt": "2025-02-17T13:02:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 6277, "title": "[RFC] 085 - 联网搜索", "createdAt": "2025-02-17T17:14:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 6283, "title": "OpenAI 获取模型列表", "createdAt": "2025-02-18T03:03:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 6351, "title": "[Bug] [Help] 过一段时间之后容器会停止运行，求助如何打印详细日志", "createdAt": "2025-02-18T09:08:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 6293, "title": "获取知识库失败，请检测网络连接后重试", "createdAt": "2025-02-18T09:26:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 6481, "title": "[Bug] 环境变量设置默认模型，前端UI不生效", "createdAt": "2025-02-18T13:22:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 6296, "title": "内置的两个模型的id是什么？", "createdAt": "2025-02-18T13:50:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 6302, "title": "The code already include subscription plan integration ?", "createdAt": "2025-02-18T15:24:58Z", "repo": "lobehub/lobe-chat"}
+{"number": 6308, "title": "[RFC] 086 - 模型内置联网功能集成", "createdAt": "2025-02-18T17:50:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 6313, "title": "为中断性变更引入显式冲突", "createdAt": "2025-02-19T02:25:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 8029, "title": "[Request] 后续能否支持企业微信、微信、飞书等国内主流平台的登录方式？", "createdAt": "2025-02-19T07:55:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 6327, "title": "提问之后，必须在当前页面看着慢慢回答，切换页面就停止渲染，怎么禁用这个功能？", "createdAt": "2025-02-19T09:29:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 6330, "title": "[Request] : Question about Limiting Document  to  Search", "createdAt": "2025-02-19T12:12:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 6362, "title": "[Bug] 启用 pglite 后 vercel 部署的服务如果使用自定义域名会有跨域问题", "createdAt": "2025-02-19T14:40:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 6333, "title": "如果更换 auth 服务，能保留原有的账户历史信息吗？", "createdAt": "2025-02-19T15:18:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 6334, "title": "关闭系统对外访问权限后商店助手无法打开", "createdAt": "2025-02-19T15:43:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 6350, "title": "从logto迁移到casdoor如何保留账户内的各种配置和聊天记录？", "createdAt": "2025-02-20T02:23:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 6360, "title": "[Bug] docker compose无法正常运行casdoor", "createdAt": "2025-02-20T07:28:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 6356, "title": "lobechat 的版本区别介绍在哪里？", "createdAt": "2025-02-20T07:29:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 12128, "title": "[Docs] Feedback for `self-hosting/server-database/docker-compose`", "createdAt": "2025-02-20T10:00:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 6398, "title": "[Bug] 容器重启之后，注册选项会自动打开", "createdAt": "2025-02-20T12:51:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 6370, "title": "DEFAULT_AGENT_CONFIG能否配置重命名助手等信息？", "createdAt": "2025-02-20T14:09:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 6384, "title": "使用docker-compose安装的是v1.52.9版本", "createdAt": "2025-02-21T04:03:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 6395, "title": "未来会有客户端应用吗?", "createdAt": "2025-02-21T14:19:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 6401, "title": "Floating copy code button.", "createdAt": "2025-02-21T18:07:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 6418, "title": "百度心文取消了嗎", "createdAt": "2025-02-22T14:38:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 6422, "title": "我部署了一个自鉴权的lobe，使用所有插件都会报错，请问各位大佬如何排查？？", "createdAt": "2025-02-22T15:53:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 6423, "title": "Docker compose deploys database version lobe-casdoor and reports an error", "createdAt": "2025-02-22T15:57:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 6442, "title": "能否接入Tavily提供联网搜索功能", "createdAt": "2025-02-23T13:36:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 6447, "title": "[RFC] 087 - 应用级联网搜索功能", "createdAt": "2025-02-23T16:47:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 6453, "title": "执行部署脚本出现内容与文档说明不对应", "createdAt": "2025-02-23T19:45:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 6460, "title": "How to Implement Audio Transcription Feature? / 如何实现录音文件转逐字稿的功能？", "createdAt": "2025-02-24T02:54:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 6480, "title": "一键启用所有模型", "createdAt": "2025-02-24T18:09:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 6494, "title": "v1.61.4之后的版本在vercel上持续部署失败", "createdAt": "2025-02-25T04:50:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 6499, "title": "npm run docker build 失败", "createdAt": "2025-02-25T06:37:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 6504, "title": "这是什么情况", "createdAt": "2025-02-25T06:52:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 6510, "title": "如何开启 Casdoor 的个人主页以便用户修改头像？", "createdAt": "2025-02-25T08:43:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 6511, "title": "本地开发环境搭建", "createdAt": "2025-02-25T08:43:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 6513, "title": "在podman-compose部署时，执行podman logs -f lobe-chat发现有报错，lobe-chat不能正常使用", "createdAt": "2025-02-25T09:10:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 6530, "title": "[Bug] 使用PROXY_URL后DNS解析异常，不能正确显示图片", "createdAt": "2025-02-25T13:20:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 6521, "title": "[RFC] 088 - Claude Thinking 集成", "createdAt": "2025-02-25T18:10:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 6522, "title": "企业部署后用户输入网址即可正常使用", "createdAt": "2025-02-25T23:22:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 6523, "title": "一个关于历史记录的问题", "createdAt": "2025-02-26T00:23:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 6539, "title": "[Bug] ARM64 Build Failure Due to JavaScript Heap Out of Memory on M1 (16 GB RAM)", "createdAt": "2025-02-26T08:30:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 6545, "title": "[RFC] 089 - 支持 OAuth2.0 6749 Refresh Token & Database Session", "createdAt": "2025-02-26T11:52:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 6550, "title": "已解决: 我用错模型了", "createdAt": "2025-02-26T13:03:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 6554, "title": "Next Auth 认证过程出现问题", "createdAt": "2025-02-26T18:28:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 6559, "title": "添加助手到chat界面，怎么修改默认openai为deepseek", "createdAt": "2025-02-27T02:35:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 6562, "title": "提问时\"关联文件/知识库\"勾选图片好像没什么效果", "createdAt": "2025-02-27T05:06:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 6563, "title": "[RFC] 090 - Uniform Model Runtime", "createdAt": "2025-02-27T05:16:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 6571, "title": "Questions about uploading pictures", "createdAt": "2025-02-27T08:43:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 6572, "title": "目前 docker-compose 部署DB版 SSO 支持 Oauth2 协议吗", "createdAt": "2025-02-27T08:56:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 6573, "title": "Can't upload pictures, but can upload files", "createdAt": "2025-02-27T09:12:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 6777, "title": "使用docker-compose部署端口模式来做 basePath 代理，nginx 反向代理后无法登录", "createdAt": "2025-02-27T09:33:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 6776, "title": "[Bug] casdoor cannot start", "createdAt": "2025-02-27T11:44:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 6595, "title": "[RFC] 091 - 联网搜索支持深度爬取", "createdAt": "2025-02-28T08:15:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 6604, "title": "How to attach without embeddings api (Disable RAG).", "createdAt": "2025-02-28T13:34:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 6678, "title": "[Docs] Feedback for `self-hosting/server-database/docker-compose`", "createdAt": "2025-03-01T06:29:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 6612, "title": "作者您好，一直卡在logto这里", "createdAt": "2025-03-01T08:53:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 6676, "title": "[Bug] 头像上传成功但加载不出来", "createdAt": "2025-03-02T04:27:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 6645, "title": "请教一下火山引擎API的相关环境变量是什么？", "createdAt": "2025-03-03T01:56:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 6677, "title": "[Bug] 更新到v1.67.2后，并未发现联网按钮", "createdAt": "2025-03-03T03:13:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 6652, "title": "手机给助手选模型的时候UI异常", "createdAt": "2025-03-03T05:32:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 6660, "title": "考虑把kokoro-tts作为默认音频合成的服务？", "createdAt": "2025-03-03T09:21:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 6775, "title": "[Bug] 每隔一段时间服务器对所有涉及trpc的请求都无响应, 直到客户端超时", "createdAt": "2025-03-03T11:55:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 6665, "title": "联网搜索似乎有概率搜索后不回复", "createdAt": "2025-03-03T12:42:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 6667, "title": "有关对话总结", "createdAt": "2025-03-03T12:48:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 6668, "title": "Linux下使用Docker Compose自部署使用PROXY_URL不能正常工作", "createdAt": "2025-03-03T14:07:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 6675, "title": "如何检查minio上传文件的日志", "createdAt": "2025-03-04T02:06:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 6686, "title": "模型响应内容会很卡顿，同样的接口在 Cherry Studio 是正常的", "createdAt": "2025-03-04T06:13:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 6699, "title": "[RFC] 092 - Token Usage 展示", "createdAt": "2025-03-04T14:14:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 6705, "title": "[RFC] 093 - Anthropic Context Caching", "createdAt": "2025-03-04T17:42:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 6747, "title": "ERROR: failed to solve: archive/tar: unknown file mode ?rwxr-xr-x", "createdAt": "2025-03-05T01:08:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 6710, "title": "头像上传成功，但是LobeChat任然显示默认头像", "createdAt": "2025-03-05T02:03:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 6720, "title": "ERROR: failed to solve: archive/tar: unknown file mode ?rwxr-xr-x", "createdAt": "2025-03-05T02:45:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 6715, "title": "Artifact插件问题求助", "createdAt": "2025-03-05T03:56:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 6719, "title": "[Request]", "createdAt": "2025-03-05T04:20:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 6726, "title": "找不到", "createdAt": "2025-03-05T07:27:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 6731, "title": "`LLM_VISION_IMAGE_USE_BASE64=1` 是否会导致tokens的大量消耗?", "createdAt": "2025-03-05T13:09:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 6733, "title": "lobe-chat 社区版支持联网搜索吗", "createdAt": "2025-03-05T14:02:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 6769, "title": "Vercel 部署数据库版过程中报错 Can't resolve 'zipfile' in '/vercel/path0/node_modules/epub2'", "createdAt": "2025-03-06T01:42:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 6742, "title": "Application error: a client-side exception has occurred while loading chat.app (see the browser console for more information).", "createdAt": "2025-03-06T05:23:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 6751, "title": "Application error: a client-side exception has occurred while loading chat.app (see the browser console for more information)", "createdAt": "2025-03-06T05:47:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 6885, "title": "流式响应内容不能流式输出到前端", "createdAt": "2025-03-06T06:03:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 6767, "title": "[Request] Langfuse可以对每个用户强制开启吗？", "createdAt": "2025-03-06T09:50:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 6760, "title": "求教如何导出现有的偏好与模型相关设置？", "createdAt": "2025-03-06T14:03:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 6761, "title": "docker image build error (Module not found: Can't resolve './loading')", "createdAt": "2025-03-06T15:11:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 6774, "title": "[Request] 关于本地部署的身份验证问题是否可以非必选NEXT_AUTH", "createdAt": "2025-03-07T05:33:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 6780, "title": "域名方式docker compose部署lobechat数据库版本时，lobe-chat容器中用域名访问（http方式，非https）不到casdoor", "createdAt": "2025-03-07T10:59:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 6803, "title": "文本上传后，做向量化操作报错", "createdAt": "2025-03-07T20:04:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 6802, "title": "[Request] lobe-chat-database如何备份或修改域名", "createdAt": "2025-03-08T03:28:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 6810, "title": "[RFC] 094 - 支持无 Tools Calling 能力模型联网", "createdAt": "2025-03-08T11:26:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 6841, "title": "上传文件后，每次对话的下面都会生成一段小字（Query），这个 Query 的功能是什么？", "createdAt": "2025-03-09T13:12:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 6869, "title": "项目中 SSE  调用方法和 @microsoft/fetch-event-source 是一样的吗？", "createdAt": "2025-03-10T10:39:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 6873, "title": "项目用的SSE请求方法和@microsoft/fetch-event-source有什么区别吗", "createdAt": "2025-03-10T12:59:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 6875, "title": "Salute to community contributors: LobeChat Special Thanks Program! | 向社区贡献者致敬：LobeChat 特别感谢计划！", "createdAt": "2025-03-10T15:45:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 6878, "title": "[RFC] 095 - 桌面端", "createdAt": "2025-03-10T18:18:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 6880, "title": "How to Enable Tracing and Ensure `topicId` & `userId` in Plugin Requests?", "createdAt": "2025-03-10T23:46:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 6899, "title": "[Request] 由于没有openai接口导致文件上传对话无法实现，如何配置关闭文件向量化功能", "createdAt": "2025-03-11T09:46:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 12146, "title": "LobeChat database cannot upload files", "createdAt": "2025-03-11T10:59:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 6902, "title": "[RFC] 096 - Repsonses API", "createdAt": "2025-03-11T17:43:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 6920, "title": "如何发布项目，项目入口文件是哪个？", "createdAt": "2025-03-12T10:53:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 6922, "title": "[RFC] 097 - 服务商输出性能统计 | Provider Output Performance Statistics", "createdAt": "2025-03-12T11:56:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 6923, "title": "is claude 3.7 thinking support on docker?", "createdAt": "2025-03-12T12:27:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 10199, "title": "[Bug] Invalid ClientID error when logging in after docker compose deployment", "createdAt": "2025-03-12T13:39:58Z", "repo": "lobehub/lobe-chat"}
+{"number": 6925, "title": "为什么设置默认google,zhipu未生效", "createdAt": "2025-03-12T14:01:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 10200, "title": "[Bug]  unrecognized option '--show-progress'", "createdAt": "2025-03-13T06:47:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 6946, "title": "npm run build docker 报错，Database migrate failed due to not find the db instance.", "createdAt": "2025-03-13T23:46:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 6947, "title": "为什么npm run build打包会有如下报错呢", "createdAt": "2025-03-14T01:19:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 6952, "title": "[RFC] 098 - DB Schema visualization", "createdAt": "2025-03-14T06:15:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 6955, "title": "求教为什么更改默认ChatHeader中的AI Provider没生效呢？", "createdAt": "2025-03-14T08:26:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 6957, "title": "[RFC] 099 - Gemini 对话接口支持输出图片", "createdAt": "2025-03-14T10:02:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 6966, "title": "请问私有化部署版本是否支持 PWA，是否需要特殊配置", "createdAt": "2025-03-14T17:48:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 6974, "title": "gemini 图片无法渲染出来", "createdAt": "2025-03-15T05:36:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 6981, "title": "[Bug] Fatal glibc error: CPU does not support x86-64-v2", "createdAt": "2025-03-15T12:46:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 6983, "title": "[Bug] unraid部署数据库版后，设备重启lobe-searxng与lobe-searxng启动报错", "createdAt": "2025-03-15T15:22:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 6985, "title": "社区先行版貌似没办法在非科学上网的情况下打开", "createdAt": "2025-03-15T17:44:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 7028, "title": "联网搜索常出现BrowserlessInitError的问题", "createdAt": "2025-03-17T11:11:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 7017, "title": "Reverse Proxy Setup", "createdAt": "2025-03-17T13:22:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 7024, "title": "Gpt-4o多模态回复为空的问题？", "createdAt": "2025-03-18T04:17:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 7025, "title": "应该怎么在vscode中进行调试？", "createdAt": "2025-03-18T04:50:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 7029, "title": "lobe对话内容提示下载链接，但是链接域名是example.com，这个要如何部署才能替换为正确的地址", "createdAt": "2025-03-18T11:53:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 7030, "title": "爬取网页是否是在用户端运行？", "createdAt": "2025-03-18T12:40:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 7032, "title": "I have been experiencing vectorization failure in local deployment. Are there any changes in the background? Is it possible to use local ollama to vectorize?", "createdAt": "2025-03-18T14:57:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 7044, "title": "What api provider do you use, and do you use something like one api?", "createdAt": "2025-03-19T12:09:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 7082, "title": "数据库版本用户管理界面，修改头像失败，报错：未找到类别为: Storage的提供商来满足应用: app-built-in", "createdAt": "2025-03-21T01:33:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 12147, "title": "Legacy bug: CF-R2 image CORS issue", "createdAt": "2025-03-21T04:27:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 7067, "title": "Please add a newly added OAI tts option to the product.", "createdAt": "2025-03-21T06:35:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 7070, "title": "bun run build:docker 报错，原有docker可以得到授权，错误信息如下", "createdAt": "2025-03-21T08:19:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 7080, "title": "为什么网页端cloud的版本不能和github上的版本同步？", "createdAt": "2025-03-21T11:47:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 7079, "title": "文件上传失败 请确认你的网络是否正常，并检查文件存储服务跨域配置是否正确", "createdAt": "2025-03-21T14:29:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 7086, "title": "Inquiry about commercial licensing for developing a service based on LobeChat", "createdAt": "2025-03-22T00:25:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 7088, "title": "知识库引用检索匹配度太低", "createdAt": "2025-03-22T03:32:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 8023, "title": "关于Lobe-Chat数据库版本自动升级脚本", "createdAt": "2025-03-23T06:33:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 7108, "title": "关于从logto升级到casdoor的问题", "createdAt": "2025-03-23T07:44:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 7111, "title": "[RFC] 100 - Hotkey setting panel 快捷键设置面板", "createdAt": "2025-03-23T11:21:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 7112, "title": "logto可以转clerk吗？", "createdAt": "2025-03-24T02:41:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 7125, "title": "本地部署casdoor认证跳转不成功", "createdAt": "2025-03-24T10:38:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 7138, "title": "更换隧道服务后，文件向量化失败", "createdAt": "2025-03-25T06:31:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 7145, "title": "为什么通过lobechat调用deepseek的api，比直接代码调用慢那么多？", "createdAt": "2025-03-25T09:59:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 7157, "title": "[Question] Fork 仓库之后的 Workflow 那些是必要的？", "createdAt": "2025-03-26T02:49:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 7215, "title": "能不能用ai优化一下性能，总感觉不够流畅。", "createdAt": "2025-03-26T03:38:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 12148, "title": "Xinference", "createdAt": "2025-03-26T06:43:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 7162, "title": "智能搜索深度阅读crawl必须配置环境变量SEARCH1API_API_KEY嘛？", "createdAt": "2025-03-26T07:24:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 7178, "title": "在Casdoor中修改用户头像后，有同步机制生效吗？", "createdAt": "2025-03-26T11:51:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 7180, "title": "咨询Claude缓存的启用逻辑", "createdAt": "2025-03-26T14:16:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 7181, "title": "Alternative Observability provider - Opik", "createdAt": "2025-03-26T16:00:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 7188, "title": "[RFC] 101 - 健全 Logger 系统", "createdAt": "2025-03-27T05:29:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 7190, "title": "数据库服务器版如何能导入导出对话/聊天记录", "createdAt": "2025-03-27T06:08:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 7198, "title": "[RFC] 102 - 优化助手创建流程", "createdAt": "2025-03-27T14:34:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 7199, "title": "希望支持划词音频播放", "createdAt": "2025-03-27T15:44:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 7209, "title": "卡在“数据库已就绪”环节进不去(已解决）", "createdAt": "2025-03-27T16:00:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 7208, "title": "自行构建镜像，报错：[NextAuth] provider  is not supported", "createdAt": "2025-03-28T06:21:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 7223, "title": "服务器版，opai无法下载图片，错误如下。图片地址没问题，可访问。", "createdAt": "2025-03-29T14:28:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 7232, "title": "怎么在用户界面配置多个api key", "createdAt": "2025-03-30T03:58:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 7235, "title": "Can I see the reasoning process of models? (e.g. gemini-2.0-flash-thinking)", "createdAt": "2025-03-30T08:58:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 7236, "title": "Enhancing LiteLLM Support in LobeChat", "createdAt": "2025-03-30T09:18:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 7247, "title": "[Q&A] Issue with Typing Vietnamese Using Unikey on lobechat cloud", "createdAt": "2025-03-31T13:16:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 7249, "title": "dependency failed to start: container lobe-postgres is unhealthy", "createdAt": "2025-03-31T14:08:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 7250, "title": "login failed", "createdAt": "2025-04-01T02:00:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 7254, "title": "网页抓取遇到错误，请教一下该问题的原因", "createdAt": "2025-04-01T07:50:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 7273, "title": "[需求] 转移 Topic 到其他 Assistant", "createdAt": "2025-04-02T17:52:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 7282, "title": "Using Azure blob storage or Databricks as an alternative to S3 for server DB version", "createdAt": "2025-04-03T06:38:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 7291, "title": "different RAGs for each agent", "createdAt": "2025-04-04T12:13:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 7292, "title": "Lock config and settings with admin permissions", "createdAt": "2025-04-04T12:19:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 7295, "title": "How to share an assistant or a plugin within the same Tenant?", "createdAt": "2025-04-04T13:50:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 7310, "title": "[RFC] 103 - 桌面端拦截路由", "createdAt": "2025-04-06T04:21:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 7317, "title": "想问一下我这个后台设置为啥和 lobechat 官方的不同", "createdAt": "2025-04-06T10:59:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 7320, "title": "现在每个助手都有单独的标题搜索，但是似乎缺少全局的搜索", "createdAt": "2025-04-06T13:02:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 7321, "title": "[RFC] 104 - 桌面版文件上传系统", "createdAt": "2025-04-06T13:57:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 7324, "title": "[RFC] 105 - 桌面端自动更新模块", "createdAt": "2025-04-06T17:31:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 7343, "title": "Next auth use Logto provider fail", "createdAt": "2025-04-09T04:05:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 7341, "title": "How to launch your own plugin store?", "createdAt": "2025-04-09T04:20:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 7346, "title": "如何控制不同用户的 feature 不同呢", "createdAt": "2025-04-09T07:28:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 7356, "title": "[RFC] 106 - \b桌面端自定义服务端实例配置（云端同步）", "createdAt": "2025-04-09T12:48:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 7364, "title": "How can I update my docker while I don't want to lose my data if I self host a lobechat database version?", "createdAt": "2025-04-10T06:34:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 7377, "title": "[RFC] 107 - OAuth 2.0 / OIDC 授权", "createdAt": "2025-04-11T12:14:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 7392, "title": "Error when i uploading an image", "createdAt": "2025-04-13T01:00:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 7393, "title": "Local LLM with knowledge base support", "createdAt": "2025-04-13T02:14:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 7399, "title": "桌面端无法使用联网搜索", "createdAt": "2025-04-13T18:10:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 12068, "title": "AI repeats single character continuously, cannot stop automatically", "createdAt": "2025-04-14T08:34:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 7406, "title": "建议将插件商店改造成MCP Server市场", "createdAt": "2025-04-14T09:42:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 7409, "title": "SAAS Version.", "createdAt": "2025-04-14T19:20:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 7413, "title": "使用 docker-compsoe 私有化部署数据库指定的PostgreSQL 版本是否正确？", "createdAt": "2025-04-15T01:58:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 7416, "title": "How will files be saved in storage? (server-database)", "createdAt": "2025-04-15T04:26:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 7427, "title": "[Docs]  如何更改 env 文件来配置一个系统默认的AI 服务商以供端口模式下的所有人使用？", "createdAt": "2025-04-15T09:23:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 7419, "title": "自部署的 BD 版本如何配置一个默认的助手以免除用户自己配置 API", "createdAt": "2025-04-15T09:24:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 7431, "title": "如何关闭crawl 仅开启searxng", "createdAt": "2025-04-16T07:08:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 7433, "title": "商汤V6模型无法使用", "createdAt": "2025-04-16T07:12:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 7441, "title": "casdoor的webhook失效", "createdAt": "2025-04-16T08:09:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 7438, "title": "使用Azure AD做登录验证，怎么区分管理员还是普通用户", "createdAt": "2025-04-16T09:37:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 7442, "title": "[RFC] 108 - AI 绘画模态", "createdAt": "2025-04-16T13:04:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 7451, "title": "[RFC] 109 - 搜索服务模块化", "createdAt": "2025-04-17T05:05:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 12150, "title": "Unable to store JPG format images", "createdAt": "2025-04-17T21:08:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 7466, "title": "[RFC] 110 - 异步任务架构", "createdAt": "2025-04-18T11:25:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 7471, "title": "Vercel部署Lobechat，使用Azure提供的模型该如何填写环境变量？", "createdAt": "2025-04-18T13:11:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 7473, "title": "桌面App端和大模型发送图片聊天很卡，发送后图片一直都是加载不出来的", "createdAt": "2025-04-18T13:31:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 7489, "title": "[RFC] 111 - 统一文件加载与解析模块", "createdAt": "2025-04-20T03:58:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 7495, "title": "[RFC] 112 - MCP 集成", "createdAt": "2025-04-20T16:04:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 12149, "title": "[auth][error] OperationProcessingError: \"response\" is not a conform Authorization Server Metadata response (unexpected HTTP status code)", "createdAt": "2025-04-21T14:53:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 7508, "title": "docker部署lobechat无法使用服务端模式", "createdAt": "2025-04-22T02:57:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 7520, "title": "输出限制token1024，如何自定义设置放开限制", "createdAt": "2025-04-23T02:36:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 7525, "title": "1.82.0版本咨询", "createdAt": "2025-04-23T08:21:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 7540, "title": "模型显示问题", "createdAt": "2025-04-24T06:19:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 9304, "title": "hpn54l 机器使用docker v1.40.0及后续版本全部报错 无法运行 Error: 🔴 Process exited with code null", "createdAt": "2025-04-24T09:09:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 7578, "title": "如何默认禁用 “历史消息自动总结”", "createdAt": "2025-04-25T19:25:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 7564, "title": "关于知识库和后台处理的几点改进建议", "createdAt": "2025-04-26T17:30:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 7575, "title": "[RFC] 113 - Client-Side Service Provider Model Usage Statistics | 客户端侧服务商模型用量统计", "createdAt": "2025-04-27T04:00:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 7590, "title": "OIDC如何启用？", "createdAt": "2025-04-27T11:36:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 7595, "title": "LobeHub 企业版", "createdAt": "2025-04-27T14:20:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 7598, "title": "[Request] MCP服务不支持SSE吗", "createdAt": "2025-04-27T16:25:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 7612, "title": "请问现在支持短期记忆与历史会话了吗？", "createdAt": "2025-04-28T09:12:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 7626, "title": "dokploy部署失败", "createdAt": "2025-04-29T00:52:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 7642, "title": "求这个喵喵助手", "createdAt": "2025-04-29T13:10:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 7654, "title": "ai整理完的文件似乎没法下载", "createdAt": "2025-04-30T06:30:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 7655, "title": "关于私有化部署文档中提到的Unstructured.io应该如何使用？", "createdAt": "2025-04-30T08:33:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 8028, "title": "when i deploy lobechat, it shows me OOM", "createdAt": "2025-04-30T14:42:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 7679, "title": "searXNG无法使用", "createdAt": "2025-05-01T03:13:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 7683, "title": "修改docker数据库端口后，lobe-chat启动失败", "createdAt": "2025-05-02T11:54:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 12583, "title": "SearchXNG not yet configured", "createdAt": "2025-05-02T20:20:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 7688, "title": "小白求助：为什么部署完了 找不到ai服务商选项 官方网页版倒是有 windows客户端怎么找不到？", "createdAt": "2025-05-02T23:31:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 7705, "title": "Using custom OpenAI Like APIs?", "createdAt": "2025-05-04T02:33:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 7712, "title": "有没测试用的，公开的 mcp 服务器。", "createdAt": "2025-05-04T15:43:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 7722, "title": "改进快捷键显示面板方式", "createdAt": "2025-05-06T14:18:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 7724, "title": "非内置组织的用户如何访问个人主页", "createdAt": "2025-05-06T15:14:58Z", "repo": "lobehub/lobe-chat"}
+{"number": 7795, "title": "联网搜索问题", "createdAt": "2025-05-07T07:05:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 7777, "title": "[Docs] Feedback for `self-hosting/server-database/dokploy`", "createdAt": "2025-05-07T09:12:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 7743, "title": "桌面端有win版吗？不知道下载哪个文件", "createdAt": "2025-05-08T14:59:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 7752, "title": "[RFC] 114 - 知识库 2.0", "createdAt": "2025-05-08T17:45:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 7753, "title": "[RFC] 115 - 文件上传改版", "createdAt": "2025-05-08T17:46:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 7766, "title": "更新容器后以前创建的聊天助手和聊天内容消失了", "createdAt": "2025-05-09T08:11:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 7793, "title": "联网搜索重复调用completions接口", "createdAt": "2025-05-10T13:04:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 7809, "title": "桌面版无法获取文件和头像", "createdAt": "2025-05-12T02:22:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 7817, "title": "docker的minio的跨域设置如何配置", "createdAt": "2025-05-12T13:42:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 7824, "title": "可以调用FastAPI吗", "createdAt": "2025-05-13T06:21:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 7827, "title": "Jnn", "createdAt": "2025-05-13T09:58:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 7829, "title": "Code", "createdAt": "2025-05-13T10:01:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 7831, "title": "> Lobe Chat MCP 插件在“测试连接”时，后端 FastAPI /mcp_chat 路由用 GET/POST 都能返回标准 JSON，容器内 wget 也能拿到正确内容，但 MCP 插件始终报 protocolVersion、capabilities、serverInfo 为 undefined。怀疑插件内部请求方式或解析有 bug，请协助排查。", "createdAt": "2025-05-13T13:01:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 7840, "title": "无法切换计划", "createdAt": "2025-05-14T12:48:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 7847, "title": "MCP Server trigger", "createdAt": "2025-05-15T07:30:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 7853, "title": "部署机器要求", "createdAt": "2025-05-16T00:01:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 7864, "title": "访问火山引擎时响应会卡住", "createdAt": "2025-05-16T09:07:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 7882, "title": "Math formula rendering error", "createdAt": "2025-05-17T08:01:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 7876, "title": "如何备份并转移自建的docker呢？", "createdAt": "2025-05-17T21:17:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 7889, "title": "网页版lobe-chat-database是否无法使用在本地通过docker部署的mcp服务？", "createdAt": "2025-05-19T09:26:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 7896, "title": "通过域名私有化部署遇到的知识库文件上传失败以及个人的解决办法", "createdAt": "2025-05-20T02:27:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 7921, "title": "删除 docker后数据丢失", "createdAt": "2025-05-21T12:29:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 7922, "title": "Claude开启智能联网功能后报错", "createdAt": "2025-05-21T13:30:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 7923, "title": "build issue following readme steps", "createdAt": "2025-05-21T17:24:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 12585, "title": "Chat frequently fails to load, seems to be lobe-casdoor issue?", "createdAt": "2025-05-22T05:13:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 7930, "title": "关于OneAPI兼容性", "createdAt": "2025-05-22T07:38:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 7933, "title": "请问如何在服务器上docker部署一个带知识库的lobe-chat", "createdAt": "2025-05-22T09:33:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 7936, "title": "build error after follow readme", "createdAt": "2025-05-22T12:56:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 7937, "title": "服务器部署lobe-chat数据库版，创建知识库后，始终卡在，“准备上传”，请问是哪里出了问题", "createdAt": "2025-05-22T14:44:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 12586, "title": "Knowledge base file upload stuck, cannot upload", "createdAt": "2025-05-23T05:41:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 7976, "title": "Vercel Depoly 超出 memory", "createdAt": "2025-05-26T07:30:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 7991, "title": "看着怪怪的", "createdAt": "2025-05-27T21:09:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 7996, "title": "What is the real purpose of Knowledge Base?", "createdAt": "2025-05-28T11:30:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 8018, "title": "Lobe-Chat Connectivity Check for OLLAMA - Requires deepseek-r1??", "createdAt": "2025-05-30T12:56:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 8020, "title": "Deepseek r1 0528调用搜索工具后报错", "createdAt": "2025-05-31T06:27:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 8021, "title": "Vercel-Server-Deployment-Clerk Authentication service initialization fail", "createdAt": "2025-05-31T08:25:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 8032, "title": "[RFC] 116 - 保护路由模式", "createdAt": "2025-06-01T02:35:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 8043, "title": "MCP工具的字符串类型响应也被json序列化", "createdAt": "2025-06-02T00:55:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 8062, "title": "lobe版本更新后，qwen模型默认的参数、模型功能不显示", "createdAt": "2025-06-02T18:06:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 8080, "title": "db版本使用非深度思考的模型都会报错：缺少reasoning_effort，只有深度思考模型正常使用", "createdAt": "2025-06-04T03:51:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 8098, "title": "支持配置多个兼容OpenAI API的服务商", "createdAt": "2025-06-06T11:04:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 8102, "title": "[RFC] 117 - RBAC 权限表", "createdAt": "2025-06-06T17:33:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 8107, "title": "数据库vercel版本智能重命名失效", "createdAt": "2025-06-06T18:08:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 8108, "title": "How to configure MCP in docker compose setup?", "createdAt": "2025-06-07T13:30:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 8125, "title": "Claude系列模型调用自定义web-search插件异常", "createdAt": "2025-06-08T09:12:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 8126, "title": "lobechat.com付费问题", "createdAt": "2025-06-09T02:06:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 8132, "title": "如何关闭OpenAI模型供应商中的Responses API 规范？", "createdAt": "2025-06-10T02:22:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 8138, "title": "是否可以改进复制助手后的 title 行为？", "createdAt": "2025-06-10T09:53:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 8279, "title": "文档中 Docker Compose 部署方式的示例文件的 HTTP_PROXY 环境变量无效", "createdAt": "2025-06-10T13:45:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 8166, "title": "DB版本端口模式，部署好之后新用户注册第一个问题会弹出要求填写OpenAI API Key的界面", "createdAt": "2025-06-12T01:55:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 8202, "title": "How to make files saved to Cloudflare R2 private?", "createdAt": "2025-06-16T09:33:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 8216, "title": "BUG Lobe chat  使用docker compose 本地 database 版本部署 1.94.11版本 使用LM  Studio 提供的 api 服务使用VL 模型无法将图片转换为base64", "createdAt": "2025-06-18T09:41:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 8219, "title": "STT", "createdAt": "2025-06-18T12:09:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 8231, "title": "关于联网搜索的一些问题", "createdAt": "2025-06-19T17:08:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 8236, "title": "桌面版无法上传文件问题", "createdAt": "2025-06-20T09:00:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 8237, "title": "PDF文件浏览框内的PDF内容会突然刷新", "createdAt": "2025-06-20T10:45:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 8241, "title": "implementation of external API", "createdAt": "2025-06-20T14:51:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 8257, "title": "Can someone show me how to use MCP with lobechat selfhosted?", "createdAt": "2025-06-23T17:25:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 8260, "title": "如何设置Gemini的深度思考thinkingBudget长度", "createdAt": "2025-06-24T03:38:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 8262, "title": "Use qwen2.5vl:7b (Ollama) to ocr image not work", "createdAt": "2025-06-24T10:54:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 9114, "title": "Issue with Authentik Issuer/Authorization", "createdAt": "2025-06-24T21:14:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 8266, "title": "[Request] 建议mcp服务调用支持提示词模式", "createdAt": "2025-06-25T02:56:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 8267, "title": "发送prompt时，将它放到顶上", "createdAt": "2025-06-26T04:45:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 8284, "title": "希望填写多个APP_URL", "createdAt": "2025-06-28T06:06:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 9827, "title": "Mac deployment issue", "createdAt": "2025-07-01T06:04:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 12616, "title": "File upload error: File content is empty", "createdAt": "2025-07-02T15:07:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 8323, "title": "Vercel 按照进阶教程的部署方法，手动部署失败", "createdAt": "2025-07-03T00:21:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 8325, "title": "你好，请问如何配置把插件做成启用的内置扩展", "createdAt": "2025-07-03T05:54:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 8337, "title": "内置扩展已启用但是没有调用插件", "createdAt": "2025-07-04T03:23:58Z", "repo": "lobehub/lobe-chat"}
+{"number": 8353, "title": "服务器DB 版本部署后进入页面报错", "createdAt": "2025-07-04T23:21:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 8344, "title": "Daily i18n Update workflow run error", "createdAt": "2025-07-05T03:19:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 8350, "title": "connect: connection refused with modified Docker compose file", "createdAt": "2025-07-06T09:26:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 8364, "title": "[Solved] Unauthorised Commercial Use and License Violation of AGPLv3 MCP Server", "createdAt": "2025-07-07T16:43:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 8359, "title": "怎么添加默认内置助手", "createdAt": "2025-07-08T01:54:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 8369, "title": "Branching Conversations: Nested Subtopics", "createdAt": "2025-07-08T13:40:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 9695, "title": "组合使用 vLLM 和 MCP 工具出错 400 status code (no body)", "createdAt": "2025-07-09T10:25:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 8377, "title": "私有部署开发的内置插件，在打开历史对话记录会再次调用插件功能", "createdAt": "2025-07-10T02:38:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 12618, "title": "Aliyun OSS cannot upload Casdoor user avatar", "createdAt": "2025-07-11T05:49:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 8420, "title": "[RFC] 118 - 桌面端正式版", "createdAt": "2025-07-13T17:18:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 8421, "title": "[RFC] 119 - Steamable HTTP MCP Server Auth 方案", "createdAt": "2025-07-13T18:18:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 12619, "title": "Server-side database deployment issue", "createdAt": "2025-07-14T15:01:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 8436, "title": "lobehub Windows桌面端API调用失败", "createdAt": "2025-07-15T01:01:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 8442, "title": "[RFC] 120 - 对话场景支持上下文引用", "createdAt": "2025-07-15T07:17:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 8447, "title": "[RFC] 121 - 桌面端 OAuth 认证流程重构", "createdAt": "2025-07-15T11:35:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 8449, "title": "[RFC] 122 - 桌面端 OAuth 鉴权机制优化", "createdAt": "2025-07-15T12:26:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 9700, "title": "Github MCP not returning the file contents requested with get_file_contents", "createdAt": "2025-07-15T16:08:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 8452, "title": "私有化部署方式", "createdAt": "2025-07-16T02:55:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 8455, "title": "支持文件配置好默认的模型和mcp吗", "createdAt": "2025-07-16T05:47:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 8466, "title": "Self-Hosted Lobechat Community Edition Issue After Rebuild", "createdAt": "2025-07-16T21:35:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 8484, "title": "将lobe-chat通过iframe嵌入第三方系统，安装的第三方插件没有执行插件初始化useOnStandalonePluginInit方法", "createdAt": "2025-07-18T03:55:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 8487, "title": "[RFC] 123(WIP) - 自定义知识库 Embedding 模型", "createdAt": "2025-07-18T08:35:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 12620, "title": "The model don't remember the chat history (Context Windows)", "createdAt": "2025-07-21T04:22:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 8524, "title": "lobechat支不支持管理员用户", "createdAt": "2025-07-21T10:15:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 8521, "title": "docker部署lobe-chat整合ollama报错", "createdAt": "2025-07-21T18:36:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 8531, "title": "桌面版登录授权回调跳转问题", "createdAt": "2025-07-22T06:54:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 12621, "title": "Video understood by Gemini-2.5-Pro inconsistent with uploaded video content", "createdAt": "2025-07-23T03:42:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 8552, "title": "第三方请求是否可以通过服务器端代理", "createdAt": "2025-07-24T01:15:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 8556, "title": "[RFC] 124 - 桌面端自定义快捷键", "createdAt": "2025-07-24T04:52:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 8558, "title": "Add HTTP Custom SMS", "createdAt": "2025-07-24T09:20:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 8567, "title": "LobeChat调用外部聊天API时能带用户身份吗？", "createdAt": "2025-07-25T02:50:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 8589, "title": "AI绘画问题，Error [TRPCError]: Failed to fetch cover image", "createdAt": "2025-07-25T02:51:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 8587, "title": "我是二次开发部署问题", "createdAt": "2025-07-28T13:58:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 8598, "title": "2025 AI Image Model and Provider Support", "createdAt": "2025-07-29T07:10:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 8604, "title": "[RFC] 125 - AI 模型计价体系", "createdAt": "2025-07-29T10:26:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 8617, "title": "知识库上传文件后分块报错，错误详细：", "createdAt": "2025-07-30T12:30:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 12622, "title": "[Request] Limit storage capacity users can use", "createdAt": "2025-08-01T09:26:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 8645, "title": "AI 服务商页面报错，无法配置模型", "createdAt": "2025-08-02T17:27:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 8653, "title": "issue8389没有被成功修复. \"使用OpenAI API代理的grok4时报错\"", "createdAt": "2025-08-03T13:28:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 8692, "title": "编译出错 [Error: Failed to collect page data for /oidc/consent] { type: 'Error' }", "createdAt": "2025-08-04T12:56:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 8669, "title": "Support Per-User API Keys in Multi-User Setup", "createdAt": "2025-08-04T18:39:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 8679, "title": "[RFC] 126 - LobeChat OpenAPI", "createdAt": "2025-08-05T10:02:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 8687, "title": "[RFC] 127 - 桌面端 MCP 插件一键安装", "createdAt": "2025-08-06T02:36:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 8698, "title": "兄弟们求助一下,域名模式minio api反代的问题", "createdAt": "2025-08-06T16:34:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 8706, "title": "Store conversation and message information in local database.", "createdAt": "2025-08-07T08:37:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 8716, "title": "桌面端与自托管实例连接授权页面抛错解析 JWKS 失败", "createdAt": "2025-08-08T04:03:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 8720, "title": "Gemini模型遇到报错", "createdAt": "2025-08-08T05:06:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 8769, "title": "Testing Resource HERE!", "createdAt": "2025-08-11T21:46:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 8771, "title": "现在部分的api中转站开始支持responses的格式了，有考虑给自定义中转开放responses api规范的按钮吗", "createdAt": "2025-08-12T01:46:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 9112, "title": "桌面端使用自部署登录返回500", "createdAt": "2025-08-13T01:20:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 8789, "title": "Multiple outputs + automatic scoring", "createdAt": "2025-08-14T01:34:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 8793, "title": "ai的回复没有md格式，是要怎么设置吗", "createdAt": "2025-08-14T06:38:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 8795, "title": "LobeHub年度会员退款申请", "createdAt": "2025-08-14T07:09:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 8804, "title": "[RFC] 128 - ComfyUI Intergration", "createdAt": "2025-08-15T22:17:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 8809, "title": "[RFC] 129 - Phase Ⅰ : Project Structure Modularization", "createdAt": "2025-08-16T11:00:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 8812, "title": "部署到 vercel 一直报错", "createdAt": "2025-08-16T13:34:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 8824, "title": "Desktop Lobehub local account question", "createdAt": "2025-08-17T00:50:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 8829, "title": "Hardening checklist for production deployments (auth, safe defaults, docs)", "createdAt": "2025-08-17T08:50:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 12073, "title": "Windows client cannot connect to self-deployed instance", "createdAt": "2025-08-17T15:07:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 12070, "title": "Exception when connecting to Google model proxy via nginx", "createdAt": "2025-08-19T08:21:58Z", "repo": "lobehub/lobe-chat"}
+{"number": 8890, "title": "token消耗量好大", "createdAt": "2025-08-21T16:14:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 8887, "title": "token消耗很大", "createdAt": "2025-08-22T01:26:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 8901, "title": "LobeChat 桌面客户端如何开机自启", "createdAt": "2025-08-22T21:33:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 12625, "title": "[Docs] Feedback for `self-hosting/advanced/model-list`", "createdAt": "2025-08-23T12:01:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 8913, "title": "有什么lobechat可用的ssh mcp推荐啊，想用来简单管理vps", "createdAt": "2025-08-24T09:07:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 8920, "title": "[RFC] 130 - Multi-Agent Orchestration (Group Chat) Implementation", "createdAt": "2025-08-25T07:56:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 12623, "title": "Ollama vectorization error", "createdAt": "2025-08-25T09:43:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 8926, "title": "gcloud run方式部署，前端加载js资源总是有问题，求大神指导一二", "createdAt": "2025-08-25T15:40:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 9825, "title": "Very high disk read when using minio", "createdAt": "2025-08-27T13:43:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 8953, "title": "[RFC] 133 - Single Provider with multi model runtime & add cunstom router provider.", "createdAt": "2025-08-28T02:29:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 8968, "title": "LobeChat 桌面端连接自部署服务时出现错误", "createdAt": "2025-08-28T11:42:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 9121, "title": "gemini-2.5-flash-image-preview有时候没有返回出图片出来。", "createdAt": "2025-08-29T09:56:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 8986, "title": "[RFC] 131 - 模型列表元数据抽离为独立包 model-bank", "createdAt": "2025-08-29T14:12:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 9017, "title": "求问消息的向量化检索功能是怎么开启的", "createdAt": "2025-08-31T12:45:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 9020, "title": "Clerk的webhook好像有问题", "createdAt": "2025-08-31T22:19:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 9047, "title": "上传文件时到底是上传到S3_ENDPOINT还是S3_PUBLIC_DOMAIN？为什么两者都用到了？", "createdAt": "2025-09-01T16:19:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 9092, "title": "AUTH_CASDOOR_ISSUER只能是lobe-auth-api.domain.xx吗？", "createdAt": "2025-09-01T17:45:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 9048, "title": "使用docker 拉取最新的镜像，设置clerk报错", "createdAt": "2025-09-02T08:28:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 9039, "title": "GPT-5回复时思考过程和数学公式显示UI有问题", "createdAt": "2025-09-02T10:03:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 9050, "title": "1.120.7无法build：JavaScript heap out of memory", "createdAt": "2025-09-02T14:57:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 9056, "title": "[RFC] 132 - 服务端发送消息实现优化", "createdAt": "2025-09-03T10:51:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 9078, "title": "自己编译的镜像，启动后界面一直停留在初始化用户那里，后台日志没有明显的错误。有哪位大佬知道这个是咋回事吗？", "createdAt": "2025-09-04T07:22:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 9091, "title": "Minio的问题", "createdAt": "2025-09-04T12:09:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 9097, "title": "如何关闭客户端自动更新？", "createdAt": "2025-09-05T02:41:58Z", "repo": "lobehub/lobe-chat"}
+{"number": 9120, "title": "自编译的镜像如何构建 Clerk + Database", "createdAt": "2025-09-05T08:56:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 9115, "title": "Implement Per-User Storage Quotas for Self-Hosted Deployments' labels: 'feature request, enhancement, self-hosting, s3'", "createdAt": "2025-09-05T14:22:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 9122, "title": "在域名模式下，某些地方的Lobe Logo无法加载", "createdAt": "2025-09-05T18:20:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 9130, "title": "[Request] 可以考虑一下多渠道出图", "createdAt": "2025-09-06T04:35:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 9155, "title": "Vercel Serverless Functions maxDuration error", "createdAt": "2025-09-07T03:32:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 9168, "title": "vercel部署失败", "createdAt": "2025-09-08T09:32:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 9202, "title": "Vercel deployment issue", "createdAt": "2025-09-10T10:50:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 9209, "title": "感觉 lobe chat 大面积使用 ssr，反而没有在交互上有有流畅的体验，很多地方都是肉肉的感觉", "createdAt": "2025-09-11T01:43:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 9362, "title": "登录会跳转报错页面", "createdAt": "2025-09-11T12:06:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 9221, "title": "ios16.3.1 无法打开任何页面", "createdAt": "2025-09-11T13:03:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 9234, "title": "[RFC] 134 - Context Engine", "createdAt": "2025-09-12T16:06:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 9292, "title": "[RFC] 135 - Microsoft national cloud deployments", "createdAt": "2025-09-16T18:55:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 9302, "title": "之前使用的标准oidc后续换成了casdoor接入企微验证，但是之前登录的用户还能接着使用", "createdAt": "2025-09-17T06:35:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 12677, "title": "Using aihubmix's GPT-5 model, temperature setting not taking effect", "createdAt": "2025-09-19T03:21:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 9341, "title": "Is it possible to run stdio MCP servers on the web version of LobeHub?", "createdAt": "2025-09-20T04:40:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 9364, "title": "lobechat插件中始何获取messageId", "createdAt": "2025-09-22T02:02:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 9373, "title": "Reason Regarding Heavy RAM Usage (more than 1GB)", "createdAt": "2025-09-22T10:42:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 9392, "title": "我想购买俄罗斯电报，有的请添加我的电报：@btcqk1", "createdAt": "2025-09-23T12:32:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 9409, "title": "联网索索如何正确配置呢？", "createdAt": "2025-09-24T14:01:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 9446, "title": "用户界面配置逗号分隔的多个key无法识别", "createdAt": "2025-09-27T09:14:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 9462, "title": "[RFC] 136 - Tools Engine", "createdAt": "2025-09-28T05:24:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 9463, "title": "Unable to update lobechat since 5th September", "createdAt": "2025-09-28T21:44:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 9469, "title": "How to communicate from a custom standalone plugin with AI", "createdAt": "2025-09-29T11:39:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 9482, "title": "Login failed with OIDC Provider Authelia", "createdAt": "2025-09-30T02:22:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 9496, "title": "Migration Bug: DrizzleQueryError: Failed query: ALTER TABLE \"agents\" ALTER COLUMN \"title\" SET DATA TYPE varchar(255);", "createdAt": "2025-09-30T12:31:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 9505, "title": "No bun.lock file - causes break in depedencies", "createdAt": "2025-09-30T18:56:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 9506, "title": "是否可以支持视频生成能力", "createdAt": "2025-10-01T01:22:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 9508, "title": "Request for Multi-API Endpoint Rotation", "createdAt": "2025-10-01T04:48:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 12681, "title": "OpenAI model always focuses on images in responses after enabling Smart Online Search", "createdAt": "2025-10-01T22:13:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 9519, "title": "Appreciation Post!", "createdAt": "2025-10-02T06:38:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 12679, "title": "Network proxy for openai don't working", "createdAt": "2025-10-05T04:16:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 9571, "title": "[RFC] 137 - Promptfoo Integration", "createdAt": "2025-10-05T14:15:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 9601, "title": "How to activate payment/stripe system?", "createdAt": "2025-10-07T18:37:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 9609, "title": "Please provide complete guide with nginx", "createdAt": "2025-10-08T22:31:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 9615, "title": "Token 显示bug", "createdAt": "2025-10-09T06:08:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 9663, "title": "docker部署怎么设置代理地址", "createdAt": "2025-10-11T15:39:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 9681, "title": "桌面版如何自定义嵌入模型", "createdAt": "2025-10-12T13:20:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 9686, "title": "添加 n1n.ai API 提供商支持", "createdAt": "2025-10-13T04:22:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 9692, "title": "输入框体验", "createdAt": "2025-10-13T11:14:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 9721, "title": "请问该如何通过设置的代理服务器来调用API？", "createdAt": "2025-10-15T06:55:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 12071, "title": "搜索提供方环境变量无效", "createdAt": "2025-10-15T08:32:38Z", "repo": "lobehub/lobe-chat"}
+{"number": 9733, "title": "[Draft] RFC  |  Taming Context Chaos - A Proposal for a Graph-driven AI Chat Interface", "createdAt": "2025-10-15T15:47:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 9739, "title": "希望增加对doubao-seed-1-6模型思考强度调整的适配", "createdAt": "2025-10-16T08:23:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 9746, "title": "Gemini and GPT models missing \"Use model's built-in search engine\" toggle", "createdAt": "2025-10-16T14:57:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 9765, "title": "Search provider environment variables not working", "createdAt": "2025-10-18T06:07:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 9790, "title": "lobechat内置搜索究竟怎么用的？", "createdAt": "2025-10-20T03:47:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 9791, "title": "why does the built-in search plugin of lobechat always return irrelevant results?", "createdAt": "2025-10-20T07:00:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 9802, "title": "对于 Server 部署的模式，后续是否有必要将 PSQL、S3、Auth 等组件集成进 Docker 镜像本体，构建完整版镜像", "createdAt": "2025-10-20T15:20:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 9812, "title": "[RFC] 138 - 导出增强及第三方应用集成RFC", "createdAt": "2025-10-21T06:11:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 9815, "title": "不会智能创建话题了，聊了n个话题，一眼看过去，全是默认话题。。。", "createdAt": "2025-10-21T07:09:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 9820, "title": "Code Interpreter这个插件应该怎么用？", "createdAt": "2025-10-21T09:13:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 9840, "title": "[RFC] 139 - BDD-Based E2E Testing Framework with Playwright", "createdAt": "2025-10-22T12:07:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 9842, "title": "[RFC] 140 - Tool Human Intervention Mechanism", "createdAt": "2025-10-22T12:44:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 9848, "title": "[RFC] 141 - Migrate from RSC to SPA Architecture for Better Performance", "createdAt": "2025-10-22T17:17:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 9888, "title": "[RFC] 142 - Message Entity Separation: Three-Layer Message Architecture", "createdAt": "2025-10-26T07:28:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 9889, "title": "OpenAI-like API Connectivity Check failed, while chat works fine, Why", "createdAt": "2025-10-26T10:50:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 9913, "title": "[RFC] 143 - ✍️ Create Documents in Knowledge", "createdAt": "2025-10-28T14:03:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 9925, "title": "[RFC] 144 - Universal user Memory, achieving better long term memories", "createdAt": "2025-10-29T09:09:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 9950, "title": "Subject: Knowledge Base & File Upload features not visible/working after self-hosted deployment", "createdAt": "2025-10-31T07:15:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 9951, "title": "使用cpolar内网穿透工具部署lobe然后oidc连接无法连接成功", "createdAt": "2025-10-31T07:27:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 9961, "title": "My email is not allowed to access this application.", "createdAt": "2025-11-01T12:01:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 10007, "title": "Starting 2.0 of LobeHub(LobeChat): A System Reconstruction and Reflection", "createdAt": "2025-11-03T05:04:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 10010, "title": "MCP的问题", "createdAt": "2025-11-03T08:57:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 10033, "title": "Postgres Mcp Pro使用问题", "createdAt": "2025-11-04T01:46:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 10061, "title": "MCP的机制讨论", "createdAt": "2025-11-05T07:09:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 10093, "title": "temperature` and `top_p` cannot both be specified for this model. Please use only one.", "createdAt": "2025-11-05T10:53:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 10092, "title": "[RFC] 145 - Unify auth to better-auth", "createdAt": "2025-11-07T08:05:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 10107, "title": "知识库向量化失败", "createdAt": "2025-11-08T13:53:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 10154, "title": "[Docs] Feedback for `usage/agents/topics`", "createdAt": "2025-11-08T16:17:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 10181, "title": "请问，私有化部署的 lobechat 如何升级到 2.0 版本啊？", "createdAt": "2025-11-13T03:26:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 10214, "title": "what's the different between main and next branch?", "createdAt": "2025-11-14T07:17:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 10265, "title": "請問有關自訂外掛裡的線上連結我該怎麼設定預設值", "createdAt": "2025-11-17T01:10:49Z", "repo": "lobehub/lobe-chat"}
+{"number": 10288, "title": "[RFC] 146 - Operation Cancellation & Interruption Handling Architecture", "createdAt": "2025-11-18T16:55:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 10396, "title": "更换 pgvector:pg18 后聊天记录 JSON 文件无法导入", "createdAt": "2025-11-24T12:03:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 10427, "title": "强制使用环境变量中的API Keys和Proxy设置", "createdAt": "2025-11-25T23:35:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 10438, "title": "大佬有没有考虑新增一种限制历史记录数的模式：在指定对话处 Pin 一下，把前文压缩成总结作为新 Context，后续对话的历史记录就从这里开始", "createdAt": "2025-11-26T11:02:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 10439, "title": "unable to call openai api with api key with system proxy enabled", "createdAt": "2025-11-26T12:50:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 10446, "title": "Ai model + sdk intergarition", "createdAt": "2025-11-27T00:16:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 10464, "title": "[RFC] 146 - New activities for user memories", "createdAt": "2025-11-27T17:22:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 10467, "title": "建议将 LobeHub Cloud 的 Google 模型 API 更换为 Vertex AI API", "createdAt": "2025-11-28T02:21:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 10525, "title": "Refund request for yearly Starter plan not answered – Invoice A80100C6-0013", "createdAt": "2025-12-01T05:27:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 12723, "title": "Feedback for self-hosting/server-database/dokploy", "createdAt": "2025-12-02T18:37:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 10591, "title": "我在尝试安装context7 mcp时，提示：当前环境不支持 stdio 类型的 MCP 插件", "createdAt": "2025-12-03T15:13:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 10608, "title": "How to enable OpenRouter image-generation (e.g. gemini-2.5-flash-image) in Chat?", "createdAt": "2025-12-04T15:10:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 10610, "title": "大家的 Next 版本 Windows 客户端能正常自动更新吗？", "createdAt": "2025-12-04T18:21:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 12167, "title": "[Request] 如果我想本地源码部署next分支2.0最新版本的的话需要满足什么条件呢", "createdAt": "2025-12-05T07:48:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 10656, "title": "小小吐槽", "createdAt": "2025-12-07T13:34:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 10667, "title": "What are the login credentials for Casdoor？", "createdAt": "2025-12-08T08:05:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 12725, "title": "Some Gemini Model Errors from Zenmux Provider | Zenmux服务商的部分gemini模型报错", "createdAt": "2025-12-08T11:40:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 10698, "title": "Desktop Version: Unable to Configure Knowledge Base Embedding Model", "createdAt": "2025-12-09T11:52:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 10718, "title": "LobeChat 桌面端和self-host的docker实例同步了什么？", "createdAt": "2025-12-10T12:28:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 10727, "title": "2.0版本可以用Docker部署吗？", "createdAt": "2025-12-11T01:30:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 10734, "title": "如何设置统一模型或者默认API  KEY，使得用户登陆后即可使用，不用去配置大模型API KEY？", "createdAt": "2025-12-11T07:44:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 10739, "title": "请问，桌面版不能配置向量数据库的？", "createdAt": "2025-12-11T12:06:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 10763, "title": "Help needed: Implementing a self-hosted Market server for private LobeChat deployment", "createdAt": "2025-12-13T04:36:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 10767, "title": "LobeChat-Data-Exporter程序分享，A tool manage export json data", "createdAt": "2025-12-13T18:15:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 10788, "title": "2025/11/27后通过vercel的自动部署均无法打开", "createdAt": "2025-12-15T07:33:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 10812, "title": "上传文件后总是出错", "createdAt": "2025-12-16T13:51:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 10830, "title": "📜 [RFC] 147 - Migrate Next App Router to Vite React Router SPA", "createdAt": "2025-12-17T13:31:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 10854, "title": "绘画模型报错", "createdAt": "2025-12-19T08:47:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 10869, "title": "自部署lobechat db版无法使用域名登录", "createdAt": "2025-12-21T09:56:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 10870, "title": "[RFC] 148 Optimize App Runtime JS Heap (React memo)", "createdAt": "2025-12-21T12:23:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 10874, "title": "用github作为鉴权的自部署版可以自动检测内外网吗", "createdAt": "2025-12-22T02:40:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 11019, "title": "mcp超时问题", "createdAt": "2025-12-28T16:35:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 11050, "title": "如何修改OpenRouter 的base url, 我需要使用本地部署的大模型", "createdAt": "2025-12-30T08:43:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 11088, "title": "Agent无法访问minio服务", "createdAt": "2025-12-30T09:35:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 11061, "title": "[RFC] 149 Imperative Modal Pattern", "createdAt": "2025-12-30T16:20:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 11064, "title": "Some Ollama embedding models fail in vectorization", "createdAt": "2025-12-31T02:07:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 11065, "title": "我想使用我们本地部署的大模型，部署的方式是通过vllm 部署的", "createdAt": "2025-12-31T02:31:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 11080, "title": "next-181 这个版本有点狠呀", "createdAt": "2025-12-31T16:39:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 11081, "title": "目前最新的Next.183是不是Desktop版本必须要sync data？", "createdAt": "2025-12-31T22:04:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 11089, "title": "🎉 新年快乐！新版本太惊艳了🚀，请问是否有针对新特性的详细文档", "createdAt": "2026-01-01T04:21:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 11093, "title": "强制更新并且强制使用联网账户，怎么办？", "createdAt": "2026-01-01T09:53:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 11094, "title": "用github作为鉴权 是否可以局域网和外网一起使用", "createdAt": "2026-01-01T11:52:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 11106, "title": "如何将自部署中的聊天记录和各类agent迁移到 next 中的最新版本？", "createdAt": "2026-01-02T10:58:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 11110, "title": "File embedding model configuration is global, forcing all tenants to share the same API Key", "createdAt": "2026-01-02T14:30:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 11121, "title": "能否部署到自己电脑上面", "createdAt": "2026-01-03T03:59:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 11179, "title": "Finer-grained data clearing: clear topics/chats without deleting assistants", "createdAt": "2026-01-04T03:23:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 11201, "title": "绘图界面生图报错： JWKS_KEY environment variable is not set", "createdAt": "2026-01-04T07:32:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 11230, "title": "OpenAI-Compatible API deprecated?", "createdAt": "2026-01-05T06:36:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 11299, "title": "请问为啥网页版第三方api用不了呢", "createdAt": "2026-01-07T02:25:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 11638, "title": "Image generation failed in v2.x – error: JWKS_KEY environment variable is not set", "createdAt": "2026-01-07T04:42:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 11313, "title": "windows桌面客户端更新最新版本怎么打开必须让登录了", "createdAt": "2026-01-07T09:20:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 11336, "title": "记忆功能通过开放MCP服务或者API接口供其他应用调用", "createdAt": "2026-01-08T03:07:36Z", "repo": "lobehub/lobe-chat"}
+{"number": 11365, "title": "Is it possible to authenticate to a genric oauth2 provider?", "createdAt": "2026-01-09T04:55:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 11379, "title": "我看好像说有ios app，在哪下载呢", "createdAt": "2026-01-09T15:30:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 11388, "title": "lobeai 怎么自定义prompt", "createdAt": "2026-01-10T07:27:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 11418, "title": "can you refresh my mcp's version and features?", "createdAt": "2026-01-11T13:24:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 11640, "title": "Database creation failed causing redirect failure after successful login verification", "createdAt": "2026-01-12T08:40:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 11480, "title": "thinking content如何加入到历史对话中", "createdAt": "2026-01-13T16:28:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 11641, "title": "it's a issue about a mcp server", "createdAt": "2026-01-16T07:19:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 11610, "title": "Book", "createdAt": "2026-01-19T08:23:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 11639, "title": "why existing mcp info on market is not updated? what is your scan interval?", "createdAt": "2026-01-20T07:46:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 11654, "title": "Is there a Docker Compose file or deployment guide for the Next version?", "createdAt": "2026-01-20T12:03:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 11843, "title": "lobe首页报错进不去", "createdAt": "2026-01-26T04:33:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 11874, "title": "从lobehub:2.0.0-next.337更新到最新好像lobehub的docker就起不来了", "createdAt": "2026-01-27T03:04:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 12766, "title": "How to correctly set Proxy for DockerHub self-hosted version? Setting Proxy causes internal requests to also go through Proxy and fail", "createdAt": "2026-01-28T06:37:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 11954, "title": "使用Better Auth后，如何管理绕过Casdoor而直接使用邮箱注册的账户？", "createdAt": "2026-01-29T03:20:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 11968, "title": "怎么安装v2？", "createdAt": "2026-01-29T16:00:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 11991, "title": "How to delete users in BetterAuth?", "createdAt": "2026-01-29T17:27:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 11977, "title": "BetterAuth怎么删除用户（禁止登录）？", "createdAt": "2026-01-30T01:52:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 11996, "title": "使用记忆分析功能报错，是需要配置QSTASH_TOKEN吗？我该如何配置", "createdAt": "2026-01-30T14:15:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 12034, "title": "允许从 GhatGPT 导入聊天记录", "createdAt": "2026-02-01T11:04:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 12057, "title": "无法添加社区助理", "createdAt": "2026-02-03T03:29:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 12065, "title": "Hi developer", "createdAt": "2026-02-03T07:14:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 12104, "title": "lots of sql error , cannot chat", "createdAt": "2026-02-04T09:02:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 12108, "title": "Generated Images in Artwork are not displayed, but can be viewed in Resources", "createdAt": "2026-02-04T11:45:56Z", "repo": "lobehub/lobe-chat"}
+{"number": 12111, "title": "现在简单想聊个天，发个hello，就会携带那么多提示词和tools吗？", "createdAt": "2026-02-04T15:27:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 12118, "title": "现在这个2.1版本到底 支不支持，就是限制历史消息啊。找了半天没找到。", "createdAt": "2026-02-05T02:14:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 12144, "title": "cloud-devrel-commit-reader", "createdAt": "2026-02-06T06:12:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 12160, "title": "Problem with SearXNG and Ollama", "createdAt": "2026-02-06T13:38:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 12163, "title": "2.x版本没有导出功能了吗？", "createdAt": "2026-02-06T19:26:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 12166, "title": "Does LobeHub support MCP tool search", "createdAt": "2026-02-07T03:08:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 12220, "title": "CliProxyAPI反代出来的GPT-5.2，如图所示检测可用性会报错", "createdAt": "2026-02-09T08:13:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 12423, "title": "No available skills in self-deployed client", "createdAt": "2026-02-09T09:24:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 12378, "title": "使用Gemini的api key，总是提示“Token 用量或请求次数已达配额上限”", "createdAt": "2026-02-18T09:23:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 12437, "title": "Lobehub 怎样修改助理的角色定义？", "createdAt": "2026-02-23T08:19:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 12444, "title": "LobeHub 目前对 SeaweedFS 、Garage 等对象存储的支持力度如何？", "createdAt": "2026-02-23T17:29:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 12454, "title": "Permission Management", "createdAt": "2026-02-24T04:06:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 12491, "title": "[RFC] 150 - Progressive Tool Loading (Tools 渐进式加载)", "createdAt": "2026-02-26T16:40:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 12492, "title": "[RFC] 150 - Progressive Tool Loading", "createdAt": "2026-02-26T16:44:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 12502, "title": "为啥我的搜索功能现在基本不可用了？因为文本格式和数据库里的不匹配？", "createdAt": "2026-02-27T06:28:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 12503, "title": "Implement version history preservation for the Agent Assistant profile.", "createdAt": "2026-02-27T06:35:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 12516, "title": "[RFC] 151 - IM Bot Integration: Deploy Any Agent as Discord / Slack Bot", "createdAt": "2026-02-27T17:14:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 12529, "title": "您好，请问下lobehub创建的知识库文档文件可以实现共享吗？目前只能自己上传的文件自己用。本地部署了casdoor关联用户，想做一个共享的知识库让团队使用", "createdAt": "2026-02-28T07:30:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 12535, "title": "[RFC] 152 - (WIP)Supporting MoltBook-Style Background Tasks via Scheduled Task + Credentials Built-in Tools", "createdAt": "2026-02-28T14:32:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 12554, "title": "求助：在添加QSTASH和嵌入模型后依然无法启用记忆模式 Help: Unable to Enable Memory Mode After Adding QSTASH and Embedding Models", "createdAt": "2026-03-01T05:45:30Z", "repo": "lobehub/lobe-chat"}
+{"number": 12575, "title": "Support Vercel Hobby Tier", "createdAt": "2026-03-02T05:26:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 12577, "title": "自部署版本什么时候能支持上传skill？", "createdAt": "2026-03-02T06:55:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 12592, "title": "AGENTS_INDEX_URL设置了，但还是跳转到官方市场", "createdAt": "2026-03-02T12:41:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 12659, "title": "v2.1.35的技能怎么用，能执行任务吗？", "createdAt": "2026-03-04T02:51:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 12673, "title": "How can I change the default assistant from \"Lobe AI\" to something else?", "createdAt": "2026-03-04T07:26:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 12690, "title": "个人部署，需要从社区市场 Fork Agent，希望申请 Trusted Client 凭证（ID + Secret）", "createdAt": "2026-03-04T12:31:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 12717, "title": "lobehub ERR_EMPTY_RESPONSE", "createdAt": "2026-03-05T08:51:14Z", "repo": "lobehub/lobe-chat"}
+{"number": 12724, "title": "云沙箱功能是否支持pip命令？", "createdAt": "2026-03-05T09:51:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 12738, "title": "antropic prompt is too long error", "createdAt": "2026-03-05T21:57:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 12740, "title": "Some suggestions for using a mobile phone.", "createdAt": "2026-03-06T01:17:24Z", "repo": "lobehub/lobe-chat"}
+{"number": 12742, "title": "本地docker compose部署 Unauthorized", "createdAt": "2026-03-06T01:46:54Z", "repo": "lobehub/lobe-chat"}
+{"number": 12806, "title": "v2.1.38 github action docker build is stuck.", "createdAt": "2026-03-08T03:03:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 12826, "title": "[Feature Proposal] Conditional Agent Pipelines — Multi-agent workflows with routing and feedback loops", "createdAt": "2026-03-08T14:17:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 12850, "title": "Does lobehub have any OpenCLAW integration plans?", "createdAt": "2026-03-09T10:48:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 12978, "title": "Use Responses API Specification for OpenAI doesn't work in chat", "createdAt": "2026-03-10T02:08:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 12898, "title": "有没有大佬能分享个docker compose部署的lobehub的nginx反代配置文件", "createdAt": "2026-03-11T01:38:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 12909, "title": "Init the LobeHub infrastructure failed", "createdAt": "2026-03-11T09:34:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 12940, "title": "GitHub Copilot的API目前似乎还不支持GPT-5.4的调用？", "createdAt": "2026-03-12T09:47:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 12946, "title": "[RFC] 150 - Gradual Migration Away from `[key: string]: any` and `Record<string, any>`", "createdAt": "2026-03-12T12:40:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 12969, "title": "I hope the official website can include the APK installation method.", "createdAt": "2026-03-13T13:30:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 12997, "title": "服务端桌面端更新至2.1.42后，桌面端登录跳转报错", "createdAt": "2026-03-15T07:50:25Z", "repo": "lobehub/lobe-chat"}
+{"number": 13000, "title": "voice input button is missing", "createdAt": "2026-03-15T10:20:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 13001, "title": "voice input button seems to be missing", "createdAt": "2026-03-15T10:21:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 13014, "title": "How to track/export per-user token usage and quotas in LobstrHub with self-hosted Gemini API?", "createdAt": "2026-03-16T05:26:09Z", "repo": "lobehub/lobe-chat"}
+{"number": 13019, "title": "2.1.42版本真的很强，但是有个小问题，干啥都要用技能😂", "createdAt": "2026-03-16T08:32:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 13031, "title": "Vercel部署失败", "createdAt": "2026-03-16T11:37:29Z", "repo": "lobehub/lobe-chat"}
+{"number": 13033, "title": "claude模型使用默认Lobe AI Agent触发提示词注入安全提示", "createdAt": "2026-03-16T11:59:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 13433, "title": "pg_search extension CPU compatibility issue", "createdAt": "2026-03-16T23:59:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 13068, "title": "可否允许桌面版使用本地存储保存资源？或者给出更多的付费方案，比如支持单独购买存储空间", "createdAt": "2026-03-17T13:35:32Z", "repo": "lobehub/lobe-chat"}
+{"number": 13072, "title": "Idea: ORCH integration — orchestrate multiple LobeChat agents as a CLI team", "createdAt": "2026-03-17T14:54:58Z", "repo": "lobehub/lobe-chat"}
+{"number": 13076, "title": "ORCH — CLI orchestrator to run multiple AI coding agents as a managed team", "createdAt": "2026-03-17T15:22:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 13087, "title": "ORCH — CLI runtime for orchestrating Claude/GPT backends as a managed team", "createdAt": "2026-03-17T19:29:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 13111, "title": "OpenHer — AI Being Engine with Emergent Personality from Neural Drives", "createdAt": "2026-03-18T15:22:13Z", "repo": "lobehub/lobe-chat"}
+{"number": 13135, "title": "网页及安卓移动端未来会向桌面端2.0看齐吗", "createdAt": "2026-03-19T15:57:28Z", "repo": "lobehub/lobe-chat"}
+{"number": 13168, "title": "功能开关", "createdAt": "2026-03-21T01:52:50Z", "repo": "lobehub/lobe-chat"}
+{"number": 13174, "title": "私有化部署，如何导出记录？", "createdAt": "2026-03-21T06:23:15Z", "repo": "lobehub/lobe-chat"}
+{"number": 13178, "title": "对于自托管的 lobechat，使用内置的 Cloud Sandbox 服务协议是怎样的？", "createdAt": "2026-03-21T13:41:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 13179, "title": "[Question] Android App (Google Play) self-hosting connection | Android App（Google Play）自部署连接问题", "createdAt": "2026-03-21T14:55:10Z", "repo": "lobehub/lobe-chat"}
+{"number": 13248, "title": "The removal of the option to turn off automatic historical message compression is simply a nightmare.", "createdAt": "2026-03-25T08:39:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 13308, "title": "为什么子话题、重试多个答案的功能都做没了？", "createdAt": "2026-03-26T12:38:33Z", "repo": "lobehub/lobe-chat"}
+{"number": 13376, "title": "飞书发消息得不到回复", "createdAt": "2026-03-29T06:46:12Z", "repo": "lobehub/lobe-chat"}
+{"number": 13486, "title": "Tandem: a collaborative document editor that puts Claude in the room with you", "createdAt": "2026-04-01T21:49:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 13515, "title": "Memory analysis request failed. Please try again.", "createdAt": "2026-04-02T13:45:48Z", "repo": "lobehub/lobe-chat"}
+{"number": 13594, "title": "Unauthorized Charge and Refund Request", "createdAt": "2026-04-06T04:16:42Z", "repo": "lobehub/lobe-chat"}
+{"number": 13691, "title": "lobehub 支持使用本地 codex 作为 Agent 吗", "createdAt": "2026-04-09T04:59:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 13786, "title": "自部署后怎么通过自部署地址对本地环境进行操作？", "createdAt": "2026-04-13T13:49:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 13845, "title": "[Feature Request] Add text color/brightness adjustment options for the Dark Theme", "createdAt": "2026-04-15T11:29:41Z", "repo": "lobehub/lobe-chat"}
+{"number": 13927, "title": "[RFC] 153 - Heterogeneous Agent Runtime: first-class support for external CLI agents (Claude Code, Codex)", "createdAt": "2026-04-17T11:40:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 14016, "title": "PostgreSQL 17 with pgvector + pg_search for LobeHub on Legacy Synology NAS Systems", "createdAt": "2026-04-21T07:38:16Z", "repo": "lobehub/lobe-chat"}
+{"number": 14111, "title": "Nataris — use P2P Android inference as a backend for your LobeHub AI agents", "createdAt": "2026-04-24T03:38:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 14260, "title": "GPT Image 2已经在页面展示了，但是供应商里还没有更新？", "createdAt": "2026-04-28T06:19:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 14296, "title": "lobe-chat客户端版本自部署问题", "createdAt": "2026-04-29T02:41:22Z", "repo": "lobehub/lobe-chat"}
+{"number": 14300, "title": "关于自部署版本的定时任务", "createdAt": "2026-04-29T03:59:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 14331, "title": "求关于记忆功能、Qstash的完整教程", "createdAt": "2026-04-30T02:27:57Z", "repo": "lobehub/lobe-chat"}
+{"number": 14341, "title": "LobeHub CLI is live", "createdAt": "2026-04-30T06:55:05Z", "repo": "lobehub/lobe-chat"}
+{"number": 14386, "title": "如何将 Docker Compose 部署的聊天记录从 A 机器迁移到 B 机器？", "createdAt": "2026-05-02T08:00:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 14466, "title": "Local LM Studio provider times out after ~10 minutes of prompt processing (Docker lobehub/lobe-chat-database)", "createdAt": "2026-05-06T12:13:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 14485, "title": "Wondering when we will have Scheduled Task feature on lobehub self hosted?", "createdAt": "2026-05-07T07:59:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 14905, "title": "Upload Failed to Complete", "createdAt": "2026-05-11T09:14:23Z", "repo": "lobehub/lobe-chat"}
+{"number": 14675, "title": "Vercel 部署显示 Ready 和 Current，但访问返回 DEPLOYMENT_NOT_FOUND", "createdAt": "2026-05-11T12:38:43Z", "repo": "lobehub/lobe-chat"}
+{"number": 14680, "title": "lobehub basepath supported?", "createdAt": "2026-05-11T14:22:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 14746, "title": "iOS Safari Automatically Zooms In When Focusing Input Fields", "createdAt": "2026-05-13T03:51:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 14767, "title": "Investment analysis Claude Code skills — options flow scanner + price alerts (open source)", "createdAt": "2026-05-13T13:44:44Z", "repo": "lobehub/lobe-chat"}
+{"number": 14825, "title": "为什么我对话中右侧的导航栏总是时有时无的？", "createdAt": "2026-05-15T08:42:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 14932, "title": "Handling of pages / documents is strange in the newer versions", "createdAt": "2026-05-18T09:39:40Z", "repo": "lobehub/lobe-chat"}
+{"number": 14935, "title": "LobeHub 2.2 — Your Chief Agent Operator", "createdAt": "2026-05-18T12:26:59Z", "repo": "lobehub/lobe-chat"}
+{"number": 14942, "title": "删除一个对话之后，对话中包含的图片文件不会从S3上同步移除吗", "createdAt": "2026-05-18T16:40:21Z", "repo": "lobehub/lobe-chat"}
+{"number": 14958, "title": "After updating to 2.2.0, it seems that the folder upload function is no longer available.", "createdAt": "2026-05-19T03:14:34Z", "repo": "lobehub/lobe-chat"}
+{"number": 15020, "title": "自部署版本定时任务问题", "createdAt": "2026-05-20T07:49:02Z", "repo": "lobehub/lobe-chat"}
+{"number": 15067, "title": "上传文件或图片未能完成", "createdAt": "2026-05-21T09:47:03Z", "repo": "lobehub/lobe-chat"}
+{"number": 15069, "title": "定时任务是沙箱执行的？能否客户端本机执行？", "createdAt": "2026-05-21T11:38:37Z", "repo": "lobehub/lobe-chat"}
+{"number": 15149, "title": "Affordable Claude API relay with Prompt Cache support for LobeChat users in China", "createdAt": "2026-05-23T11:46:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 15221, "title": "Is inter-client data sync supported on self-hosted server?", "createdAt": "2026-05-25T17:49:52Z", "repo": "lobehub/lobe-chat"}
+{"number": 15275, "title": "Mobile app (iOS/Android) support for self-hosted instances", "createdAt": "2026-05-27T16:21:11Z", "repo": "lobehub/lobe-chat"}
+{"number": 15287, "title": "Question: Publishing Japanese-language skills on LobeHub", "createdAt": "2026-05-28T07:00:35Z", "repo": "lobehub/lobe-chat"}
+{"number": 15400, "title": "Quick test - will delete", "createdAt": "2026-06-02T02:49:46Z", "repo": "lobehub/lobe-chat"}
+{"number": 15402, "title": "Survey: Does your AI agent have an identity problem?", "createdAt": "2026-06-02T02:51:00Z", "repo": "lobehub/lobe-chat"}
+{"number": 15451, "title": "is codex available in LobeHub", "createdAt": "2026-06-04T01:45:18Z", "repo": "lobehub/lobe-chat"}
+{"number": 15519, "title": "Broken link (404) for \"Web\" plugin in the marketplace index", "createdAt": "2026-06-06T22:31:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 15524, "title": "本地搭建的lobehub，通过docker部署", "createdAt": "2026-06-07T05:35:45Z", "repo": "lobehub/lobe-chat"}
+{"number": 15551, "title": "market支持私有部署吗？", "createdAt": "2026-06-08T10:19:39Z", "repo": "lobehub/lobe-chat"}
+{"number": 15633, "title": "Self-built desktop app runtime crash: node-screenshots native binding not found in packaged build (pnpm + optional platform deps)", "createdAt": "2026-06-10T06:00:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 15644, "title": "ccline — Claude at your shell prompt (complements LobeHub's browser experience)", "createdAt": "2026-06-10T09:48:19Z", "repo": "lobehub/lobe-chat"}
+{"number": 15664, "title": "Failed to save identity memory: undefined", "createdAt": "2026-06-10T16:07:01Z", "repo": "lobehub/lobe-chat"}
+{"number": 15707, "title": "LobeHub CLI · Making Agents Work With LobeHub Easier", "createdAt": "2026-06-12T01:34:04Z", "repo": "lobehub/lobe-chat"}
+{"number": 15761, "title": "需要企业服务", "createdAt": "2026-06-13T08:02:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 15821, "title": "桌面端这个网关怎么打开了", "createdAt": "2026-06-14T10:58:06Z", "repo": "lobehub/lobe-chat"}
+{"number": 15920, "title": "Sharing a runtime safety layer I've been experimenting with for agent workflows", "createdAt": "2026-06-16T07:06:07Z", "repo": "lobehub/lobe-chat"}
+{"number": 15980, "title": "Re-scan request for @apexfdn/copilot-mcp", "createdAt": "2026-06-17T13:08:31Z", "repo": "lobehub/lobe-chat"}
+{"number": 16055, "title": "[Removal Request] Remove ZiiwareMCP — Repository Was Private", "createdAt": "2026-06-19T13:56:27Z", "repo": "lobehub/lobe-chat"}
+{"number": 16062, "title": "Cannot use Volcengine in LobeChat", "createdAt": "2026-06-19T15:10:26Z", "repo": "lobehub/lobe-chat"}
+{"number": 16115, "title": "All connections related to models returns \"Premature close\"", "createdAt": "2026-06-20T09:13:20Z", "repo": "lobehub/lobe-chat"}
+{"number": 16116, "title": "Invalid response body while trying to fetch xxxxx: Premature close", "createdAt": "2026-06-20T09:13:51Z", "repo": "lobehub/lobe-chat"}
+{"number": 16117, "title": "为什么联网搜索日志出现SearXNG is not configured错误", "createdAt": "2026-06-20T10:18:47Z", "repo": "lobehub/lobe-chat"}
+{"number": 16312, "title": "云版本在任务的定时任务中自动生成的文档存在几个问题", "createdAt": "2026-06-25T13:58:08Z", "repo": "lobehub/lobe-chat"}
+{"number": 16365, "title": "ip模式下，无法访问market", "createdAt": "2026-06-27T15:50:53Z", "repo": "lobehub/lobe-chat"}
+{"number": 16429, "title": "Affordable multi-model API with USDT payment (for users in card-restricted regions)", "createdAt": "2026-06-29T11:01:55Z", "repo": "lobehub/lobe-chat"}
+{"number": 16464, "title": "How do I interact with my agent via the API?", "createdAt": "2026-06-30T07:42:17Z", "repo": "lobehub/lobe-chat"}
+{"number": 16479, "title": "阿里云新加坡服务器  访问 https://lobehub.com 被403 禁止访问了，多台服务器都有这个问题，怀疑是不是大规模封禁ip导致的，如何解决呢", "createdAt": "2026-06-30T13:42:15Z", "repo": "lobehub/lobe-chat"}
