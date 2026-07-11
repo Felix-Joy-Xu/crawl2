@@ -16595,9 +16595,10 @@
     17103
   ],
   "pr_idx": 4894,
-  "issue_idx": 11360,
+  "issue_idx": 11696,
   "disc_idx": 0,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
