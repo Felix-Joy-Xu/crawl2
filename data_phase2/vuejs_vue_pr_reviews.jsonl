@@ -1,0 +1,334 @@
+{"repo": "vuejs/vue", "pr_number": 10990, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-01-08T06:21:10Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 10990, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-01-28T11:03:06Z", "author": "MrHeer"}
+{"repo": "vuejs/vue", "pr_number": 11024, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-01-30T12:53:03Z", "author": "MrHeer"}
+{"repo": "vuejs/vue", "pr_number": 11031, "type": "review", "body": "fix qt env", "state": "COMMENTED", "createdAt": "2022-05-27T09:00:44Z", "author": "SuceV587"}
+{"repo": "vuejs/vue", "pr_number": 11050, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-01-26T13:58:55Z", "author": "MrHeer"}
+{"repo": "vuejs/vue", "pr_number": 11050, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2020-01-26T14:08:09Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11052, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-03-14T13:51:52Z", "author": "Akryum"}
+{"repo": "vuejs/vue", "pr_number": 11052, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-03-09T10:49:15Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11055, "type": "review", "body": "Can you please add a test too? You can search for warn in the project, it will help you find a test example", "state": "CHANGES_REQUESTED", "createdAt": "2020-01-28T10:23:32Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11055, "type": "review_comment", "body": "Can you revert style changes please", "createdAt": "2020-01-28T10:21:35Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11055, "type": "review_comment", "body": "here as well", "createdAt": "2020-01-28T10:21:41Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11055, "type": "review_comment", "body": "this is a dev warning, it should not throw but warn **in dev only** like other warnings", "createdAt": "2020-01-28T10:22:10Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11055, "type": "review_comment", "body": "This is unnecessary, we can do the check directly on the other file", "createdAt": "2020-01-28T10:22:28Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11064, "type": "review", "body": "LGTM", "state": "APPROVED", "createdAt": "2020-02-02T11:18:22Z", "author": "MrHeer"}
+{"repo": "vuejs/vue", "pr_number": 11064, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2020-02-03T09:06:50Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11065, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-02T17:24:41Z", "author": "Justineo"}
+{"repo": "vuejs/vue", "pr_number": 11065, "type": "review_comment", "body": "Maybe we should use *space characters* defined in HTML spec [here](https://www.w3.org/TR/html52/infrastructure.html#space-characters)?", "createdAt": "2020-02-02T17:24:41Z", "author": "Justineo"}
+{"repo": "vuejs/vue", "pr_number": 11065, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-03T15:23:34Z", "author": "despreston"}
+{"repo": "vuejs/vue", "pr_number": 11065, "type": "review_comment", "body": "Yeah, thats a good idea. The only possible char missing from the regex at this point would be `U+000C FORM FEED (FF)`", "createdAt": "2020-02-03T15:23:34Z", "author": "despreston"}
+{"repo": "vuejs/vue", "pr_number": 11065, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-02-03T16:54:13Z", "author": "Justineo"}
+{"repo": "vuejs/vue", "pr_number": 11065, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-03-24T10:35:08Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11078, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-02-05T12:14:09Z", "author": "MrHeer"}
+{"repo": "vuejs/vue", "pr_number": 11083, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-02-20T17:53:19Z", "author": "Nox04"}
+{"repo": "vuejs/vue", "pr_number": 11085, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2020-02-06T16:22:16Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11099, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-11T23:50:18Z", "author": "kaicataldo"}
+{"repo": "vuejs/vue", "pr_number": 11099, "type": "review_comment", "body": "This is now included the in this `env` globals by default.", "createdAt": "2020-02-11T23:50:18Z", "author": "kaicataldo"}
+{"repo": "vuejs/vue", "pr_number": 11099, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-11T23:50:34Z", "author": "kaicataldo"}
+{"repo": "vuejs/vue", "pr_number": 11099, "type": "review_comment", "body": "This fixes errors from https://eslint.org/docs/rules/no-prototype-builtins.", "createdAt": "2020-02-11T23:50:34Z", "author": "kaicataldo"}
+{"repo": "vuejs/vue", "pr_number": 11099, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-11T23:50:57Z", "author": "kaicataldo"}
+{"repo": "vuejs/vue", "pr_number": 11099, "type": "review_comment", "body": "This fixes errors from https://eslint.org/docs/rules/no-prototype-builtins.", "createdAt": "2020-02-11T23:50:56Z", "author": "kaicataldo"}
+{"repo": "vuejs/vue", "pr_number": 11099, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-11T23:51:00Z", "author": "kaicataldo"}
+{"repo": "vuejs/vue", "pr_number": 11099, "type": "review_comment", "body": "This fixes errors from https://eslint.org/docs/rules/no-prototype-builtins.", "createdAt": "2020-02-11T23:51:00Z", "author": "kaicataldo"}
+{"repo": "vuejs/vue", "pr_number": 11107, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2021-04-16T15:57:52Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-15T15:57:19Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review_comment", "body": "```suggestion\r\n  it('should not fail hydration with empty text vnodes children', () => {\r\n```", "createdAt": "2020-02-15T15:57:18Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-15T16:49:55Z", "author": "contribu"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review_comment", "body": "This results in child.elm === undefined and causes a crash in next patch.\r\nReproduction: https://github.com/deqwin/vue/compare/fix_ssr_hydration...contribu:fix_ssr_hydration_crash\r\n\r\nI think it is better to treat empty string nodes like https://github.com/vuejs/vue/issues/5117", "createdAt": "2020-02-15T16:49:54Z", "author": "contribu"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-16T02:19:29Z", "author": "deqwin"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review_comment", "body": "Thanks for your suggestions.", "createdAt": "2020-02-16T02:19:28Z", "author": "deqwin"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-16T02:22:21Z", "author": "deqwin"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review_comment", "body": "The fact is not that the vnode tree has an extra empty text node, but the DOM tree is missing a necessary empty text node.", "createdAt": "2020-02-16T02:22:20Z", "author": "deqwin"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-16T03:38:21Z", "author": "deqwin"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review_comment", "body": "@posva I have modified the code to deal with this problem and also updated the test.", "createdAt": "2020-02-16T03:38:21Z", "author": "deqwin"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-16T04:17:25Z", "author": "contribu"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review_comment", "body": "Thanks!\r\nI am unsure if this causes reflow during hydration and if the existing hydration code allows it.\r\nI think it shouldn't cause reflow if the existing hydration code disallows reflow.", "createdAt": "2020-02-16T04:17:25Z", "author": "contribu"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-16T08:43:17Z", "author": "deqwin"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review_comment", "body": "Yeah, it‘s worth further studying. However, it is necessary to keep the vnode structure and DOM structure consistent at all times. So I think it's ok to do this step here.", "createdAt": "2020-02-16T08:43:17Z", "author": "deqwin"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-19T10:58:35Z", "author": "contribu"}
+{"repo": "vuejs/vue", "pr_number": 11111, "type": "review_comment", "body": "Another solution is rendering empty text nodes as comment nodes in SSR like async placeholder or v-if=\"false\".\r\nI am unsure which solution is better.", "createdAt": "2020-02-19T10:58:34Z", "author": "contribu"}
+{"repo": "vuejs/vue", "pr_number": 11112, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-02-17T09:07:38Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11112, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-03-30T18:53:12Z", "author": "pikax"}
+{"repo": "vuejs/vue", "pr_number": 11121, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-02-22T14:53:58Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11129, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-03-01T19:15:50Z", "author": "sadikkuzu"}
+{"repo": "vuejs/vue", "pr_number": 11138, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-02-23T15:09:52Z", "author": "cuongdevjs"}
+{"repo": "vuejs/vue", "pr_number": 11138, "type": "review", "body": "not critical ", "state": "COMMENTED", "createdAt": "2020-02-23T15:12:40Z", "author": "cuongdevjs"}
+{"repo": "vuejs/vue", "pr_number": 11138, "type": "review", "body": "Can you add a test, please? It's not clear what you are trying to fix", "state": "CHANGES_REQUESTED", "createdAt": "2020-02-23T21:25:55Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11143, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-03-22T03:42:17Z", "author": "painotpi"}
+{"repo": "vuejs/vue", "pr_number": 11143, "type": "review_comment", "body": "The spec name imo should be something like,\r\n\"should not warn dot prefixed keywords\".\r\n\r\nAs the warning would appear even on general JS objects with a `delete` property and not just `$http`.", "createdAt": "2020-03-22T03:42:17Z", "author": "painotpi"}
+{"repo": "vuejs/vue", "pr_number": 11143, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-11-28T01:51:48Z", "author": "flyfishzy"}
+{"repo": "vuejs/vue", "pr_number": 11152, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-27T14:04:18Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11152, "type": "review_comment", "body": "I think it's fine to not use a conditional, the same way we allow `Intl` even though it's not supported before IE 11", "createdAt": "2020-02-27T14:04:17Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11152, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-27T14:29:05Z", "author": "shadowings-zy"}
+{"repo": "vuejs/vue", "pr_number": 11152, "type": "review_comment", "body": "OK，That sounds right，and I will add `BigInt` directly in makeMap()\r\n: )", "createdAt": "2020-02-27T14:29:05Z", "author": "shadowings-zy"}
+{"repo": "vuejs/vue", "pr_number": 11152, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-27T15:21:18Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11152, "type": "review_comment", "body": "let's put it up after the Intl, the comment is not really necessary", "createdAt": "2020-02-27T15:21:18Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11152, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-02-27T15:31:59Z", "author": "shadowings-zy"}
+{"repo": "vuejs/vue", "pr_number": 11152, "type": "review_comment", "body": "OK~, I fixed it in commit#4241f12", "createdAt": "2020-02-27T15:31:58Z", "author": "shadowings-zy"}
+{"repo": "vuejs/vue", "pr_number": 11152, "type": "review", "body": "Thanks", "state": "APPROVED", "createdAt": "2020-02-27T15:54:18Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11152, "type": "review", "body": "@shadowings-zy can you undo the merge you did? it seems to have messed up the PR", "state": "CHANGES_REQUESTED", "createdAt": "2020-10-02T12:10:06Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11152, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-02-24T11:16:23Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11157, "type": "review", "body": "@yyx990803, @sthagen\r\nBroken image in readme", "state": "COMMENTED", "createdAt": "2020-03-04T11:36:13Z", "author": "TriMoon"}
+{"repo": "vuejs/vue", "pr_number": 11157, "type": "review_comment", "body": "This SVG file is delivered with `Content-Type\ttext/plain; charset=utf-8`, hence it is not displayed in the browser and thus broken.", "createdAt": "2020-03-04T11:35:51Z", "author": "TriMoon"}
+{"repo": "vuejs/vue", "pr_number": 11159, "type": "review", "body": "The 2nd param of function `remove()` should be `Function`.\r\nSo, pass `undefined` to `remove()` will cause unhandled error.", "state": "COMMENTED", "createdAt": "2020-02-28T04:40:10Z", "author": "luoway"}
+{"repo": "vuejs/vue", "pr_number": 11159, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-02-28T09:13:31Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11160, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-08-25T08:47:00Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11160, "type": "review_comment", "body": "We can just drop if there is no `file`\r\n\r\n```suggestion\r\n      if (file && (clientManifest.async.indexOf(file) > -1 || !(/\\.(js|css)($|\\?)/.test(file))) {\r\n```", "createdAt": "2020-08-25T08:46:51Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11179, "type": "review", "body": "LGTM 👍 ", "state": "APPROVED", "createdAt": "2020-03-05T18:33:57Z", "author": "sadikkuzu"}
+{"repo": "vuejs/vue", "pr_number": 11185, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-03-05T19:53:15Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11185, "type": "review_comment", "body": "```suggestion\r\n          <img width=\"148px\" src=\"https://raw.githubusercontent.com/vuejs/vuejs.org/master/themes/vue/source/images/fastcoding_inc.svg?sanitize=true\">\r\n```", "createdAt": "2020-03-05T19:53:14Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11185, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-03-05T20:14:21Z", "author": "bakugod"}
+{"repo": "vuejs/vue", "pr_number": 11185, "type": "review_comment", "body": "thx :+1: ", "createdAt": "2020-03-05T20:14:21Z", "author": "bakugod"}
+{"repo": "vuejs/vue", "pr_number": 11189, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-03-08T15:59:56Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11191, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-04-03T12:14:16Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11191, "type": "review", "body": "okw", "state": "COMMENTED", "createdAt": "2020-12-21T06:17:54Z", "author": "mireinaa24hu"}
+{"repo": "vuejs/vue", "pr_number": 11196, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-03-11T21:26:39Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11196, "type": "review_comment", "body": "@yyx990803 the automatic patreon update is removing the sanitize query", "createdAt": "2020-03-11T21:26:39Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11223, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-03-20T15:38:02Z", "author": "kjleitz"}
+{"repo": "vuejs/vue", "pr_number": 11223, "type": "review_comment", "body": "To explain a little: calling `assertBoolean(value)` will only compile if `value` is precisely `boolean`, and _not if_ `value` is `boolean | AnotherType`, _nor if_ `value` is `any` (the latter is why `...lue: string extends A ? nev...` is there—it's just a way to throw if `value` is `any`).", "createdAt": "2020-03-20T15:38:02Z", "author": "kjleitz"}
+{"repo": "vuejs/vue", "pr_number": 11223, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-03-20T15:43:25Z", "author": "kjleitz"}
+{"repo": "vuejs/vue", "pr_number": 11223, "type": "review_comment", "body": "**For reference...**\r\n\r\nBefore the change, these lines were failing with:\r\n\r\n```ts\r\nthis.functionProp();\r\n```\r\n\r\n> (property) `functionProp`: `boolean | Function`\r\n> This expression is not callable.\r\n> No constituent of type '`boolean | Function`' is callable. ts(2349)\r\n\r\n```ts\r\nassertBoolean(this.functionPropWithBooleanReturnType());\r\n```\r\n\r\n> (property) `functionPropWithBooleanReturnType`: `boolean | (() => boolean)`\r\n> This expression is not callable.\r\n>   Not all constituents of type '`boolean | (() => boolean)`' are callable.\r\n>     Type '`false`' has no call signatures. ts(2349)", "createdAt": "2020-03-20T15:43:25Z", "author": "kjleitz"}
+{"repo": "vuejs/vue", "pr_number": 11235, "type": "review", "body": "Looks good to me.", "state": "APPROVED", "createdAt": "2020-04-12T13:04:34Z", "author": "ktsn"}
+{"repo": "vuejs/vue", "pr_number": 11286, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-04-06T12:36:55Z", "author": "MrHeer"}
+{"repo": "vuejs/vue", "pr_number": 11286, "type": "review", "body": "can you remove all changes from `dist` folders, please?", "state": "CHANGES_REQUESTED", "createdAt": "2020-04-06T14:25:12Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11326, "type": "review", "body": "This would indeed make the behavior consistent across browsers (e.g. Firefox doesn't trigger a `keyup`)!\r\n\r\nRelated commit: https://github.com/vuejs/vue/commit/29c348f3cf60c50a52cc98123f8c54fa8f5672fc", "state": "APPROVED", "createdAt": "2020-05-16T10:13:08Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11332, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-04-21T08:09:38Z", "author": "jacekkarczmarczyk"}
+{"repo": "vuejs/vue", "pr_number": 11332, "type": "review_comment", "body": "could be rewritten as \r\n```suggestion\r\n    return new VNode((typeof nodeOps.tagName(elm) == \"string\") ? nodeOps.tagName(elm).toLowerCase() : '', {}, [], undefined, elm)\r\n```", "createdAt": "2020-04-21T08:09:38Z", "author": "jacekkarczmarczyk"}
+{"repo": "vuejs/vue", "pr_number": 11392, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-05-14T09:58:37Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11392, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-07-12T03:19:39Z", "author": "3imed-jaberi"}
+{"repo": "vuejs/vue", "pr_number": 11408, "type": "review", "body": "can you remove all style changes and leave only the changes relevant to the bug you are fixing?", "state": "CHANGES_REQUESTED", "createdAt": "2020-05-23T10:01:18Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11434, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-06-28T09:34:15Z", "author": "MuhaddiMu"}
+{"repo": "vuejs/vue", "pr_number": 11434, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-07-16T08:24:37Z", "author": "ermanzohre"}
+{"repo": "vuejs/vue", "pr_number": 11434, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-07-17T12:25:11Z", "author": "ermanzohre"}
+{"repo": "vuejs/vue", "pr_number": 11434, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-08-13T11:59:15Z", "author": "Justineo"}
+{"repo": "vuejs/vue", "pr_number": 11436, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-06-05T06:43:06Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11463, "type": "review", "body": "LGTM 👍 ", "state": "APPROVED", "createdAt": "2020-11-29T16:40:19Z", "author": "3imed-jaberi"}
+{"repo": "vuejs/vue", "pr_number": 11479, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-07-02T06:57:54Z", "author": "fanchong02"}
+{"repo": "vuejs/vue", "pr_number": 11479, "type": "review_comment", "body": "boy,  Is there a grammatical problem?", "createdAt": "2020-07-02T06:57:54Z", "author": "fanchong02"}
+{"repo": "vuejs/vue", "pr_number": 11479, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-07-10T00:35:23Z", "author": "MohamedBeydoun"}
+{"repo": "vuejs/vue", "pr_number": 11481, "type": "review", "body": "Thanks!\r\nSince this change is only related to comments, you don't even need to run the test suit 😄 ", "state": "APPROVED", "createdAt": "2020-07-01T09:11:32Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11487, "type": "review", "body": "Thanks for the PR! I think this should be done at the compilation level (like the other removal of `script`). Right now `Vue.compile('<script />')` still creates a render function that renders the script, but it should just be a render function that returns null", "state": "CHANGES_REQUESTED", "createdAt": "2020-07-03T10:44:15Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11487, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2020-07-03T15:26:42Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11487, "type": "review_comment", "body": "can you add a comment above referencing the original issue?", "createdAt": "2020-07-03T15:26:38Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11487, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-07-03T15:30:41Z", "author": "shadowings-zy"}
+{"repo": "vuejs/vue", "pr_number": 11487, "type": "review_comment", "body": "ok, I will add the issue", "createdAt": "2020-07-03T15:30:41Z", "author": "shadowings-zy"}
+{"repo": "vuejs/vue", "pr_number": 11487, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2020-07-03T15:57:45Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11487, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-07-16T08:19:42Z", "author": "ermanzohre"}
+{"repo": "vuejs/vue", "pr_number": 11487, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-07-17T22:31:53Z", "author": "Nox04"}
+{"repo": "vuejs/vue", "pr_number": 11487, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-07-20T13:46:15Z", "author": "ermanzohre"}
+{"repo": "vuejs/vue", "pr_number": 11487, "type": "review", "body": "These are great changes!", "state": "APPROVED", "createdAt": "2020-08-03T14:40:09Z", "author": "larson-carter"}
+{"repo": "vuejs/vue", "pr_number": 11487, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-08-04T12:02:18Z", "author": "ermanzohre"}
+{"repo": "vuejs/vue", "pr_number": 11522, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-07-17T12:26:40Z", "author": "ermanzohre"}
+{"repo": "vuejs/vue", "pr_number": 11522, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-07-17T22:26:03Z", "author": "Nox04"}
+{"repo": "vuejs/vue", "pr_number": 11522, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-07-20T13:46:36Z", "author": "ermanzohre"}
+{"repo": "vuejs/vue", "pr_number": 11522, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-07-28T07:38:11Z", "author": "ermanzohre"}
+{"repo": "vuejs/vue", "pr_number": 11523, "type": "review", "body": "Thanks but this should be done only when using `v-bind=\"{'': 'foo'}`, not directly in the observer code. A test is also needed", "state": "CHANGES_REQUESTED", "createdAt": "2020-07-18T09:06:47Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11523, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-10-10T05:41:25Z", "author": "Gonzo4046"}
+{"repo": "vuejs/vue", "pr_number": 11537, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-08-04T12:04:00Z", "author": "ermanzohre"}
+{"repo": "vuejs/vue", "pr_number": 11542, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-07-29T22:20:52Z", "author": "adamhenson"}
+{"repo": "vuejs/vue", "pr_number": 11554, "type": "review", "body": "xxx", "state": "COMMENTED", "createdAt": "2020-08-07T07:54:51Z", "author": "pkf1994"}
+{"repo": "vuejs/vue", "pr_number": 11565, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-09-21T14:40:12Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11565, "type": "review_comment", "body": "```suggestion\r\n    let subs = this.subs\r\n```", "createdAt": "2020-09-21T14:40:11Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11565, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-09-21T14:40:19Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11565, "type": "review_comment", "body": "```suggestion\r\n      subs = this.subs.slice()\r\n```", "createdAt": "2020-09-21T14:40:18Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11565, "type": "review", "body": "Thank you!", "state": "APPROVED", "createdAt": "2020-09-21T14:46:31Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11568, "type": "review", "body": "Comment it.", "state": "COMMENTED", "createdAt": "2020-08-07T15:17:35Z", "author": "pkf1994"}
+{"repo": "vuejs/vue", "pr_number": 11578, "type": "review", "body": "Thanks for this and sorry for the late review!", "state": "COMMENTED", "createdAt": "2021-03-24T11:07:59Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11578, "type": "review_comment", "body": "Is there any reason we need a parameter instead of directly using `el` inside of the function?", "createdAt": "2021-03-24T11:07:49Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11578, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-07-13T15:43:24Z", "author": "krishan"}
+{"repo": "vuejs/vue", "pr_number": 11578, "type": "review_comment", "body": "I could be wrong, but AFAICS this could trigger a browser security error, if the `iFrame` is cross-origin, e.g. like this:\r\n\r\n```\r\nUncaught DOMException: Blocked a frame with origin \"http://localhost:8080\" from accessing a cross-origin frame.\r\n```", "createdAt": "2021-07-13T15:43:24Z", "author": "krishan"}
+{"repo": "vuejs/vue", "pr_number": 11651, "type": "review", "body": "link is invalid", "state": "CHANGES_REQUESTED", "createdAt": "2020-09-13T21:26:08Z", "author": "ghost"}
+{"repo": "vuejs/vue", "pr_number": 11699, "type": "review", "body": "LGTM", "state": "APPROVED", "createdAt": "2020-12-22T01:50:19Z", "author": "ghost"}
+{"repo": "vuejs/vue", "pr_number": 11704, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2020-10-05T10:09:02Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11706, "type": "review", "body": "lgtm", "state": "APPROVED", "createdAt": "2020-11-10T21:23:17Z", "author": "vhoyer"}
+{"repo": "vuejs/vue", "pr_number": 11706, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-03-24T10:42:32Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11723, "type": "review", "body": "Can you remove all the changes before _Browser compatibility_? Those are automatically generated anyway", "state": "CHANGES_REQUESTED", "createdAt": "2020-10-16T07:32:47Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11723, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2020-10-16T12:17:13Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11725, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-07-23T03:41:26Z", "author": "andrewboldi"}
+{"repo": "vuejs/vue", "pr_number": 11739, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-10-25T21:34:35Z", "author": "theskillwithin"}
+{"repo": "vuejs/vue", "pr_number": 11739, "type": "review_comment", "body": "why have .npmignore here?", "createdAt": "2020-10-25T21:34:35Z", "author": "theskillwithin"}
+{"repo": "vuejs/vue", "pr_number": 11739, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2020-10-25T21:37:00Z", "author": "reviewher"}
+{"repo": "vuejs/vue", "pr_number": 11739, "type": "review_comment", "body": "force of habit.  I wasn't sure if `npm pack` would pull in `.npmignore` by default", "createdAt": "2020-10-25T21:36:59Z", "author": "reviewher"}
+{"repo": "vuejs/vue", "pr_number": 11740, "type": "review", "body": "Review based on testing with https://unpkg.com/browse/@posva/test-ds-store@1.0.3/", "state": "CHANGES_REQUESTED", "createdAt": "2021-01-07T15:00:40Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11740, "type": "review_comment", "body": "should be `**/!.DS_Store`", "createdAt": "2021-01-07T14:59:58Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11740, "type": "review_comment", "body": "In order for the ignore rule to work, this one has to be more precise (like the other rules with extensions)", "createdAt": "2021-01-07T15:00:25Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11784, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2020-11-21T09:53:01Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11795, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-03-24T11:12:49Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11796, "type": "review", "body": "Duplicate https://github.com/vuejs/vue/pull/11817.", "state": "COMMENTED", "createdAt": "2021-02-12T20:42:58Z", "author": "suyundukov"}
+{"repo": "vuejs/vue", "pr_number": 11814, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-12-09T22:48:00Z", "author": "Octalbyte"}
+{"repo": "vuejs/vue", "pr_number": 11814, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2020-12-09T22:48:20Z", "author": "Octalbyte"}
+{"repo": "vuejs/vue", "pr_number": 11817, "type": "review", "body": "~~Duplicate~~ Extends https://github.com/vuejs/vue/pull/11796.", "state": "COMMENTED", "createdAt": "2021-02-12T20:42:19Z", "author": "suyundukov"}
+{"repo": "vuejs/vue", "pr_number": 11826, "type": "review", "body": "LGTM", "state": "APPROVED", "createdAt": "2020-12-22T01:49:53Z", "author": "ghost"}
+{"repo": "vuejs/vue", "pr_number": 11826, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-06-23T08:58:01Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11830, "type": "review", "body": "LGTM", "state": "APPROVED", "createdAt": "2020-12-22T01:49:29Z", "author": "ghost"}
+{"repo": "vuejs/vue", "pr_number": 11857, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-01-07T11:15:29Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11857, "type": "review_comment", "body": "should be `toBe` or `toEqual`", "createdAt": "2021-01-07T11:14:34Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11857, "type": "review_comment", "body": "It should still check that `res.length === 0`, no?", "createdAt": "2021-01-07T11:15:21Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11857, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-01-07T11:18:03Z", "author": "KSH-code"}
+{"repo": "vuejs/vue", "pr_number": 11857, "type": "review_comment", "body": "`Array#every` does return true if its length is 0", "createdAt": "2021-01-07T11:18:03Z", "author": "KSH-code"}
+{"repo": "vuejs/vue", "pr_number": 11857, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-01-07T11:19:39Z", "author": "KSH-code"}
+{"repo": "vuejs/vue", "pr_number": 11857, "type": "review_comment", "body": "so I think length check if zero, that is unnecessary", "createdAt": "2021-01-07T11:19:39Z", "author": "KSH-code"}
+{"repo": "vuejs/vue", "pr_number": 11857, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-01-07T13:57:49Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11858, "type": "review", "body": "ok", "state": "COMMENTED", "createdAt": "2021-01-07T15:25:25Z", "author": "GGupzHH"}
+{"repo": "vuejs/vue", "pr_number": 11861, "type": "review", "body": "lgtm", "state": "APPROVED", "createdAt": "2021-02-02T00:11:17Z", "author": "3imed-jaberi"}
+{"repo": "vuejs/vue", "pr_number": 11861, "type": "review", "body": "LGTM!", "state": "APPROVED", "createdAt": "2021-05-05T09:33:22Z", "author": "aarsxx"}
+{"repo": "vuejs/vue", "pr_number": 11861, "type": "review", "body": "lgtm 💯", "state": "APPROVED", "createdAt": "2021-09-25T21:45:20Z", "author": "3imed-jaberi"}
+{"repo": "vuejs/vue", "pr_number": 11863, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2021-01-30T17:12:27Z", "author": "blake-newman"}
+{"repo": "vuejs/vue", "pr_number": 11863, "type": "review_comment", "body": "`output.library.type`", "createdAt": "2021-01-30T17:12:22Z", "author": "blake-newman"}
+{"repo": "vuejs/vue", "pr_number": 11863, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-03-10T16:56:08Z", "author": "tibineagu"}
+{"repo": "vuejs/vue", "pr_number": 11863, "type": "review_comment", "body": "@blake-newman According to the [webpack 5 documentation](https://webpack.js.org/configuration/output/#outputlibrary), I dont think `output.library.type` is what's required **in the webpack config**.\r\n\r\nThe [config supports `output.libraryTarget: 'commonjs2'`](https://webpack.js.org/configuration/output/#librarytarget-commonjs2) as until now.\r\n\r\nIndeed, the logic here should _read_ the value from `library.type` (I haven't checked, trusting the author on this one), but the warning to users needs to mention the proper webpack config - which is still `output.libraryTarget`.", "createdAt": "2021-03-10T16:56:07Z", "author": "tibineagu"}
+{"repo": "vuejs/vue", "pr_number": 11863, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-03-25T03:39:30Z", "author": "lmiller1990"}
+{"repo": "vuejs/vue", "pr_number": 11863, "type": "review_comment", "body": "```suggestion\r\n          if (isObject(file) && file.name) {\r\n            return file.name\r\n          } else {\r\n            return file\r\n```", "createdAt": "2021-03-25T03:39:29Z", "author": "lmiller1990"}
+{"repo": "vuejs/vue", "pr_number": 11863, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-03-25T03:39:47Z", "author": "lmiller1990"}
+{"repo": "vuejs/vue", "pr_number": 11863, "type": "review_comment", "body": "```suggestion\r\n          if ( isObject(file) && file.name) {\r\n            return file.name\r\n          } else {\r\n            return file\r\n```", "createdAt": "2021-03-25T03:39:46Z", "author": "lmiller1990"}
+{"repo": "vuejs/vue", "pr_number": 11863, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-03-25T03:39:59Z", "author": "lmiller1990"}
+{"repo": "vuejs/vue", "pr_number": 11863, "type": "review_comment", "body": "```suggestion\r\n            bundle.maps[asset.info.related.sourceMap.replace(/\\.map$/, '')] = JSON.parse(compilation.assets[asset.info.related.sourceMap].source())\r\n```", "createdAt": "2021-03-25T03:39:59Z", "author": "lmiller1990"}
+{"repo": "vuejs/vue", "pr_number": 11863, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-03-30T09:21:42Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11863, "type": "review_comment", "body": "```suggestion\r\n      const needed = [].concat(initial[0] ? [initial[0]] : [], async, initial.slice(1))\r\n```", "createdAt": "2021-03-30T09:21:42Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-01-31T21:28:54Z", "author": "Progowi"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review_comment", "body": "just asking - maybe it's a good idea to trim the name too?", "createdAt": "2021-01-31T21:28:54Z", "author": "Progowi"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-02-01T02:10:39Z", "author": "JerryYuanJ"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review_comment", "body": "makes sense, sorry for missing that, thanks.", "createdAt": "2021-02-01T02:10:39Z", "author": "JerryYuanJ"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-02-02T00:09:47Z", "author": "3imed-jaberi"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-02-04T07:49:38Z", "author": "Leo-liiiiii"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-02-06T02:29:55Z", "author": "w3bdesign"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2021-02-09T20:46:47Z", "author": "suyundukov"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review_comment", "body": "Just wondering, do we really need to call `toString` here? Isn't `name` already a string?", "createdAt": "2021-02-09T20:46:32Z", "author": "suyundukov"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-02-10T01:36:46Z", "author": "JerryYuanJ"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review_comment", "body": "Thanks for pointing out. The name is fetched from this function:\r\n```js\r\nfunction getComponentName (opts: ?VNodeComponentOptions): ?string {\r\n  return opts && (opts.Ctor.options.name || opts.tag)\r\n}\r\n```\r\nSince the `options.name` is not required and `opt.tag` is optional: \r\n```js\r\nexport interface VNodeComponentOptions {\r\n  Ctor: typeof Vue;\r\n  propsData?: object;\r\n  listeners?: object;\r\n  children?: VNode[];\r\n  tag?: string;\r\n}\r\n```\r\nso here I use `toString` for double check.\r\n\r\n", "createdAt": "2021-02-10T01:36:46Z", "author": "JerryYuanJ"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-02-10T18:01:43Z", "author": "suyundukov"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review_comment", "body": "Thank you for your answer. You are right, we are getting `name` via `getComponentName`, but before calling `matches`, we are checking that `name` is not `null|undefined`:\r\n\r\n```js\r\n// included\r\n(include && (!name || !matches(include, name))) ||\r\n// excluded\r\n(exclude && name && matches(exclude, name))\r\n```", "createdAt": "2021-02-10T18:01:43Z", "author": "suyundukov"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-02-10T18:02:18Z", "author": "suyundukov"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review_comment", "body": "What I'm trying to say is that `matches` will always be called with `name` as string. It's declared as `string` not `?string`.\r\n\r\n- `matches` is called in `pruneCache`, there is a verification that `name` is not null.\r\n\r\n- `matches` is called in `render`, there is a verification that `name` is not null.", "createdAt": "2021-02-10T18:02:17Z", "author": "suyundukov"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-02-18T01:41:21Z", "author": "JerryYuanJ"}
+{"repo": "vuejs/vue", "pr_number": 11882, "type": "review_comment", "body": "Yes, you're right, I'll update it. Thanks.", "createdAt": "2021-02-18T01:41:21Z", "author": "JerryYuanJ"}
+{"repo": "vuejs/vue", "pr_number": 11904, "type": "review", "body": "~~Duplicate https://github.com/vuejs/vue/pull/11908.~~", "state": "COMMENTED", "createdAt": "2021-02-12T20:35:08Z", "author": "suyundukov"}
+{"repo": "vuejs/vue", "pr_number": 11904, "type": "review", "body": "obviously approved", "state": "APPROVED", "createdAt": "2021-02-27T01:31:07Z", "author": "CyberFlameGO"}
+{"repo": "vuejs/vue", "pr_number": 11906, "type": "review", "body": "Can you add a test?", "state": "CHANGES_REQUESTED", "createdAt": "2021-02-11T12:58:28Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11906, "type": "review", "body": "Thanks!", "state": "CHANGES_REQUESTED", "createdAt": "2021-02-19T13:45:29Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11906, "type": "review_comment", "body": "```suggestion\r\n}\r\n```", "createdAt": "2021-02-19T13:42:37Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11906, "type": "review_comment", "body": "Shouldn't component be typed?\r\n```suggestion\r\n  component: Promise<Component<Data, Methods, Computed, Props> | EsModuleComponent>;\r\n```\r\n\r\nWe could also extend `EsModuleComponent` to accept the same generics", "createdAt": "2021-02-19T13:44:43Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11906, "type": "review_comment", "body": "can you adapt the style to follow the existing one? eslint --fix should remove the semi colons and extra commas", "createdAt": "2021-02-19T13:45:24Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11906, "type": "review", "body": "Can you leave all unrelated changes out of the PR please? I think we will handle the formatting in a different commit", "state": "CHANGES_REQUESTED", "createdAt": "2021-02-19T14:25:30Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11906, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-02-23T10:28:35Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11906, "type": "review_comment", "body": "Isn't this the same as:\r\n\r\n```suggestion\r\nVue.component(\"async-compponent1\", b)\r\n```", "createdAt": "2021-02-23T10:28:23Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11906, "type": "review_comment", "body": "same here?\r\n\r\n```suggestion\r\nVue.component(\"async-compponent2\", d)\r\n```", "createdAt": "2021-02-23T10:28:26Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11906, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-02-25T12:37:32Z", "author": "mathe42"}
+{"repo": "vuejs/vue", "pr_number": 11906, "type": "review_comment", "body": "Its not the same but youre right we can remove them...", "createdAt": "2021-02-25T12:37:32Z", "author": "mathe42"}
+{"repo": "vuejs/vue", "pr_number": 11906, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2021-06-03T13:13:21Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11908, "type": "review", "body": "Duplicate https://github.com/vuejs/vue/pull/11904.", "state": "CHANGES_REQUESTED", "createdAt": "2021-02-12T20:34:19Z", "author": "suyundukov"}
+{"repo": "vuejs/vue", "pr_number": 11910, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-02-13T03:22:39Z", "author": "yuwu9145"}
+{"repo": "vuejs/vue", "pr_number": 11910, "type": "review_comment", "body": "Input tag should be able to display `-0`. However, `String(-0)` will result in 0.\r\n\r\n", "createdAt": "2021-02-13T03:22:39Z", "author": "yuwu9145"}
+{"repo": "vuejs/vue", "pr_number": 11910, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-02-13T04:39:20Z", "author": "yuwu9145"}
+{"repo": "vuejs/vue", "pr_number": 11910, "type": "review_comment", "body": "According [this eslint rule](https://eslint.org/docs/rules/no-compare-neg-zero), `Number(v) === -0` shall not be used. In addition, due to `Object.is` is not supported by IE. Therefore, `1/Number(v) === -Infinity` is used to determine whether `Number(v)` is `-0` ", "createdAt": "2021-02-13T04:39:20Z", "author": "yuwu9145"}
+{"repo": "vuejs/vue", "pr_number": 11910, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-02-18T04:09:43Z", "author": "sirlancelot"}
+{"repo": "vuejs/vue", "pr_number": 11910, "type": "review_comment", "body": "In my testing, the `isNaN()` check is unnecessary, as is the `Number(v)` conversion. `return (1 / v) === -Infinity` should do it.", "createdAt": "2021-02-18T04:09:43Z", "author": "sirlancelot"}
+{"repo": "vuejs/vue", "pr_number": 11910, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-02-18T04:22:22Z", "author": "sirlancelot"}
+{"repo": "vuejs/vue", "pr_number": 11910, "type": "review_comment", "body": "I think in the interest of least impactful, this collection of ternaries should keep the `isUndef()` at the top like so:\r\n\r\n```js\r\nconst strCur = isUndef(cur) ? '' : isNumNegZero(cur) ? '-0' : String(cur)\r\n```\r\n\r\nThis keeps the case of `cur` being empty as the fastest/shortest path.", "createdAt": "2021-02-18T04:22:22Z", "author": "sirlancelot"}
+{"repo": "vuejs/vue", "pr_number": 11910, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-02-18T12:00:08Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11910, "type": "review_comment", "body": "let's inline the check and remove the function\r\n\r\n```suggestion\r\n  const n = 1 / val === -Infinity ? '-0' : parseFloat(val)\r\n```", "createdAt": "2021-02-18T12:00:07Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11910, "type": "review", "body": "I don't think this is still good as, I will say it again, it should be an edge case of vmodel. It's also important that v-model.number sets the value as `-0` and not `'-0'` when typing `-0`. Could you add both unit tests?", "state": "CHANGES_REQUESTED", "createdAt": "2021-02-18T12:14:19Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11914, "type": "review", "body": "LGTM :)", "state": "APPROVED", "createdAt": "2021-02-27T01:31:42Z", "author": "CyberFlameGO"}
+{"repo": "vuejs/vue", "pr_number": 11914, "type": "review", "body": "Thanks", "state": "APPROVED", "createdAt": "2021-04-07T09:37:44Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11921, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-02-27T01:29:55Z", "author": "CyberFlameGO"}
+{"repo": "vuejs/vue", "pr_number": 11921, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-02-27T01:29:59Z", "author": "CyberFlameGO"}
+{"repo": "vuejs/vue", "pr_number": 11921, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-02-27T01:30:03Z", "author": "CyberFlameGO"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review", "body": "can you add a unit test?", "state": "CHANGES_REQUESTED", "createdAt": "2021-03-08T08:36:32Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-03-08T12:21:08Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review_comment", "body": "Is this necessary?\r\nI think I shouldn't have said unit test. A regression test closer to what you provided as a reproduction would be perfect", "createdAt": "2021-03-08T12:21:08Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-03-08T13:24:23Z", "author": "delaneyb"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review_comment", "body": "Is this more like what you were thinking?\r\n![image](https://user-images.githubusercontent.com/18545667/110326827-486fa900-806d-11eb-976a-e940d7123391.png)\r\n", "createdAt": "2021-03-08T13:24:23Z", "author": "delaneyb"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-03-08T14:59:21Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review_comment", "body": "Yes, that looks like a better test for this scenario", "createdAt": "2021-03-08T14:59:21Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2021-03-10T11:39:10Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review_comment", "body": "let's use a spy here too since the Dep.target is an implementation detail", "createdAt": "2021-03-10T11:37:16Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review_comment", "body": "```suggestion\r\n        expect(parentUpdate).not.toHaveBeenCalled()\r\n```\r\n\r\nor\r\n\r\n```suggestion\r\n        expect(parentUpdate).toHaveBeenCalledTimes(0)\r\n```", "createdAt": "2021-03-10T11:38:54Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-03-10T12:45:45Z", "author": "delaneyb"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review_comment", "body": "Are you suggesting not having our own function there? When the watcher callback is called it either needs to check Dep.target or touch childData.a to cause the issue. Should I just replace the Dep.target check with a `let x = this.a`, and then we rely on the `expect(parentUpdate).not.toHaveBeenCalled()`?", "createdAt": "2021-03-10T12:45:45Z", "author": "delaneyb"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2021-03-10T13:46:57Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review_comment", "body": "Let's move the data variable outside of new Vue, and return it here\r\n\r\n```suggestion\r\n              return childData\r\n```", "createdAt": "2021-03-10T13:43:43Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review_comment", "body": "Here it should be something else\r\n```suggestion\r\n              anything: {\r\n```", "createdAt": "2021-03-10T13:44:38Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review_comment", "body": "```suggestion\r\n      let calls = 0\r\n      const childData = { a: 1 }\r\n```", "createdAt": "2021-03-10T13:44:54Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review_comment", "body": "I'm realizing I was giving you hints as if they were jest spies but they are not. The `toHaveBeenCalled()` seems to work though. There is probably a way to mock the implementation of the spy but it's not necessary, it might be an outdated version of Jasmine.\r\nReading `this.a` is better, yes", "createdAt": "2021-03-10T13:46:54Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11943, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2021-03-11T11:43:27Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11963, "type": "review", "body": "Thanks for this!", "state": "COMMENTED", "createdAt": "2021-03-24T10:38:35Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11963, "type": "review_comment", "body": "shouldn't we keep the length check of 1?\r\n```suggestion\r\n    let vnode: VNode = res && res.length === 1 && res[0]\r\n```", "createdAt": "2021-03-24T10:38:09Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11963, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-03-24T11:40:57Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11963, "type": "review_comment", "body": "```suggestion\r\n    let vnode: VNode = res && res[0]\r\n```\r\n\r\nI was wrong I guess", "createdAt": "2021-03-24T11:40:56Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11963, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-06-02T11:01:33Z", "author": "caugner"}
+{"repo": "vuejs/vue", "pr_number": 11963, "type": "review_comment", "body": "This conversation was marked as resolved, but the suggested change didn't make it into the MR, and possibly caused #12102.\r\n\r\n**edit**: It actually made it into the MR branch, but was reverted subsequently by @posva in 3451090cd7af50a79029c9d281cfff1bc5788e31.", "createdAt": "2021-06-02T11:01:33Z", "author": "caugner"}
+{"repo": "vuejs/vue", "pr_number": 11964, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-03-17T17:06:38Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 11968, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2021-05-13T21:05:25Z", "author": "NeonWizard"}
+{"repo": "vuejs/vue", "pr_number": 11968, "type": "review_comment", "body": "This is unnecessary considering there is only one language in the matrix.", "createdAt": "2021-05-13T21:02:35Z", "author": "NeonWizard"}
+{"repo": "vuejs/vue", "pr_number": 12001, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-04-07T14:42:54Z", "author": "KaelWD"}
+{"repo": "vuejs/vue", "pr_number": 12001, "type": "review_comment", "body": "Lots of these packages have `@types/<name>` available on npm", "createdAt": "2021-04-07T14:42:54Z", "author": "KaelWD"}
+{"repo": "vuejs/vue", "pr_number": 12001, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-04-07T14:43:55Z", "author": "KaelWD"}
+{"repo": "vuejs/vue", "pr_number": 12001, "type": "review_comment", "body": "```suggestion\r\n  export default function deindent (input: string): string\r\n```", "createdAt": "2021-04-07T14:43:54Z", "author": "KaelWD"}
+{"repo": "vuejs/vue", "pr_number": 12001, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-08-29T01:58:21Z", "author": "iceman201"}
+{"repo": "vuejs/vue", "pr_number": 12002, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2021-04-30T10:53:25Z", "author": "haoqunjiang"}
+{"repo": "vuejs/vue", "pr_number": 12002, "type": "review_comment", "body": "It is an optional peer dependency.\r\nUsers should be able to use this package without webpack.", "createdAt": "2021-04-30T06:52:26Z", "author": "haoqunjiang"}
+{"repo": "vuejs/vue", "pr_number": 12002, "type": "review_comment", "body": "Why not just put the stage name in the `onEmit` function? It's not used anywhere else", "createdAt": "2021-04-30T10:27:26Z", "author": "haoqunjiang"}
+{"repo": "vuejs/vue", "pr_number": 12002, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-05-02T04:10:51Z", "author": "gzzhanghao"}
+{"repo": "vuejs/vue", "pr_number": 12002, "type": "review_comment", "body": "@sodatea client plugin and server plugin are applied in different stage, so I think it's better to specify the stage name here.", "createdAt": "2021-05-02T04:10:50Z", "author": "gzzhanghao"}
+{"repo": "vuejs/vue", "pr_number": 12002, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-05-29T05:27:00Z", "author": "haoqunjiang"}
+{"repo": "vuejs/vue", "pr_number": 12028, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-04-24T13:12:24Z", "author": "chethan-kumar-dev"}
+{"repo": "vuejs/vue", "pr_number": 12028, "type": "review_comment", "body": "how sure are you its correct", "createdAt": "2021-04-24T13:12:24Z", "author": "chethan-kumar-dev"}
+{"repo": "vuejs/vue", "pr_number": 12032, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-04-26T08:01:35Z", "author": "Zxilly"}
+{"repo": "vuejs/vue", "pr_number": 12066, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-05-23T17:48:05Z", "author": "aarsxx"}
+{"repo": "vuejs/vue", "pr_number": 12069, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-08-31T01:16:30Z", "author": "iceman201"}
+{"repo": "vuejs/vue", "pr_number": 12071, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-05-11T19:51:03Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12071, "type": "review_comment", "body": "This is not the same as before. I think it should be\r\n```suggestion\r\n  const val = el.attrsMap[name] != null\r\n  if (val) {\r\n```", "createdAt": "2021-05-11T19:51:02Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12071, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-05-12T01:07:14Z", "author": "Vgbire"}
+{"repo": "vuejs/vue", "pr_number": 12071, "type": "review_comment", "body": "No,the val should be return at the end of function. \r\nIf you do that，the test case won't pass\r\nIn the judgment statement, it only judges whether el.attrsmap[name] is not equal to null, and assigns its value to Val by the way\r\n", "createdAt": "2021-05-12T01:07:14Z", "author": "Vgbire"}
+{"repo": "vuejs/vue", "pr_number": 12071, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-05-12T06:58:27Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12071, "type": "review_comment", "body": "exactly, so you are changing the existing behavior...", "createdAt": "2021-05-12T06:58:27Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12071, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-05-12T07:36:17Z", "author": "Vgbire"}
+{"repo": "vuejs/vue", "pr_number": 12071, "type": "review_comment", "body": "When I read the source code, I encountered a lot of code styles that I don't think are very good. I don't think the style of my code is very good, I just try to correct it.", "createdAt": "2021-05-12T07:36:16Z", "author": "Vgbire"}
+{"repo": "vuejs/vue", "pr_number": 12071, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-05-12T07:37:12Z", "author": "Vgbire"}
+{"repo": "vuejs/vue", "pr_number": 12071, "type": "review_comment", "body": "I have also been puzzled about whether to mention such a simple pr", "createdAt": "2021-05-12T07:37:12Z", "author": "Vgbire"}
+{"repo": "vuejs/vue", "pr_number": 12104, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-06-02T12:24:08Z", "author": "caugner"}
+{"repo": "vuejs/vue", "pr_number": 12104, "type": "review_comment", "body": "The type annotation suggests that `vnode` is always a `VNode`, but IMO it can also be `undefined`. Otherwise we wouldn't need the `!vnode` check below.", "createdAt": "2021-06-02T12:24:07Z", "author": "caugner"}
+{"repo": "vuejs/vue", "pr_number": 12104, "type": "review", "body": "LGTM, even though my concerns regarding the `vnode` variable remain (`res.length == 0` vs `res.length === 1` seems more intuitive to me).", "state": "APPROVED", "createdAt": "2021-06-02T12:36:39Z", "author": "caugner"}
+{"repo": "vuejs/vue", "pr_number": 12132, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-06-25T13:42:14Z", "author": "aarsxx"}
+{"repo": "vuejs/vue", "pr_number": 12132, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-06-29T16:05:58Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12164, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-07-03T06:48:09Z", "author": "bishalbaaniya123"}
+{"repo": "vuejs/vue", "pr_number": 12195, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2021-09-08T09:19:22Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12195, "type": "review_comment", "body": "```suggestion\r\n  it('condenses whitespace in staticClass', done => {\r\n```", "createdAt": "2021-09-08T09:15:43Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12195, "type": "review_comment", "body": "```suggestion\r\n  it('condenses whitespace in staticClass merge in a component', done => {\r\n```", "createdAt": "2021-09-08T09:15:54Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12195, "type": "review_comment", "body": "```suggestion\r\n    el.staticClass = JSON.stringify(staticClass.replace(/\\s+/g, ' ').trim())\r\n```", "createdAt": "2021-09-08T09:17:21Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12214, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-08-31T01:16:00Z", "author": "iceman201"}
+{"repo": "vuejs/vue", "pr_number": 12291, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2021-09-22T13:58:03Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12318, "type": "review", "body": "Can you add one of multiple unit tests?", "state": "CHANGES_REQUESTED", "createdAt": "2021-10-10T10:48:10Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12321, "type": "review", "body": "Can you add a test?", "state": "CHANGES_REQUESTED", "createdAt": "2021-10-12T09:02:09Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12321, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2021-10-12T10:44:38Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12338, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-11-10T03:34:03Z", "author": "ghost"}
+{"repo": "vuejs/vue", "pr_number": 12338, "type": "review_comment", "body": "Nice! 🎉", "createdAt": "2021-11-10T03:34:02Z", "author": "ghost"}
+{"repo": "vuejs/vue", "pr_number": 12344, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2021-11-03T18:45:01Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12344, "type": "review_comment", "body": "I think that if the style is set to anything manually via `style=\"display: none\"` or with `:style`, it should probably keep it as well", "createdAt": "2021-11-03T18:45:01Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12376, "type": "review", "body": "Aside from these minor comments, the change LGTM. Thank you for making it.", "state": "COMMENTED", "createdAt": "2022-01-13T01:07:43Z", "author": "abdih"}
+{"repo": "vuejs/vue", "pr_number": 12376, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-01-13T01:08:00Z", "author": "abdih"}
+{"repo": "vuejs/vue", "pr_number": 12376, "type": "review_comment", "body": "Typo: extra space.", "createdAt": "2022-01-13T01:08:00Z", "author": "abdih"}
+{"repo": "vuejs/vue", "pr_number": 12376, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-01-13T01:09:23Z", "author": "abdih"}
+{"repo": "vuejs/vue", "pr_number": 12376, "type": "review_comment", "body": "```suggestion\r\n    (typeof value === 'number' && (noUnitNumericStyleProps[key] || cssVarRE.test(key))) ||\r\n```", "createdAt": "2022-01-13T01:09:22Z", "author": "abdih"}
+{"repo": "vuejs/vue", "pr_number": 12376, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-01-15T21:18:42Z", "author": "fieteboerner"}
+{"repo": "vuejs/vue", "pr_number": 12376, "type": "review_comment", "body": "fixed", "createdAt": "2022-01-15T21:18:42Z", "author": "fieteboerner"}
+{"repo": "vuejs/vue", "pr_number": 12376, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-01-15T21:18:51Z", "author": "fieteboerner"}
+{"repo": "vuejs/vue", "pr_number": 12376, "type": "review_comment", "body": "applied", "createdAt": "2022-01-15T21:18:50Z", "author": "fieteboerner"}
+{"repo": "vuejs/vue", "pr_number": 12403, "type": "review", "body": "Thanks!", "state": "CHANGES_REQUESTED", "createdAt": "2022-02-02T09:44:53Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12403, "type": "review_comment", "body": "can we add back this check?", "createdAt": "2022-02-02T09:44:48Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12403, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-02-08T16:33:58Z", "author": "thomasrockhu-codecov"}
+{"repo": "vuejs/vue", "pr_number": 12403, "type": "review_comment", "body": "@posva done!", "createdAt": "2022-02-08T16:33:58Z", "author": "thomasrockhu-codecov"}
+{"repo": "vuejs/vue", "pr_number": 12406, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2022-01-04T01:22:14Z", "author": "yyx990803"}
+{"repo": "vuejs/vue", "pr_number": 12406, "type": "review_comment", "body": "```suggestion\r\n        <a href=\"https://www.authing.cn/welcome?utm_source=Vuejs&utm_medium=CPT&utm_campaign=GitHub&utm_term=readme\" target=\"_blank\">\r\n```", "createdAt": "2022-01-04T01:21:41Z", "author": "yyx990803"}
+{"repo": "vuejs/vue", "pr_number": 12406, "type": "review_comment", "body": "```suggestion\r\n        <a href=\"https://www.authing.cn/welcome?utm_source=Vuejs&utm_medium=CPT&utm_campaign=GitHub&utm_term=readme\" target=\"_blank\">\r\n```", "createdAt": "2022-01-04T01:22:06Z", "author": "yyx990803"}
+{"repo": "vuejs/vue", "pr_number": 12419, "type": "review", "body": "lgtm", "state": "APPROVED", "createdAt": "2022-01-14T01:45:46Z", "author": "kirakoki"}
+{"repo": "vuejs/vue", "pr_number": 12435, "type": "review", "body": "LGTM", "state": "APPROVED", "createdAt": "2022-07-04T05:20:32Z", "author": "ulivz"}
+{"repo": "vuejs/vue", "pr_number": 12435, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-05-11T12:02:41Z", "author": "SpySioutis"}
+{"repo": "vuejs/vue", "pr_number": 12487, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-07-04T16:15:57Z", "author": "BlackCrowxyz"}
+{"repo": "vuejs/vue", "pr_number": 12524, "type": "review", "body": "You've run code formatting on whole file", "state": "CHANGES_REQUESTED", "createdAt": "2022-04-25T22:52:37Z", "author": "swrzalek"}
+{"repo": "vuejs/vue", "pr_number": 12525, "type": "review", "body": "What is this changing? Remove Al stylistic changes please", "state": "CHANGES_REQUESTED", "createdAt": "2022-04-18T11:58:46Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12526, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2022-04-29T10:02:45Z", "author": "dammy001"}
+{"repo": "vuejs/vue", "pr_number": 12526, "type": "review_comment", "body": "can you revert the code formatting to single quote so we can know the actual changes", "createdAt": "2022-04-29T10:02:40Z", "author": "dammy001"}
+{"repo": "vuejs/vue", "pr_number": 12527, "type": "review", "body": "Same as the other pr: please remove the stylistic changes in all t he pris so we can see what was actually changed 😄", "state": "CHANGES_REQUESTED", "createdAt": "2022-04-18T12:00:18Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12542, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2022-05-24T07:12:22Z", "author": "posva"}
+{"repo": "vuejs/vue", "pr_number": 12542, "type": "review", "body": "Actually, it would be better to add a new script lint that calls prettier without `--write` and add the `--write` in the `format` script instead. Similar to this: https://github.com/vuejs/router/blob/main/package.json#L39-L42\r\n\r\nOtherwise it wouldn't be linting.", "state": "CHANGES_REQUESTED", "createdAt": "2022-05-24T07:14:30Z", "author": "posva"}

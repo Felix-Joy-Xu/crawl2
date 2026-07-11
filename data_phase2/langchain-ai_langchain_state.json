@@ -33011,11 +33011,12 @@
     35700
   ],
   "pr_idx": 23245,
-  "issue_idx": 9730,
-  "disc_idx": 0,
+  "issue_idx": 9755,
+  "disc_idx": 4,
   "failed_pr": [
     34113
   ],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
