@@ -35906,3 +35906,316 @@
 {"repo": "vercel/next.js", "pr_number": 47319, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-23T12:07:48Z", "author": "timneutkens"}
 {"repo": "vercel/next.js", "pr_number": 47319, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T16:10:35Z", "author": "timneutkens"}
 {"repo": "vercel/next.js", "pr_number": 47322, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-20T17:56:42Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47323, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-20T20:58:06Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47327, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-20T22:21:06Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47328, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-22T21:04:26Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47328, "type": "review_comment", "body": "do we need to check && NotFound ? I thought it's always defined since we also have a default one?", "createdAt": "2023-03-22T21:04:02Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47328, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-22T21:08:35Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47328, "type": "review_comment", "body": "It is possible to be `undefined` because this might not be the root layer.", "createdAt": "2023-03-22T21:08:35Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47328, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-22T21:14:18Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47336, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-21T12:58:53Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 47339, "type": "review", "body": "Thanks!", "state": "DISMISSED", "createdAt": "2023-03-21T10:36:19Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 47342, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-21T10:51:01Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47342, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-21T11:17:26Z", "author": "sokra"}
+{"repo": "vercel/next.js", "pr_number": 47343, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-21T11:40:22Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47345, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-21T18:53:48Z", "author": "gnoff"}
+{"repo": "vercel/next.js", "pr_number": 47345, "type": "review_comment", "body": "Does this eliminate the need for the similar check in `use-error-handler.ts`?", "createdAt": "2023-03-21T18:52:57Z", "author": "gnoff"}
+{"repo": "vercel/next.js", "pr_number": 47345, "type": "review", "body": "lgtm", "state": "APPROVED", "createdAt": "2023-03-22T08:09:38Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47345, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-22T08:10:53Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47345, "type": "review_comment", "body": "Yeah kind of does but doesn't hurt to leave it in there as it's dev-only.", "createdAt": "2023-03-22T08:10:53Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47346, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-21T12:57:03Z", "author": "jankaifer"}
+{"repo": "vercel/next.js", "pr_number": 47352, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-21T16:02:30Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 47352, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-21T23:57:12Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47358, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-21T15:41:32Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 47358, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-22T00:03:01Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47364, "type": "review", "body": "clever :) ", "state": "APPROVED", "createdAt": "2023-03-21T17:09:54Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47364, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-21T17:18:43Z", "author": "Brooooooklyn"}
+{"repo": "vercel/next.js", "pr_number": 47364, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-21T17:35:52Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47365, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-27T19:17:45Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47365, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-28T17:35:56Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47365, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-31T21:32:58Z", "author": "sokra"}
+{"repo": "vercel/next.js", "pr_number": 47365, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-31T23:10:00Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47365, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-04-03T17:32:00Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47367, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-21T18:12:39Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47368, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-22T09:03:24Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47369, "type": "review", "body": "I'm kinda surprised so much of this needs to be duplicated. Shouldn't a Google Font just be a Local Font that needs to be downloaded first?", "state": "COMMENTED", "createdAt": "2023-03-23T02:48:26Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47369, "type": "review_comment", "body": "Can this ever not return a String? If so, shouldn't this just be `StringVc`?", "createdAt": "2023-03-23T02:43:26Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47369, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-24T01:58:19Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47369, "type": "review_comment", "body": "Can you write a unit test for this deserializer? Something like https://github.com/vercel/turbo/blob/5b32049998ad491566154c037ce0d2d4b9273965/crates/turbo-tasks-bytes/src/bytes.rs#L94-L95", "createdAt": "2023-03-24T01:57:24Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47369, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-25T02:14:46Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47369, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-27T15:25:05Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47369, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-27T15:31:47Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47370, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-21T19:15:14Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47371, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-21T19:41:04Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47372, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-22T11:03:59Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47372, "type": "review_comment", "body": "Why does this override cache-control?", "createdAt": "2023-03-22T11:03:58Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47372, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-22T11:13:22Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47372, "type": "review_comment", "body": "The url pathname is fixed, but og package so far gives a default long cache header for production. To avoid the changes being long cached i changed it to must-revalidate, like other dynamic routes", "createdAt": "2023-03-22T11:13:22Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47372, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-22T13:14:24Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47373, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-22T08:38:00Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47375, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-21T20:59:22Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47375, "type": "review", "body": "Should we set it to `false` instead of removing it?", "state": "COMMENTED", "createdAt": "2023-03-21T21:00:30Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47375, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-21T23:25:06Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47376, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-22T20:38:21Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47376, "type": "review_comment", "body": "Should this be the default with `output: 'export'` to avoid differences from `next export`?", "createdAt": "2023-03-22T20:38:20Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47376, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-22T20:49:42Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47376, "type": "review_comment", "body": "It is the default. I just wanted to demonstrate how to change it in the docs and it felt appropriate here.", "createdAt": "2023-03-22T20:49:42Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47376, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-22T20:50:53Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47376, "type": "review_comment", "body": "(see line `packages/next/src/build/index.ts:285` for the default)", "createdAt": "2023-03-22T20:50:52Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47376, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-22T20:53:29Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47376, "type": "review_comment", "body": "I think this might have been a bug before. \r\n\r\nPreviously, it only read `nextConfig` if it was passed in as an arg, but not the case when it read the file on line 181 above", "createdAt": "2023-03-22T20:53:28Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47376, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-22T22:30:52Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47376, "type": "review_comment", "body": "@ijjk Updated in [b5b9565](https://github.com/vercel/next.js/pull/47376/commits/b5b95659b508c52df632ce0cc0562f56ece6946d)", "createdAt": "2023-03-22T22:30:52Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47376, "type": "review", "body": "Docs LGTM", "state": "APPROVED", "createdAt": "2023-03-23T04:09:39Z", "author": "leerob"}
+{"repo": "vercel/next.js", "pr_number": 47376, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T14:39:22Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47378, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-21T21:56:20Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47378, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-21T21:59:09Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47378, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-21T21:59:38Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47378, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-21T22:05:36Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47379, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-22T01:36:13Z", "author": "kdy1"}
+{"repo": "vercel/next.js", "pr_number": 47379, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-22T11:04:08Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47381, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-22T01:27:35Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47383, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-22T08:11:02Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47383, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-22T08:33:51Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47388, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-22T12:30:27Z", "author": "alexkirsz"}
+{"repo": "vercel/next.js", "pr_number": 47388, "type": "review_comment", "body": "There should be a comment linking back to the implementation in Rust code (and vice-versa). Also, why isn't this in turbopack itself?", "createdAt": "2023-03-22T12:29:41Z", "author": "alexkirsz"}
+{"repo": "vercel/next.js", "pr_number": 47388, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-22T13:42:11Z", "author": "sokra"}
+{"repo": "vercel/next.js", "pr_number": 47388, "type": "review_comment", "body": "The error overlay will move back to turbopack, so it will be eventually there...", "createdAt": "2023-03-22T13:42:11Z", "author": "sokra"}
+{"repo": "vercel/next.js", "pr_number": 47388, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-23T09:19:57Z", "author": "alexkirsz"}
+{"repo": "vercel/next.js", "pr_number": 47388, "type": "review_comment", "body": "Add a comment that points to the Rust file (and do the reverse on the other PR).", "createdAt": "2023-03-23T09:16:37Z", "author": "alexkirsz"}
+{"repo": "vercel/next.js", "pr_number": 47388, "type": "review_comment", "body": "These could be constants.\r\n\r\n```suggestion\r\n      if (char == CHAR_MODE_UNDERSCORE) {\r\n```", "createdAt": "2023-03-23T09:17:22Z", "author": "alexkirsz"}
+{"repo": "vercel/next.js", "pr_number": 47388, "type": "review_comment", "body": "Do we have a corresponding issue for this? If so, link it here.", "createdAt": "2023-03-23T09:19:27Z", "author": "alexkirsz"}
+{"repo": "vercel/next.js", "pr_number": 47388, "type": "review_comment", "body": "Same comment here.", "createdAt": "2023-03-23T09:19:39Z", "author": "alexkirsz"}
+{"repo": "vercel/next.js", "pr_number": 47388, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T10:54:03Z", "author": "alexkirsz"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-22T13:29:53Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review_comment", "body": "```suggestion\r\n              )}'. Please report this Next.js issue https://github.com/vercel/next.js`\r\n```", "createdAt": "2023-03-22T13:29:52Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T08:36:21Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review_comment", "body": "do we ever clean this up? can we if not?", "createdAt": "2023-03-23T08:36:21Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T08:38:48Z", "author": "jankaifer"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review_comment", "body": "We don't. :+1: ", "createdAt": "2023-03-23T08:38:47Z", "author": "jankaifer"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-23T08:44:21Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T17:22:20Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review_comment", "body": "you can put that in a finally {} clause", "createdAt": "2023-03-24T17:22:19Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T17:22:46Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review_comment", "body": "what are the differences between Next and HTTP route?", "createdAt": "2023-03-24T17:22:46Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T17:24:28Z", "author": "jankaifer"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review_comment", "body": "it should be the same value.\r\n\r\nBut specs don't allow using `http.route` outside SERVER span.\r\nSo I use `next.route` there and it felt weird to not include it in the top span too.", "createdAt": "2023-03-24T17:24:27Z", "author": "jankaifer"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T17:25:03Z", "author": "jankaifer"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review_comment", "body": "Can't that will trigger for async branch too.\r\nThat was the issue before.", "createdAt": "2023-03-24T17:25:03Z", "author": "jankaifer"}
+{"repo": "vercel/next.js", "pr_number": 47392, "type": "review", "body": "lgtm", "state": "APPROVED", "createdAt": "2023-03-24T17:27:19Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47395, "type": "review", "body": "", "state": "CHANGES_REQUESTED", "createdAt": "2023-03-22T12:56:32Z", "author": "jankaifer"}
+{"repo": "vercel/next.js", "pr_number": 47395, "type": "review_comment", "body": "I think you want this?\r\n```suggestion\r\n      \"packages/**/*image*\",\r\n      \"packages/**/*image*/**\",\r\n```", "createdAt": "2023-03-22T12:56:27Z", "author": "jankaifer"}
+{"repo": "vercel/next.js", "pr_number": 47395, "type": "review", "body": ":wastebasket: ", "state": "APPROVED", "createdAt": "2023-03-22T13:38:41Z", "author": "jankaifer"}
+{"repo": "vercel/next.js", "pr_number": 47397, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T21:35:32Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47397, "type": "review_comment", "body": "```suggestion\r\ntitle: 'When to Use Static Generation vs Server-side Rendering'\r\n```", "createdAt": "2023-03-24T21:35:31Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47397, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T23:06:03Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47398, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-22T15:07:18Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47401, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-22T22:36:41Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47401, "type": "review", "body": "I think clippy will be angry with it", "state": "CHANGES_REQUESTED", "createdAt": "2023-03-23T01:36:02Z", "author": "kdy1"}
+{"repo": "vercel/next.js", "pr_number": 47401, "type": "review_comment", "body": "```suggestion\r\n    ids_from_closure: &[Name],\r\n```", "createdAt": "2023-03-23T01:35:27Z", "author": "kdy1"}
+{"repo": "vercel/next.js", "pr_number": 47401, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T12:07:20Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47401, "type": "review_comment", "body": "Got it fixed!", "createdAt": "2023-03-23T12:07:20Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47401, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T12:24:13Z", "author": "kdy1"}
+{"repo": "vercel/next.js", "pr_number": 47401, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T12:35:03Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47404, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-22T20:56:48Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47405, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-22T16:22:37Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47413, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-22T18:08:52Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47414, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-29T13:19:49Z", "author": "sokra"}
+{"repo": "vercel/next.js", "pr_number": 47415, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-27T02:51:07Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47416, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-22T19:21:37Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47418, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T14:52:15Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47420, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-22T21:01:44Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47420, "type": "review_comment", "body": "The link should be specific to Next.js on that host. Let's try this:\r\n\r\n```suggestion\r\n- [AWS Amplify](https://aws.amazon.com/blogs/mobile/amplify-next-js-13/)\r\n```\r\n", "createdAt": "2023-03-22T21:01:44Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47420, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T04:15:00Z", "author": "leerob"}
+{"repo": "vercel/next.js", "pr_number": 47425, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-22T23:48:44Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T01:36:11Z", "author": "ForsakenHarmony"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review_comment", "body": "Not sure if this is the right way to fix it, what's supposed to be included/excluded here?", "createdAt": "2023-03-23T01:36:10Z", "author": "ForsakenHarmony"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T17:48:18Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review_comment", "body": "Ideally this route doesn't need to be excluded as it ensures fallback rewrites work properly since they are only supposed to be called if no pages/outputs were matched", "createdAt": "2023-03-23T17:48:18Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review", "body": "Someone else will need to approve the `packages/next/src/server/lib/route-resolver.ts` changes", "state": "COMMENTED", "createdAt": "2023-03-28T17:10:47Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review_comment", "body": "Leftover debugging code?\r\n", "createdAt": "2023-03-28T17:04:49Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review_comment", "body": "Nit: Can we tailor these error messages to routing?", "createdAt": "2023-03-28T17:05:43Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review_comment", "body": "Nit: store the unwrapped result in a variable?", "createdAt": "2023-03-28T17:06:55Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review_comment", "body": "Shouldn't we return a `RouterResult::Error`?", "createdAt": "2023-03-28T17:07:57Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-30T18:17:30Z", "author": "ForsakenHarmony"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review_comment", "body": "indeed 🙃 \r\ngood catch", "createdAt": "2023-03-30T18:17:30Z", "author": "ForsakenHarmony"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-30T18:23:12Z", "author": "ForsakenHarmony"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review_comment", "body": "that's way better, yes", "createdAt": "2023-03-30T18:23:12Z", "author": "ForsakenHarmony"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-30T18:25:32Z", "author": "ForsakenHarmony"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review_comment", "body": "I've changed it to that, not sure which is more correct", "createdAt": "2023-03-30T18:25:32Z", "author": "ForsakenHarmony"}
+{"repo": "vercel/next.js", "pr_number": 47427, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-30T19:27:07Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47428, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T17:50:44Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47428, "type": "review_comment", "body": "This should be a `devDependency`", "createdAt": "2023-03-23T17:50:44Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47428, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T17:51:33Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47428, "type": "review_comment", "body": "```suggestion\r\n  await fs.outputJson(outputPathSrc, entireMetricsCollection, { spaces: 2 })\r\n  await fs.outputJson(outputPathDist, entireMetricsCollection, { spaces: 2 })\r\n```", "createdAt": "2023-03-23T17:51:33Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47428, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-27T03:27:13Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47429, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T04:54:14Z", "author": "wyattjoh"}
+{"repo": "vercel/next.js", "pr_number": 47429, "type": "review_comment", "body": "This is the relavent lines that perform the correct match in the case that the locale was inferred from the default.", "createdAt": "2023-03-23T04:54:13Z", "author": "wyattjoh"}
+{"repo": "vercel/next.js", "pr_number": 47429, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T04:55:11Z", "author": "wyattjoh"}
+{"repo": "vercel/next.js", "pr_number": 47429, "type": "review_comment", "body": "This is how the default was detected.", "createdAt": "2023-03-23T04:55:11Z", "author": "wyattjoh"}
+{"repo": "vercel/next.js", "pr_number": 47429, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T12:03:56Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47431, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-27T10:18:21Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47433, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T12:04:00Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47433, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T12:04:14Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47435, "type": "review", "body": "Please run `pnpm lint-fix` to fix https://github.com/vercel/next.js/actions/runs/4500199138/jobs/7919067224?pr=47435", "state": "CHANGES_REQUESTED", "createdAt": "2023-03-24T04:20:56Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47435, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T06:11:16Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47436, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T15:11:24Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47436, "type": "review_comment", "body": "probably should support metadata here", "createdAt": "2023-03-23T15:10:11Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47436, "type": "review_comment", "body": "this is temporary and we will discuss with Seb what should be the default behaviour", "createdAt": "2023-03-23T15:10:33Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47436, "type": "review_comment", "body": "I've disabled them for now because something was funky with jest when running the tests. I am not able to repro so I'll investigate later", "createdAt": "2023-03-23T15:11:17Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47436, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-23T15:12:39Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47436, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T15:59:11Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47438, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T12:00:01Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47439, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-23T13:54:17Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47439, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-23T15:09:06Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47439, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T15:35:24Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47439, "type": "review_comment", "body": "replaceAll is availble since node 16, we're still supprting node 14.x, shall we change to replace?", "createdAt": "2023-03-23T15:35:12Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47439, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T15:43:03Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47440, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T14:43:59Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47440, "type": "review_comment", "body": "Unintended?\r\n\r\n```suggestion\r\n    return `\r\n```", "createdAt": "2023-03-23T14:43:58Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47440, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T14:57:22Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47440, "type": "review_comment", "body": "Was intended to start the code in new line", "createdAt": "2023-03-23T14:57:22Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47440, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T15:28:59Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47441, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-27T07:34:00Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47442, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-23T14:40:24Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47442, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T15:21:36Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47442, "type": "review_comment", "body": "```suggestion\r\n            'API route returned a Response object in the Node.js runtime, this is not supported. Please use `runtime: \"edge\"` instead: https://nextjs.org/docs/api-routes/edge-api-routes'\r\n```\r\n\r\n`handler` is the name we use for `app` and does support `Response` 👍 ", "createdAt": "2023-03-23T15:21:35Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47442, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T15:30:53Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47446, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T16:21:24Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47446, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T16:35:38Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47451, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T18:41:13Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47451, "type": "review_comment", "body": "What other `.` folders should the whole team be requested on?", "createdAt": "2023-03-23T18:41:12Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47451, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T18:52:33Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 47451, "type": "review_comment", "body": "It's dotfiles, not the folders. :+1:", "createdAt": "2023-03-23T18:52:33Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 47451, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T18:53:33Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47451, "type": "review_comment", "body": "Is this matching only folders or does it match the dot files too?", "createdAt": "2023-03-23T18:53:33Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47451, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T19:03:18Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 47451, "type": "review_comment", "body": "Had to double-check:\r\n\r\nhttps://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#codeowners-syntax\r\n\r\nhttps://git-scm.com/docs/gitignore#_pattern_format\r\n\r\n> An asterisk \"*\" matches anything except a slash.\r\n\r\nSo as I understand, this only matches files (which was my intention in the PR)", "createdAt": "2023-03-23T19:03:18Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 47451, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T19:11:14Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47452, "type": "review", "body": "Using rendering is currently experimental while api routes are stable with edge enabled, so in this case `experimental-edge` is correct.", "state": "CHANGES_REQUESTED", "createdAt": "2023-03-23T18:38:03Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47452, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T18:40:50Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47452, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T18:49:49Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47452, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T18:53:15Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47452, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T18:54:07Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 47457, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T20:25:57Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47457, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T20:27:09Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47457, "type": "review_comment", "body": "Nit: long line. Rust formatted can't handle let-else for some reason.", "createdAt": "2023-03-24T20:25:08Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47457, "type": "review_comment", "body": "Did @wbinnssmith not land these changes yet?", "createdAt": "2023-03-24T20:26:25Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47457, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T20:41:47Z", "author": "sokra"}
+{"repo": "vercel/next.js", "pr_number": 47457, "type": "review_comment", "body": "nope", "createdAt": "2023-03-24T20:41:47Z", "author": "sokra"}
+{"repo": "vercel/next.js", "pr_number": 47457, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T20:42:12Z", "author": "sokra"}
+{"repo": "vercel/next.js", "pr_number": 47457, "type": "review_comment", "body": "I'll do that in a separate PR...", "createdAt": "2023-03-24T20:42:12Z", "author": "sokra"}
+{"repo": "vercel/next.js", "pr_number": 47458, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T22:09:20Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47458, "type": "review_comment", "body": "Should this use `await check()` instead so it can wait until its ready?", "createdAt": "2023-03-23T22:09:20Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47458, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-23T22:31:43Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47458, "type": "review_comment", "body": "I checked the source code of `hasRedbox()` and it already waits for 30 seconds\r\n\r\n(or rather, waits 1 second 30 times)\r\n\r\nhttps://github.com/vercel/next.js/blob/9791d1e60853b408c0eb1d19a43ee01614797db3/test/lib/next-test-utils.js#L676\r\n\r\nI think `check()` here is probably not necessary?", "createdAt": "2023-03-23T22:31:42Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47458, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-27T03:15:57Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47458, "type": "review_comment", "body": "Yeah check here would be redundant and just increasing the number of attempts.  ", "createdAt": "2023-03-27T03:15:57Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47458, "type": "review", "body": "I think this being flakey signals the error overlay showing for this case itself is flakey so we should ideally investigate why the error overlay wouldn't show randomly", "state": "COMMENTED", "createdAt": "2023-03-27T03:16:52Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47461, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-23T23:20:55Z", "author": "gaspar09"}
+{"repo": "vercel/next.js", "pr_number": 47463, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T02:05:56Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47463, "type": "review_comment", "body": "Is this whole loop just a [min_by_key](https://doc.rust-lang.org/stable/std/iter/trait.Iterator.html#method.min_by_key)?", "createdAt": "2023-03-24T02:03:40Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47463, "type": "review_comment", "body": "For file reads, we're actually guaranteed (currently) to have a single backing bytes buffer in the rope. We could optimize this by adding a new `to_bytes() -> Cow<'a, [u8]>` method to Rope that does the same thing as `to_str()`.", "createdAt": "2023-03-24T02:05:21Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47463, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-28T00:19:03Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47464, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T00:16:29Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47469, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-24T13:42:14Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 47469, "type": "review", "body": "Thanks!", "state": "DISMISSED", "createdAt": "2023-03-24T13:49:27Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47469, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T14:06:08Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47469, "type": "review_comment", "body": "You shouldn't need to return anything\r\n\r\n```suggestion\r\n\r\n```", "createdAt": "2023-03-24T14:06:07Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47469, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T14:09:35Z", "author": "heyitsuzair"}
+{"repo": "vercel/next.js", "pr_number": 47469, "type": "review_comment", "body": "Without return it was throwing an error \"destroy is not a function\".", "createdAt": "2023-03-24T14:09:35Z", "author": "heyitsuzair"}
+{"repo": "vercel/next.js", "pr_number": 47469, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T14:56:58Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47469, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T14:57:34Z", "author": "balazsorban44"}
+{"repo": "vercel/next.js", "pr_number": 47474, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2023-03-24T04:08:01Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47476, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-24T09:49:00Z", "author": "alexkirsz"}
+{"repo": "vercel/next.js", "pr_number": 47476, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-27T03:28:40Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47476, "type": "review_comment", "body": "Is something blocking https://github.com/vercel/turbo/pull/4329? Ideally we land that to a turbopack release before landing this here", "createdAt": "2023-03-27T03:28:40Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47476, "type": "review", "body": "Holding per https://github.com/vercel/next.js/pull/47476#discussion_r1148749197", "state": "DISMISSED", "createdAt": "2023-03-27T03:29:02Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47476, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-27T18:16:57Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47476, "type": "review_comment", "body": "The opposite, we're blocked by https://github.com/vercel/turbo/pull/4329 which implements the `Stream<T>` struct. We'll always land breaking changes first in Turbopack, then update the Next.js PR quickly to the a tagged release, and merge this.", "createdAt": "2023-03-27T18:16:57Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47476, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-30T05:53:51Z", "author": "sokra"}
+{"repo": "vercel/next.js", "pr_number": 47476, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-31T17:09:15Z", "author": "sokra"}
+{"repo": "vercel/next.js", "pr_number": 47476, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-31T17:47:50Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47478, "type": "review", "body": "Hi, I don't think we want to add an additional prompt for this specifically as we want to keep the number of prompts minimal. Thanks for the PR though!", "state": "CHANGES_REQUESTED", "createdAt": "2023-03-27T03:13:27Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47490, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T18:33:59Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47490, "type": "review_comment", "body": "```suggestion\r\n  export function useParams(): Record<string, string | string[]> | null\r\n```\r\n", "createdAt": "2023-03-24T18:33:59Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47490, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T18:35:33Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47490, "type": "review_comment", "body": "Would it be more ideal for incremental migration if we did provide the parameters using the page's router context e.g.\r\n```js\r\nconst routeRegex = getRouteRegex(router.pathname)\r\nconst params = {}\r\nfor (const key of Object.keys(routeRegex.groups)) {\r\n  params[key] = router.query[key]\r\n}\r\nreturn params\r\n```", "createdAt": "2023-03-24T18:35:33Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47490, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T19:13:51Z", "author": "MaxLeiter"}
+{"repo": "vercel/next.js", "pr_number": 47490, "type": "review_comment", "body": "I think so, but @timneutkens pointed out that it will include search params because the old router doesn't differentiate. But users can implement this themselves with `next/compat/router` if they need to. ", "createdAt": "2023-03-24T19:13:50Z", "author": "MaxLeiter"}
+{"repo": "vercel/next.js", "pr_number": 47490, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T19:17:02Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47490, "type": "review_comment", "body": "Yeah ideally it would but I don't want to bloat the `useParams` right now.", "createdAt": "2023-03-24T19:17:02Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47490, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-25T01:11:00Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47490, "type": "review_comment", "body": "The above would only include the dynamic route params from the query not all `searchParams`, it could even be dead-code eliminated if `pages` isn't present via define plugin", "createdAt": "2023-03-25T01:10:59Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47491, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T13:33:23Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47492, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T14:41:19Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47495, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-27T14:15:51Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47495, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-27T20:05:56Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47497, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T17:02:46Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47497, "type": "review_comment", "body": "<img width=\"459\" alt=\"image\" src=\"https://user-images.githubusercontent.com/229881/227592428-e7735f2a-8726-4cc7-8599-14b3c84d2ee0.png\">\r\n\r\nhttps://github.com/Microsoft/TypeScript/wiki/Coding-guidelines#names", "createdAt": "2023-03-24T17:02:45Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47497, "type": "review", "body": "<img width=\"459\" alt=\"image\" src=\"https://user-images.githubusercontent.com/229881/227592428-e7735f2a-8726-4cc7-8599-14b3c84d2ee0.png\">\r\n\r\nhttps://github.com/Microsoft/TypeScript/wiki/Coding-guidelines#names", "state": "CHANGES_REQUESTED", "createdAt": "2023-03-24T17:02:53Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47497, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-26T03:13:50Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47497, "type": "review_comment", "body": "Why was the space removed?", "createdAt": "2023-03-26T03:13:49Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47497, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-26T10:14:13Z", "author": "mod7ex"}
+{"repo": "vercel/next.js", "pr_number": 47497, "type": "review_comment", "body": "ah yes i'm sorry i just used VS code for the first time to contribute and ...))", "createdAt": "2023-03-26T10:14:13Z", "author": "mod7ex"}
+{"repo": "vercel/next.js", "pr_number": 47497, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-04-08T04:10:10Z", "author": "puneet2407"}
+{"repo": "vercel/next.js", "pr_number": 47499, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T15:01:24Z", "author": "cramforce"}
+{"repo": "vercel/next.js", "pr_number": 47499, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T15:01:27Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47500, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T15:10:09Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47500, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T15:54:35Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47502, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-24T16:08:11Z", "author": "ForsakenHarmony"}
+{"repo": "vercel/next.js", "pr_number": 47502, "type": "review_comment", "body": "this should work, right?", "createdAt": "2023-03-24T16:08:11Z", "author": "ForsakenHarmony"}
+{"repo": "vercel/next.js", "pr_number": 47502, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T16:12:47Z", "author": "jankaifer"}
+{"repo": "vercel/next.js", "pr_number": 47504, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-24T19:11:51Z", "author": "feedthejim"}
+{"repo": "vercel/next.js", "pr_number": 47504, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-24T19:36:57Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47505, "type": "review", "body": "Good catch, thanks!", "state": "APPROVED", "createdAt": "2023-03-24T19:47:03Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47507, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T23:51:46Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47507, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-25T00:43:48Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47508, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T20:03:19Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47508, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-25T01:16:26Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47508, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-27T02:18:51Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47509, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-25T01:15:09Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47509, "type": "review_comment", "body": "This is a public type so we shouldn't add internal fields here", "createdAt": "2023-03-25T01:15:08Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47511, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-24T21:48:53Z", "author": "gaspar09"}
+{"repo": "vercel/next.js", "pr_number": 47512, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-28T17:57:51Z", "author": "jridgewell"}
+{"repo": "vercel/next.js", "pr_number": 47512, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-29T16:03:50Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47512, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-29T22:07:10Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47518, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-03-25T17:58:57Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47518, "type": "review_comment", "body": "```suggestion\r\n```", "createdAt": "2023-03-25T17:58:57Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47518, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-25T17:59:10Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47526, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-05-17T20:06:53Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47526, "type": "review_comment", "body": "This seems redundant?", "createdAt": "2023-05-17T20:06:53Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47526, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-05-17T20:28:26Z", "author": "karlhorky"}
+{"repo": "vercel/next.js", "pr_number": 47526, "type": "review_comment", "body": "Yeah that's what I thought at first too, but `[INTERNALS]` is apparently important to allow for checking against the consequent executions of the `.json()` method, check out the line with the ❌ below (it should be an error but it is not)\r\n\r\n[TypeScript Playground](https://www.typescriptlang.org/play?#code/MYewdgzgLgBAkgOQCoFEBKCCCAZAyjAXhlwE8BbAIxABsAKAcgEswoBTAJzAENqZ3WIAB3ARW9AJQAoSawAew9rGDUuECDARyoaAcMisAPACEQAExKEYAVzABrMCADuYAHwwtrMKfU6hI1jAA3pIwMADaiKgYOLgAugBcQSGhMAD0qTAm5gD8iVkkADTJAL7SoaCQUOxWwFAg7LRUOXlmJHBgjLAAPjBgVtTUBTDMnYm+eqLtnZaBxeJJKTAQVoIcja1DI1BSyaFQABaMEBHI6Fh4sTOloaXJ0FxQjMAwAFYQ4AYAUu9g+S7r5kS33A+U2HSguRg438U22iU0sm0un8Xx+fwWKXSMAAAlAIABaOSrWqE9jseowJCHdRHXogWDMGDURgUVKmEBkPiMADm+1gDkcQy4XhgjgCwGF9FgXCs3LIngZUAAdLsYBVoHxkfoxlrRJZofolW9wADCsNwVJFvwoFZOL1WI4NFoDaJaPw-Iammb3RNWJaYKVbkT6rAAGY2WqMcAwADiKCQtHE8OdusMgS4FGAiQAjAAmADMxTcgTSGRjng4TxgXHY3Ks8pYMEEqlEpmSjFDMFoAFkHvslexheyyImYG4AAxKgCs8xLquttrATsRLtYRp+tHTmZzBbmpZggFByOnuMn1RJetX1fi1ErJBd2hFIj2idcmwKmVihxL0WS-+h7rFABlyY8OHJdhz1YCUrD1EBOzII4IGYblwkiM4YliJUvUkIN5BDGBwzASNozjJBc0TZMV1TIJ9wQEAYG5Ct2CrGs6wbWBoNYNtQg7LtewOAchw5UcJ2nWcYHnVgbQfFNnzXY0wE3DMsxgPNC3mLEjwcE8wMSYULAvLhgGAVhBDYLiAzvSTF2XJ9fVfBT30-b9f1kf91IyTS6NAs9qzAfTWmrIyTLM7DJCAA)\r\n\r\n![Screenshot 2023-05-17 at 22 27 05](https://github.com/vercel/next.js/assets/1935696/bec5e993-ad3f-40c1-8bf6-98cb3890d8a7)\r\n", "createdAt": "2023-05-17T20:28:25Z", "author": "karlhorky"}
+{"repo": "vercel/next.js", "pr_number": 47526, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-05-18T12:43:43Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47526, "type": "review_comment", "body": "Should that be `body?: Body` then (lowercased)? ", "createdAt": "2023-05-18T12:43:42Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47526, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-05-18T15:47:25Z", "author": "karlhorky"}
+{"repo": "vercel/next.js", "pr_number": 47526, "type": "review_comment", "body": "I'm ok with making this change, seems to be consistent with the other types in `[INTERNALS]`\r\n\r\nstill works:\r\n\r\n[TypeScript Playground](https://www.typescriptlang.org/play?#code/MYewdgzgLgBAkgOQCoFEBKCCCAZAyjAXhlwE8BbAIxABsAKAcgEswoBTAJzAENqZ3WIAB3ARW9AJQAoSawAew9rGDUuECDARyoaAcMisAPACEQAExKEYAVzABrMCADuYAHwwtrMKfU6hI1jAA3pIwMADaiKgYOLgAugBcQSGhMFTmAPyJJuYANMkAvtKhoJBQ7FbAUCDstGkkmTDZJHBgjLAAPjBgVtTUOTDMbYm+eqItbZaB+eJJKTAQVoIctWYk-YNQUsmhUAAWjBARyOhYeLGThaGFydBcUIzAMABWEOAGAFKvYE0uK+aJn3ATXWrSgDRG-nGm0Smlk2l0-g+Xx+sxSAHo0TAAAJQCAAWjkS0qBPY7GqMCQ+3UBy6IFgzBg1EYFDRphAZD4jAA5rtYA5HP0uF4YI4AsAhfRYFwrFyyJ56VAAHTbGAlaB8BH6Yaa0SWCH6RUvcB-NYDUFSOb8KBWThdViODRafWiWj8PwGur9N2jVgWmCFa6E6qwABmNkqjHAMAA4igkLRxDCnTrDIEuBRgIkAIwAJgAzPk3IEYBiY54OA8YFx2FyrHKWDBBKpRKZkowQzBaABZO67RXsIVssgJmBuAAMioArDNiyqrTawI64c7WIavrQ0xns-npiXMYBQclp7lJ1USdVV1X4lQKyXntth8PdojXxsCplYIcS9FkP-ou9Lh4cGS7BnqsZqgKSrDXoG8jBjAYZgBGUaxkgOYJkmy4pkEe4aCAMBcuW7CVtWtb1rAVgtm2Hbdr2-aDuyI7jlOM4wHOrDWveyZPquRpgBu6aZjAuYFjMAFHkBp5VmAFjnlwwDAKwghsK2Vy3uxC5Lo+Povnxb4fl+P6yH+okHuJJ4gVJMlgXJClKawraFEAA)\r\n\r\n![Screenshot 2023-05-18 at 17 48 31](https://github.com/vercel/next.js/assets/1935696/8b882798-b0f3-4e6e-b53f-d5e71d2e8d1e)\r\n\r\n", "createdAt": "2023-05-18T15:47:25Z", "author": "karlhorky"}
+{"repo": "vercel/next.js", "pr_number": 47526, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-05-18T15:48:20Z", "author": "karlhorky"}
+{"repo": "vercel/next.js", "pr_number": 47526, "type": "review_comment", "body": "Done in 3f59852a7476fa1c2647145b68109976dbc30853", "createdAt": "2023-05-18T15:48:20Z", "author": "karlhorky"}
+{"repo": "vercel/next.js", "pr_number": 47526, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2023-05-19T15:32:18Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47528, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-25T16:40:53Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47529, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-25T17:58:25Z", "author": "styfle"}
+{"repo": "vercel/next.js", "pr_number": 47529, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-25T18:01:42Z", "author": "huozhi"}
+{"repo": "vercel/next.js", "pr_number": 47531, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-27T02:51:54Z", "author": "ijjk"}
+{"repo": "vercel/next.js", "pr_number": 47532, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-25T19:30:32Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47532, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-26T01:56:03Z", "author": "kdy1"}
+{"repo": "vercel/next.js", "pr_number": 47534, "type": "review", "body": "Could it be fixed by still using relative paths? Not a big deal but absolute paths might not be working if you move the entire project to a different place.", "state": "COMMENTED", "createdAt": "2023-03-26T10:51:28Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47534, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-04-03T21:43:10Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47534, "type": "review_comment", "body": "It's very strange that this happens, do you have a reproduction for this?", "createdAt": "2023-04-03T21:43:10Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47534, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-04-03T21:58:13Z", "author": "ianldgs"}
+{"repo": "vercel/next.js", "pr_number": 47534, "type": "review_comment", "body": "I can create one if you want.\n\nBut that is because enabling `appDir: true` magically allows to `import { cache, use } from 'react'}`, even from pages directory.\n\nMight not be the intended use, but feels better to add a `app/.gitkeep` than a dummy page.", "createdAt": "2023-04-03T21:58:13Z", "author": "ianldgs"}
+{"repo": "vercel/next.js", "pr_number": 47534, "type": "review", "body": "", "state": "COMMENTED", "createdAt": "2023-04-03T22:34:02Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47534, "type": "review_comment", "body": "> But that is because enabling appDir: true magically allows to import { cache, use } from 'react'\r\n\r\nAh interesting! That sounds like a bug and might be fixed soon, enabling `app` shouldn't affect pages dir at all. I think we should remove this check in this PR then.", "createdAt": "2023-04-03T22:34:01Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47534, "type": "review", "body": "Thanks!", "state": "APPROVED", "createdAt": "2023-04-03T22:50:59Z", "author": "shuding"}
+{"repo": "vercel/next.js", "pr_number": 47557, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-27T06:21:40Z", "author": "kdy1"}
+{"repo": "vercel/next.js", "pr_number": 47557, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-27T07:32:57Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47559, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-27T14:09:32Z", "author": "alexkirsz"}
+{"repo": "vercel/next.js", "pr_number": 47559, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-03-27T14:09:51Z", "author": "kdy1"}
+{"repo": "vercel/next.js", "pr_number": 47565, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-03-28T00:29:33Z", "author": "wyattjoh"}
+{"repo": "vercel/next.js", "pr_number": 47565, "type": "review_comment", "body": "```suggestion\r\n// Match any path segment that starts with /(..), /(…) or /(..)(..)\r\nconst INTERCEPTION_ROUTE_PATTERN = /\\/(\\(\\.\\.\\)|\\(\\.\\.\\.\\)|\\(\\.\\.\\)\\(\\.\\.\\))/;\r\n\r\nexport function isIntersectionRouteAppPath(path: string): boolean {\r\n  return INTERCEPTION_ROUTE_PATTERN.test(path);\r\n}\r\n```", "createdAt": "2023-03-27T22:49:05Z", "author": "wyattjoh"}
+{"repo": "vercel/next.js", "pr_number": 47565, "type": "review_comment", "body": "```suggestion\r\n    marker = INTERCEPTION_ROUTE_MARKERS.find((m) => segment.startsWith(m))\r\n    if (marker) {\r\n      ;[interceptingRoute, interceptedRoute] = path.split(marker, 2)\r\n```", "createdAt": "2023-03-27T22:51:33Z", "author": "wyattjoh"}
+{"repo": "vercel/next.js", "pr_number": 47565, "type": "review_comment", "body": "Should add some comments here explaining what's exactly going on. This is what I infered from the code and the RFC:\r\n\r\n```suggestion\r\n  if (marker === '(..)') {\r\n    // (..) indicates that we should remove the last segment of the intercepting\r\n    // route to prepend the intercepted route.\r\n    interceptedRoute =\r\n      interceptingRoute.split('/').slice(0, -1).join('/') +\r\n      '/' +\r\n      interceptedRoute\r\n  }\r\n\r\n  if (marker === '(...)') {\r\n    // (...) will match the route segment in the root directory, so we need to\r\n    // use the root directory to prepend the intercepted route.\r\n    interceptedRoute = '/' + interceptedRoute\r\n  }\r\n\r\n  if (marker === '(..)(..)') {\r\n    // (..)(..) indicates that we should remove the last two segments of the\r\n    // intercepting route to prepend the intercepted route.\r\n    interceptedRoute =\r\n      interceptingRoute.split('/').slice(0, -2).join('/') +\r\n      '/' +\r\n      interceptedRoute\r\n  }\r\n```", "createdAt": "2023-03-27T23:07:46Z", "author": "wyattjoh"}
+{"repo": "vercel/next.js", "pr_number": 47565, "type": "review_comment", "body": " This halfs the amount of comparisons.", "createdAt": "2023-03-27T23:08:09Z", "author": "wyattjoh"}
+{"repo": "vercel/next.js", "pr_number": 47565, "type": "review", "body": "", "state": "DISMISSED", "createdAt": "2023-04-03T12:53:29Z", "author": "timneutkens"}
+{"repo": "vercel/next.js", "pr_number": 47565, "type": "review", "body": "", "state": "APPROVED", "createdAt": "2023-04-04T11:58:47Z", "author": "timneutkens"}
