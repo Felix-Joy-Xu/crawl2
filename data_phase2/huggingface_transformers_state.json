@@ -43888,11 +43888,12 @@
     46984
   ],
   "pr_idx": 26492,
-  "issue_idx": 15840,
+  "issue_idx": 17391,
   "disc_idx": 0,
   "failed_pr": [],
   "failed_issue": [
     9950
   ],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
