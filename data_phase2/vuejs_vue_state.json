@@ -2311,10 +2311,11 @@
     13362,
     13363
   ],
-  "pr_idx": 500,
-  "issue_idx": 0,
+  "pr_idx": 955,
+  "issue_idx": 1352,
   "disc_idx": 0,
   "failed_pr": [],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
