@@ -81297,9 +81297,16 @@
     95305
   ],
   "pr_idx": 33529,
-  "issue_idx": 1530,
-  "disc_idx": 0,
+  "issue_idx": 19410,
+  "disc_idx": 14830,
   "failed_pr": [],
-  "failed_issue": [],
-  "failed_disc": []
+  "failed_issue": [
+    29410,
+    54133,
+    91766
+  ],
+  "failed_disc": [
+    22199,
+    36982
+  ]
 }

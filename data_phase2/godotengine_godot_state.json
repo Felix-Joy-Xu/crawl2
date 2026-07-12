@@ -85773,10 +85773,16 @@
     120797,
     120798
   ],
-  "pr_idx": 36960,
-  "issue_idx": 0,
+  "pr_idx": 43661,
+  "issue_idx": 19220,
   "disc_idx": 0,
-  "failed_pr": [],
-  "failed_issue": [],
+  "failed_pr": [
+    111424,
+    116424
+  ],
+  "failed_issue": [
+    35623,
+    50279
+  ],
   "failed_disc": []
 }
