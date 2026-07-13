@@ -90348,7 +90348,7 @@
     158631
   ],
   "pr_idx": 59925,
-  "issue_idx": 28180,
+  "issue_idx": 30418,
   "disc_idx": 0,
   "failed_pr": [
     106489,
@@ -90357,5 +90357,6 @@
     115768
   ],
   "failed_issue": [],
-  "failed_disc": []
+  "failed_disc": [],
+  "is_complete": true
 }
